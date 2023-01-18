@@ -1,250 +1,250 @@
-X;CountryCode;RegionCode
-Afghanistan;AFG;NEUR
-Aland Islands;ALA;NEUR
-Albania;ALB;NEUR
-Algeria;DZA;NEUR
-American Samoa;ASM;NEUR
-Andorra;AND;NEUR
-Angola;AGO;NEUR
-Anguilla;AIA;NEUR
-Antarctica;ATA;NEUR
-Antigua and Barbuda;ATG;NEUR
-Argentina;ARG;NEUR
-Armenia;ARM;NEUR
-Aruba;ABW;NEUR
-Australia;AUS;NEUR
-Austria;AUT;AUT
-Azerbaijan;AZE;NEUR
-Bahamas;BHS;NEUR
-Bahrain;BHR;NEUR
-Bangladesh;BGD;NEUR
-Barbados;BRB;NEUR
-Belarus;BLR;NEUR
-Belgium;BEL;BEL
-Belize;BLZ;NEUR
-Benin;BEN;NEUR
-Bermuda;BMU;NEUR
-Bhutan;BTN;NEUR
-"Bolivia; Plurinational State of";BOL;NEUR
-"Bonaire; Sint Eustatius and Saba";BES;NEUR
-Bosnia and Herzegovina;BIH;NEUR
-Botswana;BWA;NEUR
-Bouvet Island;BVT;NEUR
-Brazil;BRA;NEUR
-British Indian Ocean Territory;IOT;NEUR
-Brunei Darussalam;BRN;NEUR
-Bulgaria;BGR;BGR
-Burkina Faso;BFA;NEUR
-Burundi;BDI;NEUR
-Cambodia;KHM;NEUR
-Cameroon;CMR;NEUR
-Canada;CAN;NEUR
-Cape Verde;CPV;NEUR
-Cayman Islands;CYM;NEUR
-Central African Republic;CAF;NEUR
-Chad;TCD;NEUR
-Chile;CHL;NEUR
-China;CHN;NEUR
-Christmas Island;CXR;NEUR
-Cocos (Keeling) Islands;CCK;NEUR
-Colombia;COL;NEUR
-Comoros;COM;NEUR
-Congo;COG;NEUR
-"Congo; the Democratic Republic of the";COD;NEUR
-Cook Islands;COK;NEUR
-Costa Rica;CRI;NEUR
-Cote d Ivoire;CIV;NEUR
-Croatia;HRV;HRV
-Cuba;CUB;NEUR
-Curacao;CUW;NEUR
-Cyprus;CYP;CYP
-Czech Republic;CZE;CZE
-Denmark;DNK;DNK
-Djibouti;DJI;NEUR
-Dominica;DMA;NEUR
-Dominican Republic;DOM;NEUR
-Ecuador;ECU;NEUR
-Egypt;EGY;NEUR
-El Salvador;SLV;NEUR
-Equatorial Guinea;GNQ;NEUR
-Eritrea;ERI;NEUR
-Estonia;EST;EST
-Ethiopia;ETH;NEUR
-Falkland Islands (Malvinas);FLK;NEUR
-Faroe Islands;FRO;NEUR
-Fiji;FJI;NEUR
-Finland;FIN;FIN
-France;FRA;FRA
-French Guiana;GUF;NEUR
-French Polynesia;PYF;NEUR
-French Southern Territories;ATF;NEUR
-Gabon;GAB;NEUR
-Gambia;GMB;NEUR
-Georgia;GEO;NEUR
-Germany;DEU;DEU
-Ghana;GHA;NEUR
-Gibraltar;GIB;NEUR
-Greece;GRC;GRC
-Greenland;GRL;NEUR
-Grenada;GRD;NEUR
-Guadeloupe;GLP;NEUR
-Guam;GUM;NEUR
-Guatemala;GTM;NEUR
-Guernsey;GGY;NEUR
-Guinea;GIN;NEUR
-Guinea-Bissau;GNB;NEUR
-Guyana;GUY;NEUR
-Haiti;HTI;NEUR
-Heard Island and McDonald Islands;HMD;NEUR
-Holy See (Vatican City State);VAT;NEUR
-Honduras;HND;NEUR
-Hong Kong;HKG;NEUR
-Hungary;HUN;HUN
-Iceland;ISL;NEUR
-India;IND;NEUR
-Indonesia;IDN;NEUR
-"Iran; Islamic Republic of";IRN;NEUR
-Iraq;IRQ;NEUR
-Ireland;IRL;IRL
-Isle of Man;IMN;NEUR
-Israel;ISR;NEUR
-Italy;ITA;ITA
-Jamaica;JAM;NEUR
-Japan;JPN;NEUR
-Jersey;JEY;NEUR
-Jordan;JOR;NEUR
-Kazakhstan;KAZ;NEUR
-Kenya;KEN;NEUR
-Kiribati;KIR;NEUR
-"Korea; Democratic People's Republic of";PRK;NEUR
-"Korea; Republic of";KOR;NEUR
-Kuwait;KWT;NEUR
-Kyrgyzstan;KGZ;NEUR
-Lao People's Democratic Republic;LAO;NEUR
-Latvia;LVA;LVA
-Lebanon;LBN;NEUR
-Lesotho;LSO;NEUR
-Liberia;LBR;NEUR
-Libya;LBY;NEUR
-Liechtenstein;LIE;NEUR
-Lithuania;LTU;LTU
-Luxembourg;LUX;LUX
-Macao;MAC;NEUR
-"Macedonia; the former Yugoslav Republic of";MKD;NEUR
-Madagascar;MDG;NEUR
-Malawi;MWI;NEUR
-Malaysia;MYS;NEUR
-Maldives;MDV;NEUR
-Mali;MLI;NEUR
-Malta;MLT;MLT
-Marshall Islands;MHL;NEUR
-Martinique;MTQ;NEUR
-Mauritania;MRT;NEUR
-Mauritius;MUS;NEUR
-Mayotte;MYT;NEUR
-Mexico;MEX;NEUR
-"Micronesia; Federated States of";FSM;NEUR
-"Moldova; Republic of";MDA;NEUR
-Monaco;MCO;NEUR
-Mongolia;MNG;NEUR
-Montenegro;MNE;NEUR
-Montserrat;MSR;NEUR
-Morocco;MAR;NEUR
-Mozambique;MOZ;NEUR
-Myanmar;MMR;NEUR
-Namibia;NAM;NEUR
-Nauru;NRU;NEUR
-Nepal;NPL;NEUR
-Netherlands;NLD;NLD
-New Caledonia;NCL;NEUR
-New Zealand;NZL;NEUR
-Nicaragua;NIC;NEUR
-Niger;NER;NEUR
-Nigeria;NGA;NEUR
-Niue;NIU;NEUR
-Norfolk Island;NFK;NEUR
-Northern Mariana Islands;MNP;NEUR
-Norway;NOR;NEUR
-Oman;OMN;NEUR
-Pakistan;PAK;NEUR
-Palau;PLW;NEUR
-"Palestine; State of";PSE;NEUR
-Panama;PAN;NEUR
-Papua New Guinea;PNG;NEUR
-Paraguay;PRY;NEUR
-Peru;PER;NEUR
-Philippines;PHL;NEUR
-Pitcairn;PCN;NEUR
-Poland;POL;POL
-Portugal;PRT;PRT
-Puerto Rico;PRI;NEUR
-Qatar;QAT;NEUR
-Reunion;REU;NEUR
-Romania;ROU;ROU
-Russian Federation;RUS;NEUR
-Rwanda;RWA;NEUR
-Saint Barthelemy;BLM;NEUR
-"Saint Helena; Ascension and Tristan da Cunha";SHN;NEUR
-Saint Kitts and Nevis;KNA;NEUR
-Saint Lucia;LCA;NEUR
-Saint Martin (French part);MAF;NEUR
-Saint Pierre and Miquelon;SPM;NEUR
-Saint Vincent and the Grenadines;VCT;NEUR
-Samoa;WSM;NEUR
-San Marino;SMR;NEUR
-Sao Tome and Principe;STP;NEUR
-Saudi Arabia;SAU;NEUR
-Senegal;SEN;NEUR
-Serbia;SRB;NEUR
-Seychelles;SYC;NEUR
-Sierra Leone;SLE;NEUR
-Singapore;SGP;NEUR
-Sint Maarten (Dutch part);SXM;NEUR
-Slovakia;SVK;SVK
-Slovenia;SVN;SVN
-Solomon Islands;SLB;NEUR
-Somalia;SOM;NEUR
-South Africa;ZAF;NEUR
-South Georgia and the South Sandwich Islands;SGS;NEUR
-South Sudan;SSD;NEUR
-Spain;ESP;ESP
-Sri Lanka;LKA;NEUR
-Sudan;SDN;NEUR
-Suriname;SUR;NEUR
-Svalbard and Jan Mayen;SJM;NEUR
-Swaziland;SWZ;NEUR
-Sweden;SWE;SWE
-Switzerland;CHE;NEUR
-Syrian Arab Republic;SYR;NEUR
-"Taiwan; Province of China";TWN;NEUR
-Tajikistan;TJK;NEUR
-"Tanzania; United Republic of";TZA;NEUR
-Thailand;THA;NEUR
-Timor-Leste;TLS;NEUR
-Togo;TGO;NEUR
-Tokelau;TKL;NEUR
-Tonga;TON;NEUR
-Trinidad and Tobago;TTO;NEUR
-Tunisia;TUN;NEUR
-Turkey;TUR;NEUR
-Turkmenistan;TKM;NEUR
-Turks and Caicos Islands;TCA;NEUR
-Tuvalu;TUV;NEUR
-Uganda;UGA;NEUR
-Ukraine;UKR;NEUR
-United Arab Emirates;ARE;NEUR
-United Kingdom;GBR;GBR
-United States;USA;NEUR
-United States Minor Outlying Islands;UMI;NEUR
-Uruguay;URY;NEUR
-Uzbekistan;UZB;NEUR
-Vanuatu;VUT;NEUR
-"Venezuela; Bolivarian Republic of";VEN;NEUR
-Viet Nam;VNM;NEUR
-"Virgin Islands; British";VGB;NEUR
-"Virgin Islands; U.S.";VIR;NEUR
-Wallis and Futuna;WLF;NEUR
-Western Sahara;ESH;NEUR
-Yemen;YEM;NEUR
-Zambia;ZMB;NEUR
+X;CountryCode;RegionCode
+Afghanistan;AFG;NEUR
+Aland Islands;ALA;NEUR
+Albania;ALB;NEUR
+Algeria;DZA;NEUR
+American Samoa;ASM;NEUR
+Andorra;AND;NEUR
+Angola;AGO;NEUR
+Anguilla;AIA;NEUR
+Antarctica;ATA;NEUR
+Antigua and Barbuda;ATG;NEUR
+Argentina;ARG;NEUR
+Armenia;ARM;NEUR
+Aruba;ABW;NEUR
+Australia;AUS;NEUR
+Austria;AUT;AUT
+Azerbaijan;AZE;NEUR
+Bahamas;BHS;NEUR
+Bahrain;BHR;NEUR
+Bangladesh;BGD;NEUR
+Barbados;BRB;NEUR
+Belarus;BLR;NEUR
+Belgium;BEL;BEL
+Belize;BLZ;NEUR
+Benin;BEN;NEUR
+Bermuda;BMU;NEUR
+Bhutan;BTN;NEUR
+"Bolivia; Plurinational State of";BOL;NEUR
+"Bonaire; Sint Eustatius and Saba";BES;NEUR
+Bosnia and Herzegovina;BIH;NEUR
+Botswana;BWA;NEUR
+Bouvet Island;BVT;NEUR
+Brazil;BRA;NEUR
+British Indian Ocean Territory;IOT;NEUR
+Brunei Darussalam;BRN;NEUR
+Bulgaria;BGR;BGR
+Burkina Faso;BFA;NEUR
+Burundi;BDI;NEUR
+Cambodia;KHM;NEUR
+Cameroon;CMR;NEUR
+Canada;CAN;NEUR
+Cape Verde;CPV;NEUR
+Cayman Islands;CYM;NEUR
+Central African Republic;CAF;NEUR
+Chad;TCD;NEUR
+Chile;CHL;NEUR
+China;CHN;NEUR
+Christmas Island;CXR;NEUR
+Cocos (Keeling) Islands;CCK;NEUR
+Colombia;COL;NEUR
+Comoros;COM;NEUR
+Congo;COG;NEUR
+"Congo; the Democratic Republic of the";COD;NEUR
+Cook Islands;COK;NEUR
+Costa Rica;CRI;NEUR
+Cote d Ivoire;CIV;NEUR
+Croatia;HRV;HRV
+Cuba;CUB;NEUR
+Curacao;CUW;NEUR
+Cyprus;CYP;CYP
+Czech Republic;CZE;CZE
+Denmark;DNK;DNK
+Djibouti;DJI;NEUR
+Dominica;DMA;NEUR
+Dominican Republic;DOM;NEUR
+Ecuador;ECU;NEUR
+Egypt;EGY;NEUR
+El Salvador;SLV;NEUR
+Equatorial Guinea;GNQ;NEUR
+Eritrea;ERI;NEUR
+Estonia;EST;EST
+Ethiopia;ETH;NEUR
+Falkland Islands (Malvinas);FLK;NEUR
+Faroe Islands;FRO;NEUR
+Fiji;FJI;NEUR
+Finland;FIN;FIN
+France;FRA;FRA
+French Guiana;GUF;NEUR
+French Polynesia;PYF;NEUR
+French Southern Territories;ATF;NEUR
+Gabon;GAB;NEUR
+Gambia;GMB;NEUR
+Georgia;GEO;NEUR
+Germany;DEU;DEU
+Ghana;GHA;NEUR
+Gibraltar;GIB;NEUR
+Greece;GRC;GRC
+Greenland;GRL;NEUR
+Grenada;GRD;NEUR
+Guadeloupe;GLP;NEUR
+Guam;GUM;NEUR
+Guatemala;GTM;NEUR
+Guernsey;GGY;NEUR
+Guinea;GIN;NEUR
+Guinea-Bissau;GNB;NEUR
+Guyana;GUY;NEUR
+Haiti;HTI;NEUR
+Heard Island and McDonald Islands;HMD;NEUR
+Holy See (Vatican City State);VAT;NEUR
+Honduras;HND;NEUR
+Hong Kong;HKG;NEUR
+Hungary;HUN;HUN
+Iceland;ISL;NEUR
+India;IND;NEUR
+Indonesia;IDN;NEUR
+"Iran; Islamic Republic of";IRN;NEUR
+Iraq;IRQ;NEUR
+Ireland;IRL;IRL
+Isle of Man;IMN;NEUR
+Israel;ISR;NEUR
+Italy;ITA;ITA
+Jamaica;JAM;NEUR
+Japan;JPN;NEUR
+Jersey;JEY;NEUR
+Jordan;JOR;NEUR
+Kazakhstan;KAZ;NEUR
+Kenya;KEN;NEUR
+Kiribati;KIR;NEUR
+"Korea; Democratic People's Republic of";PRK;NEUR
+"Korea; Republic of";KOR;NEUR
+Kuwait;KWT;NEUR
+Kyrgyzstan;KGZ;NEUR
+Lao People's Democratic Republic;LAO;NEUR
+Latvia;LVA;LVA
+Lebanon;LBN;NEUR
+Lesotho;LSO;NEUR
+Liberia;LBR;NEUR
+Libya;LBY;NEUR
+Liechtenstein;LIE;NEUR
+Lithuania;LTU;LTU
+Luxembourg;LUX;LUX
+Macao;MAC;NEUR
+"Macedonia; the former Yugoslav Republic of";MKD;NEUR
+Madagascar;MDG;NEUR
+Malawi;MWI;NEUR
+Malaysia;MYS;NEUR
+Maldives;MDV;NEUR
+Mali;MLI;NEUR
+Malta;MLT;MLT
+Marshall Islands;MHL;NEUR
+Martinique;MTQ;NEUR
+Mauritania;MRT;NEUR
+Mauritius;MUS;NEUR
+Mayotte;MYT;NEUR
+Mexico;MEX;NEUR
+"Micronesia; Federated States of";FSM;NEUR
+"Moldova; Republic of";MDA;NEUR
+Monaco;MCO;NEUR
+Mongolia;MNG;NEUR
+Montenegro;MNE;NEUR
+Montserrat;MSR;NEUR
+Morocco;MAR;NEUR
+Mozambique;MOZ;NEUR
+Myanmar;MMR;NEUR
+Namibia;NAM;NEUR
+Nauru;NRU;NEUR
+Nepal;NPL;NEUR
+Netherlands;NLD;NLD
+New Caledonia;NCL;NEUR
+New Zealand;NZL;NEUR
+Nicaragua;NIC;NEUR
+Niger;NER;NEUR
+Nigeria;NGA;NEUR
+Niue;NIU;NEUR
+Norfolk Island;NFK;NEUR
+Northern Mariana Islands;MNP;NEUR
+Norway;NOR;NEUR
+Oman;OMN;NEUR
+Pakistan;PAK;NEUR
+Palau;PLW;NEUR
+"Palestine; State of";PSE;NEUR
+Panama;PAN;NEUR
+Papua New Guinea;PNG;NEUR
+Paraguay;PRY;NEUR
+Peru;PER;NEUR
+Philippines;PHL;NEUR
+Pitcairn;PCN;NEUR
+Poland;POL;POL
+Portugal;PRT;PRT
+Puerto Rico;PRI;NEUR
+Qatar;QAT;NEUR
+Reunion;REU;NEUR
+Romania;ROU;ROU
+Russian Federation;RUS;NEUR
+Rwanda;RWA;NEUR
+Saint Barthelemy;BLM;NEUR
+"Saint Helena; Ascension and Tristan da Cunha";SHN;NEUR
+Saint Kitts and Nevis;KNA;NEUR
+Saint Lucia;LCA;NEUR
+Saint Martin (French part);MAF;NEUR
+Saint Pierre and Miquelon;SPM;NEUR
+Saint Vincent and the Grenadines;VCT;NEUR
+Samoa;WSM;NEUR
+San Marino;SMR;NEUR
+Sao Tome and Principe;STP;NEUR
+Saudi Arabia;SAU;NEUR
+Senegal;SEN;NEUR
+Serbia;SRB;NEUR
+Seychelles;SYC;NEUR
+Sierra Leone;SLE;NEUR
+Singapore;SGP;NEUR
+Sint Maarten (Dutch part);SXM;NEUR
+Slovakia;SVK;SVK
+Slovenia;SVN;SVN
+Solomon Islands;SLB;NEUR
+Somalia;SOM;NEUR
+South Africa;ZAF;NEUR
+South Georgia and the South Sandwich Islands;SGS;NEUR
+South Sudan;SSD;NEUR
+Spain;ESP;ESP
+Sri Lanka;LKA;NEUR
+Sudan;SDN;NEUR
+Suriname;SUR;NEUR
+Svalbard and Jan Mayen;SJM;NEUR
+Swaziland;SWZ;NEUR
+Sweden;SWE;SWE
+Switzerland;CHE;NEUR
+Syrian Arab Republic;SYR;NEUR
+"Taiwan; Province of China";TWN;NEUR
+Tajikistan;TJK;NEUR
+"Tanzania; United Republic of";TZA;NEUR
+Thailand;THA;NEUR
+Timor-Leste;TLS;NEUR
+Togo;TGO;NEUR
+Tokelau;TKL;NEUR
+Tonga;TON;NEUR
+Trinidad and Tobago;TTO;NEUR
+Tunisia;TUN;NEUR
+Turkey;TUR;NEUR
+Turkmenistan;TKM;NEUR
+Turks and Caicos Islands;TCA;NEUR
+Tuvalu;TUV;NEUR
+Uganda;UGA;NEUR
+Ukraine;UKR;NEUR
+United Arab Emirates;ARE;NEUR
+United Kingdom;GBR;GBR
+United States;USA;NEUR
+United States Minor Outlying Islands;UMI;NEUR
+Uruguay;URY;NEUR
+Uzbekistan;UZB;NEUR
+Vanuatu;VUT;NEUR
+"Venezuela; Bolivarian Republic of";VEN;NEUR
+Viet Nam;VNM;NEUR
+"Virgin Islands; British";VGB;NEUR
+"Virgin Islands; U.S.";VIR;NEUR
+Wallis and Futuna;WLF;NEUR
+Western Sahara;ESH;NEUR
+Yemen;YEM;NEUR
+Zambia;ZMB;NEUR
 Zimbabwe;ZWE;NEUR

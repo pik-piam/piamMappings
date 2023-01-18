@@ -159,52 +159,52 @@ transport,AND,Transport Equipment
 transport,AND,Wholesale Trade
 water,AND,"Electricity, Gas and Water"
 wood processing,AND,Wood and Paper
-chemicals,ANT,Manufacture of chemical products 
-agriculture,ANT,Agriculture and fishery products 
-food processing,ANT,Beverages 
-food processing,ANT,Food Products 
-fuel,ANT,Manufacture of coke and refined petroleum products 
+chemicals,ANT,Manufacture of chemical products
+agriculture,ANT,Agriculture and fishery products
+food processing,ANT,Beverages
+food processing,ANT,Food Products
+fuel,ANT,Manufacture of coke and refined petroleum products
 fuel,ANT,"Petroleum products,gas and other petroleum materials "
 manufacturing,ANT,"Computer machinery,parts and accessories "
-manufacturing,ANT,Manufacture of fabricated metal products 
-manufacturing,ANT,Motor vehicles 
-manufacturing,ANT,Other manufacturing products 
+manufacturing,ANT,Manufacture of fabricated metal products
+manufacturing,ANT,Motor vehicles
+manufacturing,ANT,Other manufacturing products
 Primary Inputs_Compensation of employees D_1,ANT,Primary Inputs_Compensation of employees D_1
 Primary Inputs_Consumption of fixed capital K_1,ANT,Primary Inputs_Consumption of fixed capital K_1
 Primary Inputs_Net mixed income B_3n,ANT,Primary Inputs_Net mixed income B_3n
 Primary Inputs_Net operating surplus B_2n,ANT,Primary Inputs_Net operating surplus B_2n
 Primary Inputs_Subsidies on production D_39,ANT,Primary Inputs_Subsidies on production D_39
 Primary Inputs_Taxes on production D_29,ANT,Primary Inputs_Taxes on production D_29
-primary non-agricultural products,ANT,Salt 
+primary non-agricultural products,ANT,Salt
 primary non-agricultural products,ANT,"Stone, sand "
-public services,ANT,Public administration and defense 
-research,ANT,Education services 
-services,ANT,Activities auxiliary to financial intermediation 
-services,ANT,Bank services 
-services,ANT,Construction services 
-services,ANT,Domestic services 
-services,ANT,Electricity and gas distribution services 
-services,ANT,Health services 
-services,ANT,Horeca services 
-services,ANT,Life insurance 
-services,ANT,Maintenance and repair services of ships 
-services,ANT,Non-life insurance 
-services,ANT,Other business activities 
-services,ANT,Other community and social services 
-services,ANT,Other real estate activities 
-services,ANT,Other services nes 
-services,ANT,Postal and courier services 
-services,ANT,Project devt and timeshare 
-services,ANT,Renting of machineries and equipment 
-services,ANT,Social insurance services 
-transport,ANT,Air transport services 
-transport,ANT,Other transport equipment 
+public services,ANT,Public administration and defense
+research,ANT,Education services
+services,ANT,Activities auxiliary to financial intermediation
+services,ANT,Bank services
+services,ANT,Construction services
+services,ANT,Domestic services
+services,ANT,Electricity and gas distribution services
+services,ANT,Health services
+services,ANT,Horeca services
+services,ANT,Life insurance
+services,ANT,Maintenance and repair services of ships
+services,ANT,Non-life insurance
+services,ANT,Other business activities
+services,ANT,Other community and social services
+services,ANT,Other real estate activities
+services,ANT,Other services nes
+services,ANT,Postal and courier services
+services,ANT,Project devt and timeshare
+services,ANT,Renting of machineries and equipment
+services,ANT,Social insurance services
+transport,ANT,Air transport services
+transport,ANT,Other transport equipment
 transport,ANT,Reexport/Reimport
-transport,ANT,Road transport services 
-transport,ANT,Supporting and auxiliary transport services 
-transport,ANT,Trade services 
-transport,ANT,Water transport services 
-water,ANT,Water distribution services 
+transport,ANT,Road transport services
+transport,ANT,Supporting and auxiliary transport services
+transport,ANT,Trade services
+transport,ANT,Water transport services
+water,ANT,Water distribution services
 wood processing,ANT,"Preparation &finishing of textiles, wood and paper "
 agriculture,ARE,Agriculture
 fishery,ARE,Fishing
@@ -526,7 +526,7 @@ fertilizers,AUS,Chemical fertilisers
 fertilizers,AUS,Mixed fertilisers
 fishery,AUS,Aquaculture
 fishery,AUS,Fish
-fishery,AUS,Lobster 
+fishery,AUS,Lobster
 fishery,AUS,Prawns
 fishery,AUS,Raw fish
 fishery,AUS,Rock lobsters
@@ -797,7 +797,7 @@ services,AUS,"Parks, botanical gardens and zoos"
 services,AUS,Periodicals
 services,AUS,Personal services
 services,AUS,Pest control
-services,AUS,Photographic film processing 
+services,AUS,Photographic film processing
 services,AUS,"Plant leasing, hiring and renting services"
 services,AUS,Police
 services,AUS,Postal services
@@ -835,7 +835,7 @@ transport,AUS,Pipeline transport
 transport,AUS,Railway freight transport services
 transport,AUS,Re-import
 transport,AUS,Retail trade
-transport,AUS,Road freight 
+transport,AUS,Road freight
 transport,AUS,Road freight forwarding
 transport,AUS,Services to air transport
 transport,AUS,Services to road transport
@@ -1847,7 +1847,7 @@ primary non-agricultural products,CHL,Copper
 primary non-agricultural products,CHL,Iron
 primary non-agricultural products,CHL,Other Minerals
 public infrastructure,CHL,Communications services
-public infrastructure,CHL,Trucking passengers services 
+public infrastructure,CHL,Trucking passengers services
 public services,CHL,Public administration
 public services,CHL,Public Health Service
 remaining,CHL,Leather and leather products
@@ -1887,7 +1887,7 @@ fertilizers,CHN,Chemical fertilizers
 fishery,CHN,Fishery
 foddr,CHN,Feeding stuff production and processing
 food processing,CHN,Cotton textiles
-food processing,CHN,Hemp textiles 
+food processing,CHN,Hemp textiles
 food processing,CHN,Non-alcoholic beverage
 food processing,CHN,Other food products
 food processing,CHN,Prepared fish and seafood
@@ -1898,12 +1898,12 @@ forestry,CHN,Logging and transport of timber and bamboo
 fuel,CHN,Coal mining and processing
 fuel,CHN,Coking
 fuel,CHN,Crude petroleum products and Natural gas products
-fuel,CHN,Electricity and steam production and supply 
+fuel,CHN,Electricity and steam production and supply
 fuel,CHN,Gas production and supply
 fuel,CHN,Petroleum refining
 livestock,CHN,Livestock and livestock products
 manufacturing,CHN,"Agriculture, forestry, animal husbandry and fishing machinery"
-manufacturing,CHN,Alloy iron smelting 
+manufacturing,CHN,Alloy iron smelting
 manufacturing,CHN,Arts and crafts products
 manufacturing,CHN,"Boiler, engines and turbine"
 manufacturing,CHN,Cement and cement asbestos products
@@ -1920,7 +1920,7 @@ manufacturing,CHN,Generators
 manufacturing,CHN,Glass and glass products
 manufacturing,CHN,Household electric appliances
 manufacturing,CHN,"Instruments, meters and other measuring equipment"
-manufacturing,CHN,Iron-smelting 
+manufacturing,CHN,Iron-smelting
 manufacturing,CHN,Knitted mills
 manufacturing,CHN,Medical and pharmaceutical products
 manufacturing,CHN,Metal products
@@ -1928,7 +1928,7 @@ manufacturing,CHN,Metalworking machinery
 manufacturing,CHN,Motor vehicles
 manufacturing,CHN,Nonferrous metal processing
 manufacturing,CHN,Nonferrous metal smelting
-manufacturing,CHN,Other computer devices 
+manufacturing,CHN,Other computer devices
 manufacturing,CHN,Other electric machinery and equipment
 manufacturing,CHN,Other electronic and communication equipment
 manufacturing,CHN,Other general industrial machinery
@@ -1942,7 +1942,7 @@ manufacturing,CHN,Rubber products
 manufacturing,CHN,Scrap and waste
 manufacturing,CHN,Ship building
 manufacturing,CHN,Steel-processing
-manufacturing,CHN,Steel-smelting 
+manufacturing,CHN,Steel-smelting
 manufacturing,CHN,Synthetic chemicals
 manufacturing,CHN,"Toys, sporting and athletic  and recreation products"
 manufacturing,CHN,Vehicles fittings production
@@ -1981,12 +1981,12 @@ services,CHN,Health services
 services,CHN,Hotels
 services,CHN,Insurance
 services,CHN,Leasehold
-services,CHN,Post 
+services,CHN,Post
 services,CHN,Printing and record medium reproduction
 services,CHN,Real estate
 services,CHN,Recreational services
 services,CHN,Resident services and other services
-services,CHN,Social welfare 
+services,CHN,Social welfare
 services,CHN,Sports
 services,CHN,"Technical services for agriculture, forestry, livestock and fishing"
 services,CHN,Telecommunication
@@ -2003,7 +2003,7 @@ transport,CHN,Railway freight transport
 transport,CHN,Re-export & Re-import
 transport,CHN,Water freight and passangers transport
 transport,CHN,Wholesale and retail trade
-water,CHN,Water conservancy 
+water,CHN,Water conservancy
 water,CHN,Water production and supply
 wood processing,CHN,Paper and products
 wood processing,CHN,Sawmills and fibreboard
@@ -2882,7 +2882,7 @@ food processing,ESP,Non-alcoholic beverages
 food processing,ESP,Other food products
 food processing,ESP,Prepared animal feeds
 food processing,ESP,Processed tobacco
-forestry,ESP,Selvicultura y explotaci� forestal 
+forestry,ESP,Selvicultura y explotaci� forestal
 fuel,ESP,"Anthracite, coal, lignite and peat"
 fuel,ESP,"Coke, refinement of petroleum and nuclear fuel"
 fuel,ESP,Crude petroleum
@@ -3294,64 +3294,64 @@ water,GAB,"Electricity, Gas and Water"
 wood processing,GAB,Wood and Paper
 agriculture,GBR,Growing of crops and plants for biofuels
 agriculture,GBR,Growing of crops combined with farming of animals (mixed farming)
-alcohol,GBR,Manufacture of beer   
-alcohol,GBR,Manufacture of cider and other fruit wines   
-alcohol,GBR,Manufacture of distilled potable alcoholic beverages  
-alcohol,GBR,Manufacture of malt   
-alcohol,GBR,Manufacture of other non-distilled fermented beverages  
-alcohol,GBR,Manufacture of wines   
-alcohol,GBR,Production of ethyl alcohol from fermented materials  
+alcohol,GBR,Manufacture of beer
+alcohol,GBR,Manufacture of cider and other fruit wines
+alcohol,GBR,Manufacture of distilled potable alcoholic beverages
+alcohol,GBR,Manufacture of malt
+alcohol,GBR,Manufacture of other non-distilled fermented beverages
+alcohol,GBR,Manufacture of wines
+alcohol,GBR,Production of ethyl alcohol from fermented materials
 buildings,GBR,Building societies
 buildings,GBR,Construction of commercial buildings
 buildings,GBR,Construction of domestic buildings
 buildings,GBR,"Other building completion and finishing, Other specialised construction activities n_e_c_"
-chemicals,GBR,Manufacture of other chemical products not elsewhere classified  
-chemicals,GBR,Manufacture of other inorganic basic chemicals  
-chemicals,GBR,Manufacture of other organic chemicals   
+chemicals,GBR,Manufacture of other chemical products not elsewhere classified
+chemicals,GBR,Manufacture of other inorganic basic chemicals
+chemicals,GBR,Manufacture of other organic chemicals
 cottn_pro,GBR,Growing of fibre crops
 crops,GBR,Growing of cereals and other crops n_e_c_ (except wheat)
 crops,GBR,Growing of wheat
 crops,GBR,Organic: Growing of cereals and other crops n_e_c_ (except wheat)
 crops,GBR,Organic: Growing of wheat
-fertilizers,GBR,Manufacture of fertilisers and nitrogen compounds  
-fertilizers,GBR,Mining of chemical and fertilizer minerals  
+fertilizers,GBR,Manufacture of fertilisers and nitrogen compounds
+fertilizers,GBR,Mining of chemical and fertilizer minerals
 fishery,GBR,Fish farming (non-organic)
 fishery,GBR,Fish farming (organic/sustainable)
-fishery,GBR,Fishing   
+fishery,GBR,Fishing
 food processing,GBR,Bacon and ham production
 food processing,GBR,"Manufacture of cocoa, chocolate and sugar confectionery  "
-food processing,GBR,Manufacture of condiments and seasonings  
-food processing,GBR,Manufacture of fruit and vegetable juice   
-food processing,GBR,Manufacture of homogenised food preparations and dietetic food  
-food processing,GBR,Manufacture of ice cream   
-food processing,GBR,Manufacture of mineral waters and soft drinks  
-food processing,GBR,Manufacture of other food products not elsewhere classified  
-food processing,GBR,Manufacture of prepared feeds for farm animals  
-food processing,GBR,Manufacture of prepared pet foods   
-food processing,GBR,Manufacture of tobacco products   
-food processing,GBR,Operation of dairies and cheese making   
+food processing,GBR,Manufacture of condiments and seasonings
+food processing,GBR,Manufacture of fruit and vegetable juice
+food processing,GBR,Manufacture of homogenised food preparations and dietetic food
+food processing,GBR,Manufacture of ice cream
+food processing,GBR,Manufacture of mineral waters and soft drinks
+food processing,GBR,Manufacture of other food products not elsewhere classified
+food processing,GBR,Manufacture of prepared feeds for farm animals
+food processing,GBR,Manufacture of prepared pet foods
+food processing,GBR,Manufacture of tobacco products
+food processing,GBR,Operation of dairies and cheese making
 food processing,GBR,Organic: Bacon and ham production
-food processing,GBR,Organic: Manufacture of fruit and vegetable juice   
-food processing,GBR,Organic: Operation of dairies and cheese making   
+food processing,GBR,Organic: Manufacture of fruit and vegetable juice
+food processing,GBR,Organic: Operation of dairies and cheese making
 food processing,GBR,"Organic: Processing and preserving of lamb, sheep, goat and other meat"
 food processing,GBR,Organic: Processing and preserving of meat from cattle (beef)
 food processing,GBR,Organic: Processing and preserving of meat from pigs
-food processing,GBR,Organic: Processing and preserving of potatoes   
-food processing,GBR,Organic: Production and preserving of poultry meat  
+food processing,GBR,Organic: Processing and preserving of potatoes
+food processing,GBR,Organic: Production and preserving of poultry meat
 food processing,GBR,Other meat and poultry meat processing
-food processing,GBR,Processing and preserving of fish and fish products  
-food processing,GBR,Processing and preserving of fruit and vegetables not elsewhere classified  
+food processing,GBR,Processing and preserving of fish and fish products
+food processing,GBR,Processing and preserving of fruit and vegetables not elsewhere classified
 food processing,GBR,"Processing and preserving of lamb, sheep, goat and other meat"
 food processing,GBR,Processing and preserving of meat from cattle (beef)
 food processing,GBR,Processing and preserving of meat from pigs
-food processing,GBR,Processing and preserving of potatoes   
-food processing,GBR,Processing of tea and coffee   
-food processing,GBR,Production and preserving of poultry meat  
-forestry,GBR,Forestry and logging   
+food processing,GBR,Processing and preserving of potatoes
+food processing,GBR,Processing of tea and coffee
+food processing,GBR,Production and preserving of poultry meat
+forestry,GBR,Forestry and logging
 forestry,GBR,Forestry and logging (sustainable/FSC)
-forestry,GBR,Forestry and logging related service activities  
-fuel,GBR,Distribution and trade in electricity   
-fuel,GBR,Electricity by biomass 
+forestry,GBR,Forestry and logging related service activities
+fuel,GBR,Distribution and trade in electricity
+fuel,GBR,Electricity by biomass
 fuel,GBR,Electricity by coal
 fuel,GBR,Electricity by gas
 fuel,GBR,Electricity by geothermal energy
@@ -3368,17 +3368,17 @@ fuel,GBR,"Electricity by wind power, on shore"
 fuel,GBR,Fuel oils n_e_c_
 fuel,GBR,Gas oils
 fuel,GBR,"Kerosene, including kerosene type jet fuel"
-fuel,GBR,Manufacture of crude oils and fats   
-fuel,GBR,Manufacture of gas; distribution of gaseous fuels through mains  
-fuel,GBR,Manufacture of industrial gases   
-fuel,GBR,Manufacture of refined oils and fats   
+fuel,GBR,Manufacture of crude oils and fats
+fuel,GBR,Manufacture of gas; distribution of gaseous fuels through mains
+fuel,GBR,Manufacture of industrial gases
+fuel,GBR,Manufacture of refined oils and fats
 fuel,GBR,Manufacture of solid fuel
 fuel,GBR,Motor spirit (gasoline)
 fuel,GBR,Open cast coal working
 fuel,GBR,Other petroleum products
 fuel,GBR,"Petroleum gases and other gaseous hydrocarbons, except natural gas"
-fuel,GBR,Processing of nuclear fuel   
-fuel,GBR,Transmission of electricity   
+fuel,GBR,Processing of nuclear fuel
+fuel,GBR,Transmission of electricity
 livestock,GBR,Other farming of animals
 livestock,GBR,"Raising of horses, equines and other animals; animal hair"
 livst_chick,GBR,Farming of poultry
@@ -3391,189 +3391,189 @@ livst_rum,GBR,Farming of cattle for meat
 livst_rum,GBR,Organic: Farming of cattle for meat
 livst_rum,GBR,"Organic: Raising of sheep and goats; Production of raw wool, sheep or goat milk"
 livst_rum,GBR,"Raising of sheep and goats; Production of raw wool, sheep or goat milk"
-manufacturing,GBR,Aluminium production   
-manufacturing,GBR,Bookbinding 
-manufacturing,GBR,Building and repairing of pleasure and sporting boats  
-manufacturing,GBR,Building and repairing of ships   
-manufacturing,GBR,Casting of iron   
-manufacturing,GBR,Casting of light metals   
-manufacturing,GBR,Casting of other non-ferrous metals   
-manufacturing,GBR,Casting of steel   
-manufacturing,GBR,Cold drawing   
-manufacturing,GBR,Cold forming or folding   
-manufacturing,GBR,Cold rolling of narrow strip   
-manufacturing,GBR,Copper production   
+manufacturing,GBR,Aluminium production
+manufacturing,GBR,Bookbinding
+manufacturing,GBR,Building and repairing of pleasure and sporting boats
+manufacturing,GBR,Building and repairing of ships
+manufacturing,GBR,Casting of iron
+manufacturing,GBR,Casting of light metals
+manufacturing,GBR,Casting of other non-ferrous metals
+manufacturing,GBR,Casting of steel
+manufacturing,GBR,Cold drawing
+manufacturing,GBR,Cold forming or folding
+manufacturing,GBR,Cold rolling of narrow strip
+manufacturing,GBR,Copper production
 manufacturing,GBR,"Cutting, shaping and finishing of ornamental and building stone"
-manufacturing,GBR,Dressing and dyeing of fur; manufacture of articles of fur  
-manufacturing,GBR,Erection of roof covering and frames   
-manufacturing,GBR,Finishing of textiles   
+manufacturing,GBR,Dressing and dyeing of fur; manufacture of articles of fur
+manufacturing,GBR,Erection of roof covering and frames
+manufacturing,GBR,Finishing of textiles
 manufacturing,GBR,Floor and wall covering
 manufacturing,GBR,"Forging, pressing, stamping and roll forming of metal; powder metallurgy  "
-manufacturing,GBR,General mechanical engineering   
-manufacturing,GBR,Manufacture and processing of other glass including technical glassware  
+manufacturing,GBR,General mechanical engineering
+manufacturing,GBR,Manufacture and processing of other glass including technical glassware
 manufacturing,GBR,"Manufacture of accumulators, primary cells and primary batteries  "
-manufacturing,GBR,Manufacture of agricultural tractors   
-manufacturing,GBR,Manufacture of aircraft and spacecraft  
+manufacturing,GBR,Manufacture of agricultural tractors
+manufacturing,GBR,Manufacture of aircraft and spacecraft
 manufacturing,GBR,"Manufacture of articles of cork, straw and plaiting materials  "
-manufacturing,GBR,Manufacture of basic iron and steel and of ferro-alloys  
-manufacturing,GBR,Manufacture of basic pharmaceuticals   
+manufacturing,GBR,Manufacture of basic iron and steel and of ferro-alloys
+manufacturing,GBR,Manufacture of basic pharmaceuticals
 manufacturing,GBR,"Manufacture of bearings, gears, gearing and driving elements  "
-manufacturing,GBR,Manufacture of bicycles   
-manufacturing,GBR,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers 
+manufacturing,GBR,Manufacture of bicycles
+manufacturing,GBR,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
 manufacturing,GBR,"Manufacture of bricks, tiles and construction products, in baked clay  "
-manufacturing,GBR,Manufacture of brooms and brushes   
-manufacturing,GBR,Manufacture of builders' carpentry and joinery  
-manufacturing,GBR,Manufacture of builders' carpentry and joinery of metal  
-manufacturing,GBR,Manufacture of builders' ware of plastic   
-manufacturing,GBR,Manufacture of carpets and rugs   
-manufacturing,GBR,Manufacture of cast iron tubes   
-manufacturing,GBR,Manufacture of cement   
-manufacturing,GBR,Manufacture of central heating radiators and boilers  
-manufacturing,GBR,Manufacture of ceramic household and ornamental articles  
-manufacturing,GBR,Manufacture of ceramic insulators and insulating fittings  
-manufacturing,GBR,Manufacture of ceramic sanitary fixtures   
-manufacturing,GBR,Manufacture of ceramic tiles and flags  
-manufacturing,GBR,Manufacture of chairs and seats   
-manufacturing,GBR,Manufacture of coke oven products   
-manufacturing,GBR,Manufacture of computers and other information processing equipment  
-manufacturing,GBR,Manufacture of concrete products for construction purposes  
+manufacturing,GBR,Manufacture of brooms and brushes
+manufacturing,GBR,Manufacture of builders' carpentry and joinery
+manufacturing,GBR,Manufacture of builders' carpentry and joinery of metal
+manufacturing,GBR,Manufacture of builders' ware of plastic
+manufacturing,GBR,Manufacture of carpets and rugs
+manufacturing,GBR,Manufacture of cast iron tubes
+manufacturing,GBR,Manufacture of cement
+manufacturing,GBR,Manufacture of central heating radiators and boilers
+manufacturing,GBR,Manufacture of ceramic household and ornamental articles
+manufacturing,GBR,Manufacture of ceramic insulators and insulating fittings
+manufacturing,GBR,Manufacture of ceramic sanitary fixtures
+manufacturing,GBR,Manufacture of ceramic tiles and flags
+manufacturing,GBR,Manufacture of chairs and seats
+manufacturing,GBR,Manufacture of coke oven products
+manufacturing,GBR,Manufacture of computers and other information processing equipment
+manufacturing,GBR,Manufacture of concrete products for construction purposes
 manufacturing,GBR,"Manufacture of cordage, rope, twine and netting  "
-manufacturing,GBR,Manufacture of cutlery   
-manufacturing,GBR,Manufacture of dyes and pigments   
-manufacturing,GBR,Manufacture of electric domestic appliances  
+manufacturing,GBR,Manufacture of cutlery
+manufacturing,GBR,Manufacture of dyes and pigments
+manufacturing,GBR,Manufacture of electric domestic appliances
 manufacturing,GBR,"Manufacture of electric motors, generators and transformers  "
-manufacturing,GBR,Manufacture of electrical equipment for engines and vehicles not elsewhere classified 
-manufacturing,GBR,Manufacture of electrical equipment not elsewhere classified  
-manufacturing,GBR,Manufacture of electricity distribution and control apparatus  
-manufacturing,GBR,Manufacture of electronic valves and tubes and other electronic components 
+manufacturing,GBR,Manufacture of electrical equipment for engines and vehicles not elsewhere classified
+manufacturing,GBR,Manufacture of electrical equipment not elsewhere classified
+manufacturing,GBR,Manufacture of electricity distribution and control apparatus
+manufacturing,GBR,Manufacture of electronic valves and tubes and other electronic components
 manufacturing,GBR,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines  "
-manufacturing,GBR,Manufacture of essential oils   
-manufacturing,GBR,Manufacture of explosives   
+manufacturing,GBR,Manufacture of essential oils
+manufacturing,GBR,Manufacture of explosives
 manufacturing,GBR,"Manufacture of fasteners, screw machine products, chains and springs  "
-manufacturing,GBR,Manufacture of fibre cement   
-manufacturing,GBR,Manufacture of flat glass   
-manufacturing,GBR,Manufacture of footwear   
-manufacturing,GBR,Manufacture of furnaces and furnace burners  
-manufacturing,GBR,Manufacture of games and toys   
-manufacturing,GBR,manufacture of glass fibres   
-manufacturing,GBR,Manufacture of glues and gelatine   
-manufacturing,GBR,Manufacture of hollow glass   
-manufacturing,GBR,Manufacture of household and sanitary goods and of toilet requisites  
-manufacturing,GBR,Manufacture of imitation jewellery   
-manufacturing,GBR,Manufacture of industrial process control equipment  
+manufacturing,GBR,Manufacture of fibre cement
+manufacturing,GBR,Manufacture of flat glass
+manufacturing,GBR,Manufacture of footwear
+manufacturing,GBR,Manufacture of furnaces and furnace burners
+manufacturing,GBR,Manufacture of games and toys
+manufacturing,GBR,manufacture of glass fibres
+manufacturing,GBR,Manufacture of glues and gelatine
+manufacturing,GBR,Manufacture of hollow glass
+manufacturing,GBR,Manufacture of household and sanitary goods and of toilet requisites
+manufacturing,GBR,Manufacture of imitation jewellery
+manufacturing,GBR,Manufacture of industrial process control equipment
 manufacturing,GBR,"Manufacture of instruments and appliances for measuring, checking, testing, navigating and other purposes, except industrial process"
-manufacturing,GBR,Manufacture of insulated wire and cables  
-manufacturing,GBR,Manufacture of invalid carriages   
-manufacturing,GBR,Manufacture of jewellery and related articles not elsewhere classified  
-manufacturing,GBR,Manufacture of knitted and crocheted fabrics  
-manufacturing,GBR,Manufacture of knitted and crocheted hosiery  
+manufacturing,GBR,Manufacture of insulated wire and cables
+manufacturing,GBR,Manufacture of invalid carriages
+manufacturing,GBR,Manufacture of jewellery and related articles not elsewhere classified
+manufacturing,GBR,Manufacture of knitted and crocheted fabrics
+manufacturing,GBR,Manufacture of knitted and crocheted hosiery
 manufacturing,GBR,"Manufacture of knitted and crocheted pullovers, cardigans and similar articles  "
-manufacturing,GBR,Manufacture of leather clothes   
-manufacturing,GBR,Manufacture of lifting and handling equipment  
-manufacturing,GBR,Manufacture of light metal packaging   
-manufacturing,GBR,Manufacture of lighting equipment and electric lamps  
-manufacturing,GBR,Manufacture of lime   
-manufacturing,GBR,Manufacture of locks and hinges   
+manufacturing,GBR,Manufacture of leather clothes
+manufacturing,GBR,Manufacture of lifting and handling equipment
+manufacturing,GBR,Manufacture of light metal packaging
+manufacturing,GBR,Manufacture of lighting equipment and electric lamps
+manufacturing,GBR,Manufacture of lime
+manufacturing,GBR,Manufacture of locks and hinges
 manufacturing,GBR,"Manufacture of luggage, handbags and the like, saddlery and harness  "
 manufacturing,GBR,"Manufacture of machinery for food, beverage and tobacco processing  "
-manufacturing,GBR,Manufacture of machinery for metallurgy   
+manufacturing,GBR,Manufacture of machinery for metallurgy
 manufacturing,GBR,"Manufacture of machinery for mining, quarrying and construction  "
-manufacturing,GBR,Manufacture of machinery for paper and paperboard production  
+manufacturing,GBR,Manufacture of machinery for paper and paperboard production
 manufacturing,GBR,"Manufacture of machinery for textile, apparel and leather production  "
 manufacturing,GBR,"Manufacture of made-up textile articles, except apparel  "
-manufacturing,GBR,Manufacture of man-made fibres   
-manufacturing,GBR,Manufacture of mattresses   
-manufacturing,GBR,Manufacture of medical and surgical equipment and orthopaedic appliances 
-manufacturing,GBR,Manufacture of metal structures and parts of structures  
-manufacturing,GBR,Manufacture of mortars   
-manufacturing,GBR,Manufacture of motor vehicles   
-manufacturing,GBR,Manufacture of motorcycles   
-manufacturing,GBR,Manufacture of musical instruments   
-manufacturing,GBR,Manufacture of non-domestic cooling and ventilation equipment  
-manufacturing,GBR,Manufacture of non-electric domestic appliances  
+manufacturing,GBR,Manufacture of man-made fibres
+manufacturing,GBR,Manufacture of mattresses
+manufacturing,GBR,Manufacture of medical and surgical equipment and orthopaedic appliances
+manufacturing,GBR,Manufacture of metal structures and parts of structures
+manufacturing,GBR,Manufacture of mortars
+manufacturing,GBR,Manufacture of motor vehicles
+manufacturing,GBR,Manufacture of motorcycles
+manufacturing,GBR,Manufacture of musical instruments
+manufacturing,GBR,Manufacture of non-domestic cooling and ventilation equipment
+manufacturing,GBR,Manufacture of non-electric domestic appliances
 manufacturing,GBR,"Manufacture of non-wovens and articles made from non-wovens, except apparel  "
-manufacturing,GBR,Manufacture of office machinery   
-manufacturing,GBR,Manufacture of optical instruments and photographic equipment  
-manufacturing,GBR,Manufacture of other agricultural and forestry machinery  
+manufacturing,GBR,Manufacture of office machinery
+manufacturing,GBR,Manufacture of optical instruments and photographic equipment
+manufacturing,GBR,Manufacture of other agricultural and forestry machinery
 manufacturing,GBR,"Manufacture of other articles of concrete, plaster and cement  "
-manufacturing,GBR,Manufacture of other ceramic products   
-manufacturing,GBR,Manufacture of other fabricated metal products not elsewhere classified  
-manufacturing,GBR,Manufacture of other furniture   
-manufacturing,GBR,Manufacture of other general purpose machinery not elsewhere classified  
-manufacturing,GBR,Manufacture of other kitchen furniture   
-manufacturing,GBR,Manufacture of other machine tools not elsewhere classified  
-manufacturing,GBR,Manufacture of other metalworking machine tools  
-manufacturing,GBR,Manufacture of other non-metallic mineral products not elsewhere classified  
-manufacturing,GBR,Manufacture of other office and shop furniture  
-manufacturing,GBR,Manufacture of other outerwear   
-manufacturing,GBR,Manufacture of other plastic products   
-manufacturing,GBR,Manufacture of other rubber products   
-manufacturing,GBR,Manufacture of other special purpose machinery not elsewhere classified  
-manufacturing,GBR,Manufacture of other technical ceramic products  
-manufacturing,GBR,Manufacture of other textiles not elsewhere classified  
-manufacturing,GBR,Manufacture of other transport equipment not elsewhere classified  
-manufacturing,GBR,Manufacture of other wearing apparel and accessories not elsewhere classified  
+manufacturing,GBR,Manufacture of other ceramic products
+manufacturing,GBR,Manufacture of other fabricated metal products not elsewhere classified
+manufacturing,GBR,Manufacture of other furniture
+manufacturing,GBR,Manufacture of other general purpose machinery not elsewhere classified
+manufacturing,GBR,Manufacture of other kitchen furniture
+manufacturing,GBR,Manufacture of other machine tools not elsewhere classified
+manufacturing,GBR,Manufacture of other metalworking machine tools
+manufacturing,GBR,Manufacture of other non-metallic mineral products not elsewhere classified
+manufacturing,GBR,Manufacture of other office and shop furniture
+manufacturing,GBR,Manufacture of other outerwear
+manufacturing,GBR,Manufacture of other plastic products
+manufacturing,GBR,Manufacture of other rubber products
+manufacturing,GBR,Manufacture of other special purpose machinery not elsewhere classified
+manufacturing,GBR,Manufacture of other technical ceramic products
+manufacturing,GBR,Manufacture of other textiles not elsewhere classified
+manufacturing,GBR,Manufacture of other transport equipment not elsewhere classified
+manufacturing,GBR,Manufacture of other wearing apparel and accessories not elsewhere classified
 manufacturing,GBR,"Manufacture of paints, varnishes and similar coatings, printing inks and mastics "
-manufacturing,GBR,Manufacture of parts and accessories for motor vehicles and their engines 
-manufacturing,GBR,Manufacture of perfumes and toilet preparations  
-manufacturing,GBR,Manufacture of pharmaceutical preparations  
-manufacturing,GBR,Manufacture of photographic chemical material  
-manufacturing,GBR,Manufacture of plaster   
-manufacturing,GBR,Manufacture of plaster products for construction purposes  
-manufacturing,GBR,Manufacture of plastic packing goods   
+manufacturing,GBR,Manufacture of parts and accessories for motor vehicles and their engines
+manufacturing,GBR,Manufacture of perfumes and toilet preparations
+manufacturing,GBR,Manufacture of pharmaceutical preparations
+manufacturing,GBR,Manufacture of photographic chemical material
+manufacturing,GBR,Manufacture of plaster
+manufacturing,GBR,Manufacture of plaster products for construction purposes
+manufacturing,GBR,Manufacture of plastic packing goods
 manufacturing,GBR,"Manufacture of plastic plates, sheets, tubes and profiles  "
-manufacturing,GBR,Manufacture of plastics in primary forms   
-manufacturing,GBR,Manufacture of portable hand held power  tools  
-manufacturing,GBR,Manufacture of prepared unrecorded media   
-manufacturing,GBR,Manufacture of pumps and compressors   
-manufacturing,GBR,Manufacture of railway and tramway locomotives and rolling stock  
-manufacturing,GBR,Manufacture of ready-mixed concrete   
-manufacturing,GBR,Manufacture of refractory ceramic products  
-manufacturing,GBR,Manufacture of rubber tyres and tubes   
+manufacturing,GBR,Manufacture of plastics in primary forms
+manufacturing,GBR,Manufacture of portable hand held power  tools
+manufacturing,GBR,Manufacture of prepared unrecorded media
+manufacturing,GBR,Manufacture of pumps and compressors
+manufacturing,GBR,Manufacture of railway and tramway locomotives and rolling stock
+manufacturing,GBR,Manufacture of ready-mixed concrete
+manufacturing,GBR,Manufacture of refractory ceramic products
+manufacturing,GBR,Manufacture of rubber tyres and tubes
 manufacturing,GBR,"Manufacture of soap and detergents, cleaning and polishing preparations  "
-manufacturing,GBR,Manufacture of sports goods   
+manufacturing,GBR,Manufacture of sports goods
 manufacturing,GBR,"Manufacture of steam generators, except central heating hot water boilers "
-manufacturing,GBR,Manufacture of steel drums and similar containers  
-manufacturing,GBR,Manufacture of steel tubes   
-manufacturing,GBR,Manufacture of synthetic rubber in primary forms  
+manufacturing,GBR,Manufacture of steel drums and similar containers
+manufacturing,GBR,Manufacture of steel tubes
+manufacturing,GBR,Manufacture of synthetic rubber in primary forms
 manufacturing,GBR,"Manufacture of tanks, reservoirs and containers of metal  "
-manufacturing,GBR,Manufacture of taps and valves   
+manufacturing,GBR,Manufacture of taps and valves
 manufacturing,GBR,"Manufacture of television and radio receivers, sound or video recording or reproducing apparatus and associated goods"
-manufacturing,GBR,Manufacture of television and radio transmitters and apparatus for line telephony and line telegraphy 
-manufacturing,GBR,Manufacture of tools   
-manufacturing,GBR,Manufacture of underwear   
+manufacturing,GBR,Manufacture of television and radio transmitters and apparatus for line telephony and line telegraphy
+manufacturing,GBR,Manufacture of tools
+manufacturing,GBR,Manufacture of underwear
 manufacturing,GBR,"Manufacture of veneer sheets; manufacture of plywood, laminboard, particle board, fibre board and other panels and boards"
-manufacturing,GBR,Manufacture of watches and clocks   
-manufacturing,GBR,Manufacture of weapons and ammunition  
-manufacturing,GBR,Manufacture of wire products   
-manufacturing,GBR,Manufacture of work wear   
-manufacturing,GBR,Other first processing of iron and steel not elsewhere classified; production of non-ECSC ferro-alloys 
-manufacturing,GBR,Other manufacturing not elsewhere classified  
-manufacturing,GBR,Other non-ferrous metal production   
+manufacturing,GBR,Manufacture of watches and clocks
+manufacturing,GBR,Manufacture of weapons and ammunition
+manufacturing,GBR,Manufacture of wire products
+manufacturing,GBR,Manufacture of work wear
+manufacturing,GBR,Other first processing of iron and steel not elsewhere classified; production of non-ECSC ferro-alloys
+manufacturing,GBR,Other manufacturing not elsewhere classified
+manufacturing,GBR,Other non-ferrous metal production
 manufacturing,GBR,Plastering
-manufacturing,GBR,Precious metals production   
-manufacturing,GBR,Preparation and spinning of textile fibres  
-manufacturing,GBR,Printing not elsewhere classified   
-manufacturing,GBR,Printing of newspapers   
-manufacturing,GBR,Production of abrasive products   
-manufacturing,GBR,Retreading and rebuilding of rubber tyres   
-manufacturing,GBR,Shaping and processing of flat glass   
+manufacturing,GBR,Precious metals production
+manufacturing,GBR,Preparation and spinning of textile fibres
+manufacturing,GBR,Printing not elsewhere classified
+manufacturing,GBR,Printing of newspapers
+manufacturing,GBR,Production of abrasive products
+manufacturing,GBR,Retreading and rebuilding of rubber tyres
+manufacturing,GBR,Shaping and processing of flat glass
 manufacturing,GBR,Striking of coins
-manufacturing,GBR,Tanning and dressing of leather   
-manufacturing,GBR,Textile weaving   
-manufacturing,GBR,Treatment and coating of metals   
+manufacturing,GBR,Tanning and dressing of leather
+manufacturing,GBR,Textile weaving
+manufacturing,GBR,Treatment and coating of metals
 manufacturing,GBR,Treatment and disposal of hazardous waste
-manufacturing,GBR,Wire drawing   
-milling,GBR,Manufacture of bread; manufacture of fresh pastry goods and cakes  
-milling,GBR,Manufacture of grain mill products   
+manufacturing,GBR,Wire drawing
+milling,GBR,Manufacture of bread; manufacture of fresh pastry goods and cakes
+milling,GBR,Manufacture of grain mill products
 milling,GBR,"Manufacture of macaroni, noodles, couscous and similar farinaceous products "
-milling,GBR,Manufacture of rusks and biscuits;  manufacture of preserved pastry goods and cakes 
-milling,GBR,Manufacture of starches and starch products  
-milling,GBR,Organic: Manufacture of bread; manufacture of fresh pastry goods and cakes  
-milling,GBR,Organic: Manufacture of grain mill products   
-milling,GBR,Organic: Manufacture of starches and starch products  
+milling,GBR,Manufacture of rusks and biscuits;  manufacture of preserved pastry goods and cakes
+milling,GBR,Manufacture of starches and starch products
+milling,GBR,Organic: Manufacture of bread; manufacture of fresh pastry goods and cakes
+milling,GBR,Organic: Manufacture of grain mill products
+milling,GBR,Organic: Manufacture of starches and starch products
 oilcrops,GBR,Growing of oil seeds
-oils,GBR,Manufacture of margarine and similar edible fats  
+oils,GBR,Manufacture of margarine and similar edible fats
 others,GBR,"Growing of beverage crops, Growing of spices, aromatic, drug and pharmaceutical crops, Post-harvest crop activities, Seed processing for propagation, Gathering of wild growing non-wood products, Manufacture of oils and fats"
 others,GBR,Growing of fruits
 others,GBR,"Growing of oleaginous fruits, Growing of spices, aromatic, drug and pharmaceutical crops, Growing of other perennial crops, Post-harvest crop activities, Seed processing for propagation, Growing of tobacco"
@@ -3582,7 +3582,7 @@ others,GBR,Growing of vegetables
 others,GBR,Growing of wine grapes and table grapes and production of wine from self - produced grapes
 others,GBR,Organic: Growing of fruits
 others,GBR,Organic: Growing of vegetables
-pesticides,GBR,Manufacture of pesticides and other agro-chemical products  
+pesticides,GBR,Manufacture of pesticides and other agro-chemical products
 Primary Inputs_Compensation of employees D_1,GBR,Primary Inputs_Compensation of employees D_1
 Primary Inputs_Consumption of fixed capital K_1,GBR,Primary Inputs_Consumption of fixed capital K_1
 Primary Inputs_Net mixed income B_3n,GBR,Primary Inputs_Net mixed income B_3n
@@ -3591,29 +3591,29 @@ Primary Inputs_Subsidies on production D_39,GBR,Primary Inputs_Subsidies on prod
 Primary Inputs_Taxes on production D_29,GBR,Primary Inputs_Taxes on production D_29
 primary non-agricultural products,GBR,Aluminium ores and concentrates
 primary non-agricultural products,GBR,Copper ores and concentrates
-primary non-agricultural products,GBR,Deep coal mines 
-primary non-agricultural products,GBR,Extraction and agglomeration of peat   
+primary non-agricultural products,GBR,Deep coal mines
+primary non-agricultural products,GBR,Extraction and agglomeration of peat
 primary non-agricultural products,GBR,Extraction of crude petroleum
 primary non-agricultural products,GBR,Extraction of natural gas
 primary non-agricultural products,GBR,"Lead, zinc and tin ores and concentrates"
 primary non-agricultural products,GBR,"Lead, zinc and tin production   "
 primary non-agricultural products,GBR,Mining and agglomeration of lignite
-primary non-agricultural products,GBR,Mining of clays and kaolin   
-primary non-agricultural products,GBR,Mining of iron ores   
+primary non-agricultural products,GBR,Mining of clays and kaolin
+primary non-agricultural products,GBR,Mining of iron ores
 primary non-agricultural products,GBR,Mining of uranium and thorium ores
 primary non-agricultural products,GBR,Nickel ores and concentrates
-primary non-agricultural products,GBR,Operation of gravel and sand pits   
+primary non-agricultural products,GBR,Operation of gravel and sand pits
 primary non-agricultural products,GBR,"Other mining and quarrying, not elsewhere classified  "
 primary non-agricultural products,GBR,Other non-ferrous metal ores and concentrates
 primary non-agricultural products,GBR,Precious metal ores and concentrates
-primary non-agricultural products,GBR,Production of salt   
+primary non-agricultural products,GBR,Production of salt
 primary non-agricultural products,GBR,"Quarrying of limestone, gypsum and chalk   "
 primary non-agricultural products,GBR,Quarrying of ornamental and building stone
-primary non-agricultural products,GBR,Quarrying of slate   
+primary non-agricultural products,GBR,Quarrying of slate
 public infrastructure,GBR,"Construction of motorways, roads, airfields and sports facilities"
 public infrastructure,GBR,"Installation (and general technical repair and maintenance) of illumination and signalling systems for roads, railways, airports, harbours, Installation (and general technical repair and maintenance) in buildings or other construction projects of fittings and fixtures n_e_c_ (including technical repair and maintenance)"
 public infrastructure,GBR,Inter-city coach sevice
-public infrastructure,GBR,Other passenger land transport   
+public infrastructure,GBR,Other passenger land transport
 public infrastructure,GBR,Other scheduled passenger land transport n_e_c_
 public infrastructure,GBR,Passenger air transport
 public infrastructure,GBR,Passenger inland water transport
@@ -3624,108 +3624,108 @@ public services,GBR,General public administration activities
 public services,GBR,"Public security, law and order activities"
 remaining,GBR,Growing of horticultural specialities and nursery products
 remaining,GBR,"Hunting, trapping and game propagation, including related service activities"
-research,GBR,Adult and other education   
-research,GBR,General secondary education   
-research,GBR,Higher education   
-research,GBR,Market research and public opinion polling  
-research,GBR,Primary education   
-research,GBR,Research and experimental development on natural sciences and engineering  
-research,GBR,Research and experimental development on social sciences and humanities  
-research,GBR,Technical and vocational secondary education  
+research,GBR,Adult and other education
+research,GBR,General secondary education
+research,GBR,Higher education
+research,GBR,Market research and public opinion polling
+research,GBR,Primary education
+research,GBR,Research and experimental development on natural sciences and engineering
+research,GBR,Research and experimental development on social sciences and humanities
+research,GBR,Technical and vocational secondary education
 rice_pro,GBR,Growing of rice
 services,GBR,"Accounting, book-keeping and auditing activities; tax consultancy  "
 services,GBR,"Activities of business, employers and professional organisations  "
-services,GBR,Activities of other membership organisations  
-services,GBR,Activities of other transport agencies   
-services,GBR,Activities of travel agencies and tour operators; tourist assistance activities not elsewhere classified 
-services,GBR,Advertising   
-services,GBR,Agricultural service activities; landscape gardening Change of title for SIC(2003) 
+services,GBR,Activities of other membership organisations
+services,GBR,Activities of other transport agencies
+services,GBR,Activities of travel agencies and tour operators; tourist assistance activities not elsewhere classified
+services,GBR,Advertising
+services,GBR,Agricultural service activities; landscape gardening Change of title for SIC(2003)
 services,GBR,Ancillary activities related to printing
 services,GBR,"Animal husbandry service activities, except veterinary activities  "
-services,GBR,Architectural and engineering activities and related technical consultancy  
-services,GBR,Artistic and literary creation and interpretation  
+services,GBR,Architectural and engineering activities and related technical consultancy
+services,GBR,Artistic and literary creation and interpretation
 services,GBR,Auxiliary financial services
 services,GBR,Banks
-services,GBR,Bars   
-services,GBR,Botanical and zoological gardens and nature reserve activities  
-services,GBR,Business and management consultancy activities  
-services,GBR,Buying and selling of own real estate   
-services,GBR,Call centre activities   
-services,GBR,Camping sites and other provision of short-stay accommodation  
-services,GBR,Canteens   
-services,GBR,Catering   
+services,GBR,Bars
+services,GBR,Botanical and zoological gardens and nature reserve activities
+services,GBR,Business and management consultancy activities
+services,GBR,Buying and selling of own real estate
+services,GBR,Call centre activities
+services,GBR,Camping sites and other provision of short-stay accommodation
+services,GBR,Canteens
+services,GBR,Catering
 services,GBR,Collection and treatment of sewage
 services,GBR,Collection of hazardous waste
 services,GBR,Collection of non-hazardous waste
 services,GBR,Compulsory social security activities
 services,GBR,Construction of civil engineering constructions
-services,GBR,Courier activities other than national post activities  
-services,GBR,Data processing   
-services,GBR,Database activities   
+services,GBR,Courier activities other than national post activities
+services,GBR,Data processing
+services,GBR,Database activities
 services,GBR,Defence activities
 services,GBR,Demolition and wrecking of buildings; earth moving
-services,GBR,Development and selling of real estate   
-services,GBR,Fair and amusement park activities   
+services,GBR,Development and selling of real estate
+services,GBR,Fair and amusement park activities
 services,GBR,Fire service activities
 services,GBR,FISIM
 services,GBR,Foreign affairs
-services,GBR,Funeral and related activities   
-services,GBR,Gambling and betting activities   
-services,GBR,Hairdressing and other beauty treatment   
-services,GBR,Hardware consultancy   
-services,GBR,Hospital activities   
+services,GBR,Funeral and related activities
+services,GBR,Gambling and betting activities
+services,GBR,Hairdressing and other beauty treatment
+services,GBR,Hardware consultancy
+services,GBR,Hospital activities
 services,GBR,"Hotels and motels, with restaurant (licensed)  "
 services,GBR,"Hotels and motels, with restaurant (unlicensed)  "
 services,GBR,"Hotels and motels, without restaurant"
 services,GBR,Imputed rent of owner-occupied dwellings
-services,GBR,Industrial cleaning   
-services,GBR,Installation of electrical wiring and fittings   
-services,GBR,Insulation work activities   
-services,GBR,Investigation and security activities   
+services,GBR,Industrial cleaning
+services,GBR,Installation of electrical wiring and fittings
+services,GBR,Insulation work activities
+services,GBR,Investigation and security activities
 services,GBR,Justice and judicial activities
-services,GBR,Labour recruitment and provision of personnel  
+services,GBR,Labour recruitment and provision of personnel
 services,GBR,Landfill disposal of non-hazardous waste
-services,GBR,Legal activities   
+services,GBR,Legal activities
 services,GBR,Letting services of own dwellings
 services,GBR,Letting services of own property other than dwellings
-services,GBR,Library and archive activities   
+services,GBR,Library and archive activities
 services,GBR,Life insurance services
-services,GBR,Maintenance and repair of motor vehicles   
+services,GBR,Maintenance and repair of motor vehicles
 services,GBR,"Maintenance and repair of office, accounting and computing machinery  "
-services,GBR,Management activities of holding companies  
-services,GBR,Management of real estate on a fee or contract basis  
-services,GBR,Motion picture and video activities   
-services,GBR,Museum activities and preservation of historical sites and buildings  
-services,GBR,National post activities   
-services,GBR,News agency activities   
+services,GBR,Management activities of holding companies
+services,GBR,Management of real estate on a fee or contract basis
+services,GBR,Motion picture and video activities
+services,GBR,Museum activities and preservation of historical sites and buildings
+services,GBR,National post activities
+services,GBR,News agency activities
 services,GBR,Non-life insurance services
-services,GBR,Operation of arts facilities   
-services,GBR,Operation of sports arenas and stadiums   
+services,GBR,Operation of arts facilities
+services,GBR,Operation of sports arenas and stadiums
 services,GBR,Other business activities n_e_c_
-services,GBR,Other computer related activities   
-services,GBR,Other construction work involving special trades  
-services,GBR,Other entertainment activities not elsewhere classified  
+services,GBR,Other computer related activities
+services,GBR,Other construction work involving special trades
+services,GBR,Other entertainment activities not elsewhere classified
 services,GBR,Other financial intermediation services
-services,GBR,Other human health activities   
-services,GBR,Other publishing   
-services,GBR,Other recreational activities not elsewhere classified  
-services,GBR,Other retail sale of new goods in specialised stores  
-services,GBR,Other service activities not elsewhere classified  
-services,GBR,Other sporting activities   
+services,GBR,Other human health activities
+services,GBR,Other publishing
+services,GBR,Other recreational activities not elsewhere classified
+services,GBR,Other retail sale of new goods in specialised stores
+services,GBR,Other service activities not elsewhere classified
+services,GBR,Other sporting activities
 services,GBR,Other wholesale
-services,GBR,Packaging activities   
+services,GBR,Packaging activities
 services,GBR,"Painting,  Glazing"
 services,GBR,Pension funding services
-services,GBR,Photographic activities   
-services,GBR,Physical well-being activities   
+services,GBR,Photographic activities
+services,GBR,Physical well-being activities
 services,GBR,"Plumbing, heat and air-conditioning installation"
 services,GBR,Pre-press activities
 services,GBR,Private households as employers of domestic staff
-services,GBR,Publishing of books   
-services,GBR,Publishing of journals and periodicals   
-services,GBR,Publishing of newspapers   
-services,GBR,Publishing of sound recordings   
-services,GBR,Radio and television activities   
+services,GBR,Publishing of books
+services,GBR,Publishing of journals and periodicals
+services,GBR,Publishing of newspapers
+services,GBR,Publishing of sound recordings
+services,GBR,Radio and television activities
 services,GBR,Real estate agency services on a fee or contract basis
 services,GBR,Recycling of aluminium waste and other non-ferrous waste
 services,GBR,Recycling of electric appliances other than white goods
@@ -3736,78 +3736,78 @@ services,GBR,"Recycling of steel and iron waste and scrap, incl_ automobiles"
 services,GBR,Recycling of textiles
 services,GBR,"Recycling of white good appliances (washing machines, refrigerators, etc_)"
 services,GBR,Recycling of wood products
-services,GBR,Renting of agricultural machinery and equipment  
-services,GBR,Renting of automobiles   
-services,GBR,Renting of construction and civil engineering machinery and equipment  
-services,GBR,Renting of construction or demolition equipment with operator  
-services,GBR,Renting of office machinery and equipment including computers   
-services,GBR,Renting of other machinery and equipment not elsewhere classified  
-services,GBR,Renting of other transport equipment   
-services,GBR,Renting of personal and household goods not elsewhere classified  
-services,GBR,Repair not elsewhere classified   
+services,GBR,Renting of agricultural machinery and equipment
+services,GBR,Renting of automobiles
+services,GBR,Renting of construction and civil engineering machinery and equipment
+services,GBR,Renting of construction or demolition equipment with operator
+services,GBR,Renting of office machinery and equipment including computers
+services,GBR,Renting of other machinery and equipment not elsewhere classified
+services,GBR,Renting of other transport equipment
+services,GBR,Renting of personal and household goods not elsewhere classified
+services,GBR,Repair not elsewhere classified
 services,GBR,"Repair of boots, shoes and other articles of leather  "
-services,GBR,Repair of electrical household goods   
+services,GBR,Repair of electrical household goods
 services,GBR,"Repair of watches, clocks and jewellery   "
-services,GBR,Reproduction of computer media   
-services,GBR,Reproduction of sound recording   
-services,GBR,Reproduction of video recording   
-services,GBR,Restaurants   
-services,GBR,Retail sale in non-specialised stores   
-services,GBR,Retail sale not in stores   
-services,GBR,Retail sale of automotive fuel   
+services,GBR,Reproduction of computer media
+services,GBR,Reproduction of sound recording
+services,GBR,Reproduction of video recording
+services,GBR,Restaurants
+services,GBR,Retail sale in non-specialised stores
+services,GBR,Retail sale not in stores
+services,GBR,Retail sale of automotive fuel
 services,GBR,"Retail sale of food, beverages and  tobacco in specialised stores  "
 services,GBR,"Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles "
-services,GBR,Retail sale of second-hand goods in stores  
-services,GBR,Sale of motor vehicle parts and accessories  
-services,GBR,Sale of motor vehicles   
+services,GBR,Retail sale of second-hand goods in stores
+services,GBR,Sale of motor vehicle parts and accessories
+services,GBR,Sale of motor vehicles
 services,GBR,"Sale, maintenance and repair of motorcycles and related parts and accessories "
 services,GBR,"Sanitation, remediation and similar activities   "
 services,GBR,Secretarial and translation services
 services,GBR,"Service activities incidental to oil and gas extraction, excluding surveying"
-services,GBR,Social work activities   
-services,GBR,Software consultancy and supply   
-services,GBR,Storage and warehousing   
-services,GBR,Taxi operation   
-services,GBR,Technical testing and analysis   
-services,GBR,Telecommunications   
+services,GBR,Social work activities
+services,GBR,Software consultancy and supply
+services,GBR,Storage and warehousing
+services,GBR,Taxi operation
+services,GBR,Technical testing and analysis
+services,GBR,Telecommunications
 services,GBR,Test drilling and boring
-services,GBR,Veterinary activities   
-services,GBR,Washing and dry cleaning of textile and fur products  
+services,GBR,Veterinary activities
+services,GBR,Washing and dry cleaning of textile and fur products
 services,GBR,Waste incineration of non-hazardous waste with energy recovery
 services,GBR,Waste incineration of non-hazardous waste without energy recovery
-services,GBR,Wholesale of agricultural raw materials and live animals  
+services,GBR,Wholesale of agricultural raw materials and live animals
 services,GBR,"Wholesale of computers, office machinery and equipment, mining, construction and civil engineering equipment  "
 services,GBR,"Wholesale of food, beverages and tobacco  "
-services,GBR,Wholesale of household goods   
+services,GBR,Wholesale of household goods
 services,GBR,"Wholesale of non-agricultural intermediate products, waste and scrap "
-services,GBR,Wholesale on a fee or contract basis   
-sugar,GBR,Manufacture of sugar   
+services,GBR,Wholesale on a fee or contract basis
+sugar,GBR,Manufacture of sugar
 sugarcrops,GBR,Growing of sugar beet and sugar cane
-transport,GBR,Activities of trade unions   
-transport,GBR,Cargo handling   
+transport,GBR,Activities of trade unions
+transport,GBR,Cargo handling
 transport,GBR,Freight air transport
 transport,GBR,Freight rail transport and other transport via railways
 transport,GBR,Freight sea and coastal water transport
-transport,GBR,Freight transport by road   
+transport,GBR,Freight transport by road
 transport,GBR,Other inland water transport
-transport,GBR,Other supporting air transport activities   
-transport,GBR,Other supporting land transport activities   
-transport,GBR,Other supporting water transport activities   
+transport,GBR,Other supporting air transport activities
+transport,GBR,Other supporting land transport activities
+transport,GBR,Other supporting water transport activities
 transport,GBR,Re-import
 transport,GBR,Space transport
-transport,GBR,Transport via pipelines   
+transport,GBR,Transport via pipelines
 water,GBR,"Collection, purification and distribution of water  "
-water,GBR,Construction of water projects   
-water,GBR,Steam and hot water supply   
+water,GBR,Construction of water projects
+water,GBR,Steam and hot water supply
 wood processing,GBR,Joinery installation
-wood processing,GBR,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard 
-wood processing,GBR,Manufacture of other articles of paper and paperboard not elsewhere classified  
-wood processing,GBR,Manufacture of other products of wood   
-wood processing,GBR,Manufacture of paper and paperboard   
-wood processing,GBR,Manufacture of paper stationery   
-wood processing,GBR,Manufacture of pulp   
-wood processing,GBR,Manufacture of wallpaper   
-wood processing,GBR,Manufacture of wooden containers   
+wood processing,GBR,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard
+wood processing,GBR,Manufacture of other articles of paper and paperboard not elsewhere classified
+wood processing,GBR,Manufacture of other products of wood
+wood processing,GBR,Manufacture of paper and paperboard
+wood processing,GBR,Manufacture of paper stationery
+wood processing,GBR,Manufacture of pulp
+wood processing,GBR,Manufacture of wallpaper
+wood processing,GBR,Manufacture of wooden containers
 wood processing,GBR,"Saw milling and planing of wood, impregnation of wood  "
 alcohol,GEO,Alcoholic beverages
 buildings,GEO,General construction work for buildings and civil engineering work
@@ -3833,7 +3833,7 @@ manufacturing,GEO,Other non-metallic mineral products
 manufacturing,GEO,"Radio, television and communication equipment and apparatus; medical, precision and optical instruments, watches and clocks"
 manufacturing,GEO,Rubber and plastic products
 manufacturing,GEO,Steam and hot water supply services
-manufacturing,GEO,Textiles and wearing apparel; furs 
+manufacturing,GEO,Textiles and wearing apparel; furs
 milling,GEO,"Bread, fresh pastry goods and cakes; rusks and biscuits; preserved pastry goods and cakes"
 milling,GEO,"Grain mill products, starches and starch products; prepared animal feeds"
 oils,GEO,Animal and vegetable oils and fats
@@ -4734,7 +4734,7 @@ services,IRN,Air transport services
 services,IRN,Banking services
 services,IRN,Beauty & physical well-being services
 services,IRN,Compulsory social security services
-services,IRN,Food & beverage serving services 
+services,IRN,Food & beverage serving services
 services,IRN,Gardening products
 services,IRN,Hospital services
 services,IRN,Insurance and pension services
@@ -4847,14 +4847,14 @@ wood processing,ISL,Wood and Paper
 alcohol,ISR,"Manufacture of alcoholic beverages, beer and tobacco products  "
 buildings,ISR,"Building and maintenance  of ships, aircraft and other transport equipment  "
 buildings,ISR,"Buildings for public and business services (business buildings, hotels, institutions, etc_)"
-buildings,ISR,Buildings for transport and other construction works    
+buildings,ISR,Buildings for transport and other construction works
 buildings,ISR,Ownership of dwellings
-buildings,ISR,Residential buildings  
+buildings,ISR,Residential buildings
 cottn_pro,ISR,Growing of cotton
 crops,ISR,Growing of other cereals and pulses
 crops,ISR,Growing of other field crops (including groundnuts)
 crops,ISR,Growing of wheat
-fertilizers,ISR,Manufacture of basic industrial chemicals and fertilizers 
+fertilizers,ISR,Manufacture of basic industrial chemicals and fertilizers
 fishery,ISR,Pond culture fisheries
 fishery,ISR,Shore and lake fisheries
 foddr,ISR,Growing of rough fodder
@@ -4882,10 +4882,10 @@ manufacturing,ISR,Foundries of iron and steel  and of non-ferrous metals
 manufacturing,ISR,"Manufacture of agricultural and forestry machinery, parts and maintenance thereof"
 manufacturing,ISR,Manufacture of automatic data- processing machinery (computers)
 manufacturing,ISR,Manufacture of basic iron and steel
-manufacturing,ISR,Manufacture of bedclothes and bedspreads and of other textile products 
+manufacturing,ISR,Manufacture of bedclothes and bedspreads and of other textile products
 manufacturing,ISR,"Manufacture of builders' carpentry and joinery, and of wood products n_e_c_"
 manufacturing,ISR,"Manufacture of cars and motorcycles, and parts thereof  "
-manufacturing,ISR,Manufacture of cement  and its products 
+manufacturing,ISR,Manufacture of cement  and its products
 manufacturing,ISR,Manufacture of chemical products n_e_c_
 manufacturing,ISR,"Manufacture of cutlery, and cutting and hand tools"
 manufacturing,ISR,Manufacture of data- communications equipment and of domestic electronic equipment
@@ -4905,7 +4905,7 @@ manufacturing,ISR,"Manufacture of insulated wire and  cables, cells and batterie
 manufacturing,ISR,"Manufacture of jewellery, and goldsmith's and silversmith's articles"
 manufacturing,ISR,Manufacture of knitted fabrics and of knitted wearing apparel
 manufacturing,ISR,Manufacture of medical and surgical equipment
-manufacturing,ISR,Manufacture of medical equipment  and disposable and other medical articles 
+manufacturing,ISR,Manufacture of medical equipment  and disposable and other medical articles
 manufacturing,ISR,Manufacture of metal  and plastic furniture
 manufacturing,ISR,Manufacture of metal pipes
 manufacturing,ISR,Manufacture of metal products n_e_c_ and n_s_
@@ -4915,7 +4915,7 @@ manufacturing,ISR,Manufacture of office machinery
 manufacturing,ISR,Manufacture of optical instruments and photographic equipment
 manufacturing,ISR,Manufacture of outerwear (except knitted)
 manufacturing,ISR,Manufacture of paints and varnishes
-manufacturing,ISR,Manufacture of petrochemicals and  man-made fibres 
+manufacturing,ISR,Manufacture of petrochemicals and  man-made fibres
 manufacturing,ISR,Manufacture of pharmaceutical  products for human and veterinary uses
 manufacturing,ISR,Manufacture of plastic boards and pipes
 manufacturing,ISR,"Manufacture of plastic containers and bottles, products from armored plastic and plastic products for kitchen "
@@ -4937,9 +4937,9 @@ manufacturing,ISR,Metal processing (metal workshops)
 manufacturing,ISR,Processing of stone and non-metallic mineral products n_e_c_
 manufacturing,ISR,"Spinning, winding and interweaving of yarns (incl_ wool)"
 manufacturing,ISR,Tanneries
-manufacturing,ISR,Trucks and trains 
+manufacturing,ISR,Trucks and trains
 manufacturing,ISR,"Weaving of fabrics, terry  towels and carpets "
-milling,ISR,Bakeries and pastry products     
+milling,ISR,Bakeries and pastry products
 milling,ISR,Manufacture of grain- mill products
 oils,ISR,"Manufacture of edible oils, margarine and oil products"
 others,ISR,Cocoa beans (imports)
@@ -4948,7 +4948,7 @@ others,ISR,Green coffee (imports)
 others,ISR,Growing of bananas
 others,ISR,Growing of citrus
 others,ISR,Growing of grapes
-others,ISR,Growing of nuts 
+others,ISR,Growing of nuts
 others,ISR,Growing of olives
 others,ISR,Growing of pome fruits
 others,ISR,Growing of seeds and nursery products
@@ -4969,7 +4969,7 @@ primary non-agricultural products,ISR,Mining and agglomeration of hard coal
 primary non-agricultural products,ISR,Quarrying of stone and sand
 primary non-agricultural products,ISR,Rough diamonds (imports)
 public infrastructure,ISR,"Buses, taxis, underground railways and cable cars"
-public services,ISR,Public administration 
+public services,ISR,Public administration
 public services,ISR,"Welfare and social work (non-profit institutions, general government and commercial)    "
 remaining,ISR,"Gardening, and mixed and unclassified farming"
 remaining,ISR,"Growing of flowers, garden plants and lawns"
@@ -4981,34 +4981,34 @@ services,ISR,"Architectural, engineering and other technical activities"
 services,ISR,Banking and other financial institutions
 services,ISR,"Business consultation, market research and public-opinion polling"
 services,ISR,Construction for agriculture and manufacturing
-services,ISR,Health services (non-profit institutions) general government and commercial)    
+services,ISR,Health services (non-profit institutions) general government and commercial)
 services,ISR,Hotels and accommodation services
-services,ISR,Imputed bank services and general expenses   
+services,ISR,Imputed bank services and general expenses
 services,ISR,Insurance and social insurance funds
 services,ISR,"Labour recruitment, and security and cleaning activities "
 services,ISR,Legal and accounting services
 services,ISR,Maintenance and repair  of motor vehicles
 services,ISR,Photographic activities and other business activities n_e_c_
 services,ISR,Port and airport services
-services,ISR,Post and courier activities 
+services,ISR,Post and courier activities
 services,ISR,"Printing, publishing and reproduction of recorded media "
 services,ISR,"Publishing of books, pamphlets and other publications"
 services,ISR,Publishing of periodicals n_e_c_
 services,ISR,Real-estate activities
 services,ISR,"Recreational, cultural and sporting activities"
 services,ISR,"Renting of machinery and equipment, and of personal and household goods"
-services,ISR,Restaurant and dining services 
+services,ISR,Restaurant and dining services
 services,ISR,"Sanitation services, services for households by domestic personnel and other personal services  "
 services,ISR,"Social and community institutions, and religious services "
 services,ISR,Soil preparation
 services,ISR,Telecommunications
 sugar,ISR,Manufacture of sugar
 transport,ISR,Air transport
-transport,ISR,Other transport services      
+transport,ISR,Other transport services
 transport,ISR,Re-export
 transport,ISR,Water transport
-transport,ISR,Wholesale and retail trade 
-water,ISR,Construction for water supply and for electricity distribution 
+transport,ISR,Wholesale and retail trade
+water,ISR,Construction for water supply and for electricity distribution
 water,ISR,Water
 wood processing,ISR,Basic manufacture of paper and cardboard
 wood processing,ISR,Manufacture of paper and cardboard products
@@ -5203,7 +5203,7 @@ livst_chick,JPN,Fowls and broilers
 livst_egg,JPN,Hen eggs
 livst_milk,JPN,Dairy cattle farming
 livst_pig,JPN,Hogs
-livst_rum,JPN,Beef cattle 
+livst_rum,JPN,Beef cattle
 livst_rum,JPN,Other livestock
 manufacturing,JPN,Abrasive
 manufacturing,JPN,Aircrafts
@@ -5244,7 +5244,7 @@ manufacturing,JPN,Electron tubes
 manufacturing,JPN,Electronic computing equipment (accessory equipment)
 manufacturing,JPN,Electronic computing equipment (except personal computers)
 manufacturing,JPN,Engines
-manufacturing,JPN,Fabricated textiles for medical use 
+manufacturing,JPN,Fabricated textiles for medical use
 manufacturing,JPN,Ferro alloys
 manufacturing,JPN,Fiber yarns
 manufacturing,JPN,Food processing machinery
@@ -5810,7 +5810,7 @@ services,KGZ,Insurance and others
 services,KGZ,Lending services
 services,KGZ,Mail and communication
 services,KGZ,"Operation, maintenance and repair of cars, repair of personal effects and household appliances"
-services,KGZ,other 
+services,KGZ,other
 services,KGZ,Other Agri_ Services
 services,KGZ,Other construction
 services,KGZ,Services ensuring environmental protection
@@ -5968,7 +5968,7 @@ manufacturing,KWT,Manufacture of plastic products not elsewhere classified
 manufacturing,KWT,Manufacture of rubber products
 manufacturing,KWT,Manufacture of Textiles
 manufacturing,KWT,"Manufacture of Wearing apparel, except footwear"
-manufacturing,KWT,Non-ferrous metal basic industries 
+manufacturing,KWT,Non-ferrous metal basic industries
 manufacturing,KWT,Other Manufacturing industries
 Primary Inputs_Compensation of employees D_1,KWT,Primary Inputs_Compensation of employees D_1
 Primary Inputs_Consumption of fixed capital K_1,KWT,Primary Inputs_Consumption of fixed capital K_1
@@ -5976,34 +5976,34 @@ Primary Inputs_Net mixed income B_3n,KWT,Primary Inputs_Net mixed income B_3n
 Primary Inputs_Net operating surplus B_2n,KWT,Primary Inputs_Net operating surplus B_2n
 Primary Inputs_Subsidies on production D_39,KWT,Primary Inputs_Subsidies on production D_39
 Primary Inputs_Taxes on production D_29,KWT,Primary Inputs_Taxes on production D_29
-primary non-agricultural products,KWT,Quarring & other mining 
+primary non-agricultural products,KWT,Quarring & other mining
 remaining,KWT,Manufacture of Leather
 research,KWT,Education services
 services,KWT,Business services except machinery & equipment rental & leasing
-services,KWT,Communication 
+services,KWT,Communication
 services,KWT,Constraction
-services,KWT,Domestic services 
-services,KWT,Financial institutions 
+services,KWT,Domestic services
+services,KWT,Financial institutions
 services,KWT,"Hotels, rooming houses, camps & other loding places"
 services,KWT,Insurance
 services,KWT,"Laundries, laudry services, & cleaning & dyeing plants"
-services,KWT,Machinery & equipment rental & leasing 
+services,KWT,Machinery & equipment rental & leasing
 services,KWT,"Medical, dental & other health services"
 services,KWT,Miscellaneous personal services
 services,KWT,Motion picture & other entertainment services
 services,KWT,"Printing, Publishing and allied industries "
 services,KWT,Real estate
-services,KWT,Repair services N_E_C 
+services,KWT,Repair services N_E_C
 services,KWT,"Restaurants, cafes & other eating & drinking places"
 services,KWT,Sanitary & similer services
 transport,KWT,Air transport
 transport,KWT,Land transport
 transport,KWT,Manufacture of transport equipment
 transport,KWT,Reexport
-transport,KWT,Services allied to transport 
+transport,KWT,Services allied to transport
 transport,KWT,Water transport
 transport,KWT,Wholesale trade and Retail trade
-water,KWT,Water works & supply 
+water,KWT,Water works & supply
 wood processing,KWT,Manufacture of paper and paper products
 wood processing,KWT,Manufacture of wood and cork products except furniture
 agriculture,LAO,Agriculture
@@ -7000,32 +7000,32 @@ transport,MRT,Transport Equipment
 transport,MRT,Wholesale Trade
 water,MRT,"Electricity, Gas and Water"
 wood processing,MRT,Wood and Paper
-alcohol,MUS,Beverages 
-chemicals,MUS,Basic chemicals 
-chemicals,MUS,Other chemical products; man-made fibres 
+alcohol,MUS,Beverages
+chemicals,MUS,Basic chemicals
+chemicals,MUS,Other chemical products; man-made fibres
 crops,MUS,"Products of agriculture, horticulture and market gardening "
-fishery,MUS,Fish and other fishing products 
-food processing,MUS,Dairy products 
+fishery,MUS,Fish and other fishing products
+food processing,MUS,Dairy products
 food processing,MUS,"Meat, fish, fruit, vegetables, oils and fats "
-food processing,MUS,Tobacco products 
-forestry,MUS,Forestry and logging products 
-fuel,MUS,Coke oven products; refined petroleum products; nuclear fuel 
-livestock,MUS,Live animals and animal products 
-manufacturing,MUS,Basic metals 
-manufacturing,MUS,Electrical machinery and apparatus 
+food processing,MUS,Tobacco products
+forestry,MUS,Forestry and logging products
+fuel,MUS,Coke oven products; refined petroleum products; nuclear fuel
+livestock,MUS,Live animals and animal products
+manufacturing,MUS,Basic metals
+manufacturing,MUS,Electrical machinery and apparatus
 manufacturing,MUS,"Fabricated metal products, except machinery and equipment "
-manufacturing,MUS,Furniture; other transportable goods n_e_c_ 
-manufacturing,MUS,General purpose machinery 
-manufacturing,MUS,Glass and glass products and other non-metallic products n_e_c_ 
-manufacturing,MUS,Knitted or crocheted fabrics; wearing apparel 
-manufacturing,MUS,Leather and leather products; footwear 
+manufacturing,MUS,Furniture; other transportable goods n_e_c_
+manufacturing,MUS,General purpose machinery
+manufacturing,MUS,Glass and glass products and other non-metallic products n_e_c_
+manufacturing,MUS,Knitted or crocheted fabrics; wearing apparel
+manufacturing,MUS,Leather and leather products; footwear
 manufacturing,MUS,"Medical appliances, precision and optical instruments, watches and clocks "
 manufacturing,MUS,"Office, accounting and computing machinery "
 manufacturing,MUS,"Radio, television and communication equipment and apparatus "
-manufacturing,MUS,Rubber and plastics products 
-manufacturing,MUS,Special purpose machinery 
-manufacturing,MUS,Textile articles other than apparel 
-manufacturing,MUS,Yarn and thread; woven and tufted textile fabrics 
+manufacturing,MUS,Rubber and plastics products
+manufacturing,MUS,Special purpose machinery
+manufacturing,MUS,Textile articles other than apparel
+manufacturing,MUS,Yarn and thread; woven and tufted textile fabrics
 milling,MUS,"Grain mill products, starches and starch products; other food products "
 Primary Inputs_Compensation of employees D_1,MUS,Primary Inputs_Compensation of employees D_1
 Primary Inputs_Consumption of fixed capital K_1,MUS,Primary Inputs_Consumption of fixed capital K_1
@@ -7033,44 +7033,44 @@ Primary Inputs_Net mixed income B_3n,MUS,Primary Inputs_Net mixed income B_3n
 Primary Inputs_Net operating surplus B_2n,MUS,Primary Inputs_Net operating surplus B_2n
 Primary Inputs_Subsidies on production D_39,MUS,Primary Inputs_Subsidies on production D_39
 Primary Inputs_Taxes on production D_29,MUS,Primary Inputs_Taxes on production D_29
-primary non-agricultural products,MUS,Coal and lignite; peat 
-primary non-agricultural products,MUS,Crude petroleum and natural gas 
-primary non-agricultural products,MUS,Metal ores 
-primary non-agricultural products,MUS,Other minerals 
+primary non-agricultural products,MUS,Coal and lignite; peat
+primary non-agricultural products,MUS,Crude petroleum and natural gas
+primary non-agricultural products,MUS,Metal ores
+primary non-agricultural products,MUS,Other minerals
 primary non-agricultural products,MUS,"Stone, sand and clay "
-public services,MUS,Public administration and other services to the community as a whole; compulsory social security services 
-research,MUS,Education services 
+public services,MUS,Public administration and other services to the community as a whole; compulsory social security services
+research,MUS,Education services
 research,MUS,"Other professional, scientific and technical services "
 research,MUS,"Professional, scientific and technical services "
-services,MUS,C_I_F/F_O_B adjustment 
-services,MUS,Constructions and Construction Services 
-services,MUS,Domestic services 
-services,MUS,Electricity distribution services; gas and water distribution services through mains 
+services,MUS,C_I_F/F_O_B adjustment
+services,MUS,Constructions and Construction Services
+services,MUS,Domestic services
+services,MUS,Electricity distribution services; gas and water distribution services through mains
 services,MUS,"Financial intermediation, insurance and auxiliary services "
-services,MUS,Health and social services 
-services,MUS,Leasing or rental services without operator 
-services,MUS,Lodging; food and beverage serving services 
-services,MUS,Maintenance and repair services 
-services,MUS,Other services 
-services,MUS,Postal and courier services 
-services,MUS,Real estate services 
+services,MUS,Health and social services
+services,MUS,Leasing or rental services without operator
+services,MUS,Lodging; food and beverage serving services
+services,MUS,Maintenance and repair services
+services,MUS,Other services
+services,MUS,Postal and courier services
+services,MUS,Real estate services
 services,MUS,"Recreational, cultural and sporting services "
-services,MUS,Research and development services 
-services,MUS,Services of membership organizations 
+services,MUS,Research and development services
+services,MUS,Services of membership organizations
 services,MUS,"Sewage and refuse disposal, sanitation and other environmental protection services "
-services,MUS,Support services 
-services,MUS,Telecommunications services; information retrieval and supply services 
-services,MUS,Wastes or scraps 
-sugar,MUS,Sugar 
-sugr_cane,MUS,Sugar Cane 
-transport,MUS,Air transport services 
-transport,MUS,Land transport services 
+services,MUS,Support services
+services,MUS,Telecommunications services; information retrieval and supply services
+services,MUS,Wastes or scraps
+sugar,MUS,Sugar
+sugr_cane,MUS,Sugar Cane
+transport,MUS,Air transport services
+transport,MUS,Land transport services
 transport,MUS,Re-import
-transport,MUS,Retail trade services 
-transport,MUS,Supporting and auxiliary transport services 
-transport,MUS,Transport equipment 
-transport,MUS,Water transport services 
-transport,MUS,Wholesale trade services 
+transport,MUS,Retail trade services
+transport,MUS,Supporting and auxiliary transport services
+transport,MUS,Transport equipment
+transport,MUS,Water transport services
+transport,MUS,Wholesale trade services
 wood processing,MUS,"Products of wood, cork, straw and plaiting materials "
 wood processing,MUS,"Pulp, paper and paper products; printed matter and related articles "
 agriculture,MWI,Agriculture
@@ -7134,7 +7134,7 @@ manufacturing,MYS,Cycles & motorcycles
 manufacturing,MYS,Drugs & medicines
 manufacturing,MYS,Elect_ appliances & houseware
 manufacturing,MYS,Footwear
-manufacturing,MYS,Furniture 
+manufacturing,MYS,Furniture
 manufacturing,MYS,Household machinery
 manufacturing,MYS,Industrial machinery
 manufacturing,MYS,Instruments & clocks
@@ -7864,7 +7864,7 @@ manufacturing,PER,Machinery and Electrical Equipment
 manufacturing,PER,Non-electrical machinery
 manufacturing,PER,Nonferrous Metal Products
 manufacturing,PER,Nonmetallic Mineral Products
-manufacturing,PER,Other manufactured Products 
+manufacturing,PER,Other manufactured Products
 manufacturing,PER,Pharmaceutical products and Drugs
 manufacturing,PER,Products of Printing and Publishing
 manufacturing,PER,Rubber & Plastic Products
@@ -8612,7 +8612,7 @@ livestock,SGP,Livestock
 manufacturing,SGP,Aircraft
 manufacturing,SGP,Aquarium fish
 manufacturing,SGP,Audio & video equipment
-manufacturing,SGP,Basic iron & steel 
+manufacturing,SGP,Basic iron & steel
 manufacturing,SGP,"Bread, biscuits & confectionery"
 manufacturing,SGP,Bricks & earth-baked products
 manufacturing,SGP,Capacitors & resistors
@@ -8697,7 +8697,7 @@ services,SGP,Banks & finance companies
 services,SGP,Broadcasting & entertainment services
 services,SGP,Cinema services
 services,SGP,Crane & container services
-services,SGP,Domestic services 
+services,SGP,Domestic services
 services,SGP,Employment & labour contracting
 services,SGP,Environmental health services
 services,SGP,Food & beverage services
@@ -9744,8 +9744,8 @@ water,TUR,"Electrical energy, gas, steam and hot water"
 wood processing,TUR,"Pulp, paper and paper products"
 wood processing,TUR,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials
 alcohol,TWN,Alcoholic Beverages
-buildings,TWN,Nonresidential Building Construction 
-buildings,TWN,Residential Building Construction 
+buildings,TWN,Nonresidential Building Construction
+buildings,TWN,Residential Building Construction
 chemicals,TWN,Basic Industrial Chemicals
 chemicals,TWN,Other Chemical Materials
 chemicals,TWN,Other Chemical products
@@ -9857,10 +9857,10 @@ remaining,TWN,Wool & Worsted Fabrics
 research,TWN,Educational Training Services
 research,TWN,Research & Development Services
 rice_pro,TWN,Paddy Rice
-rice_pro,TWN,Rice 
+rice_pro,TWN,Rice
 services,TWN,Advertising Services
 services,TWN,Agricultural Services
-services,TWN,Commodity Brokerage 
+services,TWN,Commodity Brokerage
 services,TWN,Consulting Services
 services,TWN,Data Storage Media
 services,TWN,Environmental Sanitary Services
@@ -9873,7 +9873,7 @@ services,TWN,Insurance
 services,TWN,Legal and Accounting Services
 services,TWN,Medical & Health Services
 services,TWN,"Newspapers, Books & Magazines"
-services,TWN,Other Construction 
+services,TWN,Other Construction
 services,TWN,Other Personal Services
 services,TWN,Other Repair Services
 services,TWN,Other Social Services
@@ -9899,7 +9899,7 @@ sugar,TWN,Sugar
 sugr_cane,TWN,Sugarcane
 transport,TWN,Air Transportation
 transport,TWN,International Trade
-transport,TWN,Other Land Transportation 
+transport,TWN,Other Land Transportation
 transport,TWN,Other Transport Equitment
 transport,TWN,Railroad Vehicle Transportation
 transport,TWN,Re-export & Re-import
@@ -10212,278 +10212,278 @@ transport,URY,"Wholesale trade services, except automotive"
 water,URY,Drinking water
 wood processing,URY,Paper and cardboard and derived products
 wood processing,URY,"Sawing products, wood products, except furniture"
-alcohol,USA,Breweries                                                                                                                    
-alcohol,USA,Distilleries                                                                                                                 
-alcohol,USA,Wineries                                                                                                                     
+alcohol,USA,Breweries
+alcohol,USA,Distilleries
+alcohol,USA,Wineries
 buildings,USA,Owner-occupied dwellings
-cereals,USA,Grain farming                                                                                                                
-chemicals,USA,All other basic inorganic chemical manufacturing                                                                             
-chemicals,USA,Other basic organic chemical manufacturing                                                                                   
+cereals,USA,Grain farming
+chemicals,USA,All other basic inorganic chemical manufacturing
+chemicals,USA,Other basic organic chemical manufacturing
 cottn_pro,USA,Cotton farming
-crops,USA,All other crop farming                                                                                                       
+crops,USA,All other crop farming
 fertilizers,USA,Fertilizer manufacturing
-fishery,USA,Fishing                                                                                                                      
-food processing,USA,All other food manufacturing                                                                                                 
+fishery,USA,Fishing
+food processing,USA,All other food manufacturing
 food processing,USA,"Animal (except poultry) slaughtering, rendering, and processing"
-food processing,USA,Cheese manufacturing                                                                                                         
+food processing,USA,Cheese manufacturing
 food processing,USA,Chocolate and confectionery manufacturing from cacao beans
-food processing,USA,Coffee and tea manufacturing                                                                                                 
-food processing,USA,Confectionery manufacturing from purchased chocolate                                                                         
-food processing,USA,Dog and cat food manufacturing                                                                                               
+food processing,USA,Coffee and tea manufacturing
+food processing,USA,Confectionery manufacturing from purchased chocolate
+food processing,USA,Dog and cat food manufacturing
 food processing,USA,"Dry, condensed, and evaporated dairy product manufacturing"
-food processing,USA,Flavoring syrup and concentrate manufacturing                                                                                
-food processing,USA,Fluid milk and butter manufacturing                                                                                          
-food processing,USA,Frozen food manufacturing                                                                                                    
+food processing,USA,Flavoring syrup and concentrate manufacturing
+food processing,USA,Fluid milk and butter manufacturing
+food processing,USA,Frozen food manufacturing
 food processing,USA,"Fruit and vegetable canning, pickling, and drying                                                                             "
-food processing,USA,Ice cream and frozen dessert manufacturing                                                                                   
-food processing,USA,Mineral wool manufacturing                                                                                                   
-food processing,USA,Nonchocolate confectionery manufacturing                                                                                     
-food processing,USA,Other animal food manufacturing                                                                                              
-food processing,USA,Poultry processing                                                                                                           
-food processing,USA,Seafood product preparation and packaging                                                                                    
-food processing,USA,Seasoning and dressing manufacturing                                                                                         
-food processing,USA,Snack food manufacturing                                                                                                     
-food processing,USA,Soft drink and ice manufacturing                                                                                             
-food processing,USA,Tobacco product manufacturing                                                                                                
-food processing,USA,Tortilla manufacturing                                                                                                       
+food processing,USA,Ice cream and frozen dessert manufacturing
+food processing,USA,Mineral wool manufacturing
+food processing,USA,Nonchocolate confectionery manufacturing
+food processing,USA,Other animal food manufacturing
+food processing,USA,Poultry processing
+food processing,USA,Seafood product preparation and packaging
+food processing,USA,Seasoning and dressing manufacturing
+food processing,USA,Snack food manufacturing
+food processing,USA,Soft drink and ice manufacturing
+food processing,USA,Tobacco product manufacturing
+food processing,USA,Tortilla manufacturing
 forestry,USA,"Forest nurseries, forest products, and timber tracts                                                                         "
-forestry,USA,Logging                                                                                                                      
-fuel,USA,All other petroleum and coal products manufacturing                                                                          
-fuel,USA,Carbon black manufacturing                                                                                                   
-fuel,USA,Industrial gas manufacturing                                                                                                 
-fuel,USA,Natural gas distribution                                                                                                     
-fuel,USA,Petrochemical manufacturing                                                                                                  
-fuel,USA,Petroleum lubricating oil and grease manufacturing                                                                           
-fuel,USA,Petroleum refineries                                                                                                         
+forestry,USA,Logging
+fuel,USA,All other petroleum and coal products manufacturing
+fuel,USA,Carbon black manufacturing
+fuel,USA,Industrial gas manufacturing
+fuel,USA,Natural gas distribution
+fuel,USA,Petrochemical manufacturing
+fuel,USA,Petroleum lubricating oil and grease manufacturing
+fuel,USA,Petroleum refineries
 livestock,USA,"Animal production, except cattle and poultry and eggs                                                                        "
-livestock,USA,Cattle ranching and farming                                                                                                  
-livestock,USA,Poultry and egg production                                                                                                   
-livst_milk,USA,Dairy cattle and milk production                                                                                                              
-manufacturing,USA,Abrasive product manufacturing                                                                                               
-manufacturing,USA,Adhesive manufacturing                                                                                                       
-manufacturing,USA,Air and gas compressor manufacturing                                                                                         
+livestock,USA,Cattle ranching and farming
+livestock,USA,Poultry and egg production
+livst_milk,USA,Dairy cattle and milk production
+manufacturing,USA,Abrasive product manufacturing
+manufacturing,USA,Adhesive manufacturing
+manufacturing,USA,Air and gas compressor manufacturing
 manufacturing,USA,"Air conditioning, refrigeration, and warm air heating equipment manufacturing"
-manufacturing,USA,Air purification and ventilation equipment manufacturing                                                                                          
-manufacturing,USA,Aircraft engine and engine parts manufacturing                                                                               
-manufacturing,USA,Aircraft manufacturing                                                                                                       
-manufacturing,USA,Alkalies and chlorine manufacturing                                                                                          
-manufacturing,USA,All other chemical product and preparation manufacturing                                                                     
+manufacturing,USA,Air purification and ventilation equipment manufacturing
+manufacturing,USA,Aircraft engine and engine parts manufacturing
+manufacturing,USA,Aircraft manufacturing
+manufacturing,USA,Alkalies and chlorine manufacturing
+manufacturing,USA,All other chemical product and preparation manufacturing
 manufacturing,USA,"All other forging, stamping, and sintering                                                                                  "
 manufacturing,USA,All other miscellaneous electrical equipment and component manufacturing
-manufacturing,USA,All other miscellaneous manufacturing                                                                                        
-manufacturing,USA,All other textile product mills                                                                                
+manufacturing,USA,All other miscellaneous manufacturing
+manufacturing,USA,All other textile product mills
 manufacturing,USA,All other transportation equipment manufacturing
-manufacturing,USA,Alumina refining and primary aluminum production                                                                             
+manufacturing,USA,Alumina refining and primary aluminum production
 manufacturing,USA,Aluminum product manufacturing from purchased aluminum
-manufacturing,USA,Ammunition manufacturing                                                                                                     
-manufacturing,USA,Analytical laboratory instrument manufacturing                                                                               
+manufacturing,USA,Ammunition manufacturing
+manufacturing,USA,Analytical laboratory instrument manufacturing
 manufacturing,USA,Apparel accessories and other apparel manufacturing
 manufacturing,USA,Apparel knitting mills
 manufacturing,USA,"Arms, ordnance, and accessories manufacturing"
-manufacturing,USA,Artificial and synthetic fibers and filaments manufacturing                                                                  
-manufacturing,USA,Asphalt paving mixture and block manufacturing                                                                               
-manufacturing,USA,Asphalt shingle and coating materials manufacturing                                                                          
-manufacturing,USA,Audio and video equipment manufacturing                                                                                      
-manufacturing,USA,Automatic environmental control manufacturing                                                                                
-manufacturing,USA,Automobile manufacturing                                                                                                     
-manufacturing,USA,Ball and roller bearing manufacturing                                                                                        
-manufacturing,USA,Bare printed circuit board manufacturing                                                                                     
-manufacturing,USA,Biological product (except diagnostic) manufacturing                                                                         
-manufacturing,USA,Blind and shade manufacturing   
-manufacturing,USA,Boat building                                                                                                                
+manufacturing,USA,Artificial and synthetic fibers and filaments manufacturing
+manufacturing,USA,Asphalt paving mixture and block manufacturing
+manufacturing,USA,Asphalt shingle and coating materials manufacturing
+manufacturing,USA,Audio and video equipment manufacturing
+manufacturing,USA,Automatic environmental control manufacturing
+manufacturing,USA,Automobile manufacturing
+manufacturing,USA,Ball and roller bearing manufacturing
+manufacturing,USA,Bare printed circuit board manufacturing
+manufacturing,USA,Biological product (except diagnostic) manufacturing
+manufacturing,USA,Blind and shade manufacturing
+manufacturing,USA,Boat building
 manufacturing,USA,"Brick, tile, and other structural clay product manufacturing "
-manufacturing,USA,Broadcast and wireless communications equipment                                                                              
-manufacturing,USA,Broadwoven fabric mills                                                                                                      
+manufacturing,USA,Broadcast and wireless communications equipment
+manufacturing,USA,Broadwoven fabric mills
 manufacturing,USA,"Broom, brush, and mop manufacturing                                                                                          "
-manufacturing,USA,Carbon and graphite product manufacturing                                                                                    
-manufacturing,USA,Carpet and rug mills                                                                                                         
-manufacturing,USA,Cement manufacturing                                                                                                         
-manufacturing,USA,Clay and nonclay refractory manufacturing 
+manufacturing,USA,Carbon and graphite product manufacturing
+manufacturing,USA,Carpet and rug mills
+manufacturing,USA,Cement manufacturing
+manufacturing,USA,Clay and nonclay refractory manufacturing
 manufacturing,USA,"Coated and laminated paper, packaging paper and plastics film manufacturing                                                         "
 manufacturing,USA,"Coating, engraving, heat treating and allied activities                                                                      "
-manufacturing,USA,Communication and energy wire and cable manufacturing                                                                        
-manufacturing,USA,Computer storage device manufacturing                                                                                        
-manufacturing,USA,Computer terminals and other computer peripheral equipment manufacturing                                                                            
+manufacturing,USA,Communication and energy wire and cable manufacturing
+manufacturing,USA,Computer storage device manufacturing
+manufacturing,USA,Computer terminals and other computer peripheral equipment manufacturing
 manufacturing,USA,"Concrete pipe, brick, and block manufacturing"
-manufacturing,USA,Construction machinery manufacturing                                                                                         
+manufacturing,USA,Construction machinery manufacturing
 manufacturing,USA,Crown and closure manufacturing and metal stamping
-manufacturing,USA,Curtain and linen mills                                                                                                      
-manufacturing,USA,Custom roll forming                                                                                                          
-manufacturing,USA,Cut and sew apparel contractors                                                                                              
-manufacturing,USA,Cut stone and stone product manufacturing                                                                                    
+manufacturing,USA,Curtain and linen mills
+manufacturing,USA,Custom roll forming
+manufacturing,USA,Cut and sew apparel contractors
+manufacturing,USA,Cut stone and stone product manufacturing
 manufacturing,USA,"Cutlery, utensil, pot, and pan manufacturing "
-manufacturing,USA,Cutting tool and machine tool accessory manufacturing                                                                        
-manufacturing,USA,Dental equipment and supplies manufacturing                                                                                  
+manufacturing,USA,Cutting tool and machine tool accessory manufacturing
+manufacturing,USA,Dental equipment and supplies manufacturing
 manufacturing,USA,"Doll, toy, and game manufacturing                                                                                            "
-manufacturing,USA,Electric lamp bulb and part manufacturing                                                                                    
+manufacturing,USA,Electric lamp bulb and part manufacturing
 manufacturing,USA,Electricity and signal testing instruments manufacturing
-manufacturing,USA,Electromedical and electrotherapeutic apparatus manufacturing 
-manufacturing,USA,Electron tube manufacturing                                                                                                  
+manufacturing,USA,Electromedical and electrotherapeutic apparatus manufacturing
+manufacturing,USA,Electron tube manufacturing
 manufacturing,USA,Electronic and precision equipment repair and maintenance
 manufacturing,USA,"Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing                                          "
-manufacturing,USA,Electronic computer manufacturing                                                                                            
-manufacturing,USA,Electronic connector manufacturing                                                                                           
-manufacturing,USA,Fabric coating mills                                                                                                         
-manufacturing,USA,Fabricated pipe and pipe fitting manufacturing                                                                               
-manufacturing,USA,Farm machinery and equipment manufacturing                                                                                   
-manufacturing,USA,Ferrous metal foundries                                                                                                     
+manufacturing,USA,Electronic computer manufacturing
+manufacturing,USA,Electronic connector manufacturing
+manufacturing,USA,Fabric coating mills
+manufacturing,USA,Fabricated pipe and pipe fitting manufacturing
+manufacturing,USA,Farm machinery and equipment manufacturing
+manufacturing,USA,Ferrous metal foundries
 manufacturing,USA,"Fiber, yarn, and thread mills                                                                                                "
-manufacturing,USA,Flat glass manufacturing                                                                                                     
-manufacturing,USA,Fluid power process machinery                                                                                                
-manufacturing,USA,Footwear manufacturing                                                                                                       
+manufacturing,USA,Flat glass manufacturing
+manufacturing,USA,Fluid power process machinery
+manufacturing,USA,Footwear manufacturing
 manufacturing,USA,"Gasket, packing, and sealing device manufacturing                                                                            "
-manufacturing,USA,Glass container manufacturing                                                                                                
-manufacturing,USA,Glass product manufacturing made of purchased glass                                                                          
+manufacturing,USA,Glass container manufacturing
+manufacturing,USA,Glass product manufacturing made of purchased glass
 manufacturing,USA,Ground or treated mineral and earth manufacturing
-manufacturing,USA,Guided missile and space vehicle manufacturing                                                                               
-manufacturing,USA,Handtool manufacturing                                                                                                       
-manufacturing,USA,Hardware manufacturing                                                                                                       
+manufacturing,USA,Guided missile and space vehicle manufacturing
+manufacturing,USA,Handtool manufacturing
+manufacturing,USA,Hardware manufacturing
 manufacturing,USA,Heating equipment (except warm air furnaces) manufacturing
-manufacturing,USA,Heavy duty truck manufacturing                                                                                               
-manufacturing,USA,Household cooking appliance manufacturing                                                                                    
-manufacturing,USA,Household laundry equipment manufacturing                                                                                    
-manufacturing,USA,Household refrigerator and home freezer manufacturing                                                                        
-manufacturing,USA,In-vitro diagnostic substance manufacturing                                                                                  
-manufacturing,USA,Industrial mold manufacturing                                                                                                
-manufacturing,USA,Industrial process furnace and oven manufacturing                                                                            
+manufacturing,USA,Heavy duty truck manufacturing
+manufacturing,USA,Household cooking appliance manufacturing
+manufacturing,USA,Household laundry equipment manufacturing
+manufacturing,USA,Household refrigerator and home freezer manufacturing
+manufacturing,USA,In-vitro diagnostic substance manufacturing
+manufacturing,USA,Industrial mold manufacturing
+manufacturing,USA,Industrial process furnace and oven manufacturing
 manufacturing,USA,Industrial process variable instruments manufacturing
-manufacturing,USA,Institutional furniture manufacturing                                                                                        
+manufacturing,USA,Institutional furniture manufacturing
 manufacturing,USA,Iron and steel mills and ferroalloy manufacturing
-manufacturing,USA,Irradiation apparatus manufacturing                                                                                          
-manufacturing,USA,Jewelry and silverware manufacturing                                                                                         
-manufacturing,USA,Knit fabric mills                                                                                                            
-manufacturing,USA,Laboratory apparatus and furniture manufacturing                                                                             
+manufacturing,USA,Irradiation apparatus manufacturing
+manufacturing,USA,Jewelry and silverware manufacturing
+manufacturing,USA,Knit fabric mills
+manufacturing,USA,Laboratory apparatus and furniture manufacturing
 manufacturing,USA,"Laminated plastics plate, sheet (except packaging), and shape manufacturing "
-manufacturing,USA,Lawn and garden equipment manufacturing                                                                                      
-manufacturing,USA,Leather and hide tanning and finishing                                                                                       
-manufacturing,USA,Light truck and utility vehicle manufacturing 
-manufacturing,USA,Lighting fixture manufacturing                                                                                               
-manufacturing,USA,Lime and gypsum product manufacturing                                                                                        
-manufacturing,USA,Machine shops                                                                                                                
-manufacturing,USA,Magnetic and optical recording media manufacturing                                                                           
+manufacturing,USA,Lawn and garden equipment manufacturing
+manufacturing,USA,Leather and hide tanning and finishing
+manufacturing,USA,Light truck and utility vehicle manufacturing
+manufacturing,USA,Lighting fixture manufacturing
+manufacturing,USA,Lime and gypsum product manufacturing
+manufacturing,USA,Machine shops
+manufacturing,USA,Magnetic and optical recording media manufacturing
 manufacturing,USA,Manufactured home (mobile home) manufacturing
-manufacturing,USA,Material handling equipment manufacturing                                                                                    
-manufacturing,USA,Mattress manufacturing  
-manufacturing,USA,Mechanical power transmission equipment manufacturing                                                                        
-manufacturing,USA,Medicinal and botanical manufacturing                                                                                        
-manufacturing,USA,Men's and boys' cut and sew apparel manufacturing                                                                            
+manufacturing,USA,Material handling equipment manufacturing
+manufacturing,USA,Mattress manufacturing
+manufacturing,USA,Mechanical power transmission equipment manufacturing
+manufacturing,USA,Medicinal and botanical manufacturing
+manufacturing,USA,Men's and boys' cut and sew apparel manufacturing
 manufacturing,USA,Metal and other household furniture (except wood) manufacturing1
 manufacturing,USA,"Metal can, box, and other metal container (light gauge) manufacturing  "
-manufacturing,USA,Metal cutting and forming machine tool manufacturing 
-manufacturing,USA,Metal tank (heavy gauge) manufacturing                                                                                       
+manufacturing,USA,Metal cutting and forming machine tool manufacturing
+manufacturing,USA,Metal tank (heavy gauge) manufacturing
 manufacturing,USA,"Military armored vehicle, tank, and tank component manufacturing"
-manufacturing,USA,Mining and oil and gas field machinery manufacturing                                                                         
-manufacturing,USA,Miscellaneous nonmetallic mineral products                                                                                   
-manufacturing,USA,Motor and generator manufacturing                                                                                            
-manufacturing,USA,Motor home manufacturing                                                                                                     
-manufacturing,USA,Motor vehicle body manufacturing                                                                                             
-manufacturing,USA,Motor vehicle parts manufacturing                                                                                            
+manufacturing,USA,Mining and oil and gas field machinery manufacturing
+manufacturing,USA,Miscellaneous nonmetallic mineral products
+manufacturing,USA,Motor and generator manufacturing
+manufacturing,USA,Motor home manufacturing
+manufacturing,USA,Motor vehicle body manufacturing
+manufacturing,USA,Motor vehicle parts manufacturing
 manufacturing,USA,"Motorcycle, bicycle, and parts manufacturing                                                                                 "
-manufacturing,USA,Musical instrument manufacturing                                                                                             
+manufacturing,USA,Musical instrument manufacturing
 manufacturing,USA,Narrow fabric mills and schiffli machine embroidery
 manufacturing,USA,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying                                       "
 manufacturing,USA,Nonferrous metal foundries
-manufacturing,USA,Nonupholstered wood household furniture manufacturing                                                                        
-manufacturing,USA,Nonwoven fabric mills                                                                                                        
+manufacturing,USA,Nonupholstered wood household furniture manufacturing
+manufacturing,USA,Nonwoven fabric mills
 manufacturing,USA,Office furniture and custom architectural woodwork and millwork manufacturing1
-manufacturing,USA,Office supplies (except paper) manufacturing                                                                                 
+manufacturing,USA,Office supplies (except paper) manufacturing
 manufacturing,USA,"Offices of physicians, dentists, and other health practitioners                                                              "
-manufacturing,USA,Ophthalmic goods manufacturing                                                                                               
-manufacturing,USA,Optical instrument and lens manufacturing                                                                                    
-manufacturing,USA,Ornamental and architectural metal products manufacturing                                                                   
+manufacturing,USA,Ophthalmic goods manufacturing
+manufacturing,USA,Optical instrument and lens manufacturing
+manufacturing,USA,Ornamental and architectural metal products manufacturing
 manufacturing,USA,Other aircraft parts and auxiliary equipment manufacturing
-manufacturing,USA,Other commercial and service industry machinery manufacturing                                                                
-manufacturing,USA,Other communications equipment manufacturing                                                                                 
-manufacturing,USA,Other concrete product manufacturing                                                                                         
-manufacturing,USA,Other cut and sew apparel manufacturing                                                                                      
-manufacturing,USA,Other electronic component manufacturing                                                                                     
-manufacturing,USA,Other engine equipment manufacturing                                                                                         
-manufacturing,USA,Other fabricated metal manufacturing                                                                                         
+manufacturing,USA,Other commercial and service industry machinery manufacturing
+manufacturing,USA,Other communications equipment manufacturing
+manufacturing,USA,Other concrete product manufacturing
+manufacturing,USA,Other cut and sew apparel manufacturing
+manufacturing,USA,Other electronic component manufacturing
+manufacturing,USA,Other engine equipment manufacturing
+manufacturing,USA,Other fabricated metal manufacturing
 manufacturing,USA,Other general purpose machinery manufacturing
-manufacturing,USA,Other industrial machinery manufacturing                                                                                     
-manufacturing,USA,Other leather and allied product manufacturing                                                                               
-manufacturing,USA,Other major household appliance manufacturing                                                                                
-manufacturing,USA,Other plastics product manufacturing                                                                                         
-manufacturing,USA,Other pressed and blown glass and glassware manufacturing                                                                    
-manufacturing,USA,Other rubber product manufacturing                                                                                           
-manufacturing,USA,Packaging machinery manufacturing                                                                                            
-manufacturing,USA,Paint and coating manufacturing                                                                                              
-manufacturing,USA,Pharmaceutical preparation manufacturing                                                                                     
-manufacturing,USA,Photographic and photocopying equipment manufacturing                                                                        
+manufacturing,USA,Other industrial machinery manufacturing
+manufacturing,USA,Other leather and allied product manufacturing
+manufacturing,USA,Other major household appliance manufacturing
+manufacturing,USA,Other plastics product manufacturing
+manufacturing,USA,Other pressed and blown glass and glassware manufacturing
+manufacturing,USA,Other rubber product manufacturing
+manufacturing,USA,Packaging machinery manufacturing
+manufacturing,USA,Paint and coating manufacturing
+manufacturing,USA,Pharmaceutical preparation manufacturing
+manufacturing,USA,Photographic and photocopying equipment manufacturing
 manufacturing,USA,Plastics and rubber industry machinery manufacturing
-manufacturing,USA,Plastics bottle manufacturing                                                                                                
-manufacturing,USA,Plastics material and resin manufacturing                                                                                    
-manufacturing,USA,Plastics packaging materials and unlaminated film and sheet manufacturing 
-manufacturing,USA,Plastics pipe and pipe fitting manufacturing                                                                                 
-manufacturing,USA,Plate work and fabricated structural product manufacturing                                                                   
-manufacturing,USA,Plumbing fixture fitting and trim manufacturing                                                                              
-manufacturing,USA,Polystyrene foam product manufacturing                                                                                       
+manufacturing,USA,Plastics bottle manufacturing
+manufacturing,USA,Plastics material and resin manufacturing
+manufacturing,USA,Plastics packaging materials and unlaminated film and sheet manufacturing
+manufacturing,USA,Plastics pipe and pipe fitting manufacturing
+manufacturing,USA,Plate work and fabricated structural product manufacturing
+manufacturing,USA,Plumbing fixture fitting and trim manufacturing
+manufacturing,USA,Polystyrene foam product manufacturing
 manufacturing,USA,"Pottery, ceramics, and plumbing fixture manufacturing                                                                        "
-manufacturing,USA,Power boiler and heat exchanger manufacturing                                                                                
-manufacturing,USA,Power-driven handtool manufacturing                                                                                          
-manufacturing,USA,Primary battery manufacturing                                                                                                
-manufacturing,USA,Primary smelting and refining of copper                                                                                      
+manufacturing,USA,Power boiler and heat exchanger manufacturing
+manufacturing,USA,Power-driven handtool manufacturing
+manufacturing,USA,Primary battery manufacturing
+manufacturing,USA,Primary smelting and refining of copper
 manufacturing,USA,Primary smelting and refining of nonferrous metal (except copper and aluminum)
-manufacturing,USA,Printed circuit assembly (electronic assembly) manufacturing                                                                 
-manufacturing,USA,Printing ink manufacturing                                                                                                   
+manufacturing,USA,Printed circuit assembly (electronic assembly) manufacturing
+manufacturing,USA,Printing ink manufacturing
 manufacturing,USA,Propulsion units and parts for space vehicles and guided missiles
-manufacturing,USA,Pump and pumping equipment manufacturing                                                                                     
-manufacturing,USA,Railroad rolling stock manufacturing                                                                                         
-manufacturing,USA,Ready-mix concrete manufacturing                                                                                             
-manufacturing,USA,Relay and industrial control manufacturing                                                                                   
+manufacturing,USA,Pump and pumping equipment manufacturing
+manufacturing,USA,Railroad rolling stock manufacturing
+manufacturing,USA,Ready-mix concrete manufacturing
+manufacturing,USA,Relay and industrial control manufacturing
 manufacturing,USA,Rolling mill and other metalworking machinery manufacturing
-manufacturing,USA,Rubber and plastics hoses and belting manufacturing 
+manufacturing,USA,Rubber and plastics hoses and belting manufacturing
 manufacturing,USA,"Search, detection, and navigation instruments manufacturing"
-manufacturing,USA,Secondary smelting and alloying of aluminum                                                                                  
-manufacturing,USA,Semiconductor and related device manufacturing                                                                               
-manufacturing,USA,Semiconductor machinery manufacturing                                                                                        
-manufacturing,USA,Ship building and repairing                                                                                                  
+manufacturing,USA,Secondary smelting and alloying of aluminum
+manufacturing,USA,Semiconductor and related device manufacturing
+manufacturing,USA,Semiconductor machinery manufacturing
+manufacturing,USA,Ship building and repairing
 manufacturing,USA,"Showcase, partition, shelving, and locker manufacturing  "
-manufacturing,USA,Sign manufacturing                                                                                                           
-manufacturing,USA,Small electrical appliance manufacturing                                                                                     
-manufacturing,USA,Soap and cleaning compound manufacturing                                                                                     
+manufacturing,USA,Sign manufacturing
+manufacturing,USA,Small electrical appliance manufacturing
+manufacturing,USA,Soap and cleaning compound manufacturing
 manufacturing,USA,"Special tool, die, jig, and fixture manufacturing                                                                            "
 manufacturing,USA,"Speed changer, industrial high-speed drive, and gear manufacturing                                                           "
-manufacturing,USA,Sporting and athletic goods manufacturing                                                                                    
-manufacturing,USA,Spring and wire product manufacturing                                                                                        
-manufacturing,USA,Stationery product manufacturing                                                                                             
+manufacturing,USA,Sporting and athletic goods manufacturing
+manufacturing,USA,Spring and wire product manufacturing
+manufacturing,USA,Stationery product manufacturing
 manufacturing,USA,Steel product manufacturing from purchased steel
-manufacturing,USA,Storage battery manufacturing                                                                                                
-manufacturing,USA,Surgical and medical instrument manufacturing                                                                                
-manufacturing,USA,Surgical appliance and supplies manufacturing                                                                                
-manufacturing,USA,Switchgear and switchboard apparatus manufacturing                                                                           
-manufacturing,USA,Synthetic dye and pigment manufacturing                                                                                      
-manufacturing,USA,Synthetic rubber manufacturing                                                                                               
-manufacturing,USA,Telephone apparatus manufacturing                                                                                            
-manufacturing,USA,Textile and fabric finishing mills                                                                                           
-manufacturing,USA,Textile bag and canvas mills                                                                                                 
-manufacturing,USA,Tire manufacturing                                                                                                           
-manufacturing,USA,Toilet preparation manufacturing                                                                                             
+manufacturing,USA,Storage battery manufacturing
+manufacturing,USA,Surgical and medical instrument manufacturing
+manufacturing,USA,Surgical appliance and supplies manufacturing
+manufacturing,USA,Switchgear and switchboard apparatus manufacturing
+manufacturing,USA,Synthetic dye and pigment manufacturing
+manufacturing,USA,Synthetic rubber manufacturing
+manufacturing,USA,Telephone apparatus manufacturing
+manufacturing,USA,Textile and fabric finishing mills
+manufacturing,USA,Textile bag and canvas mills
+manufacturing,USA,Tire manufacturing
+manufacturing,USA,Toilet preparation manufacturing
 manufacturing,USA,Totalizing fluid meters and counting devices manufacturing
-manufacturing,USA,Travel trailer and camper manufacturing                                                                                      
-manufacturing,USA,Truck trailer manufacturing                                                                                                  
-manufacturing,USA,Turbine and turbine generator set units manufacturing                                                                        
+manufacturing,USA,Travel trailer and camper manufacturing
+manufacturing,USA,Truck trailer manufacturing
+manufacturing,USA,Turbine and turbine generator set units manufacturing
 manufacturing,USA,"Turned product and screw, nut, and bolt manufacturing                                                                        "
-manufacturing,USA,Unlaminated plastics profile shape manufacturing                                                                             
-manufacturing,USA,Upholstered household furniture manufacturing                                                                                
-manufacturing,USA,Urethane and other foam product (except polystyrene) manufacturing                                                           
-manufacturing,USA,Valve and fittings other than plumbing                                                                                       
+manufacturing,USA,Unlaminated plastics profile shape manufacturing
+manufacturing,USA,Upholstered household furniture manufacturing
+manufacturing,USA,Urethane and other foam product (except polystyrene) manufacturing
+manufacturing,USA,Valve and fittings other than plumbing
 manufacturing,USA,"Vending, commercial, industrial, and office machinery manufacturing"
 manufacturing,USA,"Watch, clock, and other measuring and controlling device manufacturing"
-manufacturing,USA,Wiring device manufacturing                                                                                                  
-manufacturing,USA,Women's and girls' cut and sew apparel manufacturing                                                                         
-milling,USA,Bread and bakery product manufacturing                                                                                       
-milling,USA,Breakfast cereal manufacturing                                                                                               
+manufacturing,USA,Wiring device manufacturing
+manufacturing,USA,Women's and girls' cut and sew apparel manufacturing
+milling,USA,Bread and bakery product manufacturing
+milling,USA,Breakfast cereal manufacturing
 milling,USA,"Cookie, cracker, and pasta manufacturing                                                                                      "
-milling,USA,Flour milling and malt manufacturing                                                                                         
-milling,USA,Wet corn milling                                                                                                             
-oilcrops,USA,Oilseed farming                                                                                                              
-oils,USA,Fats and oils refining and blending                                                                                          
-oils,USA,Soybean and other oilseed processing                                                                                         
-others,USA,Fruit farming                                                                                                                
+milling,USA,Flour milling and malt manufacturing
+milling,USA,Wet corn milling
+oilcrops,USA,Oilseed farming
+oils,USA,Fats and oils refining and blending
+oils,USA,Soybean and other oilseed processing
+others,USA,Fruit farming
 others,USA,"Greenhouse, nursery, and floriculture production"
-others,USA,Tree nut farming                                                                                                             
-others,USA,Vegetable and melon farming                                                                                                  
+others,USA,Tree nut farming
+others,USA,Vegetable and melon farming
 pesticides,USA,Pesticide and other agricultural chemical manufacturing
 Primary Inputs_Compensation of employees D_1,USA,Primary Inputs_Compensation of employees D_1
 Primary Inputs_Consumption of fixed capital K_1,USA,Primary Inputs_Consumption of fixed capital K_1
@@ -10491,160 +10491,160 @@ Primary Inputs_Net mixed income B_3n,USA,Primary Inputs_Net mixed income B_3n
 Primary Inputs_Net operating surplus B_2n,USA,Primary Inputs_Net operating surplus B_2n
 Primary Inputs_Subsidies on production D_39,USA,Primary Inputs_Subsidies on production D_39
 Primary Inputs_Taxes on production D_29,USA,Primary Inputs_Taxes on production D_29
-primary non-agricultural products,USA,Coal mining                                                                                                                  
+primary non-agricultural products,USA,Coal mining
 primary non-agricultural products,USA,"Copper rolling, drawing, extruding and alloying                                                                              "
 primary non-agricultural products,USA,"Copper, nickel, lead, and zinc mining                                                                                        "
-primary non-agricultural products,USA,Drilling oil and gas wells                                                                                                   
+primary non-agricultural products,USA,Drilling oil and gas wells
 primary non-agricultural products,USA,"Gold, silver, and other metal ore mining                                                                                     "
-primary non-agricultural products,USA,Iron ore mining                                                                                                              
-primary non-agricultural products,USA,Oil and gas extraction                                                                                                       
+primary non-agricultural products,USA,Iron ore mining
+primary non-agricultural products,USA,Oil and gas extraction
 primary non-agricultural products,USA,Other nonmetallic mineral mining and quarrying
 primary non-agricultural products,USA,"Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying"
-primary non-agricultural products,USA,Stone mining and quarrying                                                                                                   
+primary non-agricultural products,USA,Stone mining and quarrying
 public infrastructure,USA,"Electric power generation, transmission, and distribution"
 public infrastructure,USA,"Power, distribution, and specialty transformer manufacturing                                                                       "
-public infrastructure,USA,Scenic and sightseeing transportation and support activities for transportation                                              
+public infrastructure,USA,Scenic and sightseeing transportation and support activities for transportation
 public infrastructure,USA,State and local government passenger transit
-public infrastructure,USA,Transit and ground passenger transportation                                                                                  
+public infrastructure,USA,Transit and ground passenger transportation
 public services,USA,Federal electric utilities
 public services,USA,General Federal defense government services
 public services,USA,General Federal nondefense government services
 public services,USA,General state and local government services
 public services,USA,Other Federal Government enterprises
 public services,USA,State and local government electric utilities
-remaining,USA,Hunting and trapping                                                                                                         
-remaining,USA,Tobacco farming                                                                                                   
-research,USA,Elementary and secondary schools                                                                                             
+remaining,USA,Hunting and trapping
+remaining,USA,Tobacco farming
+research,USA,Elementary and secondary schools
 research,USA,"Junior colleges, colleges, universities, and professional schools"
-research,USA,Other educational services                                                                                                   
-research,USA,Scientific research and development services                                                                                 
+research,USA,Other educational services
+research,USA,Scientific research and development services
 services,USA,"Accounting, tax preparation, bookkeeping, and payroll services                                             "
-services,USA,Advertising and related services                                                                                             
+services,USA,Advertising and related services
 services,USA,"All other miscellaneous professional, scientific, and technical services                                                                  "
 services,USA,"Amusement parks, arcades, and gambling industries"
 services,USA,"Architectural, engineering, and related services                                          "
-services,USA,Automotive equipment rental and leasing                                                                                      
+services,USA,Automotive equipment rental and leasing
 services,USA,"Automotive repair and maintenance, except car washes                                                                         "
-services,USA,Book publishers                                                                                                              
-services,USA,Bowling centers                                                                                                              
-services,USA,Business support services                                                                                                    
-services,USA,Cable and other subscription programming                                                                                     
-services,USA,Car washes                                                                                                                   
-services,USA,Child day care services                                                                                                      
+services,USA,Book publishers
+services,USA,Bowling centers
+services,USA,Business support services
+services,USA,Cable and other subscription programming
+services,USA,Car washes
+services,USA,Child day care services
 services,USA,"Civic, social, professional, and similar organizations"
-services,USA,Commercial and industrial machinery and equipment rental and leasing                                      
+services,USA,Commercial and industrial machinery and equipment rental and leasing
 services,USA,Commercial and industrial machinery and equipment repair and maintenance
 services,USA,"Community food, housing, and other relief services, including rehabilitation services"
-services,USA,Computer systems design services                                                                                             
-services,USA,Couriers and messengers                                                                                                      
-services,USA,Custom computer programming services                                                                                         
+services,USA,Computer systems design services
+services,USA,Couriers and messengers
+services,USA,Custom computer programming services
 services,USA,"Data processing, hosting, and related services                                                                               "
-services,USA,Death care services                                                                                                          
-services,USA,Dental laboratories                                                                                                          
+services,USA,Death care services
+services,USA,Dental laboratories
 services,USA,"Directory, mailing list, and other publishers                                                                                "
-services,USA,Dry-cleaning and laundry services                                                                                             
-services,USA,Employment services                                                                                                          
-services,USA,Environmental and other technical consulting services                                                                        
-services,USA,Facilities support services                                                                                                  
-services,USA,Fitness and recreational sports centers  
-services,USA,Food services and drinking places                                                                                            
+services,USA,Dry-cleaning and laundry services
+services,USA,Employment services
+services,USA,Environmental and other technical consulting services
+services,USA,Facilities support services
+services,USA,Fitness and recreational sports centers
+services,USA,Food services and drinking places
 services,USA,"Funds, trusts, and other financial vehicles                                                                                  "
-services,USA,General and consumer goods rental except video tapes and discs                                                               
+services,USA,General and consumer goods rental except video tapes and discs
 services,USA,"Grantmaking, giving, and social advocacy organizations"
-services,USA,Home health care services                                                                                                    
-services,USA,Hospitals                                                                                                                    
+services,USA,Home health care services
+services,USA,Hospitals
 services,USA,"Hotels and motels, including casino hotels                                                                                   "
 services,USA,"Independent artists, writers, and performers                                                                                 "
-services,USA,Individual and family services                                                                                               
+services,USA,Individual and family services
 services,USA,"Insurance agencies, brokerages, and related activities"
-services,USA,Insurance carriers                                                                                                           
-services,USA,Internet publishing and broadcasting                                                                                         
-services,USA,Internet service providers and web search portals                                                                            
-services,USA,Investigation and security services                                                                                          
-services,USA,Legal services                                                                                                               
-services,USA,Lessors of nonfinancial intangible assets                                                                                    
-services,USA,Management of companies and enterprises                                                                                      
+services,USA,Insurance carriers
+services,USA,Internet publishing and broadcasting
+services,USA,Internet service providers and web search portals
+services,USA,Investigation and security services
+services,USA,Legal services
+services,USA,Lessors of nonfinancial intangible assets
+services,USA,Management of companies and enterprises
 services,USA,"Management, scientific, and technical consulting services"
 services,USA,Medical and diagnostic labs and outpatient and other ambulatory care services
-services,USA,Monetary authorities and depository credit intermediation                                                                    
-services,USA,Motion picture and video industries                                                                                          
+services,USA,Monetary authorities and depository credit intermediation
+services,USA,Motion picture and video industries
 services,USA,"Museums, historical sites, zoos, and parks                                                                                   "
-services,USA,Newspaper publishers                                                                                                         
+services,USA,Newspaper publishers
 services,USA,Nondepository credit intermediation and related activities
 services,USA,Nonresidential commercial and health care structures
 services,USA,Nonresidential maintenance and repair
 services,USA,Nonresidential manufacturing structures
-services,USA,Nursing and residential care facilities                                                                                      
-services,USA,Office administrative services                                                                                               
-services,USA,Other accommodations                                                                                                         
+services,USA,Nursing and residential care facilities
+services,USA,Office administrative services
+services,USA,Other accommodations
 services,USA,Other amusement and recreation industries
 services,USA,"Other computer related services, including facilities management                                                             "
-services,USA,Other information services                                                                                                   
-services,USA,Other nonresidential structures                                                                                              
-services,USA,Other personal services                                                                                                      
+services,USA,Other information services
+services,USA,Other nonresidential structures
+services,USA,Other personal services
 services,USA,Other residential structures
 services,USA,Other state and local government enterprises
-services,USA,Other support services                                                                                                       
-services,USA,Performing arts companies                                                                                                    
-services,USA,Periodical publishers                                                                                                        
+services,USA,Other support services
+services,USA,Performing arts companies
+services,USA,Periodical publishers
 services,USA,Personal and household goods repair and maintenance
-services,USA,Personal care services                                                                                                       
-services,USA,Photographic services                                                                                                        
+services,USA,Personal care services
+services,USA,Photographic services
 services,USA,Postal service
-services,USA,Printing                                                                                                                     
-services,USA,Private households                                                                                                           
-services,USA,Promoters of performing arts and sports and agents for public figures                                                        
-services,USA,Radio and television broadcasting                                                                                            
-services,USA,Real estate                                                                                                                  
-services,USA,Religious organizations                                                                                                      
+services,USA,Printing
+services,USA,Private households
+services,USA,Promoters of performing arts and sports and agents for public figures
+services,USA,Radio and television broadcasting
+services,USA,Real estate
+services,USA,Religious organizations
 services,USA,Residential maintenance and repair
-services,USA,Residential permanent site single- and multi-family structures                                                               
-services,USA,Scrap                                                                          
+services,USA,Residential permanent site single- and multi-family structures
+services,USA,Scrap
 services,USA,"Securities, commodity contracts, investments, and related activities                                   "
-services,USA,Services to buildings and dwellings                                                                                          
-services,USA,Software publishers                                                                                                          
+services,USA,Services to buildings and dwellings
+services,USA,Software publishers
 services,USA,"Software, audio, and video media reproducing "
-services,USA,Sound recording industries                                                                                                   
-services,USA,Specialized design services                                                                                                  
-services,USA,Spectator sports                                                                                                             
+services,USA,Sound recording industries
+services,USA,Specialized design services
+services,USA,Spectator sports
 services,USA,Support activities for agriculture and forestry
-services,USA,Support activities for oil and gas operations                                                                                
-services,USA,Support activities for other mining                                                                                          
-services,USA,Support activities for printing                                                                                              
-services,USA,Telecommunications                                                                                                           
-services,USA,Travel arrangement and reservation services                                                                                  
-services,USA,Used and secondhand goods                                                      
-services,USA,Veterinary services                                                                                                          
-services,USA,Video tape and disc rental                                                                                                   
-services,USA,Warehousing and storage                                                                                                      
-services,USA,Waste management and remediation services                                                                                    
-sugar,USA,Beet sugar manufacturing                                                                                                     
-sugar,USA,Sugar cane mills and refining                                                                                                
-sugarcrops,USA,Sugarcane and sugar beet farming                                                                                             
-transport,USA,Air transportation                                                                                                           
-transport,USA,Pipeline transportation                                                                                                      
-transport,USA,Rail transportation                                                                                                          
+services,USA,Support activities for oil and gas operations
+services,USA,Support activities for other mining
+services,USA,Support activities for printing
+services,USA,Telecommunications
+services,USA,Travel arrangement and reservation services
+services,USA,Used and secondhand goods
+services,USA,Veterinary services
+services,USA,Video tape and disc rental
+services,USA,Warehousing and storage
+services,USA,Waste management and remediation services
+sugar,USA,Beet sugar manufacturing
+sugar,USA,Sugar cane mills and refining
+sugarcrops,USA,Sugarcane and sugar beet farming
+transport,USA,Air transportation
+transport,USA,Pipeline transportation
+transport,USA,Rail transportation
 transport,USA,Re-import
-transport,USA,Retail trade                                                                                                                 
-transport,USA,Truck transportation                                                                                                         
-transport,USA,Water transportation                                                                                                         
-transport,USA,Wholesale trade                                                                                                              
+transport,USA,Retail trade
+transport,USA,Truck transportation
+transport,USA,Water transportation
+transport,USA,Wholesale trade
 water,USA,"Water, sewage and other systems                                                                                              "
-wood processing,USA,All other converted paper product manufacturing                                                                              
+wood processing,USA,All other converted paper product manufacturing
 wood processing,USA,All other miscellaneous wood product manufacturing
-wood processing,USA,All other paper bag and coated and treated paper manufacturing                                                                        
-wood processing,USA,Engineered wood member and truss manufacturing                                                                               
-wood processing,USA,Paper mills                                                                                                                  
-wood processing,USA,Paperboard container manufacturing                                                                                           
-wood processing,USA,Paperboard Mills                                                                                                             
-wood processing,USA,Prefabricated wood building manufacturing                                                                                    
-wood processing,USA,Pulp mills                                                                                                                   
-wood processing,USA,Reconstituted wood product manufacturing                                                                                     
-wood processing,USA,Sanitary paper product manufacturing                                                                                         
-wood processing,USA,Sawmills and wood preservation                                                                                               
-wood processing,USA,Veneer and plywood manufacturing                                                                                             
-wood processing,USA,Wood container and pallet manufacturing                                                                                      
-wood processing,USA,Wood kitchen cabinet and countertop manufacturing                                                                            
+wood processing,USA,All other paper bag and coated and treated paper manufacturing
+wood processing,USA,Engineered wood member and truss manufacturing
+wood processing,USA,Paper mills
+wood processing,USA,Paperboard container manufacturing
+wood processing,USA,Paperboard Mills
+wood processing,USA,Prefabricated wood building manufacturing
+wood processing,USA,Pulp mills
+wood processing,USA,Reconstituted wood product manufacturing
+wood processing,USA,Sanitary paper product manufacturing
+wood processing,USA,Sawmills and wood preservation
+wood processing,USA,Veneer and plywood manufacturing
+wood processing,USA,Wood container and pallet manufacturing
+wood processing,USA,Wood kitchen cabinet and countertop manufacturing
 wood processing,USA,"Wood television, radio, and sewing machine cabinet manufacturing1"
 wood processing,USA,Wood windows and doors and millwork
 agriculture,USR,Agriculture
@@ -10832,7 +10832,7 @@ livestock,VEN,Ganado bovino y leche
 manufacturing,VEN,Alquiler de equipo de construcci� o demolici� dotado de operarios
 manufacturing,VEN,Aparatos de uso dom�tico n_c_p_
 manufacturing,VEN,Az�ar refinada y derivados
-manufacturing,VEN,Calzado 
+manufacturing,VEN,Calzado
 manufacturing,VEN,Carb�
 manufacturing,VEN,"Cemento, cal y yeso"
 manufacturing,VEN,Cer�ica no refractaria para uso no estructural
@@ -10843,7 +10843,7 @@ manufacturing,VEN,Edici� e imprenta y reproducci� de grabaciones
 manufacturing,VEN,"Equipos y aparatos de radio, televisi�, comunicaciones y de oficina"
 manufacturing,VEN,"Fibras manufacturadas, n_c_p"
 manufacturing,VEN,Fundici� de metales
-manufacturing,VEN,Hilatura 
+manufacturing,VEN,Hilatura
 manufacturing,VEN,"Instrumentos m�icos quir�gicos, �ticos y de precisi�"
 manufacturing,VEN,Maquinaria de uso especial
 manufacturing,VEN,Maquinaria de uso general
@@ -10854,8 +10854,8 @@ manufacturing,VEN,Otros productos minerales no met�icos n_c_p_
 manufacturing,VEN,Otros productos qu�icos n_c_p_
 manufacturing,VEN,Otros productos textiles
 manufacturing,VEN,Pinturas y productos de revestimiento
-manufacturing,VEN,Pl�tico en formas primarias y de caucho sint�ico 
-manufacturing,VEN,Prendas de vestir y art�ulos de piel 
+manufacturing,VEN,Pl�tico en formas primarias y de caucho sint�ico
+manufacturing,VEN,Prendas de vestir y art�ulos de piel
 manufacturing,VEN,Productos de arcilla y cer�ica no refractaria para uso estructural
 manufacturing,VEN,"Productos de hormig�, cemento y yeso"
 manufacturing,VEN,Productos de la moliner�
@@ -10870,7 +10870,7 @@ manufacturing,VEN,"Productos met�icos para uso estructural, tanques, dep�ito
 manufacturing,VEN,"Sustancias qu�icas b�icas, excepto abonos y compuestos de nitr�eno"
 manufacturing,VEN,Tejidos y art�ulos de punto o ganchillo
 manufacturing,VEN,"Veh�ulos automotores, remolques y semiremolques"
-milling,VEN,Pastas 
+milling,VEN,Pastas
 others,VEN,"Frutas, nueces y plantas para bebidas y especies"
 others,VEN,"Hortalizas, legumbres, viveros y flores"
 pesticides,VEN,Plaguicidas y otros productos qu�icos de uso agropecuario
@@ -10925,8 +10925,8 @@ services,VEN,SIFMI
 services,VEN,Telecomunicaciones
 services,VEN,Urbanismo
 transport,VEN,Alquiler de equipo de transporte y de otros tipos de maquinaria y equipo
-transport,VEN,Otras agencias de transporte 
-transport,VEN,Otros servicios de transporte complementarios 
+transport,VEN,Otras agencias de transporte
+transport,VEN,Otros servicios de transporte complementarios
 transport,VEN,Otros tipos de equipos de transporte
 transport,VEN,Otros tipos de transporte por v� terrestre
 transport,VEN,Reexport
@@ -10988,7 +10988,7 @@ food processing,VNM,"Milk, butter and other dairy products"
 food processing,VNM,Non-alcohol water and soft drinks
 food processing,VNM,Other food manufactures
 food processing,VNM,Processed and preserved fuits and vegetables
-food processing,VNM,Processed seafood and by products 
+food processing,VNM,Processed seafood and by products
 food processing,VNM,"Processed, preserved meat and by-products)"
 food processing,VNM,"Tea, processed"
 forestry,VNM,Forestry
@@ -11202,7 +11202,7 @@ livestock,ZAF,Meat products
 livst_milk,ZAF,Dairy products
 manufacturing,ZAF,Accumulators
 manufacturing,ZAF,Agricultural machinery
-manufacturing,ZAF,Carpets 
+manufacturing,ZAF,Carpets
 manufacturing,ZAF,Cement
 manufacturing,ZAF,Ceramic products
 manufacturing,ZAF,Ceramicware

@@ -33,20 +33,20 @@ colnames(all_rows) <- c("version", "scenario",
 for(i_scen in 1:length(myscenarios))
 {
   scenario <- myscenarios[i_scen]
-  
+
   gdp_scen <- myscenarios[i_scen]
   pop_scen <- myscenarios[i_scen]
   z_scen <- myscenarios[i_scen]
-  
+
   for(i_food in 1:dim(myfoodlist)[1])
   {
     foodgroup <- myfoodlist[i_food,2]
     parent <- myfoodlist[i_food,1]
-    
+
     for(i_func in 1:length(myfunctions))
     {
       functional_form_income <- as.character(myfunctions[[i_func]][3])
-      
+
       a_row <- c(version, scenario,
                  foodgroup, parent,
                  functional_form_income, functional_form_z,

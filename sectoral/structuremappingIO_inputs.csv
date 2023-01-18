@@ -709,14 +709,14 @@ XXX;ADDITIVE;DOMESAIR;seliqfos;fedie;tdfosdie;1;dummy
 ;COALTAR;ECOKEOVS;pecoal;sesofos;coaltr;-1;
 ;COKCOAL;ECOKEOVS;sesofos;fesoi;tdfossoi;0;
 ;COKCOAL;ECOKEOVS;pecoal;sesofos;coaltr;-1;
-;COKEOVGS;ECOKEOVS;pecoal;segafos;coalgas;1.667;The gas consumed as final energy comes from coal We use the coefficient to retrieve the coal amount necessary 
+;COKEOVGS;ECOKEOVS;pecoal;segafos;coalgas;1.667;The gas consumed as final energy comes from coal We use the coefficient to retrieve the coal amount necessary
 ;CRNGFEED;ECOKEOVS;seliqfos;fehoi;tdfoshoi;-1;
 ;CRUDEOIL;ECOKEOVS;seliqfos;fehoi;tdfoshoi;-1;
 ;ELECTR;ECOKEOVS;seel;feeli;tdeli;-1;
 ;ETHANE;ECOKEOVS;seliqfos;fehoi;tdfoshoi;-1;
 ;GASCOKE;ECOKEOVS;sesofos;fesoi;tdfossoi;0;
 ;GASCOKE;ECOKEOVS;pecoal;sesofos;coaltr;-1;
-;GASWKSGS;ECOKEOVS;pecoal;segafos;coalgas;1.667;The gas consumed as final energy comes from coal We use the coefficient to retrieve the coal amount necessary 
+;GASWKSGS;ECOKEOVS;pecoal;segafos;coalgas;1.667;The gas consumed as final energy comes from coal We use the coefficient to retrieve the coal amount necessary
 ;GEOTHERM;ECOKEOVS;seel;feeli;tdeli;-0.3;
 ;HARDCOAL;ECOKEOVS;sesofos;fesoi;tdfossoi;0;
 ;HARDCOAL;ECOKEOVS;pecoal;sesofos;coaltr;-1;
