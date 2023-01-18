@@ -1,0 +1,250 @@
+X;CountryCode;RepCountry
+Aruba;ABW;USA
+Afghanistan;AFG;JPN
+Angola;AGO;USA
+Anguilla;AIA;USA
+Aland Islands;ALA;ALA
+Albania;ALB;USA
+Andorra;AND;USA
+United Arab Emirates;ARE;DEU
+Argentina;ARG;USA
+Armenia;ARM;DEU
+American Samoa;ASM;JPN
+Antarctica;ATA;USA
+French Southern Territories;ATF;JPN
+Antigua and Barbuda;ATG;USA
+Australia;AUS;USA
+Austria;AUT;AUT
+Azerbaijan;AZE;DEU
+Burundi;BDI;USA
+Belgium;BEL;BEL
+Benin;BEN;USA
+Bonaire, Sint Eustatius and Saba;BES;USA
+Burkina Faso;BFA;USA
+Bangladesh;BGD;JPN
+Bulgaria;BGR;BGR
+Bahrain;BHR;DEU
+Bahamas;BHS;USA
+Bosnia and Herzegovina;BIH;USA
+Saint Barthelemy;BLM;USA
+Belarus;BLR;USA
+Belize;BLZ;USA
+Bermuda;BMU;USA
+Bolivia, Plurinational State of;BOL;USA
+Brazil;BRA;USA
+Barbados;BRB;USA
+Brunei Darussalam;BRN;JPN
+Bhutan;BTN;JPN
+Bouvet Island;BVT;USA
+Botswana;BWA;USA
+Central African Republic;CAF;USA
+Canada;CAN;USA
+Cocos (Keeling) Islands;CCK;JPN
+Switzerland;CHE;USA
+Chile;CHL;USA
+China;CHN;JPN
+Cote d Ivoire;CIV;USA
+Cameroon;CMR;USA
+Congo, the Democratic Republic of the;COD;USA
+Congo;COG;USA
+Cook Islands;COK;JPN
+Colombia;COL;USA
+Comoros;COM;USA
+Cape Verde;CPV;USA
+Costa Rica;CRI;USA
+Cuba;CUB;USA
+Curacao;CUW;USA
+Christmas Island;CXR;JPN
+Cayman Islands;CYM;USA
+Cyprus;CYP;CYP
+Czech Republic;CZE;CZE
+Germany;DEU;DEU
+Djibouti;DJI;USA
+Dominica;DMA;USA
+Denmark;DNK;DNK
+Dominican Republic;DOM;USA
+Algeria;DZA;DEU
+Ecuador;ECU;USA
+Egypt;EGY;DEU
+Eritrea;ERI;USA
+Western Sahara;ESH;DEU
+Spain;ESP;ESP
+Estonia;EST;EST
+Ethiopia;ETH;USA
+Finland;FIN;FIN
+Fiji;FJI;JPN
+Falkland Islands (Malvinas);FLK;USA
+France;FRA;FRA
+Faroe Islands;FRO;FRO
+Micronesia, Federated States of;FSM;JPN
+Gabon;GAB;USA
+United Kingdom;GBR;GBR
+Georgia;GEO;DEU
+Guernsey;GGY;USA
+Ghana;GHA;USA
+Gibraltar;GIB;GIB
+Guinea;GIN;USA
+Guadeloupe;GLP;USA
+Gambia;GMB;USA
+Guinea-Bissau;GNB;USA
+Equatorial Guinea;GNQ;USA
+Greece;GRC;GRC
+Grenada;GRD;USA
+Greenland;GRL;GRL
+Guatemala;GTM;USA
+French Guiana;GUF;USA
+Guam;GUM;JPN
+Guyana;GUY;USA
+Hong Kong;HKG;JPN
+Heard Island and McDonald Islands;HMD;USA
+Honduras;HND;USA
+Croatia;HRV;USA
+Haiti;HTI;USA
+Hungary;HUN;HUN
+Indonesia;IDN;JPN
+Isle of Man;IMN;IMN
+India;IND;JPN
+British Indian Ocean Territory;IOT;JPN
+Ireland;IRL;IRL
+Iran, Islamic Republic of;IRN;DEU
+Iraq;IRQ;DEU
+Iceland;ISL;USA
+Israel;ISR;DEU
+Italy;ITA;ITA
+Jamaica;JAM;USA
+Jersey;JEY;JEY
+Jordan;JOR;DEU
+Japan;JPN;JPN
+Kazakhstan;KAZ;DEU
+Kenya;KEN;USA
+Kyrgyzstan;KGZ;DEU
+Cambodia;KHM;JPN
+Kiribati;KIR;JPN
+Saint Kitts and Nevis;KNA;USA
+Korea, Republic of;KOR;JPN
+Kuwait;KWT;DEU
+Lao People's Democratic Republic;LAO;JPN
+Lebanon;LBN;DEU
+Liberia;LBR;USA
+Libya;LBY;DEU
+Saint Lucia;LCA;USA
+Liechtenstein;LIE;USA
+Sri Lanka;LKA;JPN
+Lesotho;LSO;USA
+Lithuania;LTU;LTU
+Luxembourg;LUX;LUX
+Latvia;LVA;LVA
+Macao;MAC;JPN
+Saint Martin (French part);MAF;USA
+Morocco;MAR;DEU
+Monaco;MCO;USA
+Moldova, Republic of;MDA;USA
+Madagascar;MDG;USA
+Maldives;MDV;JPN
+Mexico;MEX;USA
+Marshall Islands;MHL;JPN
+Macedonia, the former Yugoslav Republic of;MKD;USA
+Mali;MLI;USA
+Malta;MLT;MLT
+Myanmar;MMR;JPN
+Montenegro;MNE;USA
+Mongolia;MNG;JPN
+Northern Mariana Islands;MNP;JPN
+Mozambique;MOZ;USA
+Mauritania;MRT;USA
+Montserrat;MSR;USA
+Martinique;MTQ;USA
+Mauritius;MUS;USA
+Malawi;MWI;USA
+Malaysia;MYS;JPN
+Mayotte;MYT;USA
+Namibia;NAM;USA
+New Caledonia;NCL;JPN
+Niger;NER;USA
+Norfolk Island;NFK;JPN
+Nigeria;NGA;USA
+Nicaragua;NIC;USA
+Niue;NIU;JPN
+Netherlands;NLD;NLD
+Norway;NOR;USA
+Nepal;NPL;JPN
+Nauru;NRU;USA
+New Zealand;NZL;USA
+Oman;OMN;DEU
+Pakistan;PAK;JPN
+Panama;PAN;USA
+Pitcairn;PCN;JPN
+Peru;PER;USA
+Philippines;PHL;JPN
+Palau;PLW;JPN
+Papua New Guinea;PNG;JPN
+Poland;POL;POL
+Puerto Rico;PRI;USA
+Korea, Democratic People's Republic of;PRK;JPN
+Portugal;PRT;PRT
+Paraguay;PRY;USA
+Palestine, State of;PSE;DEU
+French Polynesia;PYF;JPN
+Qatar;QAT;DEU
+Reunion;REU;USA
+Romania;ROU;ROU
+Russian Federation;RUS;DEU
+Rwanda;RWA;USA
+Saudi Arabia;SAU;DEU
+Sudan;SDN;USA
+Senegal;SEN;USA
+Singapore;SGP;JPN
+South Georgia and the South Sandwich Islands;SGS;USA
+Saint Helena, Ascension and Tristan da Cunha;SHN;USA
+Svalbard and Jan Mayen;SJM;USA
+Solomon Islands;SLB;JPN
+Sierra Leone;SLE;USA
+El Salvador;SLV;USA
+San Marino;SMR;USA
+Somalia;SOM;USA
+Saint Pierre and Miquelon;SPM;USA
+Serbia;SRB;USA
+South Sudan;SSD;USA
+Sao Tome and Principe;STP;USA
+Suriname;SUR;USA
+Slovakia;SVK;SVK
+Slovenia;SVN;SVN
+Sweden;SWE;SWE
+Swaziland;SWZ;USA
+Sint Maarten (Dutch part);SXM;USA
+Seychelles;SYC;USA
+Syrian Arab Republic;SYR;DEU
+Turks and Caicos Islands;TCA;USA
+Chad;TCD;USA
+Togo;TGO;USA
+Thailand;THA;JPN
+Tajikistan;TJK;DEU
+Tokelau;TKL;JPN
+Turkmenistan;TKM;DEU
+Timor-Leste;TLS;JPN
+Tonga;TON;JPN
+Trinidad and Tobago;TTO;USA
+Tunisia;TUN;DEU
+Turkey;TUR;USA
+Tuvalu;TUV;JPN
+Taiwan, Province of China;TWN;JPN
+Tanzania, United Republic of;TZA;USA
+Uganda;UGA;USA
+Ukraine;UKR;USA
+United States Minor Outlying Islands;UMI;JPN
+Uruguay;URY;USA
+United States;USA;USA
+Uzbekistan;UZB;DEU
+Holy See (Vatican City State);VAT;USA
+Saint Vincent and the Grenadines;VCT;USA
+Venezuela, Bolivarian Republic of;VEN;USA
+Virgin Islands, British;VGB;USA
+Virgin Islands, U.S.;VIR;USA
+Viet Nam;VNM;JPN
+Vanuatu;VUT;JPN
+Wallis and Futuna;WLF;JPN
+Samoa;WSM;JPN
+Yemen;YEM;DEU
+South Africa;ZAF;USA
+Zambia;ZMB;USA
+Zimbabwe;ZWE;USA

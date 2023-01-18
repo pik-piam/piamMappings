@@ -1,0 +1,549 @@
+r17m30;AR6DB;factor
+Agricultural Demand (million t DM/yr);Agricultural Demand (million t DM/yr);1
+Agricultural Demand|Bioenergy (million t DM/yr);Agricultural Demand|Crops|Energy (million t DM/yr);1
+Agricultural Demand|Feed|Crops (million t DM/yr);Agricultural Demand|Crops|Feed (million t DM/yr);1
+Agricultural Demand|Food|Crops (million t DM/yr);Agricultural Demand|Crops|Food (million t DM/yr);1
+Agricultural Demand|Non-Food|Crops (million t DM/yr);Agricultural Demand|Crops|Other (million t DM/yr);1
+Agricultural Demand|Food|Livestock (million t DM/yr);Agricultural Demand|Livestock|Food (million t DM/yr);1
+Agricultural Demand|Non-Food|Livestock (million t DM/yr);Agricultural Demand|Livestock|Other (million t DM/yr);1
+Agricultural Production (million t DM/yr);Agricultural Production (million t DM/yr);1
+Agricultural Production|Energy Crops (million t DM/yr);Agricultural Production|Energy|Crops (million t DM/yr);1
+Agricultural Production|Non-Energy Crops (million t DM/yr);Agricultural Production|Non-Energy|Crops (million t DM/yr);1
+Agricultural Production|Livestock (million t DM/yr);Agricultural Production|Non-Energy|Livestock (million t DM/yr);1
+New Cap|Electricity|Biomass (GW);Capacity Additions|Electricity|Biomass (GW/yr);1
+New Cap|Electricity|Coal|w/ CCS (GW);Capacity Additions|Electricity|Coal|w/ CCS (GW/yr);1
+New Cap|Electricity|Coal|w/o CCS (GW);Capacity Additions|Electricity|Coal|w/o CCS (GW/yr);1
+New Cap|Electricity|Coal (GW);Capacity Additions|Electricity|Coal (GW/yr);1
+New Cap|Electricity|Gas|w/ CCS (GW);Capacity Additions|Electricity|Gas|w/ CCS (GW/yr);1
+New Cap|Electricity|Gas|w/o CCS (GW);Capacity Additions|Electricity|Gas|w/o CCS (GW/yr);1
+New Cap|Electricity|Gas (GW);Capacity Additions|Electricity|Gas (GW/yr);1
+New Cap|Electricity|Hydro (GW);Capacity Additions|Electricity|Hydro (GW/yr);1
+New Cap|Electricity|Nuclear (GW);Capacity Additions|Electricity|Nuclear (GW/yr);1
+New Cap|Electricity|Solar (GW);Capacity Additions|Electricity|Solar (GW/yr);1
+New Cap|Electricity|Solar|CSP (GW);Capacity Additions|Electricity|Solar|CSP (GW/yr);1
+New Cap|Electricity|Solar|PV (GW);Capacity Additions|Electricity|Solar|PV (GW/yr);1
+New Cap|Electricity|Wind (GW);Capacity Additions|Electricity|Wind (GW/yr);1
+Cap|Electricity (GW);Capacity|Electricity (GW);1
+Cap|Electricity|Biomass (GW);Capacity|Electricity|Biomass (GW);1
+Cap|Electricity|Coal|w/o CCS (GW);Capacity|Electricity|Coal|w/o CCS (GW);1
+Cap|Electricity|Coal|w/ CCS (GW);Capacity|Electricity|Coal|w/ CCS (GW);1
+Cap|Electricity|Coal (GW);Capacity|Electricity|Coal (GW);1
+Cap|Electricity|Gas|w/o CCS (GW);Capacity|Electricity|Gas|w/o CCS (GW);1
+Cap|Electricity|Gas|w/ CCS (GW);Capacity|Electricity|Gas|w/ CCS (GW);1
+Cap|Electricity|Gas (GW);Capacity|Electricity|Gas (GW);1
+Cap|Electricity|Hydro (GW);Capacity|Electricity|Hydro (GW);1
+Cap|Electricity|Nuclear (GW);Capacity|Electricity|Nuclear (GW);1
+Cap|Electricity|Oil|w/o CCS (GW);Capacity|Electricity|Oil (GW);1
+Cap|Electricity|Solar (GW);Capacity|Electricity|Solar (GW);1
+Cap|Electricity|Solar|CSP (GW);Capacity|Electricity|Solar|CSP (GW);1
+Cap|Electricity|Solar|PV (GW);Capacity|Electricity|Solar|PV (GW);1
+Cap|Electricity|Wind (GW);Capacity|Electricity|Wind (GW);1
+Cap|Electricity|Storage|Battery (GW);Capacity|Electricity|Storage (GW);1
+Tech|Electricity|Biomass|w/ CCS|Capital Costs ($/kW);Capital Cost|Electricity|Biomass|w/ CCS (US$2010/kW);1.10774
+Tech|Electricity|Biomass|w/o CCS|Capital Costs ($/kW);Capital Cost|Electricity|Biomass|w/o CCS (US$2010/kW);1.10774
+Tech|Electricity|Coal|IGCCC|w/ CCS|Capital Costs ($/kW);Capital Cost|Electricity|Coal|w/ CCS (US$2010/kW);1.10774
+Tech|Electricity|Coal|PC|w/o CCS|Capital Costs ($/kW);Capital Cost|Electricity|Coal|w/o CCS (US$2010/kW);1.10774
+Tech|Electricity|Gas|CCC|w/ CCS|Capital Costs ($/kW);Capital Cost|Electricity|Gas|w/ CCS (US$2010/kW);1.10774
+Tech|Electricity|Gas|CC|w/o CCS|Capital Costs ($/kW);Capital Cost|Electricity|Gas|w/o CCS (US$2010/kW);1.10774
+Tech|Electricity|Geotherma|Capital Costs ($/kW);Capital Cost|Electricity|Geothermal (US$2010/kW);1.10774
+Tech|Electricity|Hydro|Capital Costs ($/kW);Capital Cost|Electricity|Hydro (US$2010/kW);1.10774
+Tech|Electricity|Nuclear|Capital Costs ($/kW);Capital Cost|Electricity|Nuclear (US$2010/kW);1.10774
+Tech|Electricity|Solar|CSP|Capital Costs ($/kW);Capital Cost|Electricity|Solar|CSP (US$2010/kW);1.10774
+Tech|Electricity|Solar|PV|Capital Costs ($/kW);Capital Cost|Electricity|Solar|PV (US$2010/kW);1.10774
+Tech|Electricity|Wind|Capital Costs ($/kW);Capital Cost|Electricity|Wind|Offshore (US$2010/kW);1.10774
+Tech|Electricity|Wind|Capital Costs ($/kW);Capital Cost|Electricity|Wind|Onshore (US$2010/kW);1.10774
+Tech|Gases|Biomass|biogas|w/o CCS|Capital Costs ($/kW);Capital Cost|Gases|Biomass|w/o CCS (US$2010/kW);1.10774
+Tech|Gases|Coal|coalgas|w/o CCS|Capital Costs ($/kW);Capital Cost|Gases|Coal|w/o CCS (US$2010/kW);1.10774
+Tech|Hydrogen|Biomass|bioh2c|w/ CCS|Capital Costs ($/kW);Capital Cost|Hydrogen|Biomass|w/ CCS (US$2010/kW);1.10774
+Tech|Hydrogen|Biomass|bioh2|w/o CCS|Capital Costs ($/kW);Capital Cost|Hydrogen|Biomass|w/o CCS (US$2010/kW);1.10774
+Tech|Hydrogen|Coal|coalh2c|w/ CCS|Capital Costs ($/kW);Capital Cost|Hydrogen|Coal|w/ CCS (US$2010/kW);1.10774
+Tech|Hydrogen|Coal|coalh2|w/o CCS|Capital Costs ($/kW);Capital Cost|Hydrogen|Coal|w/o CCS (US$2010/kW);1.10774
+Tech|Hydrogen|Electricity|Capital Costs ($/kW);Capital Cost|Hydrogen|Electricity (US$2010/kW);1.10774
+Tech|Hydrogen|Gas|gash2c|w/ CCS|Capital Costs ($/kW);Capital Cost|Hydrogen|Gas|w/ CCS (US$2010/kW);1.10774
+Tech|Hydrogen|Gas|gash2|w/o CCS|Capital Costs ($/kW);Capital Cost|Hydrogen|Gas|w/o CCS (US$2010/kW);1.10774
+Tech|Liquids|Biomass|bioftcrec|w/ CCS|Capital Costs ($/kW);Capital Cost|Liquids|Biomass|w/ CCS (US$2010/kW);1.10774
+Tech|Liquids|Biomass|bioftrec|w/o CCS|Capital Costs ($/kW);Capital Cost|Liquids|Biomass|w/o CCS (US$2010/kW);1.10774
+Tech|Liquids|Coal|coalftcrec|w/ CCS|Capital Costs ($/kW);Capital Cost|Liquids|Coal|w/ CCS (US$2010/kW);1.10774
+Tech|Liquids|Coal|coalftrec|w/o CCS|Capital Costs ($/kW);Capital Cost|Liquids|Coal|w/o CCS (US$2010/kW);1.10774
+Tech|Liquids|Oil|refliq|Capital Costs ($/kW);Capital Cost|Liquids|Oil (US$2010/kW);1.10774
+Emissions|CO2|Carbon Capture and Storage (Mt CO2/yr);Carbon Sequestration|CCS (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Biomass (Mt CO2/yr);Carbon Sequestration|CCS|Biomass (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Biomass|Energy|Demand|Industry (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Demand|Industry (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Biomass|Supply|w/ couple prod (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Supply (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Biomass|Supply|Electricity|w/ couple prod (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Supply|Electricity (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Biomass|Supply|Gases|w/ couple prod (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Supply|Gases (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Biomass|Supply|Hydrogen|w/ couple prod (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Supply|Hydrogen (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Biomass|Supply|Liquids|w/ couple prod (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Supply|Liquids (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Fossil|Pe2Se (Mt CO2/yr);Carbon Sequestration|CCS|Fossil (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Fossil|Energy|Demand|Industry (Mt CO2/yr);Carbon Sequestration|CCS|Fossil|Energy|Demand|Industry (Mt CO2/yr);1
+Emissions|CO2|Carbon Capture and Storage|Fossil|Pe2Se (Mt CO2/yr);Carbon Sequestration|CCS|Fossil|Energy|Supply (Mt CO2/yr);1
+Emissions|CO2|CDR|DAC (Mt CO2/yr);Carbon Sequestration|Direct Air Capture (Mt CO2/yr);-1
+Emissions|CO2|CDR|EW (Mt CO2/yr);Carbon Sequestration|Enhanced Weathering (Mt CO2/yr);-1
+Emissions|CO2|Land Use|Negative (Mt CO2/yr);Carbon Sequestration|Land Use (Mt CO2/yr);-1
+Emissions|CO2|Land Use|Negative (Mt CO2/yr);Carbon Sequestration|Land Use|Afforestation (Mt CO2/yr);-1
+Concentration|CH4 (ppb);Concentration|CH4 (ppb);1
+Concentration|CO2 (ppm);Concentration|CO2 (ppm);1
+Concentration|N2O (ppb);Concentration|N2O (ppb);1
+Consumption (billion US$2005/yr);Consumption (billion US$2010/yr);1
+Cumulative Cap|Electricity|Biomass (GW);Cumulative Capacity|Electricity|Biomass (GW);1
+Cumulative Cap|Electricity|Biomass|w/ CCS (GW);Cumulative Capacity|Electricity|Biomass|w/ CCS (GW);1
+Cumulative Cap|Electricity|Biomass|w/o CCS (GW);Cumulative Capacity|Electricity|Biomass|w/o CCS (GW);1
+Cumulative Cap|Electricity|Coal (GW);Cumulative Capacity|Electricity|Coal (GW);1
+Cumulative Cap|Electricity|Coal|w/ CCS (GW);Cumulative Capacity|Electricity|Coal|w/ CCS (GW);1
+Cumulative Cap|Electricity|Coal|w/o CCS (GW);Cumulative Capacity|Electricity|Coal|w/o CCS (GW);1
+Cumulative Cap|Electricity|Gas (GW);Cumulative Capacity|Electricity|Gas (GW);1
+Cumulative Cap|Electricity|Gas|w/ CCS (GW);Cumulative Capacity|Electricity|Gas|w/ CCS (GW);1
+Cumulative Cap|Electricity|Gas|w/o CCS (GW);Cumulative Capacity|Electricity|Gas|w/o CCS (GW);1
+Cumulative Cap|Electricity|Hydro (GW);Cumulative Capacity|Electricity|Hydro (GW);1
+Cumulative Cap|Electricity|Nuclear (GW);Cumulative Capacity|Electricity|Nuclear (GW);1
+Cumulative Cap|Electricity|Solar|CSP (GW);Cumulative Capacity|Electricity|Solar|CSP (GW);1
+Cumulative Cap|Electricity|Solar|PV (GW);Cumulative Capacity|Electricity|Solar|PV (GW);1
+Cumulative Cap|Electricity|Wind (GW);Cumulative Capacity|Electricity|Wind (GW);1
+Tech|Electricity|Biomass|w/ CCS|Efficiency (%);Efficiency|Electricity|Biomass|w/ CCS (%);1
+Tech|Electricity|Biomass|w/o CCS|Efficiency (%);Efficiency|Electricity|Biomass|w/o CCS (%);1
+Tech|Electricity|Coal|IGCCC|w/ CCS|Efficiency (%);Efficiency|Electricity|Coal|w/ CCS (%);1
+Tech|Electricity|Coal|PC|w/o CCS|Efficiency (%);Efficiency|Electricity|Coal|w/o CCS (%);1
+Tech|Electricity|Gas|CCC|w/ CCS|Efficiency (%);Efficiency|Electricity|Gas|w/ CCS (%);1
+Tech|Electricity|Gas|CC|w/o CCS|Efficiency (%);Efficiency|Electricity|Gas|w/o CCS (%);1
+Tech|Gases|Biomass|biogas|w/o CCS|Efficiency (%);Efficiency|Gases|Biomass|w/o CCS (%);1
+Tech|Gases|Coal|coalgas|w/o CCS|Efficiency (%);Efficiency|Gases|Coal|w/o CCS (%);1
+Tech|Hydrogen|Biomass|bioh2c|w/ CCS|Efficiency (%);Efficiency|Hydrogen|Biomass|w/ CCS (%);1
+Tech|Hydrogen|Biomass|bioh2|w/o CCS|Efficiency (%);Efficiency|Hydrogen|Biomass|w/o CCS (%);1
+Tech|Hydrogen|Coal|coalh2c|w/ CCS|Efficiency (%);Efficiency|Hydrogen|Coal|w/ CCS (%);1
+Tech|Hydrogen|Coal|coalh2|w/o CCS|Efficiency (%);Efficiency|Hydrogen|Coal|w/o CCS (%);1
+Tech|Hydrogen|Electricity|Efficiency (%);Efficiency|Hydrogen|Electricity (%);1
+Tech|Hydrogen|Gas|gash2c|w/ CCS|Efficiency (%);Efficiency|Hydrogen|Gas|w/ CCS (%);1
+Tech|Hydrogen|Gas|gash2|w/o CCS|Efficiency (%);Efficiency|Hydrogen|Gas|w/o CCS (%);1
+Tech|Liquids|Biomass|bioftcrec|w/ CCS|Efficiency (%);Efficiency|Liquids|Biomass|w/ CCS (%);1
+Tech|Liquids|Biomass|bioftrec|w/o CCS|Efficiency (%);Efficiency|Liquids|Biomass|w/o CCS (%);1
+Tech|Liquids|Coal|coalftcrec|w/ CCS|Efficiency (%);Efficiency|Liquids|Coal|w/ CCS (%);1
+Tech|Liquids|Coal|coalftrec|w/o CCS|Efficiency (%);Efficiency|Liquids|Coal|w/o CCS (%);1
+Tech|Liquids|Oil|refliq|Efficiency (%);Efficiency|Liquids|Oil (%);1
+Emissions|BC (Mt BC/yr);Emissions|BC (Mt BC/yr);1
+Emissions|BC|Land Use (Mt BC/yr);Emissions|BC|AFOLU (Mt BC/yr);1
+Emissions|BC|Energy Supply and Demand (Mt BC/yr);Emissions|BC|Energy (Mt BC/yr);1
+Emissions|BC|Energy Demand|Industry (Mt BC/yr);Emissions|BC|Energy|Demand|Industry (Mt BC/yr);1
+Emissions|BC|Energy Demand|ResCom (Mt BC/yr);Emissions|BC|Energy|Demand|Buildings (Mt BC/yr);1
+Emissions|BC|Energy Demand|Transport (Mt BC/yr);Emissions|BC|Energy|Demand|Transportation (Mt BC/yr);1
+Emissions|BC|Energy Supply (Mt BC/yr);Emissions|BC|Energy|Supply (Mt BC/yr);1
+Emissions|BC|Waste (Mt BC/yr);Emissions|BC|Other (Mt BC/yr);1
+Emissions|CH4 (Mt CH4/yr);Emissions|CH4 (Mt CH4/yr);1
+Emissions|CH4|Land Use (Mt CH4/yr);Emissions|CH4|AFOLU (Mt CH4/yr);1
+Emissions|CH4|Energy Supply and Demand (Mt CH4/yr);Emissions|CH4|Energy (Mt CH4/yr);1
+Emissions|CH4|Energy Demand|ResCom (Mt CH4/yr);Emissions|CH4|Energy|Demand|Buildings (Mt CH4/yr);1
+Emissions|CH4|Energy Supply (Mt CH4/yr);Emissions|CH4|Energy|Supply (Mt CH4/yr);1
+Emissions|CH4|Waste (Mt CH4/yr);Emissions|CH4|Other (Mt CH4/yr);1
+Emissions|CO (Mt CO/yr);Emissions|CO (Mt CO/yr);1
+Emissions|CO|Land Use (Mt CO/yr);Emissions|CO|AFOLU (Mt CO/yr);1
+Emissions|CO|Energy Supply and Demand (Mt CO/yr);Emissions|CO|Energy (Mt CO/yr);1
+Emissions|CO|Energy Demand|Industry (Mt CO/yr);Emissions|CO|Energy|Demand|Industry (Mt CO/yr);1
+Emissions|CO|Energy Demand|ResCom (Mt CO/yr);Emissions|CO|Energy|Demand|Buildings (Mt CO/yr);1
+Emissions|CO|Energy Demand|Transport (Mt CO/yr);Emissions|CO|Energy|Demand|Transportation (Mt CO/yr);1
+Emissions|CO|Energy Supply (Mt CO/yr);Emissions|CO|Energy|Supply (Mt CO/yr);1
+Emissions|CO2 (Mt CO2/yr);Emissions|CO2 (Mt CO2/yr);1
+Emissions|CO2|Land Use (Mt CO2/yr);Emissions|CO2|AFOLU (Mt CO2/yr);1
+Emissions|CO2|Energy (Mt CO2/yr);Emissions|CO2|Energy (Mt CO2/yr);1
+Emissions|CO2|Fossil Fuels and Industry (Mt CO2/yr);Emissions|CO2|Energy and Industrial Processes (Mt CO2/yr);1
+Emissions|CO2|Fossil Fuels and Industry|Demand|After IndustryCCS (Mt CO2/yr);Emissions|CO2|Energy|Demand (Mt CO2/yr);1
+Emissions|CO2|Industry|Direct (Mt CO2/yr);Emissions|CO2|Energy|Demand|Industry (Mt CO2/yr);1
+Emissions|CO2|Buildings|Direct (Mt CO2/yr);Emissions|CO2|Energy|Demand|Buildings (Mt CO2/yr);1
+Emissions|CO2|Transport|Demand (Mt CO2/yr);Emissions|CO2|Energy|Demand|Transportation (Mt CO2/yr);1
+Emissions|CO2|Fossil Fuels and Industry|Indirect (Mt CO2/yr);Emissions|CO2|Energy|Supply (Mt CO2/yr);1
+Emissions|CO2|Energy|Supply|Electricity (Mt CO2/yr);Emissions|CO2|Energy|Supply|Electricity (Mt CO2/yr);1
+Emissions|CO2|Energy|Supply|Gases|w/ couple prod|Before IndustryCCS (Mt CO2/yr);Emissions|CO2|Energy|Supply|Gases (Mt CO2/yr);1
+Emissions|CO2|Energy|Supply|Heat|w/ couple prod (Mt CO2/yr);Emissions|CO2|Energy|Supply|Heat (Mt CO2/yr);1
+Emissions|CO2|Energy|Supply|Liquids|w/ couple prod|Before IndustryCCS (Mt CO2/yr);Emissions|CO2|Energy|Supply|Liquids (Mt CO2/yr);1
+Emissions|CO2|Energy|Supply|Solids|w/ couple prod|Before IndustryCCS (Mt CO2/yr);Emissions|CO2|Energy|Supply|Solids (Mt CO2/yr);1
+Emissions|CO2|Fossil Fuels and Industry|Cement process (Mt CO2/yr);Emissions|CO2|Industrial Processes (Mt CO2/yr);1
+Emissions|F-Gases (Mt CO2-equiv/yr);Emissions|F-Gases (Mt CO2-equiv/yr);1
+Emissions|HFC (kt HFC134a-equiv/yr);Emissions|HFC (kt HFC134a-equiv/yr);1
+Emissions|Kyoto Gases (Mt CO2-equiv/yr);Emissions|Kyoto Gases (Mt CO2-equiv/yr);1
+Emissions|N2O (kt N2O/yr);Emissions|N2O (kt N2O/yr);1
+Emissions|N2O|Land Use (kt N2O/yr);Emissions|N2O|AFOLU (kt N2O/yr);1
+Emissions|N2O|Energy Supply and Demand (kt N2O/yr);Emissions|N2O|Energy (kt N2O/yr);1
+Emissions|N2O|Industry (kt N2O/yr);Emissions|N2O|Industrial Processes (kt N2O/yr);1
+Emissions|N2O|Waste (kt N2O/yr);Emissions|N2O|Other (kt N2O/yr);1
+Emissions|NH3 (Mt NH3/yr);Emissions|NH3 (Mt NH3/yr);1
+Emissions|NH3|Land Use (Mt NH3/yr);Emissions|NH3|AFOLU (Mt NH3/yr);1
+Emissions|NOX (Mt NOX/yr);Emissions|NOx (Mt NO2/yr);1
+Emissions|NOX|Land Use (Mt NOX/yr);Emissions|NOx|AFOLU (Mt NO2/yr);1
+Emissions|NOX|Energy Supply and Demand (Mt NOX/yr);Emissions|NOx|Energy (Mt NO2/yr);1
+Emissions|NOX|Energy Demand|Industry (Mt NOX/yr);Emissions|NOx|Energy|Demand|Industry (Mt NO2/yr);1
+Emissions|NOX|Energy Demand|ResCom (Mt NOX/yr);Emissions|NOx|Energy|Demand|Buildings (Mt NO2/yr);1
+Emissions|NOX|Energy Demand|Transport (Mt NOX/yr);Emissions|NOx|Energy|Demand|Transportation (Mt NO2/yr);1
+Emissions|NOX|Energy Supply (Mt NOX/yr);Emissions|NOx|Energy|Supply (Mt NO2/yr);1
+Emissions|NOX|Waste (Mt NOX/yr);Emissions|NOx|Other (Mt NO2/yr);1
+Emissions|OC (Mt OC/yr);Emissions|OC (Mt OC/yr);1
+Emissions|OC|Land Use (Mt OC/yr);Emissions|OC|AFOLU (Mt OC/yr);1
+Emissions|OC|Energy Supply and Demand (Mt OC/yr);Emissions|OC|Energy (Mt OC/yr);1
+Emissions|OC|Energy Demand|Industry (Mt OC/yr);Emissions|OC|Energy|Demand|Industry (Mt OC/yr);1
+Emissions|OC|Energy Demand|ResCom (Mt OC/yr);Emissions|OC|Energy|Demand|Buildings (Mt OC/yr);1
+Emissions|OC|Energy Demand|Transport (Mt OC/yr);Emissions|OC|Energy|Demand|Transportation (Mt OC/yr);1
+Emissions|OC|Energy Supply (Mt OC/yr);Emissions|OC|Energy|Supply (Mt OC/yr);1
+Emissions|OC|Waste (Mt OC/yr);Emissions|OC|Other (Mt OC/yr);1
+Emissions|PFC (kt CF4-equiv/yr);Emissions|PFC (kt CF4-equiv/yr);1
+Emissions|SF6 (kt SF6/yr);Emissions|SF6 (kt SF6/yr);1
+Emissions|SO2 (Mt SO2/yr);Emissions|Sulfur (Mt SO2/yr);1
+Emissions|SO2|Land Use (Mt SO2/yr);Emissions|Sulfur|AFOLU (Mt SO2/yr);1
+Emissions|SO2|Energy Supply and Demand (Mt SO2/yr);Emissions|Sulfur|Energy (Mt SO2/yr);1
+Emissions|SO2|Energy Demand|Industry (Mt SO2/yr);Emissions|Sulfur|Energy|Demand|Industry (Mt SO2/yr);1
+Emissions|SO2|Energy Demand|ResCom (Mt SO2/yr);Emissions|Sulfur|Energy|Demand|Buildings (Mt SO2/yr);1
+Emissions|SO2|Energy Demand|Transport (Mt SO2/yr);Emissions|Sulfur|Energy|Demand|Transportation (Mt SO2/yr);1
+Emissions|SO2|Energy Supply (Mt SO2/yr);Emissions|Sulfur|Energy|Supply (Mt SO2/yr);1
+Emissions|SO2|Solvents (Mt SO2/yr);Emissions|Sulfur|Other (Mt SO2/yr);1
+Emissions|VOC (Mt VOC/yr);Emissions|VOC (Mt VOC/yr);1
+Emissions|VOC|Land Use (Mt VOC/yr);Emissions|VOC|AFOLU (Mt VOC/yr);1
+Emissions|VOC|Energy Supply and Demand (Mt VOC/yr);Emissions|VOC|Energy (Mt VOC/yr);1
+Emissions|VOC|Energy Demand|Industry (Mt VOC/yr);Emissions|VOC|Energy|Demand|Industry (Mt VOC/yr);1
+Emissions|VOC|Energy Demand|ResCom (Mt VOC/yr);Emissions|VOC|Energy|Demand|Buildings (Mt VOC/yr);1
+Emissions|VOC|Energy Demand|Transport (Mt VOC/yr);Emissions|VOC|Energy|Demand|Transportation (Mt VOC/yr);1
+Emissions|VOC|Energy Supply (Mt VOC/yr);Emissions|VOC|Energy|Supply (Mt VOC/yr);1
+Emissions|VOC|Solvents (Mt VOC/yr);Emissions|VOC|Other (Mt VOC/yr);1
+ES|Transport|Freight (bn tkm/yr);Energy Service|Transportation|Freight (bn tkm/yr);1
+ES|Transport|Pass (bn pkm/yr);Energy Service|Transportation|Passenger (bn pkm/yr);1
+ES|Transport|Pass|LDV (bn pkm/yr);Energy Service|Transportation|Passenger|Road|LDV (bn pkm/yr);1
+Fertilizer Use|Nitrogen (Tg Nr/yr);Fertilizer Use|Nitrogen (Tg N/yr);1
+FE (EJ/yr);Final Energy (EJ/yr);1
+FE|Electricity (EJ/yr);Final Energy|Electricity (EJ/yr);1
+FE|Gases (EJ/yr);Final Energy|Gases (EJ/yr);1
+SE|Heat|Geothermal (EJ/yr);Final Energy|Geothermal (EJ/yr);1
+FE|Heat (EJ/yr);Final Energy|Heat (EJ/yr);1
+FE|Hydrogen (EJ/yr);Final Energy|Hydrogen (EJ/yr);1
+FE|Industry (EJ/yr);Final Energy|Industry (EJ/yr);1
+FE|Industry|Electricity (EJ/yr);Final Energy|Industry|Electricity (EJ/yr);1
+FE|Industry|Gases (EJ/yr);Final Energy|Industry|Gases (EJ/yr);1
+FE|Industry|Heat (EJ/yr);Final Energy|Industry|Heat (EJ/yr);1
+FE|Industry|Hydrogen (EJ/yr);Final Energy|Industry|Hydrogen (EJ/yr);1
+FE|Industry|Liquids (EJ/yr);Final Energy|Industry|Liquids (EJ/yr);1
+FE|Industry|Solids (EJ/yr);Final Energy|Industry|Solids (EJ/yr);1
+FE|Industry|Solids|Biomass (EJ/yr);Final Energy|Industry|Solids|Biomass (EJ/yr);1
+FE|Industry|Solids|Coal (EJ/yr);Final Energy|Industry|Solids|Coal (EJ/yr);1
+FE|Liquids (EJ/yr);Final Energy|Liquids (EJ/yr);1
+Tech|Electricity|Solar|PV|Lifetime (years);Final Energy|Non-Energy Use|Coal (EJ/yr);0
+Tech|Electricity|Solar|PV|Lifetime (years);Final Energy|Non-Energy Use|Gas (EJ/yr);0
+Tech|Electricity|Solar|PV|Lifetime (years);Final Energy|Non-Energy Use|Oil (EJ/yr);0
+FE|Buildings (EJ/yr);Final Energy|Buildings (EJ/yr);1
+FE|Buildings|Electricity (EJ/yr);Final Energy|Buildings|Electricity (EJ/yr);1
+FE|Buildings|Gases (EJ/yr);Final Energy|Buildings|Gases (EJ/yr);1
+FE|Buildings|Heat (EJ/yr);Final Energy|Buildings|Heat (EJ/yr);1
+FE|Buildings|Hydrogen (EJ/yr);Final Energy|Buildings|Hydrogen (EJ/yr);1
+FE|Buildings|Liquids (EJ/yr);Final Energy|Buildings|Liquids (EJ/yr);1
+FE|Buildings|Solids (EJ/yr);Final Energy|Buildings|Solids (EJ/yr);1
+FE|Buildings|Solids|Biomass (EJ/yr);Final Energy|Buildings|Solids|Biomass (EJ/yr);1
+FE|Buildings|Solids|Coal (EJ/yr);Final Energy|Buildings|Solids|Coal (EJ/yr);1
+Tech|Electricity|Solar|PV|Lifetime (years);Final Energy|Solar (EJ/yr);0
+FE|Solids (EJ/yr);Final Energy|Solids (EJ/yr);1
+FE|Solids|Biomass (EJ/yr);Final Energy|Solids|Biomass (EJ/yr);1
+FE|Solids|Biomass|Traditional (EJ/yr);Final Energy|Solids|Biomass|Traditional (EJ/yr);1
+FE|Solids|Coal (EJ/yr);Final Energy|Solids|Coal (EJ/yr);1
+FE|Transport (EJ/yr);Final Energy|Transportation (EJ/yr);1
+FE|Transport|Electricity (EJ/yr);Final Energy|Transportation|Electricity (EJ/yr);1
+Tech|Electricity|Solar|PV|Lifetime (years);Final Energy|Transportation|Gases (EJ/yr);0
+FE|Transport|Hydrogen (EJ/yr);Final Energy|Transportation|Hydrogen (EJ/yr);1
+FE|Transport|Liquids (EJ/yr);Final Energy|Transportation|Liquids (EJ/yr);1
+FE|Transport|Liquids|Biomass (EJ/yr);Final Energy|Transportation|Liquids|Biomass (EJ/yr);1
+FE|Transport|Liquids|Oil (EJ/yr);Final Energy|Transportation|Liquids|Oil (EJ/yr);1
+Food Demand (kcal/cap/day);Food Demand (kcal/cap/day);1
+Food Demand|Crops (kcal/cap/day);Food Demand|Crops (kcal/cap/day);1
+Food Demand|Livestock (kcal/cap/day);Food Demand|Livestock (kcal/cap/day);1
+Food Energy Demand (EJ/yr);Food Energy Supply (EJ/yr);1
+Food Energy Demand|Livestock (EJ/yr);Food Energy Supply|Livestock (EJ/yr);1
+Forcing (W/m2);Forcing (W/m2);1
+Forcing|Aerosol (W/m2);Forcing|Aerosol (W/m2);1
+Forcing|Aerosol|BC (W/m2);Forcing|Aerosol|BC (W/m2);1
+Forcing|Aerosol|Cloud Indirect (W/m2);Forcing|Aerosol|Cloud Indirect (W/m2);1
+Forcing|Aerosol|OC (W/m2);Forcing|Aerosol|OC (W/m2);1
+Forcing|Aerosol|Other (W/m2);Forcing|Aerosol|Other (W/m2);1
+Forcing|Aerosol|Sulfate Direct (W/m2);Forcing|Aerosol|Sulfate Direct (W/m2);1
+Forcing|Albedo Change and Mineral Dust (W/m2);Forcing|Albedo Change and Mineral Dust (W/m2);1
+Forcing|CH4 (W/m2);Forcing|CH4 (W/m2);1
+Forcing|CO2 (W/m2);Forcing|CO2 (W/m2);1
+Forcing|F-Gases (W/m2);Forcing|F-Gases (W/m2);1
+Forcing|Kyoto Gases (W/m2);Forcing|Kyoto Gases (W/m2);1
+Forcing|Montreal Gases (W/m2);Forcing|Montreal Gases (W/m2);1
+Forcing|N2O (W/m2);Forcing|N2O (W/m2);1
+Forcing|Other (W/m2);Forcing|Other (W/m2);1
+Forcing|Tropospheric Ozone (W/m2);Forcing|Tropospheric Ozone (W/m2);1
+GDP|MER (billion US$2005/yr);GDP|MER (billion US$2010/yr);1.10774
+GDP|PPP (billion US$2005/yr);GDP|PPP (billion US$2010/yr);1.10774
+Energy Investments|Supply (billion US$2005/yr);Investment|Energy Supply (billion US$2010/yr);1.10774
+Energy Investments|CO2 Trans&Stor (billion US$2005/yr);Investment|Energy Supply|CO2 Transport and Storage (billion US$2010/yr);1.10774
+Energy Investments|Electricity (billion US$2005/yr);Investment|Energy Supply|Electricity (billion US$2010/yr);1.10774
+Energy Investments|Elec|Biomass (billion US$2005/yr);Investment|Energy Supply|Electricity|Biomass (billion US$2010/yr);1.10774
+Energy Investments|Elec|Biomass|w/ CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Biomass|w/ CCS (billion US$2010/yr);1.10774
+Energy Investments|Elec|Biomass|w/o CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Biomass|w/o CCS (billion US$2010/yr);1.10774
+Energy Investments|Elec|Coal (billion US$2005/yr);Investment|Energy Supply|Electricity|Coal (billion US$2010/yr);1.10774
+Energy Investments|Elec|Coal|w/ CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Coal|w/ CCS (billion US$2010/yr);1.10774
+Energy Investments|Elec|Coal|w/o CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Coal|w/o CCS (billion US$2010/yr);1.10774
+Energy Investments|Elec|Storage (billion US$2005/yr);Investment|Energy Supply|Electricity|Electricity Storage (billion US$2010/yr);1.10774
+Energy Investments|Elec|Fossil (billion US$2005/yr);Investment|Energy Supply|Electricity|Fossil (billion US$2010/yr);1.10774
+Energy Investments|Elec|Gas (billion US$2005/yr);Investment|Energy Supply|Electricity|Gas (billion US$2010/yr);1.10774
+Energy Investments|Elec|Gas|w/ CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Gas|w/ CCS (billion US$2010/yr);1.10774
+Energy Investments|Elec|Gas|w/o CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Gas|w/o CCS (billion US$2010/yr);1.10774
+Energy Investments|Elec|Hydro (billion US$2005/yr);Investment|Energy Supply|Electricity|Hydro (billion US$2010/yr);1.10774
+Energy Investments|Elec|Non-Bio Re (billion US$2005/yr);Investment|Energy Supply|Electricity|Non-Biomass Renewables (billion US$2010/yr);1.10774
+Energy Investments|Elec|Nuclear (billion US$2005/yr);Investment|Energy Supply|Electricity|Nuclear (billion US$2010/yr);1.10774
+Energy Investments|Elec|Oil (billion US$2005/yr);Investment|Energy Supply|Electricity|Oil (billion US$2010/yr);1.10774
+Energy Investments|Elec|Oil|w/o CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Oil|w/o CCS (billion US$2010/yr);1.10774
+Energy Investments|Elec|Solar (billion US$2005/yr);Investment|Energy Supply|Electricity|Solar (billion US$2010/yr);1.10774
+Energy Investments|Elec|Grid (billion US$2005/yr);Investment|Energy Supply|Electricity|Transmission and Distribution (billion US$2010/yr);1.10774
+Energy Investments|Elec|Wind (billion US$2005/yr);Investment|Energy Supply|Electricity|Wind (billion US$2010/yr);1.10774
+Energy Investments|Heat (billion US$2005/yr);Investment|Energy Supply|Heat (billion US$2010/yr);1.10774
+Energy Investments|Hydrogen (billion US$2005/yr);Investment|Energy Supply|Hydrogen (billion US$2010/yr);1.10774
+Energy Investments|Hydrogen|Fossil (billion US$2005/yr);Investment|Energy Supply|Hydrogen|Fossil (billion US$2010/yr);1.10774
+Energy Investments|Liquids (billion US$2005/yr);Investment|Energy Supply|Liquids (billion US$2010/yr);1.10774
+Energy Investments|Liquids|Bio (billion US$2005/yr);Investment|Energy Supply|Liquids|Biomass (billion US$2010/yr);1.10774
+Energy Investments|Liquids|Fossil (billion US$2005/yr);Investment|Energy Supply|Liquids|Coal and Gas (billion US$2010/yr);1.10774
+Energy Investments|Liquids|Oil Ref (billion US$2005/yr);Investment|Energy Supply|Liquids|Oil (billion US$2010/yr);1.10774
+Land Cover (million ha);Land Cover (million ha);1
+Land Cover|Urban (million ha);Land Cover|Built-up Area (million ha);1
+Land Cover|Cropland (million ha);Land Cover|Cropland (million ha);1
+Land Cover|Cropland|Cereals (million ha);Land Cover|Cropland|Cereals (million ha);1
+Land Cover|Cropland|Energy Crops (million ha);Land Cover|Cropland|Energy Crops (million ha);1
+Land Cover|Cropland|Irrigated (million ha);Land Cover|Cropland|Irrigated (million ha);1
+Land Cover|Forest (million ha);Land Cover|Forest (million ha);1
+Land Cover|Forest|Managed|Afforestation (million ha);Land Cover|Forest|Afforestation and Reforestation (million ha);1
+Land Cover|Forest|Managed (million ha);Land Cover|Forest|Managed (million ha);1
+Land Cover|Forest|Unmanaged (million ha);Land Cover|Forest|Natural Forest (million ha);1
+Land Cover|Other|Arable (million ha);Land Cover|Other Arable Land (million ha);1
+Land Cover|Other|Non-Arable (million ha);Land Cover|Other Land (million ha);1
+Land Cover|Pasture (million ha);Land Cover|Pasture (million ha);1
+Tech|Electricity|Biomass|w/ CCS|Lifetime (years);Lifetime|Electricity|Biomass|w/ CCS (years);1
+Tech|Electricity|Biomass|w/o CCS|Lifetime (years);Lifetime|Electricity|Biomass|w/o CCS (years);1
+Tech|Electricity|Coal|IGCCC|w/ CCS|Lifetime (years);Lifetime|Electricity|Coal|w/ CCS (years);1
+Tech|Electricity|Coal|PC|w/o CCS|Lifetime (years);Lifetime|Electricity|Coal|w/o CCS (years);1
+Tech|Electricity|Gas|CCC|w/ CCS|Lifetime (years);Lifetime|Electricity|Gas|w/ CCS (years);1
+Tech|Electricity|Gas|CC|w/o CCS|Lifetime (years);Lifetime|Electricity|Gas|w/o CCS (years);1
+Tech|Electricity|Geotherma|Lifetime (years);Lifetime|Electricity|Geothermal (years);1
+Tech|Electricity|Hydro|Lifetime (years);Lifetime|Electricity|Hydro (years);1
+Tech|Electricity|Nuclear|Lifetime (years);Lifetime|Electricity|Nuclear (years);1
+Tech|Electricity|Solar|CSP|Lifetime (years);Lifetime|Electricity|Solar|CSP (years);1
+Tech|Electricity|Solar|PV|Lifetime (years);Lifetime|Electricity|Solar|PV (years);1
+Tech|Electricity|Wind|Lifetime (years);Lifetime|Electricity|Wind|Offshore (years);1
+Tech|Electricity|Wind|Lifetime (years);Lifetime|Electricity|Wind|Onshore (years);1
+Tech|Gases|Biomass|biogas|w/o CCS|Lifetime (years);Lifetime|Gases|Biomass|w/o CCS (years);1
+Tech|Gases|Coal|coalgas|w/o CCS|Lifetime (years);Lifetime|Gases|Coal|w/o CCS (years);1
+Tech|Hydrogen|Biomass|bioh2c|w/ CCS|Lifetime (years);Lifetime|Hydrogen|Biomass|w/ CCS (years);1
+Tech|Hydrogen|Biomass|bioh2|w/o CCS|Lifetime (years);Lifetime|Hydrogen|Biomass|w/o CCS (years);1
+Tech|Hydrogen|Coal|coalh2c|w/ CCS|Lifetime (years);Lifetime|Hydrogen|Coal|w/ CCS (years);1
+Tech|Hydrogen|Coal|coalh2|w/o CCS|Lifetime (years);Lifetime|Hydrogen|Coal|w/o CCS (years);1
+Tech|Hydrogen|Electricity|Lifetime (years);Lifetime|Hydrogen|Electricity (years);1
+Tech|Hydrogen|Gas|gash2c|w/ CCS|Lifetime (years);Lifetime|Hydrogen|Gas|w/ CCS (years);1
+Tech|Hydrogen|Gas|gash2|w/o CCS|Lifetime (years);Lifetime|Hydrogen|Gas|w/o CCS (years);1
+Tech|Liquids|Biomass|bioftcrec|w/ CCS|Lifetime (years);Lifetime|Liquids|Biomass|w/ CCS (years);1
+Tech|Liquids|Biomass|bioftrec|w/o CCS|Lifetime (years);Lifetime|Liquids|Biomass|w/o CCS (years);1
+Tech|Liquids|Coal|coalftcrec|w/ CCS|Lifetime (years);Lifetime|Liquids|Coal|w/ CCS (years);1
+Tech|Liquids|Coal|coalftrec|w/o CCS|Lifetime (years);Lifetime|Liquids|Coal|w/o CCS (years);1
+Tech|Liquids|Oil|refliq|Lifetime (years);Lifetime|Liquids|Oil (years);1
+Tech|Electricity|Biomass|w/ CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Biomass|w/ CCS (US$2010/kW/yr);1.10774
+Tech|Electricity|Biomass|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Biomass|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Electricity|Coal|IGCCC|w/ CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Coal|w/ CCS (US$2010/kW/yr);1.10774
+Tech|Electricity|Coal|PC|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Coal|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Electricity|Gas|CCC|w/ CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Gas|w/ CCS (US$2010/kW/yr);1.10774
+Tech|Electricity|Gas|CC|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Gas|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Electricity|Geotherma|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Geothermal (US$2010/kW/yr);1.10774
+Tech|Electricity|Hydro|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Hydro (US$2010/kW/yr);1.10774
+Tech|Electricity|Nuclear|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Nuclear (US$2010/kW/yr);1.10774
+Tech|Electricity|Solar|CSP|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Solar|CSP (US$2010/kW/yr);1.10774
+Tech|Electricity|Solar|PV|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Solar|PV (US$2010/kW/yr);1.10774
+Tech|Electricity|Wind|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Wind|Offshore (US$2010/kW/yr);1.10774
+Tech|Electricity|Wind|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Electricity|Wind|Onshore (US$2010/kW/yr);1.10774
+Tech|Gases|Biomass|biogas|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Gases|Biomass|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Gases|Coal|coalgas|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Gases|Coal|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Hydrogen|Biomass|bioh2c|w/ CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Hydrogen|Biomass|w/ CCS (US$2010/kW/yr);1.10774
+Tech|Hydrogen|Biomass|bioh2|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Hydrogen|Biomass|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Hydrogen|Coal|coalh2c|w/ CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Hydrogen|Coal|w/ CCS (US$2010/kW/yr);1.10774
+Tech|Hydrogen|Coal|coalh2|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Hydrogen|Coal|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Hydrogen|Electricity|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Hydrogen|Electricity (US$2010/kW/yr);1.10774
+Tech|Hydrogen|Gas|gash2c|w/ CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Hydrogen|Gas|w/ CCS (US$2010/kW/yr);1.10774
+Tech|Hydrogen|Gas|gash2|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Hydrogen|Gas|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Liquids|Biomass|bioftcrec|w/ CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Liquids|Biomass|w/ CCS (US$2010/kW/yr);1.10774
+Tech|Liquids|Biomass|bioftrec|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Liquids|Biomass|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Liquids|Coal|coalftcrec|w/ CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Liquids|Coal|w/ CCS (US$2010/kW/yr);1.10774
+Tech|Liquids|Coal|coalftrec|w/o CCS|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Liquids|Coal|w/o CCS (US$2010/kW/yr);1.10774
+Tech|Liquids|Oil|refliq|OM Cost|fixed (US$2005/kW/yr);OM Cost|Fixed|Liquids|Oil (US$2010/kW/yr);1.10774
+Policy Cost|Consumption Loss (billion US$2005/yr);Policy Cost|Consumption Loss (billion US$2010/yr);1.10774
+Policy Cost|GDP Loss (billion US$2005/yr);Policy Cost|GDP Loss (billion US$2010/yr);1.10774
+Policy Cost|Consumption + Current Account Loss (billion US$2005/yr);Policy Cost|Other (billion US$2010/yr);1.10774
+Population (million);Population (million);1
+Price|Agriculture|Corn|Index (2005 = 1);Price|Agriculture|Corn|Index (2005 = 1);1
+Price|Agriculture|Livestock|Index (2005 = 1);Price|Agriculture|Livestock|Index (2005 = 1);1
+Price|Agriculture|Non-Energy Crops and Livestock|Index (2005 = 1);Price|Agriculture|Non-Energy Crops and Livestock|Index (2005 = 1);1
+Price|Agriculture|Non-Energy Crops|Index (2005 = 1);Price|Agriculture|Non-Energy Crops|Index (2005 = 1);1
+Price|Agriculture|Soybean|Index (2005 = 1);Price|Agriculture|Soybean|Index (2005 = 1);1
+Price|Agriculture|Wheat|Index (2005 = 1);Price|Agriculture|Wheat|Index (2005 = 1);1
+Price|Carbon (US$2005/t CO2);Price|Carbon (US$2010/t CO2);1.10774
+Price|Final Energy|Electricity|Buildings (US$2005/GJ);Price|Final Energy|Buildings|Residential|Electricity (US$2010/GJ);1.10774
+Price|Final Energy|Gases|Buildings (US$2005/GJ);Price|Final Energy|Buildings|Residential|Gases|Natural Gas (US$2010/GJ);1.10774
+Price|Final Energy|Heating Oil|Buildings (US$2005/GJ);Price|Final Energy|Buildings|Residential|Liquids|Biomass (US$2010/GJ);1.10774
+Price|Final Energy|Heating Oil|Buildings (US$2005/GJ);Price|Final Energy|Buildings|Residential|Liquids|Oil (US$2010/GJ);1.10774
+Price|Final Energy|Solids|Buildings (US$2005/GJ);Price|Final Energy|Buildings|Residential|Solids|Biomass (US$2010/GJ);1.10774
+Price|Final Energy|Solids|Buildings (US$2005/GJ);Price|Final Energy|Buildings|Residential|Solids|Coal (US$2010/GJ);1.10774
+Price|Final Energy|Electricity|Transport (US$2005/GJ);Price|Final Energy|Transportation|Electricity (US$2010/GJ);1.10774
+Price|Final Energy|Liquids|Transport (US$2005/GJ);Price|Final Energy|Transportation|Liquids|Bioenergy (US$2010/GJ);1.10774
+Price|Final Energy|Liquids|Transport (US$2005/GJ);Price|Final Energy|Transportation|Liquids (US$2010/GJ);1.10774
+Price|Biomass|World Market (US$2005/GJ);Price|Primary Energy|Biomass (US$2010/GJ);1.10774
+Price|Coal|Primary Level (US$2005/GJ);Price|Primary Energy|Coal (US$2010/GJ);1.10774
+Price|Natural Gas|Primary Level (US$2005/GJ);Price|Primary Energy|Gas (US$2010/GJ);1.10774
+Price|Crude Oil|Primary Level (US$2005/GJ);Price|Primary Energy|Oil (US$2010/GJ);1.10774
+Price|Secondary Energy|Electricity (US$2005/GJ);Price|Secondary Energy|Electricity (US$2010/GJ);1.10774
+Price|Secondary Energy|Gases (US$2005/GJ);Price|Secondary Energy|Gases|Natural Gas (US$2010/GJ);1.10774
+Price|Secondary Energy|Hydrogen (US$2005/GJ);Price|Secondary Energy|Hydrogen (US$2010/GJ);1.10774
+Price|Secondary Energy|Liquids (US$2005/GJ);Price|Secondary Energy|Liquids (US$2010/GJ);1.10774
+Price|Secondary Energy|Liquids (US$2005/GJ);Price|Secondary Energy|Liquids|Biomass (US$2010/GJ);1.10774
+Price|Secondary Energy|Liquids (US$2005/GJ);Price|Secondary Energy|Liquids (US$2010/GJ);1.10774
+Price|Secondary Energy|Solids (US$2005/GJ);Price|Secondary Energy|Solids|Coal (US$2010/GJ);1.10774
+PE (EJ/yr);Primary Energy (EJ/yr);1
+PE|Biomass (EJ/yr);Primary Energy|Biomass (EJ/yr);1
+PE|Biomass|Electricity (EJ/yr);Primary Energy|Biomass|Electricity (EJ/yr);1
+PE|Biomass|Electricity|w/ CCS (EJ/yr);Primary Energy|Biomass|Electricity|w/ CCS (EJ/yr);1
+PE|Biomass|Electricity|w/o CCS (EJ/yr);Primary Energy|Biomass|Electricity|w/o CCS (EJ/yr);1
+PE|Biomass|Modern (EJ/yr);Primary Energy|Biomass|Modern (EJ/yr);1
+PE|Biomass|w/ CCS (EJ/yr);Primary Energy|Biomass|Modern|w/ CCS (EJ/yr);1
+PE|Biomass|Traditional (EJ/yr);Primary Energy|Biomass|Traditional (EJ/yr);1
+PE|Coal (EJ/yr);Primary Energy|Coal (EJ/yr);1
+PE|Coal|Electricity (EJ/yr);Primary Energy|Coal|Electricity (EJ/yr);1
+PE|Coal|Electricity|w/ CCS (EJ/yr);Primary Energy|Coal|Electricity|w/ CCS (EJ/yr);1
+PE|Coal|Electricity|w/o CCS (EJ/yr);Primary Energy|Coal|Electricity|w/o CCS (EJ/yr);1
+PE|Coal|w/ CCS (EJ/yr);Primary Energy|Coal|w/ CCS (EJ/yr);1
+PE|Coal|w/o CCS (EJ/yr);Primary Energy|Coal|w/o CCS (EJ/yr);1
+PE|Fossil (EJ/yr);Primary Energy|Fossil (EJ/yr);1
+PE|Fossil|w/ CCS (EJ/yr);Primary Energy|Fossil|w/ CCS (EJ/yr);1
+PE|Fossil|w/o CCS (EJ/yr);Primary Energy|Fossil|w/o CCS (EJ/yr);1
+PE|Gas (EJ/yr);Primary Energy|Gas (EJ/yr);1
+PE|Gas|Electricity (EJ/yr);Primary Energy|Gas|Electricity (EJ/yr);1
+PE|Gas|Electricity|w/ CCS (EJ/yr);Primary Energy|Gas|Electricity|w/ CCS (EJ/yr);1
+PE|Gas|Electricity|w/o CCS (EJ/yr);Primary Energy|Gas|Electricity|w/o CCS (EJ/yr);1
+PE|Gas|w/ CCS (EJ/yr);Primary Energy|Gas|w/ CCS (EJ/yr);1
+PE|Gas|w/o CCS (EJ/yr);Primary Energy|Gas|w/o CCS (EJ/yr);1
+PE|Non-Biomass Renewables (EJ/yr);Primary Energy|Non-Biomass Renewables (EJ/yr);1
+PE|Geothermal (EJ/yr);Primary Energy|Non-Biomass Renewables|Geothermal (EJ/yr);1
+PE|Hydro (EJ/yr);Primary Energy|Non-Biomass Renewables|Hydro (EJ/yr);1
+PE|Solar (EJ/yr);Primary Energy|Non-Biomass Renewables|Solar (EJ/yr);1
+PE|Wind (EJ/yr);Primary Energy|Non-Biomass Renewables|Wind (EJ/yr);1
+PE|Nuclear (EJ/yr);Primary Energy|Nuclear (EJ/yr);1
+PE|Oil (EJ/yr);Primary Energy|Oil (EJ/yr);1
+SE|Electricity|Light Fuel Oil (EJ/yr);Primary Energy|Oil|w/ CCS (EJ/yr);0
+PE|Oil|w/o CCS (EJ/yr);Primary Energy|Oil|w/o CCS (EJ/yr);1
+SE|Electricity (EJ/yr);Secondary Energy|Electricity (EJ/yr);1
+SE|Electricity|Biomass (EJ/yr);Secondary Energy|Electricity|Biomass (EJ/yr);1
+SE|Electricity|Biomass|w/ CCS (EJ/yr);Secondary Energy|Electricity|Biomass|w/ CCS (EJ/yr);1
+SE|Electricity|Biomass|w/o CCS (EJ/yr);Secondary Energy|Electricity|Biomass|w/o CCS (EJ/yr);1
+SE|Electricity|Coal (EJ/yr);Secondary Energy|Electricity|Coal (EJ/yr);1
+SE|Electricity|Coal|w/ CCS (EJ/yr);Secondary Energy|Electricity|Coal|w/ CCS (EJ/yr);1
+SE|Electricity|Coal|w/o CCS (EJ/yr);Secondary Energy|Electricity|Coal|w/o CCS (EJ/yr);1
+SE|Electricity|Gas (EJ/yr);Secondary Energy|Electricity|Gas (EJ/yr);1
+SE|Electricity|Gas|w/ CCS (EJ/yr);Secondary Energy|Electricity|Gas|w/ CCS (EJ/yr);1
+SE|Electricity|Gas|w/o CCS (EJ/yr);Secondary Energy|Electricity|Gas|w/o CCS (EJ/yr);1
+SE|Electricity|Geothermal (EJ/yr);Secondary Energy|Electricity|Geothermal (EJ/yr);1
+SE|Electricity|Hydro (EJ/yr);Secondary Energy|Electricity|Hydro (EJ/yr);1
+SE|Electricity|Non-Biomass Renewables (EJ/yr);Secondary Energy|Electricity|Non-Biomass Renewables (EJ/yr);1
+SE|Electricity|Nuclear (EJ/yr);Secondary Energy|Electricity|Nuclear (EJ/yr);1
+SE|Electricity|Oil (EJ/yr);Secondary Energy|Electricity|Oil (EJ/yr);1
+SE|Electricity|Oil|w/o CCS (EJ/yr);Secondary Energy|Electricity|Oil|w/o CCS (EJ/yr);1
+SE|Electricity|Solar (EJ/yr);Secondary Energy|Electricity|Solar (EJ/yr);1
+SE|Electricity|Solar|CSP (EJ/yr);Secondary Energy|Electricity|Solar|CSP (EJ/yr);1
+SE|Electricity|Solar|PV (EJ/yr);Secondary Energy|Electricity|Solar|PV (EJ/yr);1
+SE|Electricity|Wind (EJ/yr);Secondary Energy|Electricity|Wind (EJ/yr);1
+SE|Gases (EJ/yr);Secondary Energy|Gases (EJ/yr);1
+SE|Gases|Biomass (EJ/yr);Secondary Energy|Gases|Biomass (EJ/yr);1
+SE|Gases|Coal (EJ/yr);Secondary Energy|Gases|Coal (EJ/yr);1
+SE|Gases|Natural Gas (EJ/yr);Secondary Energy|Gases|Natural Gas (EJ/yr);1
+SE|Heat (EJ/yr);Secondary Energy|Heat (EJ/yr);1
+SE|Heat|Coal (EJ/yr);Secondary Energy|Heat|Coal (EJ/yr);1
+SE|Heat|Gas (EJ/yr);Secondary Energy|Heat|Gas (EJ/yr);1
+SE|Heat|Biomass (EJ/yr);Secondary Energy|Heat|Biomass (EJ/yr);1
+SE|Heat|Geothermal (EJ/yr);Secondary Energy|Heat|Geothermal (EJ/yr);1
+SE|Hydrogen (EJ/yr);Secondary Energy|Hydrogen (EJ/yr);1
+SE|Hydrogen|Biomass (EJ/yr);Secondary Energy|Hydrogen|Biomass (EJ/yr);1
+SE|Hydrogen|Biomass|w/ CCS (EJ/yr);Secondary Energy|Hydrogen|Biomass|w/ CCS (EJ/yr);1
+SE|Hydrogen|Biomass|w/o CCS (EJ/yr);Secondary Energy|Hydrogen|Biomass|w/o CCS (EJ/yr);1
+SE|Hydrogen|Coal (EJ/yr);Secondary Energy|Hydrogen|Coal (EJ/yr);1
+SE|Hydrogen|Coal|w/ CCS (EJ/yr);Secondary Energy|Hydrogen|Coal|w/ CCS (EJ/yr);1
+SE|Hydrogen|Coal|w/o CCS (EJ/yr);Secondary Energy|Hydrogen|Coal|w/o CCS (EJ/yr);1
+SE|Hydrogen|Gas (EJ/yr);Secondary Energy|Hydrogen|Gas (EJ/yr);1
+SE|Hydrogen|Gas|w/ CCS (EJ/yr);Secondary Energy|Hydrogen|Gas|w/ CCS (EJ/yr);1
+SE|Hydrogen|Gas|w/o CCS (EJ/yr);Secondary Energy|Hydrogen|Gas|w/o CCS (EJ/yr);1
+SE|Hydrogen|Electricity (EJ/yr);Secondary Energy|Hydrogen|Electricity (EJ/yr);1
+SE|Hydrogen|Fossil (EJ/yr);Secondary Energy|Hydrogen|Fossil (EJ/yr);1
+SE|Hydrogen|Fossil|w/ CCS (EJ/yr);Secondary Energy|Hydrogen|Fossil|w/ CCS (EJ/yr);1
+SE|Hydrogen|Fossil|w/o CCS (EJ/yr);Secondary Energy|Hydrogen|Fossil|w/o CCS (EJ/yr);1
+SE|Liquids (EJ/yr);Secondary Energy|Liquids (EJ/yr);1
+SE|Liquids|Biomass (EJ/yr);Secondary Energy|Liquids|Biomass (EJ/yr);1
+SE|Liquids|Biomass|1st Generation (EJ/yr);Secondary Energy|Liquids|Biomass|1st Generation (EJ/yr);1
+SE|Liquids|Biomass|Energy Crops (EJ/yr);Secondary Energy|Liquids|Biomass|Energy Crops (EJ/yr);1
+SE|Liquids|Biomass|Residues (EJ/yr);Secondary Energy|Liquids|Biomass|Residues (EJ/yr);1
+SE|Liquids|Biomass|w/ CCS (EJ/yr);Secondary Energy|Liquids|Biomass|w/ CCS (EJ/yr);1
+SE|Liquids|Biomass|w/o CCS (EJ/yr);Secondary Energy|Liquids|Biomass|w/o CCS (EJ/yr);1
+SE|Liquids|Coal (EJ/yr);Secondary Energy|Liquids|Coal (EJ/yr);1
+SE|Liquids|Coal|w/ CCS (EJ/yr);Secondary Energy|Liquids|Coal|w/ CCS (EJ/yr);1
+SE|Liquids|Coal|w/o CCS (EJ/yr);Secondary Energy|Liquids|Coal|w/o CCS (EJ/yr);1
+SE|Liquids|Oil (EJ/yr);Secondary Energy|Liquids|Oil (EJ/yr);1
+SE|Solids (EJ/yr);Secondary Energy|Solids (EJ/yr);1
+Subsidies|Final Energy (billion US$2005/yr);Subsidies|Energy|Fossil (billion US$2010/yr);1.10774
+Temperature|Global Mean (K);Temperature|Global Mean (°C);1
+Trade|Biomass (EJ/yr);Trade|Primary Energy|Biomass|Volume (EJ/yr);1
+Trade|Coal (EJ/yr);Trade|Primary Energy|Coal|Volume (EJ/yr);1
+Trade|Gas (EJ/yr);Trade|Primary Energy|Gas|Volume (EJ/yr);1
+Trade|Oil (EJ/yr);Trade|Primary Energy|Oil|Volume (EJ/yr);1
+Trade|Uranium|Mass (ktU/yr);Trade|Uranium|Mass (kt U/yr);1
+Est|LDV Stock (million vehicles);Transport|Stock|Road|Passenger|LDV (million vehicles);1
+Water Consumption|Electricity (km3/yr);Water Consumption|Electricity (km3/yr);1
+Water Consumption|Electricity|Fossil (km3/yr);Water Consumption|Electricity|Fossil (km3/yr);1
+Water Consumption|Electricity|Fossil|w/ CCS (km3/yr);Water Consumption|Electricity|Fossil|w/ CCS (km3/yr);1
+Water Consumption|Electricity|Fossil|w/o CCS (km3/yr);Water Consumption|Electricity|Fossil|w/o CCS (km3/yr);1
+Water Consumption|Electricity|Coal (km3/yr);Water Consumption|Electricity|Coal (km3/yr);1
+Water Consumption|Electricity|Coal|w/ CCS (km3/yr);Water Consumption|Electricity|Coal|w/ CCS (km3/yr);1
+Water Consumption|Electricity|Coal|w/o CCS (km3/yr);Water Consumption|Electricity|Coal|w/o CCS (km3/yr);1
+Water Consumption|Electricity|Oil (km3/yr);Water Consumption|Electricity|Oil (km3/yr);1
+Water Consumption|Electricity|Oil|w/o CCS (km3/yr);Water Consumption|Electricity|Oil|w/o CCS (km3/yr);1
+Water Consumption|Electricity|Gas (km3/yr);Water Consumption|Electricity|Gas (km3/yr);1
+Water Consumption|Electricity|Gas|w/ CCS (km3/yr);Water Consumption|Electricity|Gas|w/ CCS (km3/yr);1
+Water Consumption|Electricity|Gas|w/o CCS (km3/yr);Water Consumption|Electricity|Gas|w/o CCS (km3/yr);1
+Water Consumption|Electricity|Biomass (km3/yr);Water Consumption|Electricity|Biomass (km3/yr);1
+Water Consumption|Electricity|Biomass|w/ CCS (km3/yr);Water Consumption|Electricity|Biomass|w/ CCS (km3/yr);1
+Water Consumption|Electricity|Biomass|w/o CCS (km3/yr);Water Consumption|Electricity|Biomass|w/o CCS (km3/yr);1
+Water Consumption|Electricity|Nuclear (km3/yr);Water Consumption|Electricity|Nuclear (km3/yr);1
+Water Consumption|Electricity|Non-Biomass Renewables (km3/yr);Water Consumption|Electricity|Non-Biomass Renewables (km3/yr);1
+Water Consumption|Electricity|Hydro (km3/yr);Water Consumption|Electricity|Hydro (km3/yr);1
+Water Consumption|Electricity|Solar (km3/yr);Water Consumption|Electricity|Solar (km3/yr);1
+Water Consumption|Electricity|Solar|PV (km3/yr);Water Consumption|Electricity|Solar|PV (km3/yr);1
+Water Consumption|Electricity|Solar|CSP (km3/yr);Water Consumption|Electricity|Solar|CSP (km3/yr);1
+Water Consumption|Electricity|Wind (km3/yr);Water Consumption|Electricity|Wind (km3/yr);1
+Water Consumption|Electricity|Geothermal (km3/yr);Water Consumption|Electricity|Geothermal (km3/yr);1
+Water Consumption|Electricity|Once Through (km3/yr);Water Consumption|Electricity|Once Through (km3/yr);1
+Water Consumption|Electricity|Wet Tower (km3/yr);Water Consumption|Electricity|Wet Tower (km3/yr);1
+Water Consumption|Electricity|Cooling Pond (km3/yr);Water Consumption|Electricity|Cooling Pond (km3/yr);1
+Water Consumption|Electricity|Dry Cooling (km3/yr);Water Consumption|Electricity|Dry Cooling (km3/yr);1
+Water Withdrawal|Electricity (km3/yr);Water Withdrawal|Electricity (km3/yr);1
+Water Withdrawal|Electricity|Fossil (km3/yr);Water Withdrawal|Electricity|Fossil (km3/yr);1
+Water Withdrawal|Electricity|Fossil|w/ CCS (km3/yr);Water Withdrawal|Electricity|Fossil|w/ CCS (km3/yr);1
+Water Withdrawal|Electricity|Fossil|w/o CCS (km3/yr);Water Withdrawal|Electricity|Fossil|w/o CCS (km3/yr);1
+Water Withdrawal|Electricity|Coal (km3/yr);Water Withdrawal|Electricity|Coal (km3/yr);1
+Water Withdrawal|Electricity|Coal|w/ CCS (km3/yr);Water Withdrawal|Electricity|Coal|w/ CCS (km3/yr);1
+Water Withdrawal|Electricity|Coal|w/o CCS (km3/yr);Water Withdrawal|Electricity|Coal|w/o CCS (km3/yr);1
+Water Withdrawal|Electricity|Oil (km3/yr);Water Withdrawal|Electricity|Oil (km3/yr);1
+Water Withdrawal|Electricity|Oil|w/o CCS (km3/yr);Water Withdrawal|Electricity|Oil|w/o CCS (km3/yr);1
+Water Withdrawal|Electricity|Gas (km3/yr);Water Withdrawal|Electricity|Gas (km3/yr);1
+Water Withdrawal|Electricity|Gas|w/ CCS (km3/yr);Water Withdrawal|Electricity|Gas|w/ CCS (km3/yr);1
+Water Withdrawal|Electricity|Gas|w/o CCS (km3/yr);Water Withdrawal|Electricity|Gas|w/o CCS (km3/yr);1
+Water Withdrawal|Electricity|Biomass (km3/yr);Water Withdrawal|Electricity|Biomass (km3/yr);1
+Water Withdrawal|Electricity|Biomass|w/ CCS (km3/yr);Water Withdrawal|Electricity|Biomass|w/ CCS (km3/yr);1
+Water Withdrawal|Electricity|Biomass|w/o CCS (km3/yr);Water Withdrawal|Electricity|Biomass|w/o CCS (km3/yr);1
+Water Withdrawal|Electricity|Nuclear (km3/yr);Water Withdrawal|Electricity|Nuclear (km3/yr);1
+Water Withdrawal|Electricity|Non-Biomass Renewables (km3/yr);Water Withdrawal|Electricity|Non-Biomass Renewables (km3/yr);1
+Water Withdrawal|Electricity|Hydro (km3/yr);Water Withdrawal|Electricity|Hydro (km3/yr);1
+Water Withdrawal|Electricity|Solar (km3/yr);Water Withdrawal|Electricity|Solar (km3/yr);1
+Water Withdrawal|Electricity|Solar|PV (km3/yr);Water Withdrawal|Electricity|Solar|PV (km3/yr);1
+Water Withdrawal|Electricity|Solar|CSP (km3/yr);Water Withdrawal|Electricity|Solar|CSP (km3/yr);1
+Water Withdrawal|Electricity|Wind (km3/yr);Water Withdrawal|Electricity|Wind (km3/yr);1
+Water Withdrawal|Electricity|Geothermal (km3/yr);Water Withdrawal|Electricity|Geothermal (km3/yr);1
+Water Withdrawal|Electricity|Once Through (km3/yr);Water Withdrawal|Electricity|Once Through (km3/yr);1
+Water Withdrawal|Electricity|Wet Tower (km3/yr);Water Withdrawal|Electricity|Wet Tower (km3/yr);1
+Water Withdrawal|Electricity|Cooling Pond (km3/yr);Water Withdrawal|Electricity|Cooling Pond (km3/yr);1
+Water Withdrawal|Electricity|Dry Cooling (km3/yr);Water Withdrawal|Electricity|Dry Cooling (km3/yr);1
+Water|Withdrawal|Irrigation (million m3/yr);Water Consumption|Irrigation (km3/yr);0.001
+Water Withdrawal|Electricity (km3/yr);Water Withdrawal|Electricity (km3/yr);1
+Yield|Cereal (tDM/ha/yr);Yield|Cereal (t DM/ha/yr);1
+Yield|Oilcrops (tDM/ha/yr);Yield|Oilcrops (t DM/ha/yr);1
+Yield|Sugarcrops (tDM/ha/yr);Yield|Sugarcrops (t DM/ha/yr);1

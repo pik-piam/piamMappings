@@ -1,0 +1,137 @@
+piam;inms;weight;factor
+Resources|Land Cover (million ha);Land Cover|Total (million ha);NULL;1
+Resources|Land Cover|+|Cropland (million ha);Land Cover|Cropland (million ha);NULL;1
+Resources|Land Cover|+|Pastures and Rangelands (million ha);Land Cover|Pasture (million ha);NULL;1
+Resources|Land Cover|+|Forest (million ha);Land Cover|Non-Agricultural Land (million ha);NULL;1
+Resources|Land Cover|+|Other Land (million ha);Land Cover|Non-Agricultural Land (million ha);NULL;1
+Resources|Land Cover|+|Urban Area (million ha);Land Cover|Non-Agricultural Land (million ha);NULL;1
+Resources|Land Cover|+|Forest (million ha);Land Cover|Non-Agricultural Land|Forest (million ha);NULL;1
+Resources|Land Cover|+|Other Land (million ha);Land Cover|Non-Agricultural Land|Other Land (million ha);NULL;1
+Resources|Land Cover|+|Urban Area (million ha);Land Cover|Non-Agricultural Land|Builtup (million ha);NULL;1
+Resources|Nitrogen|Cropland Budget|Balance (Mt Nr/yr);Resources|Nitrogen|Agriculture Budget|Balance (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Balance (Mt Nr/yr);Resources|Nitrogen|Agriculture Budget|Balance (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Fertilizer (Mt Nr/yr);Resources|Nitrogen|Agriculture Budget|Inputs|Fertilizer (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Inputs|+|Fertilizer (Mt Nr/yr);Resources|Nitrogen|Agriculture Budget|Inputs|Fertilizer (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Atmospheric Deposition (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Atmospheric Deposition (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Biological Fixation Symbiotic Crops (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Biological Fixation (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Biological Fixation Freeliving Microorganisms (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Biological Fixation (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Biological Fixation Symbiotic Crops (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Biological Fixation|Biological Fixation Symbiotic Crops (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Biological Fixation Freeliving Microorganisms (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Biological Fixation|Biological Fixation Freeliving Microorganis (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Fertilizer (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Fertilizer (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Manure (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Manure Recycled from Confinements (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Manure From Stubble Grazing (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Manure Recycled from Confinements (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Ash from Burned Crop Residues (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Recycled Aboveground Crop Residues (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Recycled Belowground Crop Residues (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Recycled Belowground Crop Residues (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Recycled Aboveground Crop Residues (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Recycled Aboveground Crop Residues (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Inputs|+|Seed (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Inputs|Seed (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Withdrawals (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Withdrawals (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Withdrawals|+|Aboveground Crop Residues (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Withdrawals|Aboveground Crop Residues (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Withdrawals|+|Harvested Crops (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Withdrawals|Harvested Crops (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Withdrawals|+|Belowground Crop Residues (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Withdrawals|Belowground Crop Residues (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Balance (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Balance (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Balance|+|Nutrient Surplus (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Balance|Nutrient Surplus (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Cropland Budget|Balance|+|Soil Organic Matter (Mt Nr/yr);Resources|Nitrogen|Cropland Budget|Balance|Soil Organic Matter (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Inputs (Mt Nr/yr);Resources|Nitrogen|Pasture Budget|Inputs (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Inputs|+|Atmospheric Deposition (Mt Nr/yr);Resources|Nitrogen|Pasture Budget|Inputs|Atmospheric Deposition (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Inputs|+|Biological Fixation Freeliving Microorganisms (Mt Nr/yr);Resources|Nitrogen|Pasture Budget|Inputs|Biological Fixation (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Inputs|+|Fertilizer (Mt Nr/yr);Resources|Nitrogen|Pasture Budget|Inputs|Fertilizer (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Inputs|+|Manure From Grazing (Mt Nr/yr);Resources|Nitrogen|Pasture Budget|Inputs|Manure (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Withdrawals (Mt Nr/yr);Resources|Nitrogen|Pasture Budget|Withdrawals (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Balance (Mt Nr/yr);Resources|Nitrogen|Pasture Budget|Balance (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Pasture Budget|Balance|+|Nutrient Surplus (Mt Nr/yr);Resources|Nitrogen|Pasture Budget|Balance|Nutrient Surplus (Mt Nr/yr);NULL;1
+Demand|Feed|+|Crops (Mt Nr/yr);Demand|Feed|Crops (Mt Nr/yr);NULL;1
+Demand|Feed|+|Pasture (Mt Nr/yr);Demand|Feed|Pasture (Mt Nr/yr);NULL;1
+Demand|Feed|+|Secondary products (Mt Nr/yr);Demand|Feed|Secondary products (Mt Nr/yr);NULL;1
+Demand|Feed|+|Forage (Mt Nr/yr);Demand|Feed|Forage (Mt Nr/yr);NULL;1
+Demand|+|Feed (Mt Nr/yr);Demand|Feed (Mt Nr/yr);NULL;1
+Demand|Food|+|Crops (Mt Nr/yr);Demand|Food|Crops (Mt Nr/yr);NULL;1
+Demand|Food|+|Secondary products (Mt Nr/yr);Demand|Food|Secondary products (Mt Nr/yr);NULL;1
+Demand|Food|+|Livestock products (Mt Nr/yr);Demand|Food|Livestock products (Mt Nr/yr);NULL;1
+Demand|+|Food (Mt Nr/yr);Demand|Food (Mt Nr/yr);NULL;1
+Production|+|Crop residues (Mt Nr/yr);Production|Crop residues (Mt Nr/yr);NULL;1
+Production|+|Crops (Mt Nr/yr);Production|Crops (Mt Nr/yr);NULL;1
+Production|+|Livestock products (Mt Nr/yr);Production|Livestock products (Mt Nr/yr);NULL;1
+Production|Livestock products|+|Dairy (Mt Nr/yr);Production|Livestock products|Ruminants (Mt Nr/yr);NULL;1
+Production|Livestock products|+|Eggs (Mt Nr/yr);Production|Livestock products|Monogastrics (Mt Nr/yr);NULL;1
+Production|Livestock products|+|Monogastric meat (Mt Nr/yr);Production|Livestock products|Monogastrics (Mt Nr/yr);NULL;1
+Production|Livestock products|+|Poultry meat (Mt Nr/yr);Production|Livestock products|Monogastrics (Mt Nr/yr);NULL;1
+Production|Livestock products|+|Ruminant meat (Mt Nr/yr);Production|Livestock products|Ruminants (Mt Nr/yr);NULL;1
++|Production (Mt Nr/yr);Production (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure (Mt Nr/yr);Resources|Nitrogen|Manure (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|+|Dairy (Mt Nr/yr);Resources|Nitrogen|Manure|Ruminants (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|+|Eggs (Mt Nr/yr);Resources|Nitrogen|Manure|Monogastrics (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|+|Monogastric meat (Mt Nr/yr);Resources|Nitrogen|Manure|Monogastrics (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|+|Poultry meat (Mt Nr/yr);Resources|Nitrogen|Manure|Monogastrics (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|+|Ruminant meat (Mt Nr/yr);Resources|Nitrogen|Manure|Ruminants (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|++|Manure Collected As Fuel (Mt Nr/yr);Resources|Nitrogen|Manure|Other Use (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|++|Manure From Grazing (Mt Nr/yr);Resources|Nitrogen|Manure|Manure From Grazing (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|++|Manure From Stubble Grazing (Mt Nr/yr);Resources|Nitrogen|Manure|Manure From Stubble Grazing (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|++|Manure In Confinements (Mt Nr/yr);Resources|Nitrogen|Manure|Manure In Confinements (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|Manure In Confinements|++|Total Storage Losses (Mt Nr/yr);Resources|Nitrogen|Manure|Total Storage Losses in Animal Waste Management (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Manure|Manure In Confinements|++|Total Recycling to Agricultural Land (Mt Nr/yr);Resources|Nitrogen|Manure|Manure In Confinements|Total Recycling to Agricultural Land (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Non-Agricultural Land Budget|Balance (Mt Nr/yr);Resources|Nitrogen|Non-Agricultural Land Budget|Balance (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Non-Agricultural Land Budget|Balance|+|Nutrient Surplus (Mt Nr/yr);Resources|Nitrogen|Non-Agricultural Land Budget|Balance|Nutrient Surplus (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Non-Agricultural Land Budget|Inputs (Mt Nr/yr);Resources|Nitrogen|Non-Agricultural Land Budget|Inputs (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Non-Agricultural Land Budget|Inputs|+|Atmospheric Deposition (Mt Nr/yr);Resources|Nitrogen|Non-Agricultural Land Budget|Inputs|Atmospheric Deposition (Mt Nr/yr);NULL;1
+Resources|Nitrogen|Non-Agricultural Land Budget|Inputs|+|Biological Fixation Freeliving Microorganisms (Mt Nr/yr);Resources|Nitrogen|Non-Agricultural Land Budget|Inputs|Biological Fixation (Mt Nr/yr);NULL;1
+Emissions|N2O|Land|+|Agriculture (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|+|Animal Waste Management (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture|Animal waste management (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|+|Agricultural Soils (Mt N2O/yr);;NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Inorganic Fertilizers (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Cropland (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Pasture (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Manure applied to Croplands (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Decay of Crop Residues (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Soil Organic Matter Loss (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Pasture (Mt N2O/yr);Emissions|total N2O-N emissions|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|NH3|Land|+|Agriculture (Mt NH3/yr);Emissions|NH3|Agriculture (Mt Nr/yr);NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|+|Animal Waste Management (Mt NH3/yr);Emissions|NH3|Agriculture|Animal Waste Management (Mt Nr/yr);NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|+|Agricultural Soils (Mt NH3/yr);;NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|Agricultural Soils|+|Inorganic Fertilizers (Mt NH3/yr);;NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Cropland (Mt NH3/yr);Emissions|NH3|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Pasture (Mt NH3/yr);Emissions|NH3|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|Agricultural Soils|+|Manure applied to Croplands (Mt NH3/yr);Emissions|NH3|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|Agricultural Soils|+|Decay of Crop Residues (Mt NH3/yr);Emissions|NH3|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|Agricultural Soils|+|Soil Organic Matter Loss (Mt NH3/yr);Emissions|NH3|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.823529411764706
+Emissions|NH3|Land|Agriculture|Agricultural Soils|+|Pasture (Mt NH3/yr);Emissions|NH3|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.823529411764706
+Emissions|NO2|Land|+|Agriculture (Mt NO2/yr);Emissions|NO2|Agriculture (Mt Nr/yr);NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|+|Animal Waste Management (Mt NO2/yr);Emissions|NO2|Agriculture|Animal Waste Management (Mt Nr/yr);NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|+|Agricultural Soils (Mt NO2/yr);;NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|Agricultural Soils|+|Inorganic Fertilizers (Mt NO2/yr);;NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Cropland (Mt NO2/yr);Emissions|NO2|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Pasture (Mt NO2/yr);Emissions|NO2|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|Agricultural Soils|+|Manure applied to Croplands (Mt NO2/yr);Emissions|NO2|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|Agricultural Soils|+|Decay of Crop Residues (Mt NO2/yr);Emissions|NO2|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|Agricultural Soils|+|Soil Organic Matter Loss (Mt NO2/yr);Emissions|NO2|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.304347826086957
+Emissions|NO2|Land|Agriculture|Agricultural Soils|+|Pasture (Mt NO2/yr);Emissions|NO2|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.304347826086957
+Emissions|NO3-|Land|+|Agriculture (Mt NO3-/yr);Emissions|NO3-|Agriculture (Mt Nr/yr);NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|+|Animal Waste Management (Mt NO3-/yr);Emissions|NO3-|Agriculture|Animal Waste Management (Mt Nr/yr);NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|+|Agricultural Soils (Mt NO3-/yr);;NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|Agricultural Soils|+|Inorganic Fertilizers (Mt NO3-/yr);;NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Cropland (Mt NO3-/yr);Emissions|NO3-|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Pasture (Mt NO3-/yr);Emissions|NO3-|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|Agricultural Soils|+|Manure applied to Croplands (Mt NO3-/yr);Emissions|NO3-|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|Agricultural Soils|+|Decay of Crop Residues (Mt NO3-/yr);Emissions|NO3-|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|Agricultural Soils|+|Soil Organic Matter Loss (Mt NO3-/yr);Emissions|NO3-|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.225806451612903
+Emissions|NO3-|Land|Agriculture|Agricultural Soils|+|Pasture (Mt NO3-/yr);Emissions|NO3-|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.225806451612903
+Emissions|N2O|Direct|Land|+|Agriculture (Mt N2O/yr);Emissions|direct N2O-N emissions|Agriculture (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|+|Animal Waste Management (Mt N2O/yr);Emissions|direct N2O-N emissions|Agriculture|Animal waste management (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|+|Agricultural Soils (Mt N2O/yr);;NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|Agricultural Soils|+|Inorganic Fertilizers (Mt N2O/yr);;NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Cropland (Mt N2O/yr);Emissions|direct N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Pasture (Mt N2O/yr);Emissions|direct N2O-N emissions|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|Agricultural Soils|+|Manure applied to Croplands (Mt N2O/yr);Emissions|direct N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|Agricultural Soils|+|Decay of Crop Residues (Mt N2O/yr);Emissions|direct N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|Agricultural Soils|+|Soil Organic Matter Loss (Mt N2O/yr);Emissions|direct N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Direct|Land|Agriculture|Agricultural Soils|+|Pasture (Mt N2O/yr);Emissions|direct N2O-N emissions|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|+|Agriculture (Mt N2O/yr);Emissions|indirect N2O-N emissions|Agriculture (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|+|Animal Waste Management (Mt N2O/yr);Emissions|indirect N2O-N emissions|Agriculture|Animal waste management (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|+|Agricultural Soils (Mt N2O/yr);;NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|Agricultural Soils|+|Inorganic Fertilizers (Mt N2O/yr);;NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Cropland (Mt N2O/yr);Emissions|indirect N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|Agricultural Soils|Inorganic Fertilizers|+|Pasture (Mt N2O/yr);Emissions|indirect N2O-N emissions|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|Agricultural Soils|+|Manure applied to Croplands (Mt N2O/yr);Emissions|indirect N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|Agricultural Soils|+|Decay of Crop Residues (Mt N2O/yr);Emissions|indirect N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|Agricultural Soils|+|Soil Organic Matter Loss (Mt N2O/yr);Emissions|indirect N2O-N emissions|Agriculture|Cropland soil emissions (Mt Nr/yr);NULL;0.636363636363636
+Emissions|N2O|Indirect|Land|Agriculture|Agricultural Soils|+|Pasture (Mt N2O/yr);Emissions|indirect N2O-N emissions|Agriculture|Pasture soil emissions (Mt Nr/yr);NULL;0.636363636363636

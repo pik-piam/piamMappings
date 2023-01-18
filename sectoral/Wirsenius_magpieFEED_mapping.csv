@@ -1,0 +1,50 @@
+Table,wirsenius_items,MAgPIE_FEED_items
+3_17,Wheat straw,tece_cropby
+3_17,Rice straw,rice_cropby
+3_17,Maize stover,maiz_cropby
+3_17,Sorghum stover,trce_cropby
+3_17,Barley straw,aussortiert
+3_17,Sugar cane tops & leaves,sugr_cane_cropby
+3_17,Sugar beet tops (fresh),sugr_beet_cropby
+3_17,Soybean stalk & husk,soybean_cropby
+3_17,Groundnut stalks,groundnut_cropby
+3_17,Sunflower stalk & threshed heads,sunflower_cropby
+3_17,Canola stalk & husk,rapeseed_cropby
+3_17,Grass-legume. temp. spp. (fresh),foddr_gras
+3_17,Grass-legume. trop. spp. (fresh),aussortiert
+3_17,Whole-maize. medium eared (fresh),foddr_maiz
+3_20,Wheat straw,tece_cropby
+3_20,Rice straw,rice_cropby
+3_20,Maize stover,maiz_cropby
+3_20,Sorghum stover,trce_cropby
+3_20,Barley straw,aussortiert
+3_20,Cassava tops Attached leaves,cassav_cropby
+3_20,White potato tops,potato_cropby
+3_20,Sweet potato tops,aussortiert
+3_20,Sugar cane tops & leaves,sugr_cane_cropby
+3_20,Sugar beet tops (fresh),sugr_beet_cropby
+3_20,Soybean stalks & husks,soybean_cropby
+3_20,Groundnut stalks,groundnut_cropby
+3_20,Sunflower stalks & thr. heads,sunflower_cropby
+3_20,Canola stalks & husks,rapeseed_cropby
+3_20,Wheat mill run,tece_convby
+3_20,Rice bran,rice_convby2
+3_20,Rice hulls,rice_convby1
+3_20,Maize hominy feed,maiz_convby
+3_20,Sorghum hominy feed,trce_convby
+3_20,Cane bagasse,sugr_cane_convby1
+3_20,Cane molasses,sugr_cane_convby2
+3_20,Beet molasses,sugr_beet_convby1
+3_20,Beet pulp (dried),sugr_beet_convby2
+3_20,Soybean meal,soybean_convby
+3_20,Groundnut meal,groundnut_convby
+3_20,Sunflower meal,sunflower_convby
+3_20,Canola meal,rapeseed_convby
+3_20,Brewer’s grains,brewer
+3_20,Dairy and beef cattle fifth quarter,aussortiert
+3_20,Pig fifth quarter,aussortiert
+3_20,Leghorn and meat-type chicken fifth quarter,aussortiert
+3_20,Cattle and pig Ingesta (intestinal contents),aussortiert
+3_20,Meat and bone meal,aussortiert
+3_20,Cotton meal,cottn_convby
+3_20,Non-eaten food,non_eaten_food

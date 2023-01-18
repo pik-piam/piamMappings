@@ -1,0 +1,20 @@
+IAMC,CEDS16
+AFOLU|Aggregate - Agriculture and Biomass Burning,Agriculture
+AFOLU|Land|Forest Burning,Forest Burning
+AFOLU|Land|Grassland Burning,Grassland Burning
+Energy|Demand|Aggregate - Residential and Commercial,Residential Commercial Other - Residential Commercial
+Energy|Demand|AFOFI,Residential Commercial Other - Other
+Energy|Demand|Industry,Industrial Combustion
+Industrial Processes,Industrial Process and Product Use
+Energy|Demand|Transportation|Aviation,Aircraft
+Energy|Demand|Transportation|Aggregate - Rail and Domestic Shipping,Non-Road Transportation
+Energy|Demand|Transportation|Road,Road Transportation
+Energy|Demand|Transportation|Shipping|International,International Shipping
+Energy|Demand|Transportation|Shipping|International|Loading,International Shipping - Tanker Loading
+Energy|Supply|Aggregate - Electricity and Heat,Electricity and Heat Production
+Energy|Supply|Aggregate - Fuel Production and Transformation,Fuel Production and Transformation
+Energy|Supply|Aggregate - Solids and Other Fugitive,Other Fugitive/Flaring
+Energy|Supply|Aggregate - Gases and Liquids Fugitive,Oil and Gas Fugitive/Flaring
+Fossil Fuel Fires,Fossil Fuel Fires
+Product Use|Solvents,Solvents Production and Application
+Waste,Waste

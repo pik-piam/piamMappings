@@ -1,0 +1,259 @@
+reportingnames,svg objectnames
+Resources|Nitrogen|Cropland Budget|Inputs|+|Manure Recycled from Confinements (Mt Nr/yr),awms_soils
+Resources|Nitrogen|Cropland Budget|Balance|+|Balanceflow (Mt Nr/yr),
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|Managed Forest (Mt Nr/yr),dep_othersoils
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|Other Land (Mt Nr/yr),dep_othersoils
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|Primary Forest (Mt Nr/yr),dep_othersoils
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|Secondary Forest (Mt Nr/yr),dep_othersoils
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|Urban Area (Mt Nr/yr),dep_othersoils
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|Pastures and Rangelands (Mt Nr/yr),dep_pastures
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|Transboundary or Oceans (Mt Nr/yr),
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|+|NO2-N (Mt Nr/yr),
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|+|NH3-N (Mt Nr/yr),
+Resources|Nitrogen|Cropland Budget|Inputs|+|Atmospheric Deposition (Mt Nr/yr),dep_soils
+Resources|Nitrogen|Cropland Budget|Inputs|+|Fertilizer (Mt Nr/yr),fertilizer_soils
+Production|+|Fish (Mt Nr/yr),fish_utilization
+Resources|Nitrogen|Planetary Budget|Fixation and Release|Terrestrial Biological Fixation (Mt Nr/yr),
+Resources|Nitrogen|Planetary Budget|Fixation and Release|Terrestrial Biological Fixation|+|Managed Forest (Mt Nr/yr),fixation_othersoils
+Resources|Nitrogen|Planetary Budget|Fixation and Release|Terrestrial Biological Fixation|+|Primary Forest (Mt Nr/yr),fixation_othersoils
+Resources|Nitrogen|Planetary Budget|Fixation and Release|Terrestrial Biological Fixation|+|Secondary Forest (Mt Nr/yr),fixation_othersoils
+Resources|Nitrogen|Planetary Budget|Fixation and Release|Terrestrial Biological Fixation|+|Urban Area (Mt Nr/yr),fixation_othersoils
+Resources|Nitrogen|Planetary Budget|Fixation and Release|Terrestrial Biological Fixation|+|Other Land (Mt Nr/yr),fixation_othersoils
+Resources|Nitrogen|Planetary Budget|Fixation and Release|Terrestrial Biological Fixation|+|Pastures and Rangelands (Mt Nr/yr),fixation_pastures
+Resources|Nitrogen|Planetary Budget|Fixation and Release|Nitrogen fixation in oceans (Mt Nr/yr),
+Resources|Nitrogen|Cropland Budget|Inputs|+|Biological Fixation Symbiotic Crops (Mt Nr/yr),fixation_plants
+Resources|Nitrogen|Cropland Budget|Inputs|+|Biological Fixation Freeliving Microorganisms (Mt Nr/yr),fixation_soils
+Resources|Nitrogen|Manure|Manure From Stubble Grazing|+|Poultry meat (Mt Nr/yr),monogastrics_awms
+Resources|Nitrogen|Manure|Manure In Confinements|+|Poultry meat (Mt Nr/yr),monogastrics_awms
+Resources|Nitrogen|Manure|Manure From Stubble Grazing|+|Eggs (Mt Nr/yr),monogastrics_awms
+Resources|Nitrogen|Manure|Manure In Confinements|+|Eggs (Mt Nr/yr),monogastrics_awms
+Resources|Nitrogen|Manure|Manure From Stubble Grazing|+|Monogastric meat (Mt Nr/yr),monogastrics_awms
+Resources|Nitrogen|Manure|Manure In Confinements|+|Monogastric meat (Mt Nr/yr),monogastrics_awms
+Production|Livestock products|+|Poultry meat (Mt Nr/yr),monogastrics_utilization
+Production|Livestock products|+|Eggs (Mt Nr/yr),monogastrics_utilization
+Production|Livestock products|+|Monogastric meat (Mt Nr/yr),monogastrics_utilization
+Demand|Feed|+|Pasture (Mt Nr/yr),pastures_livestock
+Resources|Nitrogen|Cropland Budget|Withdrawals|+|Aboveground Crop Residues (Mt Nr/yr),plants_res_ag
+Resources|Nitrogen|Cropland Budget|Withdrawals|+|Belowground Crop Residues (Mt Nr/yr),plants_res_bg
+Production|+|Crops (Mt Nr/yr),plants_utilization_crops
+Production|+|Bioenergy crops (Mt Nr/yr),plants_utilization_crops
+Production|+|Forage (Mt Nr/yr),plants_utilization_forage
+Production|+|Secondary products (Mt Nr/yr),processing_utilization
+Resources|Nitrogen|Cropland Budget|Inputs|+|Recycled Aboveground Crop Residues (Mt Nr/yr),res_soils_ag
+Resources|Nitrogen|Cropland Budget|Inputs|+|Ash from Burned Crop Residues (Mt Nr/yr),res_soils_ag
+Resources|Nitrogen|Cropland Budget|Inputs|+|Recycled Belowground Crop Residues (Mt Nr/yr),res_soils_bg
+Production|+|Crop residues (Mt Nr/yr),residues_utilization
+Resources|Nitrogen|Manure|Manure From Stubble Grazing|+|Dairy (Mt Nr/yr),ruminants_awms
+Resources|Nitrogen|Manure|Manure In Confinements|+|Dairy (Mt Nr/yr),ruminants_awms
+Resources|Nitrogen|Manure|Manure From Stubble Grazing|+|Ruminant meat (Mt Nr/yr),ruminants_awms
+Resources|Nitrogen|Manure|Manure In Confinements|+|Ruminant meat (Mt Nr/yr),ruminants_awms
+Resources|Nitrogen|Manure|++|Manure Collected As Fuel (Mt Nr/yr),ruminants_fuel
+Resources|Nitrogen|Manure|++|Manure From Grazing (Mt Nr/yr),ruminants_pastures
+Production|Livestock products|+|Dairy (Mt Nr/yr),ruminants_utilization
+Production|Livestock products|+|Ruminant meat (Mt Nr/yr),ruminants_utilization
+Resources|Nitrogen|Cropland Budget|Inputs|+|Seed (Mt Nr/yr),seed_plants
+Resources|Nitrogen|Cropland plant uptake (Mt Nr/yr),soils_plants
+Resources|Nitrogen|Cropland Budget|Balance|+|Nutrient Surplus (Mt Nr/yr),
+Resources|Nitrogen|Cropland Budget|Balance|+|Soil Organic Matter Loss (Mt Nr/yr),som_soils
+Trade|Imports|+|Livestock products (Mt Nr/yr),trade_utilization_animal
+Trade|Imports|+|Fish (Mt Nr/yr),trade_utilization_animal
+Trade|Imports|+|Crops (Mt Nr/yr),trade_utilization_crops
+Trade|Imports|+|Bioenergy crops (Mt Nr/yr),trade_utilization_crops
+Trade|Imports|+|Secondary products (Mt Nr/yr),trade_utilization_secondary
+Demand|Domestic Balanceflow|+|Crops (Mt Nr/yr),utilization_balanceflow
+Demand|Domestic Balanceflow|+|Forage (Mt Nr/yr),utilization_balanceflow
+Demand|Domestic Balanceflow|+|Secondary products (Mt Nr/yr),utilization_balanceflow
+Demand|Domestic Balanceflow|+|Crop residues (Mt Nr/yr),utilization_balanceflow
+Demand|Domestic Balanceflow|+|Livestock products (Mt Nr/yr),utilization_balanceflow
+Demand|Domestic Balanceflow|+|Fish (Mt Nr/yr),utilization_balanceflow
+Demand|Food|+|Livestock products (Mt Nr/yr),utilization_food_animal
+Demand|Food|+|Fish (Mt Nr/yr),utilization_food_animal
+Demand|Food|+|Crops (Mt Nr/yr),utilization_food_crops
+Demand|Food|+|Forage (Mt Nr/yr),utilization_food_crops
+Demand|Food|+|Secondary products (Mt Nr/yr),utilization_food_secondary
+Demand|Material|+|Crops (Mt Nr/yr),utilization_material
+Demand|Bioenergy|+|Crops (Mt Nr/yr),utilization_material
+Demand|Material|+|Forage (Mt Nr/yr),utilization_material
+Demand|Bioenergy|+|Forage (Mt Nr/yr),utilization_material
+Demand|Material|+|Secondary products (Mt Nr/yr),utilization_material
+Demand|Bioenergy|+|Secondary products (Mt Nr/yr),utilization_material
+Demand|Material|+|Crop residues (Mt Nr/yr),utilization_material
+Demand|Bioenergy|+|Crop residues (Mt Nr/yr),utilization_material
+Demand|Material|+|Livestock products (Mt Nr/yr),utilization_material
+Demand|Bioenergy|+|Livestock products (Mt Nr/yr),utilization_material
+Demand|Material|+|Fish (Mt Nr/yr),utilization_material
+Demand|Bioenergy|+|Fish (Mt Nr/yr),utilization_material
+Demand|Feed|Feed for Poultry meat|+|Livestock products (Mt Nr/yr),utilization_monogastrics_animal
+Demand|Feed|Feed for Eggs|+|Livestock products (Mt Nr/yr),utilization_monogastrics_animal
+Demand|Feed|Feed for Monogastric meat|+|Livestock products (Mt Nr/yr),utilization_monogastrics_animal
+Demand|Feed|Feed for Poultry meat|+|Fish (Mt Nr/yr),utilization_monogastrics_animal
+Demand|Feed|Feed for Eggs|+|Fish (Mt Nr/yr),utilization_monogastrics_animal
+Demand|Feed|Feed for Monogastric meat|+|Fish (Mt Nr/yr),utilization_monogastrics_animal
+Demand|Feed|Feed for Poultry meat|+|Crops (Mt Nr/yr),utilization_monogastrics_crops
+Demand|Feed|Feed for Eggs|+|Crops (Mt Nr/yr),utilization_monogastrics_crops
+Demand|Feed|Feed for Monogastric meat|+|Crops (Mt Nr/yr),utilization_monogastrics_crops
+Demand|Feed|Feed for Poultry meat|+|Forage (Mt Nr/yr),utilization_monogastrics_forage
+Demand|Feed|Feed for Eggs|+|Forage (Mt Nr/yr),utilization_monogastrics_forage
+Demand|Feed|Feed for Monogastric meat|+|Forage (Mt Nr/yr),utilization_monogastrics_forage
+Demand|Feed|Feed for Poultry meat|+|Crop residues (Mt Nr/yr),utilization_monogastrics_forage
+Demand|Feed|Feed for Eggs|+|Crop residues (Mt Nr/yr),utilization_monogastrics_forage
+Demand|Feed|Feed for Monogastric meat|+|Crop residues (Mt Nr/yr),utilization_monogastrics_forage
+Demand|Feed|Feed for Aquaculture|+|Secondary products (Mt Nr/yr),utilization_monogastrics_secondary
+Demand|Feed|Feed for Poultry meat|+|Secondary products (Mt Nr/yr),utilization_monogastrics_secondary
+Demand|Feed|Feed for Dairy|+|Secondary products (Mt Nr/yr),utilization_monogastrics_secondary
+Demand|Processing|+|Crops (Mt Nr/yr),utilization_processing
+Demand|Processing|+|Forage (Mt Nr/yr),utilization_processing
+Demand|Processing|+|Secondary products (Mt Nr/yr),utilization_processing
+Demand|Processing|+|Crop residues (Mt Nr/yr),utilization_processing
+Demand|Processing|+|Livestock products (Mt Nr/yr),utilization_processing
+Demand|Processing|+|Fish (Mt Nr/yr),utilization_processing
+Demand|Feed|Feed for Dairy|+|Livestock products (Mt Nr/yr),utilization_ruminants_animal
+Demand|Feed|Feed for Ruminant meat|+|Livestock products (Mt Nr/yr),utilization_ruminants_animal
+Demand|Feed|Feed for Dairy|+|Fish (Mt Nr/yr),utilization_ruminants_animal
+Demand|Feed|Feed for Ruminant meat|+|Fish (Mt Nr/yr),utilization_ruminants_animal
+Demand|Feed|Feed for Dairy|+|Crops (Mt Nr/yr),utilization_ruminants_crops
+Demand|Feed|Feed for Ruminant meat|+|Crops (Mt Nr/yr),utilization_ruminants_crops
+Demand|Feed|Feed for Dairy|+|Forage (Mt Nr/yr),utilization_ruminants_forage
+Demand|Feed|Feed for Ruminant meat|+|Forage (Mt Nr/yr),utilization_ruminants_forage
+Demand|Feed|Feed for Dairy|+|Crop residues (Mt Nr/yr),utilization_ruminants_forage
+Demand|Feed|Feed for Ruminant meat|+|Crop residues (Mt Nr/yr),utilization_ruminants_forage
+Demand|Feed|Feed for Eggs|+|Secondary products (Mt Nr/yr),utilization_ruminants_secondary
+Demand|Feed|Feed for Monogastric meat|+|Secondary products (Mt Nr/yr),utilization_ruminants_secondary
+Demand|Seed|+|Crops (Mt Nr/yr),utilization_seed
+Demand|Seed|+|Forage (Mt Nr/yr),utilization_seed
+Demand|Seed|+|Secondary products (Mt Nr/yr),utilization_seed
+Trade|Exports|+|Livestock products (Mt Nr/yr),utilization_trade_animal
+Trade|Exports|+|Fish (Mt Nr/yr),utilization_trade_animal
+Trade|Exports|+|Crops (Mt Nr/yr),utilization_trade_crops
+Trade|Exports|+|Bioenergy crops (Mt Nr/yr),utilization_trade_crops
+Trade|Exports|+|Secondary products (Mt Nr/yr),utilization_trade_secondary
+Demand|Agricultural Supply Chain Loss|+|Crops (Mt Nr/yr),utilization_waste
+Demand|Agricultural Supply Chain Loss|+|Forage (Mt Nr/yr),utilization_waste
+Demand|Agricultural Supply Chain Loss|+|Secondary products (Mt Nr/yr),utilization_waste
+Demand|Agricultural Supply Chain Loss|+|Crop residues (Mt Nr/yr),utilization_waste
+Demand|Agricultural Supply Chain Loss|+|Livestock products (Mt Nr/yr),utilization_waste
+Demand|Agricultural Supply Chain Loss|+|Fish (Mt Nr/yr),utilization_waste
+Emissions|direct N2O-N emissions|+|Industry (Mt Nr/yr),industry_n2o
+Emissions|direct N2O-N emissions|+|Landuse Change and Biomass Combustion (Mt Nr/yr),luc_n2o
+Emissions|direct N2O-N emissions|+|Sewage (Mt Nr/yr),sewageloss_n2o
+Emissions|direct N2O-N emissions|+|Transport (Mt Nr/yr),transport_n2o
+Emissions|direct N2O-N emissions|+|Chemical Industry (Mt Nr/yr),fertilizer_n2o
+Emissions|direct N2O-N emissions|+|Waste disposal (Mt Nr/yr),sewageloss_n2o
+Emissions|direct N2O-N emissions|Agriculture|+|Animal waste management (Mt Nr/yr),awmsloss_n2o
+Emissions|direct N2O-N emissions|Agriculture|+|Cropland soil emissions (Mt Nr/yr),surplus_n2o
+Emissions|direct N2O-N emissions|Agriculture|+|Pasture soil emissions (Mt Nr/yr),pasturesurplus_n2o
+Emissions|direct N2O-N emissions|Natural and indirect emissions|+|Non-agricultural soil emissions (Mt Nr/yr),othersoilsloss_n2o
+Emissions|direct N2O-N emissions|Natural and indirect emissions|+|Inland freshwater bodies (Mt Nr/yr),water_air_n2o
+Emissions|direct N2O-N emissions|Natural and indirect emissions|+|Oceans (Mt Nr/yr),oceans_air_n2o
+Emissions|direct N2O-N emissions|Natural and indirect emissions|+|Riparian Zones (Mt Nr/yr),water_air_n2o
+Emissions|N2-N|Agriculture|+|Animal waste management (Mt Nr/yr),awmsloss_n2
+Emissions|N2-N|Agriculture|+|Cropland soil emissions (Mt Nr/yr),surplus_n2
+Emissions|N2-N|Agriculture|+|Pasture soil emissions (Mt Nr/yr),pasturesurplus_n2
+Emissions|N2-N|Natural and indirect emissions|+|Non-agricultural soil emissions (Mt Nr/yr),othersoilsloss_n2
+Emissions|N2-N|Natural and indirect emissions|+|Inland freshwater bodies (Mt Nr/yr),water_air_n2
+Emissions|N2-N|Natural and indirect emissions|+|Oceans (Mt Nr/yr),oceans_air_n2
+Emissions|N2-N|Natural and indirect emissions|+|Riparian Zones (Mt Nr/yr),water_air_n2
+Emissions|NH3-N|+|Industry (Mt Nr/yr),industry_volat
+Emissions|NH3-N|+|Landuse Change and Biomass Combustion (Mt Nr/yr),luc_volat
+Emissions|NH3-N|+|Sewage (Mt Nr/yr),sewageloss_volat
+Emissions|NH3-N|+|Transport (Mt Nr/yr),transport_volat
+Emissions|NH3-N|+|Chemical Industry (Mt Nr/yr),fertilizer_volat
+Emissions|NH3-N|+|Waste disposal (Mt Nr/yr),sewageloss_volat
+Emissions|NH3-N|Agriculture|+|Animal waste management (Mt Nr/yr),awmsloss_volat
+Emissions|NH3-N|Agriculture|+|Cropland soil emissions (Mt Nr/yr),surplus_volat
+Emissions|NH3-N|Agriculture|+|Pasture soil emissions (Mt Nr/yr),pasturesurplus_volat
+Emissions|NH3-N|Natural and indirect emissions|+|Non-agricultural soil emissions (Mt Nr/yr),othersoilsloss_volat
+Emissions|NH3-N|Natural and indirect emissions|+|Inland freshwater bodies (Mt Nr/yr),
+Emissions|NH3-N|Natural and indirect emissions|+|Oceans (Mt Nr/yr),oceans_air_volat
+Emissions|NH3-N|Natural and indirect emissions|+|Riparian Zones (Mt Nr/yr),
+Emissions|NO2-N|+|Industry (Mt Nr/yr),industry_volat
+Emissions|NO2-N|+|Landuse Change and Biomass Combustion (Mt Nr/yr),luc_volat
+Emissions|NO2-N|+|Sewage (Mt Nr/yr),sewageloss_volat
+Emissions|NO2-N|+|Transport (Mt Nr/yr),transport_volat
+Emissions|NO2-N|+|Chemical Industry (Mt Nr/yr),fertilizer_volat
+Emissions|NO2-N|+|Waste disposal (Mt Nr/yr),sewageloss_volat
+Emissions|NO2-N|Natural and indirect emissions|+|Non-agricultural soil emissions (Mt Nr/yr),othersoilsloss_volat
+Emissions|NO2-N|Agriculture|+|Animal waste management (Mt Nr/yr),awmsloss_volat
+Emissions|NO2-N|Agriculture|+|Cropland soil emissions (Mt Nr/yr),surplus_volat
+Emissions|NO2-N|Agriculture|+|Pasture soil emissions (Mt Nr/yr),pasturesurplus_volat
+Emissions|NO2-N|Natural and indirect emissions|+|Inland freshwater bodies (Mt Nr/yr),
+Emissions|NO2-N|Natural and indirect emissions|+|Lightning (Mt Nr/yr),
+Emissions|NO2-N|Natural and indirect emissions|+|Oceans (Mt Nr/yr),oceans_air_volat
+Emissions|NO2-N|Natural and indirect emissions|+|Riparian Zones (Mt Nr/yr),
+Emissions|NO3-N|+|Industry (Mt Nr/yr),
+Emissions|NO3-N|+|Landuse Change and Biomass Combustion (Mt Nr/yr),
+Emissions|NO3-N|+|Sewage (Mt Nr/yr),
+Emissions|NO3-N|+|Transport (Mt Nr/yr),
+Emissions|NO3-N|+|Chemical Industry (Mt Nr/yr),
+Emissions|NO3-N|+|Waste disposal (Mt Nr/yr),
+Emissions|NO3-N|Natural and indirect emissions|+|Non-agricultural soil emissions (Mt Nr/yr),othersoilsloss_no3
+Emissions|NO3-N|Agriculture|+|Animal waste management (Mt Nr/yr),awmsloss_water
+Emissions|NO3-N|Agriculture|+|Cropland soil emissions (Mt Nr/yr),surplus_water
+Emissions|NO3-N|Agriculture|+|Pasture soil emissions (Mt Nr/yr),pasturesurplus_water
+Emissions|direct N2O-N emissions (Mt Nr/yr),
+Emissions|indirect N2O-N emissions from leaching and volatilisation (Mt Nr/yr),
+Emissions|NH3-N (Mt Nr/yr),
+Emissions|NO2-N (Mt Nr/yr),
+Emissions|NO3-N (Mt Nr/yr),
+Emissions|N2-N (Mt Nr/yr),
+Emissions|Agriculture|NH3-N (Mt Nr/yr),
+Emissions|Agriculture|NO2-N (Mt Nr/yr),
+Emissions|Agriculture|NO3-N (Mt Nr/yr),
+Emissions|Agriculture|direct N2O-N emissions (Mt Nr/yr),
+Emissions|Agriculture|N2-N (Mt Nr/yr),
+Emissions|Agriculture|indirect N2O-N emissions from leaching and volatilisation (Mt Nr/yr),
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|NO2-N (Mt Nr/yr),
+Resources|Nitrogen|Terrestrial Atmospheric Deposition|++|NH3-N (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Livestock Products (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Manure (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Slaughter Waste (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Livestock Products|+|Poultry meat (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Livestock Products|+|Eggs (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Livestock Products|+|Dairy (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Livestock Products|+|Monogastric meat (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Livestock Products|+|Ruminant meat (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Manure|+|Poultry meat (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Manure|+|Eggs (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Manure|+|Dairy (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Manure|+|Monogastric meat (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Manure|+|Ruminant meat (Mt Nr/yr),
+Resources|Nitrogen|Livestock Budget|Slaughter Waste|+|Poultry meat (Mt Nr/yr),monogastrics_waste
+Resources|Nitrogen|Livestock Budget|Slaughter Waste|+|Eggs (Mt Nr/yr),monogastrics_waste
+Resources|Nitrogen|Livestock Budget|Slaughter Waste|+|Dairy (Mt Nr/yr),ruminants_waste
+Resources|Nitrogen|Livestock Budget|Slaughter Waste|+|Monogastric meat (Mt Nr/yr),monogastrics_waste
+Resources|Nitrogen|Livestock Budget|Slaughter Waste|+|Ruminant meat (Mt Nr/yr),ruminants_waste
+Resources|Nitrogen|Food Consumption (Mt Nr/yr),
+Resources|Nitrogen|Food Consumption|+|Intake (Mt Nr/yr),food_intake
+Resources|Nitrogen|Wastewater (Mt Nr/yr),intake_sewageloss
+Resources|Nitrogen|Food Consumption|+|Household Food Waste (Mt Nr/yr),food_waste
+Resources|Nitrogen|+|Food Processing and Marketing (Mt Nr/yr),
+Resources|Nitrogen|+|Household Food Availability (Mt Nr/yr),
+Resources|Nitrogen|+|Food Processing Loss (Mt Nr/yr),
+Resources|Nitrogen|Food Processing and Marketing|+|Crops (Mt Nr/yr),
+Resources|Nitrogen|Household Food Availability|+|Crops (Mt Nr/yr),foodprocessing_food
+Resources|Nitrogen|Food Processing Loss|+|Crops (Mt Nr/yr),foodprocessing_waste
+Resources|Nitrogen|Food Processing and Marketing|+|Secondary products (Mt Nr/yr),
+Resources|Nitrogen|Household Food Availability|+|Secondary products (Mt Nr/yr),foodprocessing_food
+Resources|Nitrogen|Food Processing Loss|+|Secondary products (Mt Nr/yr),foodprocessing_waste
+Resources|Nitrogen|Food Processing and Marketing|+|Livestock products (Mt Nr/yr),
+Resources|Nitrogen|Household Food Availability|+|Livestock products (Mt Nr/yr),foodprocessing_food
+Resources|Nitrogen|Food Processing Loss|+|Livestock products (Mt Nr/yr),foodprocessing_waste
+Resources|Nitrogen|Food Processing and Marketing|+|Fish (Mt Nr/yr),
+Resources|Nitrogen|Household Food Availability|+|Fish (Mt Nr/yr),foodprocessing_food
+Resources|Nitrogen|Food Processing Loss|+|Fish (Mt Nr/yr),foodprocessing_waste
+Resources|Nitrogen|Waste (Mt Nr/yr),waste_wasteloss
+Resources|Nitrogen|Waste|+|Processing Loss (Mt Nr/yr),processing_waste
+Resources|Nitrogen|Waste|+|Slaughter Waste (Mt Nr/yr),
+Resources|Nitrogen|Waste|+|Food Processing Loss (Mt Nr/yr),
+Resources|Nitrogen|Waste|+|Household Food Waste (Mt Nr/yr),
+Resources|Nitrogen|Waste|+|Agricultural Supply Chain Loss (Mt Nr/yr),
+Emissions|Nitrogen surplus|+|Agriculture|Animal waste management (Mt Nr/yr),
+Resources|Nitrogen|Non-Agricultural Land Budget|Nutrient Surplus (Mt Nr/yr),
+Resources|Nitrogen|Pasture Budget|Nutrient Surplus (Mt Nr/yr),
+Emissions|Accumulation|Natural and indirect emissions|+|Oceans (Mt Nr/yr),
+Resources|Nitrogen|Ocean Budget|River discharge (Mt Nr/yr),water_ocean
+Resources|Nitrogen|Ocean Budget|Nitrogen fixation in oceans (Mt Nr/yr),fixation_ocean
+Resources|Nitrogen|Ocean Budget|Atmospheric Deposition (Mt Nr/yr),dep_oceans
+Resources|Nitrogen|Ocean Budget|Fish (Mt Nr/yr),
+Resources|Nitrogen|Ocean Budget|Nutrient Surplus (Mt Nr/yr),
+Resources|Nitrogen|Wastewater|Inland freshwater bodies (Mt Nr/yr),sewage_water

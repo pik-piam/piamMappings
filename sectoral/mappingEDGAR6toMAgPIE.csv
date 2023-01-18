@@ -1,0 +1,20 @@
+﻿EDGAR6,MAgPIE_reporting
+bc.3_C_1 Emissions from biomass burning,Emissions|BC|Land|Biomass Burning|+|Agricultural Waste Burning
+ch4.3_A_1 Enteric Fermentation,Emissions|CH4|Land|Agriculture|+|Enteric Fermentation
+ch4.3_A_2 Manure Management,Emissions|CH4|Land|Agriculture|+|Animal Waste Management
+ch4.3_C_1 Emissions from biomass burning,Emissions|CH4|Land|Biomass Burning|+|Agricultural Waste Burning
+ch4.3_C_7 Rice cultivations,Emissions|CH4|Land|Agriculture|+|Rice
+co.3_C_1 Emissions from biomass burning,Emissions|CO|Land|Biomass Burning|+|Agricultural Waste Burning
+co2.3_C_1 Emissions from biomass burning,Emissions|CO2|Land|Biomass Burning|+|Agricultural Waste Burning
+n2o.3_A_2 Manure Management,Emissions|N2O|Land|Agriculture|+|Animal Waste Management
+n2o.3_C_1 Emissions from biomass burning,Emissions|N2O|Land|Biomass Burning|+|Agricultural Waste Burning
+n2o.3_C_4 Direct N2O Emissions from managed soils,Emissions|N2O|Direct|Land|Agriculture|+|Agricultural Soils
+n2o.3_C_5 Indirect N2O Emissions from managed soils,Emissions|N2O|Indirect|Land|Agriculture|+|Agricultural Soils
+nh3.3_A_2 Manure Management,Emissions|NH3|Land|Agriculture|+|Animal Waste Management
+nh3.3_C_1 Emissions from biomass burning,Emissions|NH3|Land|Biomass Burning|+|Agricultural Waste Burning
+nh3.3_C_4 Direct N2O Emissions from managed soils,Emissions|NH3|Direct|Land|Agriculture|+|Agricultural Soils
+no2.3_A_2 Manure Management,Emissions|NO2|Land|Agriculture|+|Animal Waste Management
+no2.3_C_1 Emissions from biomass burning,Emissions|NO2|Land|Biomass Burning|+|Agricultural Waste Burning
+no2.3_C_4 Direct N2O Emissions from managed soils,Emissions|NO2|Direct|Land|Agriculture|+|Agricultural Soils
+oc.3_C_1 Emissions from biomass burning,Emissions|OC|Land|Biomass Burning|+|Agricultural Waste Burning
+so2.3_C_1 Emissions from biomass burning,Emissions|SO2|Land|Biomass Burning|+|Agricultural Waste Burning

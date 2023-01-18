@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode;H12
+Afghanistan;AFG;Southern Asia;OAS
+Aland Islands;ALA;Europe;EUR
+Albania;ALB;Europe;NEU
+Algeria;DZA;Africa;MEA
+American Samoa;ASM;South-East Asia and developing Pacific;OAS
+Andorra;AND;Europe;NEU
+Angola;AGO;Africa;SSA
+Anguilla;AIA;Latin America and Caribbean;LAM
+Antarctica;ATA;Latin America and Caribbean;LAM
+Antigua and Barbuda;ATG;Latin America and Caribbean;LAM
+Argentina;ARG;Latin America and Caribbean;LAM
+Armenia;ARM;Eurasia;REF
+Aruba;ABW;Latin America and Caribbean;LAM
+Australia;AUS;Asia-Pacific Developed;CAZ
+Austria;AUT;Europe;EUR
+Azerbaijan;AZE;Eurasia;REF
+Bahamas;BHS;Latin America and Caribbean;LAM
+Bahrain;BHR;Middle East;MEA
+Bangladesh;BGD;Southern Asia;OAS
+Barbados;BRB;Latin America and Caribbean;LAM
+Belarus;BLR;Eurasia;REF
+Belgium;BEL;Europe;EUR
+Belize;BLZ;Latin America and Caribbean;LAM
+Benin;BEN;Africa;SSA
+Bermuda;BMU;Latin America and Caribbean;LAM
+Bhutan;BTN;Southern Asia;OAS
+Bolivia, Plurinational State of;BOL;Latin America and Caribbean;LAM
+Bonaire, Sint Eustatius and Saba;BES;Latin America and Caribbean;LAM
+Bosnia and Herzegovina;BIH;Europe;NEU
+Botswana;BWA;Africa;SSA
+Bouvet Island;BVT;Latin America and Caribbean;LAM
+Brazil;BRA;Latin America and Caribbean;LAM
+British Indian Ocean Territory;IOT;South-East Asia and developing Pacific;OAS
+Brunei Darussalam;BRN;South-East Asia and developing Pacific;OAS
+Bulgaria;BGR;Europe;EUR
+Burkina Faso;BFA;Africa;SSA
+Burundi;BDI;Africa;SSA
+Cambodia;KHM;South-East Asia and developing Pacific;OAS
+Cameroon;CMR;Africa;SSA
+Canada;CAN;North America;CAZ
+Cape Verde;CPV;Africa;SSA
+Cayman Islands;CYM;Latin America and Caribbean;LAM
+Central African Republic;CAF;Africa;SSA
+Chad;TCD;Africa;SSA
+Chile;CHL;Latin America and Caribbean;LAM
+China;CHN;Eastern Asia;CHA
+Christmas Island;CXR;South-East Asia and developing Pacific;OAS
+Cocos (Keeling) Islands;CCK;South-East Asia and developing Pacific;OAS
+Colombia;COL;Latin America and Caribbean;LAM
+Comoros;COM;Africa;SSA
+Congo;COG;Africa;SSA
+Congo, the Democratic Republic of the;COD;Africa;SSA
+Cook Islands;COK;South-East Asia and developing Pacific;OAS
+Costa Rica;CRI;Latin America and Caribbean;LAM
+Cote d Ivoire;CIV;Africa;SSA
+Croatia;HRV;Europe;EUR
+Cuba;CUB;Latin America and Caribbean;LAM
+Curacao;CUW;Latin America and Caribbean;LAM
+Cyprus;CYP;Europe;EUR
+Czech Republic;CZE;Europe;EUR
+Denmark;DNK;Europe;EUR
+Djibouti;DJI;Africa;SSA
+Dominica;DMA;Latin America and Caribbean;LAM
+Dominican Republic;DOM;Latin America and Caribbean;LAM
+Ecuador;ECU;Latin America and Caribbean;LAM
+Egypt;EGY;Africa;MEA
+El Salvador;SLV;Latin America and Caribbean;LAM
+Equatorial Guinea;GNQ;Africa;SSA
+Eritrea;ERI;Africa;SSA
+Estonia;EST;Europe;EUR
+Ethiopia;ETH;Africa;SSA
+Falkland Islands (Malvinas);FLK;Latin America and Caribbean;LAM
+Faroe Islands;FRO;Europe;EUR
+Fiji;FJI;South-East Asia and developing Pacific;OAS
+Finland;FIN;Europe;EUR
+France;FRA;Europe;EUR
+French Guiana;GUF;Latin America and Caribbean;LAM
+French Polynesia;PYF;South-East Asia and developing Pacific;OAS
+French Southern Territories;ATF;South-East Asia and developing Pacific;OAS
+Gabon;GAB;Africa;SSA
+Gambia;GMB;Africa;SSA
+Georgia;GEO;Eurasia;REF
+Germany;DEU;Europe;EUR
+Ghana;GHA;Africa;SSA
+Gibraltar;GIB;Europe;EUR
+Greece;GRC;Europe;EUR
+Greenland;GRL;North America;NEU
+Grenada;GRD;Latin America and Caribbean;LAM
+Guadeloupe;GLP;Latin America and Caribbean;LAM
+Guam;GUM;South-East Asia and developing Pacific;OAS
+Guatemala;GTM;Latin America and Caribbean;LAM
+Guernsey;GGY;Europe;EUR
+Guinea;GIN;Africa;SSA
+Guinea-Bissau;GNB;Africa;SSA
+Guyana;GUY;Latin America and Caribbean;LAM
+Haiti;HTI;Latin America and Caribbean;LAM
+Heard Island and McDonald Islands;HMD;North America;CAZ
+Holy See (Vatican City State);VAT;Europe;NEU
+Honduras;HND;Latin America and Caribbean;LAM
+Hong Kong;HKG;South-East Asia and developing Pacific;CHA
+Hungary;HUN;Europe;EUR
+Iceland;ISL;Europe;NEU
+India;IND;Southern Asia;IND
+Indonesia;IDN;South-East Asia and developing Pacific;OAS
+Iran, Islamic Republic of;IRN;Middle East;MEA
+Iraq;IRQ;Middle East;MEA
+Ireland;IRL;Europe;EUR
+Isle of Man;IMN;Europe;EUR
+Israel;ISR;Middle East;MEA
+Italy;ITA;Europe;EUR
+Jamaica;JAM;Latin America and Caribbean;LAM
+Japan;JPN;Asia-Pacific Developed;JPN
+Jersey;JEY;Europe;EUR
+Jordan;JOR;Middle East;MEA
+Kazakhstan;KAZ;Eurasia;REF
+Kenya;KEN;Africa;SSA
+Kiribati;KIR;South-East Asia and developing Pacific;OAS
+Korea, Democratic People's Republic of;PRK;South-East Asia and developing Pacific;OAS
+Korea, Republic of;KOR;South-East Asia and developing Pacific;OAS
+Kuwait;KWT;Middle East;MEA
+Kyrgyzstan;KGZ;Eurasia;REF
+Lao People's Democratic Republic;LAO;South-East Asia and developing Pacific;OAS
+Latvia;LVA;Europe;EUR
+Lebanon;LBN;Middle East;MEA
+Lesotho;LSO;Africa;SSA
+Liberia;LBR;Africa;SSA
+Libya;LBY;Africa;MEA
+Liechtenstein;LIE;Europe;NEU
+Lithuania;LTU;Europe;EUR
+Luxembourg;LUX;Europe;EUR
+Macao;MAC;South-East Asia and developing Pacific;CHA
+Macedonia, the former Yugoslav Republic of;MKD;Europe;NEU
+Madagascar;MDG;Africa;SSA
+Malawi;MWI;Africa;SSA
+Malaysia;MYS;South-East Asia and developing Pacific;OAS
+Maldives;MDV;Southern Asia;OAS
+Mali;MLI;Africa;SSA
+Malta;MLT;Europe;EUR
+Marshall Islands;MHL;South-East Asia and developing Pacific;OAS
+Martinique;MTQ;Latin America and Caribbean;LAM
+Mauritania;MRT;Africa;SSA
+Mauritius;MUS;Africa;SSA
+Mayotte;MYT;Africa;SSA
+Mexico;MEX;Latin America and Caribbean;LAM
+Micronesia, Federated States of;FSM;South-East Asia and developing Pacific;OAS
+Moldova, Republic of;MDA;Eurasia;REF
+Monaco;MCO;Europe;NEU
+Mongolia;MNG;Eastern Asia;OAS
+Montenegro;MNE;Eurasia;NEU
+Montserrat;MSR;Latin America and Caribbean;LAM
+Morocco;MAR;Africa;MEA
+Mozambique;MOZ;Africa;SSA
+Myanmar;MMR;South-East Asia and developing Pacific;OAS
+Namibia;NAM;Africa;SSA
+Nauru;NRU;South-East Asia and developing Pacific;OAS
+Nepal;NPL;Southern Asia;OAS
+Netherlands;NLD;Europe;EUR
+New Caledonia;NCL;South-East Asia and developing Pacific;OAS
+New Zealand;NZL;Asia-Pacific Developed;CAZ
+Nicaragua;NIC;Latin America and Caribbean;LAM
+Niger;NER;Africa;SSA
+Nigeria;NGA;Africa;SSA
+Niue;NIU;South-East Asia and developing Pacific;OAS
+Norfolk Island;NFK;South-East Asia and developing Pacific;OAS
+Northern Mariana Islands;MNP;South-East Asia and developing Pacific;OAS
+Norway;NOR;Europe;NEU
+Oman;OMN;Middle East;MEA
+Pakistan;PAK;Southern Asia;OAS
+Palau;PLW;South-East Asia and developing Pacific;OAS
+Palestine, State of;PSE;Middle East;MEA
+Panama;PAN;Latin America and Caribbean;LAM
+Papua New Guinea;PNG;South-East Asia and developing Pacific;OAS
+Paraguay;PRY;Latin America and Caribbean;LAM
+Peru;PER;Latin America and Caribbean;LAM
+Philippines;PHL;South-East Asia and developing Pacific;OAS
+Pitcairn;PCN;South-East Asia and developing Pacific;OAS
+Poland;POL;Europe;EUR
+Portugal;PRT;Europe;EUR
+Puerto Rico;PRI;Latin America and Caribbean;LAM
+Qatar;QAT;Middle East;MEA
+Reunion;REU;Africa;SSA
+Romania;ROU;Europe;EUR
+Russian Federation;RUS;Eurasia;REF
+Rwanda;RWA;Africa;SSA
+Saint Barthelemy;BLM;Latin America and Caribbean;LAM
+Saint Helena, Ascension and Tristan da Cunha;SHN;Africa;SSA
+Saint Kitts and Nevis;KNA;Latin America and Caribbean;LAM
+Saint Lucia;LCA;Latin America and Caribbean;LAM
+Saint Martin (French part);MAF;Latin America and Caribbean;LAM
+Saint Pierre and Miquelon;SPM;North America;CAZ
+Saint Vincent and the Grenadines;VCT;Latin America and Caribbean;LAM
+Samoa;WSM;South-East Asia and developing Pacific;OAS
+San Marino;SMR;Europe;NEU
+Sao Tome and Principe;STP;Africa;SSA
+Saudi Arabia;SAU;Middle East;MEA
+Senegal;SEN;Africa;SSA
+Serbia;SRB;Eurasia;NEU
+Seychelles;SYC;Africa;SSA
+Sierra Leone;SLE;Africa;SSA
+Singapore;SGP;South-East Asia and developing Pacific;OAS
+Sint Maarten (Dutch part);SXM;Latin America and Caribbean;LAM
+Slovakia;SVK;Europe;EUR
+Slovenia;SVN;Europe;EUR
+Solomon Islands;SLB;South-East Asia and developing Pacific;OAS
+Somalia;SOM;Africa;SSA
+South Africa;ZAF;Africa;SSA
+South Georgia and the South Sandwich Islands;SGS;Latin America and Caribbean;LAM
+South Sudan;SSD;Africa;SSA
+Spain;ESP;Europe;EUR
+Sri Lanka;LKA;Southern Asia;OAS
+Sudan;SDN;Africa;MEA
+Suriname;SUR;Latin America and Caribbean;LAM
+Svalbard and Jan Mayen;SJM;Europe;NEU
+Swaziland;SWZ;Africa;SSA
+Sweden;SWE;Europe;EUR
+Switzerland;CHE;Europe;NEU
+Syrian Arab Republic;SYR;Middle East;MEA
+Taiwan, Province of China;TWN;Eastern Asia;CHA
+Tajikistan;TJK;Eurasia;REF
+Tanzania, United Republic of;TZA;Africa;SSA
+Thailand;THA;South-East Asia and developing Pacific;OAS
+Timor-Leste;TLS;South-East Asia and developing Pacific;OAS
+Togo;TGO;Africa;SSA
+Tokelau;TKL;South-East Asia and developing Pacific;OAS
+Tonga;TON;Africa;OAS
+Trinidad and Tobago;TTO;Latin America and Caribbean;LAM
+Tunisia;TUN;Africa;MEA
+Turkey;TUR;Europe;NEU
+Turkmenistan;TKM;Eurasia;REF
+Turks and Caicos Islands;TCA;Latin America and Caribbean;LAM
+Tuvalu;TUV;South-East Asia and developing Pacific;OAS
+Uganda;UGA;Africa;SSA
+Ukraine;UKR;Europe;REF
+United Arab Emirates;ARE;Middle East;MEA
+United Kingdom;GBR;Europe;EUR
+United States;USA;North America;USA
+United States Minor Outlying Islands;UMI;South-East Asia and developing Pacific;OAS
+Uruguay;URY;Latin America and Caribbean;LAM
+Uzbekistan;UZB;Eurasia;REF
+Vanuatu;VUT;South-East Asia and developing Pacific;OAS
+Venezuela, Bolivarian Republic of;VEN;Latin America and Caribbean;LAM
+Viet Nam;VNM;South-East Asia and developing Pacific;OAS
+Virgin Islands, British;VGB;Latin America and Caribbean;LAM
+Virgin Islands, U.S.;VIR;Latin America and Caribbean;LAM
+Wallis and Futuna;WLF;South-East Asia and developing Pacific;OAS
+Western Sahara;ESH;Africa;MEA
+Yemen;YEM;Middle East;MEA
+Zambia;ZMB;Africa;SSA
+Zimbabwe;ZWE;Africa;SSA

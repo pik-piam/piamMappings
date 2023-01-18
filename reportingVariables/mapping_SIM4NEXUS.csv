@@ -1,0 +1,54 @@
+piam,sim4nexus,weight,factor,weight_regional
+Population (million people),Population (million),NULL,1,NULL
+Demand|Bioenergy|+|Bioenergy crops (Mt DM/yr),Agricultural Demand|Non-Energy|Crops (million t DM/yr),NULL,1,NULL
+Production|+|Crops (Mt DM/yr),Agricultural Production (million t DM/yr),NULL,1,NULL
+Production|+|Livestock products (Mt DM/yr),Agricultural Production (million t DM/yr),NULL,1,NULL
+Production|+|Bioenergy crops (Mt DM/yr),Agricultural Production (million t DM/yr),NULL,1,NULL
+Production|+|Bioenergy crops (Mt DM/yr),Agricultural Production|Energy|Crops (million t DM/yr),NULL,1,NULL
+Production|+|Crops (Mt DM/yr),Agricultural Production|Non-Energy (million t DM/yr),NULL,1,NULL
+Production|+|Livestock products (Mt DM/yr),Agricultural Production|Non-Energy (million t DM/yr),NULL,1,NULL
+Production|+|Crops (Mt DM/yr),Agricultural Production|Non-Energy|Crops (million t DM/yr),NULL,1,NULL
+Production|+|Livestock products (Mt DM/yr),Agricultural Production|Non-Energy|Livestock (million t DM/yr),NULL,1,NULL
+Emissions|CH4|Land|+|Agriculture (Mt CH4/yr),Emissions|CH4|AFOLU (Mt CH4/yr),NULL,1,NULL
+Emissions|CO2|Land (Mt CO2/yr),Emissions|CO2|AFOLU (Mt CO2/yr),NULL,1,NULL
+Emissions|N2O|Land|+|Agriculture (Mt N2O/yr),Emissions|N2O|AFOLU (Mt N2O/yr),NULL,1,NULL
+Nutrition|Calorie Supply (kcal/capita/day),Food Demand (kcal/cap/day),NULL,1,Population (million people)
+Nutrition|Calorie Supply|+|Crops (kcal/capita/day),Food Demand|Crops (kcal/cap/day),NULL,1,Population (million people)
+Nutrition|Calorie Supply|+|Secondary products (kcal/capita/day),Food Demand|Crops (kcal/cap/day),NULL,1,Population (million people)
+Nutrition|Calorie Supply|+|Livestock products (kcal/capita/day),Food Demand|Livestock (kcal/cap/day),NULL,1,Population (million people)
+Resources|Land Cover|+|Cropland (million ha),Land Cover|Cropland (million ha),NULL,1,NULL
+Resources|Land Cover|Cropland|+|Bioenergy crops (million ha),Land Cover|Cropland|Energy Crops (million ha),NULL,1,NULL
+Resources|Land Cover|+|Forest (million ha),Land Cover|Forest (million ha),NULL,1,NULL
+Resources|Land Cover|+|Other Land (million ha),Land Cover|Other Land (million ha),NULL,1,NULL
+Resources|Land Cover|+|Urban Area (million ha),Land Cover|Other Land (million ha),NULL,1,NULL
+Resources|Land Cover|+|Pastures and Rangelands (million ha),Land Cover|Pasture (million ha),NULL,1,NULL
+Resources|Land Cover|Cropland|Area actually irrigated (million ha),Land Cover|Cropland|Irrigated (million ha),NULL,1,NULL
+Prices|Food Price Index (Index 2010=100),Price|Agriculture|Non-Energy Crops and Livestock|Index (Index (2010 = 1)),NULL,0.01,Demand|+|Food (Mt DM/yr)
+Prices|GHG Emission|CO2 (US$2005/tCO2),Price|Carbon (US$2010/t CO2 or local currency/t CO2),NULL,1,Emissions|CO2|Land (Mt CO2/yr)
+Demand|Bioenergy (EJ/yr),Primary Energy|Biomass (EJ/yr),NULL,1,NULL
+Resources|Water|Withdrawal|Agriculture (km3/yr),Water Withdrawal|Irrigation (km3/yr),NULL,1,NULL
+SDG|SDG01|Per-capita income (USD05/cap/yr),SDG|SDG01|Per-capita income (USD05/cap/yr),NULL,1,Population (million people)
+SDG|SDG02|Food availability (kcal/cap/day),SDG|SDG02|Food availability (kcal/cap/day),NULL,1,Population (million people)
+SDG|SDG02|Food expenditure share (income),SDG|SDG02|Food expenditure share (income),NULL,1,Demand|+|Food (Mt DM/yr)
+SDG|SDG02|Food price index (index wrt 2005),SDG|SDG02|Food price index (index wrt 2005),NULL,1,Demand|+|Food (Mt DM/yr)
+SDG|SDG02|Investment in AgR&D (million USD05/yr),SDG|SDG02|Investment in AgR&D (million USD05/yr),NULL,1,NULL
+SDG|SDG02|Prevalence of obesity|Children (million),SDG|SDG02|Prevalence of obesity|Children (million),NULL,1,NULL
+SDG|SDG02|Prevalence of underweight (million),SDG|SDG02|Prevalence of underweight (million),NULL,1,NULL
+SDG|SDG02|Prevalence of underweight|Children (million),SDG|SDG02|Prevalence of underweight|Children (million),NULL,1,NULL
+SDG|SDG03|Consumption of alcohol (kcal/cap/day),SDG|SDG03|Consumption of alcohol (kcal/cap/day),NULL,1,Population (million people)
+SDG|SDG03|Prevalence of obesity (million),SDG|SDG03|Prevalence of obesity (million),NULL,1,NULL
+SDG|SDG03|Prevalence of obesity|Children (million),SDG|SDG03|Prevalence of obesity|Children (million),NULL,1,NULL
+SDG|SDG03|Prevalence of overweight (million),SDG|SDG03|Prevalence of overweight (million),NULL,1,NULL
+SDG|SDG03|Prevalence of overweight|Children (million),SDG|SDG03|Prevalence of overweight|Children (million),NULL,1,NULL
+SDG|SDG06|Agricultural water use (km3/yr),SDG|SDG06|Agricultural water use (km3/yr),NULL,1,NULL
+SDG|SDG06|Water stress (fraction),SDG|SDG06|Water stress (fraction),NULL,1,NULL
+SDG|SDG06|Fertilizer use (Mt N/yr),SDG|SDG06|Fertilizer use (Mt N/yr),NULL,1,NULL
+SDG|SDG12|Food loss (Mt),SDG|SDG12|Food loss (Mt),NULL,1,NULL
+SDG|SDG12|Food waste (kcal/cap/day),SDG|SDG12|Food waste (kcal/cap/day),NULL,1,Population (million people)
+SDG|SDG12|Material footprint (tDM/capita/yr),SDG|SDG12|Material footprint (tDM/capita/yr),NULL,1,Population (million people)
+SDG|SDG15|Afforestation (million hectares),SDG|SDG15|Afforestation (million ha),NULL,1,NULL
+SDG|SDG15|Biodiversity protection proportion (percentage),SDG|SDG15|Biodiversity protection proportion (share of total land),NULL,1,Resources|Land Cover (million ha)
+SDG|SDG15|Forest share (share),SDG|SDG15|Forest share (share of total land),NULL,1,Resources|Land Cover (million ha)
+SDG|SDG15|Non-agricultural land (percentage),SDG|SDG15|Non-agricultural land (share of total land),NULL,1,Resources|Land Cover (million ha)
+SDG|SDG15|Other natural land (percentage),SDG|SDG15|Other natural land (share of total land),NULL,1,Resources|Land Cover (million ha)
+SDG|SDG15|Primary forest share (share),SDG|SDG15|Primary forest share (share of total land),NULL,1,Resources|Land Cover (million ha)

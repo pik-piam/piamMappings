@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Afghanistan;AFG;CP
+Aland Islands;ALA;EU
+Albania;ALB;WE
+Algeria;DZA;AF
+American Samoa;ASM;US
+Andorra;AND;EU
+Angola;AGO;AF
+Anguilla;AIA;CA
+Antarctica;ATA;RA
+Antigua and Barbuda;ATG;CA
+Argentina;ARG;SM
+Armenia;ARM;CP
+Aruba;ABW;CA
+Australia;AUS;AU
+Austria;AUT;EU
+Azerbaijan;AZE;CP
+Bahamas;BHS;CA
+Bahrain;BHR;ME
+Bangladesh;BGD;RA
+Barbados;BRB;CA
+Belarus;BLR;WE
+Belgium;BEL;EU
+Belize;BLZ;CA
+Benin;BEN;AF
+Bermuda;BMU;CA
+Bhutan;BTN;RA
+Bolivia, Plurinational State of;BOL;SM
+Bonaire, Sint Eustatius and Saba;BES;SM
+Bosnia and Herzegovina;BIH;WE
+Botswana;BWA;AF
+Bouvet Island;BVT;EU
+Brazil;BRA;BR
+British Indian Ocean Territory;IOT;RA
+Brunei Darussalam;BRN;RA
+Bulgaria;BGR;EU
+Burkina Faso;BFA;AF
+Burundi;BDI;AF
+Cambodia;KHM;RA
+Cameroon;CMR;AF
+Canada;CAN;CD
+Cape Verde;CPV;AF
+Cayman Islands;CYM;CA
+Central African Republic;CAF;AF
+Chad;TCD;AF
+Chile;CHL;SM
+China;CHN;CH
+Christmas Island;CXR;RA
+Cocos (Keeling) Islands;CCK;RA
+Colombia;COL;SM
+Comoros;COM;AF
+Congo;COG;AF
+Congo, the Democratic Republic of the;COD;AF
+Cook Islands;COK;RA
+Costa Rica;CRI;CA
+Cote d Ivoire;CIV;AF
+Croatia;HRV;WE
+Cuba;CUB;CA
+Curacao;CUW;SM
+Cyprus;CYP;EU
+Czech Republic;CZE;EU
+Denmark;DNK;EU
+Djibouti;DJI;AF
+Dominica;DMA;CA
+Dominican Republic;DOM;CA
+Ecuador;ECU;SM
+Egypt;EGY;AF
+El Salvador;SLV;CA
+Equatorial Guinea;GNQ;AF
+Eritrea;ERI;AF
+Estonia;EST;EU
+Ethiopia;ETH;AF
+Falkland Islands (Malvinas);FLK;SM
+Faroe Islands;FRO;EU
+Fiji;FJI;RA
+Finland;FIN;EU
+France;FRA;EU
+French Guiana;GUF;CA
+French Polynesia;PYF;RA
+French Southern Territories;ATF;RA
+Gabon;GAB;AF
+Gambia;GMB;AF
+Georgia;GEO;CP
+Germany;DEU;EU
+Ghana;GHA;AF
+Gibraltar;GIB;EU
+Greece;GRC;EU
+Greenland;GRL;EU
+Grenada;GRD;CA
+Guadeloupe;GLP;CA
+Guam;GUM;RA
+Guatemala;GTM;CA
+Guernsey;GGY;EU
+Guinea;GIN;AF
+Guinea-Bissau;GNB;AF
+Guyana;GUY;CA
+Haiti;HTI;CA
+Heard Island and McDonald Islands;HMD;RA
+Holy See (Vatican City State);VAT;EU
+Honduras;HND;CA
+Hong Kong;HKG;CH
+Hungary;HUN;EU
+Iceland;ISL;EU
+India;IND;IN
+Indonesia;IDN;RA
+Iran, Islamic Republic of;IRN;ME
+Iraq;IRQ;ME
+Ireland;IRL;EU
+Isle of Man;IMN;EU
+Israel;ISR;ME
+Italy;ITA;EU
+Jamaica;JAM;CA
+Japan;JPN;JP
+Jersey;JEY;EU
+Jordan;JOR;ME
+Kazakhstan;KAZ;CP
+Kenya;KEN;AF
+Kiribati;KIR;RA
+Korea, Democratic People's Republic of;PRK;RA
+Korea, Republic of;KOR;KR
+Kuwait;KWT;ME
+Kyrgyzstan;KGZ;CP
+Lao People's Democratic Republic;LAO;RA
+Latvia;LVA;EU
+Lebanon;LBN;ME
+Lesotho;LSO;AF
+Liberia;LBR;AF
+Libya;LBY;AF
+Liechtenstein;LIE;EU
+Lithuania;LTU;EU
+Luxembourg;LUX;EU
+Macao;MAC;CH
+Macedonia, the former Yugoslav Republic of;MKD;WE
+Madagascar;MDG;AF
+Malawi;MWI;AF
+Malaysia;MYS;RA
+Maldives;MDV;RA
+Mali;MLI;AF
+Malta;MLT;EU
+Marshall Islands;MHL;RA
+Martinique;MTQ;CA
+Mauritania;MRT;AF
+Mauritius;MUS;AF
+Mayotte;MYT;AF
+Mexico;MEX;CA
+Micronesia, Federated States of;FSM;RA
+Moldova, Republic of;MDA;WE
+Monaco;MCO;EU
+Mongolia;MNG;RA
+Montenegro;MNE;WE
+Montserrat;MSR;CA
+Morocco;MAR;AF
+Mozambique;MOZ;AF
+Myanmar;MMR;RA
+Namibia;NAM;AF
+Nauru;NRU;RA
+Nepal;NPL;RA
+Netherlands;NLD;EU
+New Caledonia;NCL;RA
+New Zealand;NZL;AU
+Nicaragua;NIC;CA
+Niger;NER;AF
+Nigeria;NGA;AF
+Niue;NIU;RA
+Norfolk Island;NFK;RA
+Northern Mariana Islands;MNP;RA
+Norway;NOR;EU
+Oman;OMN;ME
+Pakistan;PAK;CP
+Palau;PLW;RA
+Palestine, State of;PSE;ME
+Panama;PAN;CA
+Papua New Guinea;PNG;RA
+Paraguay;PRY;SM
+Peru;PER;SM
+Philippines;PHL;RA
+Pitcairn;PCN;RA
+Poland;POL;EU
+Portugal;PRT;EU
+Puerto Rico;PRI;US
+Qatar;QAT;ME
+Reunion;REU;AF
+Romania;ROU;EU
+Russian Federation;RUS;RU
+Rwanda;RWA;AF
+Saint Barthelemy;BLM;CA
+Saint Helena, Ascension and Tristan da Cunha;SHN;CD
+Saint Kitts and Nevis;KNA;CA
+Saint Lucia;LCA;CA
+Saint Martin (French part);MAF;CA
+Saint Pierre and Miquelon;SPM;CD
+Saint Vincent and the Grenadines;VCT;CA
+Samoa;WSM;RA
+San Marino;SMR;EU
+Sao Tome and Principe;STP;AF
+Saudi Arabia;SAU;ME
+Senegal;SEN;AF
+Serbia;SRB;WE
+Seychelles;SYC;AF
+Sierra Leone;SLE;AF
+Singapore;SGP;RA
+Sint Maarten (Dutch part);SXM;SM
+Slovakia;SVK;EU
+Slovenia;SVN;EU
+Solomon Islands;SLB;RA
+Somalia;SOM;AF
+South Africa;ZAF;SF
+South Georgia and the South Sandwich Islands;SGS;SM
+South Sudan;SSD;AF
+Spain;ESP;EU
+Sri Lanka;LKA;RA
+Sudan;SDN;AF
+Suriname;SUR;CA
+Svalbard and Jan Mayen;SJM;EU
+Swaziland;SWZ;AF
+Sweden;SWE;EU
+Switzerland;CHE;EU
+Syrian Arab Republic;SYR;ME
+Taiwan, Province of China;TWN;RA
+Tajikistan;TJK;CP
+Tanzania, United Republic of;TZA;AF
+Thailand;THA;RA
+Timor-Leste;TLS;RA
+Togo;TGO;AF
+Tokelau;TKL;RA
+Tonga;TON;RA
+Trinidad and Tobago;TTO;CA
+Tunisia;TUN;AF
+Turkey;TUR;EU
+Turkmenistan;TKM;CP
+Turks and Caicos Islands;TCA;CA
+Tuvalu;TUV;RA
+Uganda;UGA;AF
+Ukraine;UKR;WE
+United Arab Emirates;ARE;ME
+United Kingdom;GBR;EU
+United States;USA;US
+United States Minor Outlying Islands;UMI;US
+Uruguay;URY;SM
+Uzbekistan;UZB;CP
+Vanuatu;VUT;RA
+Venezuela, Bolivarian Republic of;VEN;SM
+Viet Nam;VNM;RA
+Virgin Islands, British;VGB;US
+Virgin Islands, U.S;VIR;US
+Wallis and Futuna;WLF;RA
+Western Sahara;ESH;AF
+Yemen;YEM;ME
+Zambia;ZMB;AF
+Zimbabwe;ZWE;AF

@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Afghanistan;AFG;SEA
+Aland Islands;ALA;EUR
+Albania;ALB;EUR
+Algeria;DZA;ROW
+American Samoa;ASM;SEA
+Andorra;AND;EUR
+Angola;AGO;ROW
+Anguilla;AIA;NAA
+Antarctica;ATA;NAA
+Antigua and Barbuda;ATG;NAA
+Argentina;ARG;NAA
+Armenia;ARM;ROW
+Aruba;ABW;NAA
+Australia;AUS;NAA
+Austria;AUT;EUR
+Azerbaijan;AZE;ROW
+Bahamas;BHS;NAA
+Bahrain;BHR;MEC
+Bangladesh;BGD;SEA
+Barbados;BRB;NAA
+Belarus;BLR;ROW
+Belgium;BEL;EUR
+Belize;BLZ;NAA
+Benin;BEN;ROW
+Bermuda;BMU;NAA
+Bhutan;BTN;SEA
+Bolivia, Plurinational State of;BOL;NAA
+Bonaire, Sint Eustatius and Saba;BES;ROW
+Bosnia and Herzegovina;BIH;EUR
+Botswana;BWA;ROW
+Bouvet Island;BVT;NAA
+Brazil;BRA;NAA
+British Indian Ocean Territory;IOT;SEA
+Brunei Darussalam;BRN;SEA
+Bulgaria;BGR;EUR
+Burkina Faso;BFA;ROW
+Burundi;BDI;ROW
+Cambodia;KHM;SEA
+Cameroon;CMR;ROW
+Canada;CAN;NAA
+Cape Verde;CPV;ROW
+Cayman Islands;CYM;NAA
+Central African Republic;CAF;ROW
+Chad;TCD;ROW
+Chile;CHL;NAA
+China;CHN;ROW
+Christmas Island;CXR;SEA
+Cocos (Keeling) Islands;CCK;SEA
+Colombia;COL;NAA
+Comoros;COM;ROW
+Congo;COG;ROW
+Congo, the Democratic Republic of the;COD;ROW
+Cook Islands;COK;NAA
+Costa Rica;CRI;NAA
+Cote d Ivoire;CIV;ROW
+Croatia;HRV;EUR
+Cuba;CUB;NAA
+Curacao;CUW;NAA
+Cyprus;CYP;EUR
+Czech Republic;CZE;EUR
+Denmark;DNK;EUR
+Djibouti;DJI;ROW
+Dominica;DMA;NAA
+Dominican Republic;DOM;NAA
+Ecuador;ECU;NAA
+Egypt;EGY;ROW
+El Salvador;SLV;NAA
+Equatorial Guinea;GNQ;ROW
+Eritrea;ERI;ROW
+Estonia;EST;EUR
+Ethiopia;ETH;ROW
+Falkland Islands (Malvinas);FLK;NAA
+Faroe Islands;FRO;EUR
+Fiji;FJI;NAA
+Finland;FIN;EUR
+France;FRA;EUR
+French Guiana;GUF;NAA
+French Polynesia;PYF;NAA
+French Southern Territories;ATF;SEA
+Gabon;GAB;ROW
+Gambia;GMB;ROW
+Georgia;GEO;ROW
+Germany;DEU;EUR
+Ghana;GHA;ROW
+Gibraltar;GIB;EUR
+Greece;GRC;EUR
+Greenland;GRL;EUR
+Grenada;GRD;NAA
+Guadeloupe;GLP;NAA
+Guam;GUM;SEA
+Guatemala;GTM;NAA
+Guernsey;GGY;EUR
+Guinea;GIN;ROW
+Guinea-Bissau;GNB;ROW
+Guyana;GUY;NAA
+Haiti;HTI;NAA
+Heard Island and McDonald Islands;HMD;NAA
+Holy See (Vatican City State);VAT;EUR
+Honduras;HND;NAA
+Hong Kong;HKG;ROW
+Hungary;HUN;EUR
+Iceland;ISL;EUR
+India;IND;IND
+Indonesia;IDN;SEA
+Iran, Islamic Republic of;IRN;MEC
+Iraq;IRQ;MEC
+Ireland;IRL;EUR
+Isle of Man;IMN;EUR
+Israel;ISR;MEC
+Italy;ITA;EUR
+Jamaica;JAM;NAA
+Japan;JPN;ROW
+Jersey;JEY;EUR
+Jordan;JOR;MEC
+Kazakhstan;KAZ;ROW
+Kenya;KEN;ROW
+Kiribati;KIR;NAA
+Korea, Democratic People's Republic of;PRK;ROW
+Korea, Republic of;KOR;ROW
+Kuwait;KWT;MEC
+Kyrgyzstan;KGZ;ROW
+Lao People's Democratic Republic;LAO;SEA
+Latvia;LVA;EUR
+Lebanon;LBN;MEC
+Lesotho;LSO;ROW
+Liberia;LBR;ROW
+Libya;LBY;ROW
+Liechtenstein;LIE;EUR
+Lithuania;LTU;EUR
+Luxembourg;LUX;EUR
+Macao;MAC;ROW
+Macedonia, the former Yugoslav Republic of;MKD;EUR
+Madagascar;MDG;ROW
+Malawi;MWI;ROW
+Malaysia;MYS;SEA
+Maldives;MDV;SEA
+Mali;MLI;ROW
+Malta;MLT;EUR
+Marshall Islands;MHL;NAA
+Martinique;MTQ;NAA
+Mauritania;MRT;ROW
+Mauritius;MUS;ROW
+Mayotte;MYT;ROW
+Mexico;MEX;NAA
+Micronesia, Federated States of;FSM;NAA
+Moldova, Republic of;MDA;ROW
+Monaco;MCO;EUR
+Mongolia;MNG;ROW
+Montenegro;MNE;EUR
+Montserrat;MSR;NAA
+Morocco;MAR;ROW
+Mozambique;MOZ;ROW
+Myanmar;MMR;SEA
+Namibia;NAM;ROW
+Nauru;NRU;NAA
+Nepal;NPL;SEA
+Netherlands;NLD;EUR
+New Caledonia;NCL;NAA
+New Zealand;NZL;NAA
+Nicaragua;NIC;NAA
+Niger;NER;ROW
+Nigeria;NGA;ROW
+Niue;NIU;SEA
+Norfolk Island;NFK;SEA
+Northern Mariana Islands;MNP;SEA
+Norway;NOR;EUR
+Oman;OMN;MEC
+Pakistan;PAK;SEA
+Palau;PLW;SEA
+Palestine, State of;PSE;MEC
+Panama;PAN;NAA
+Papua New Guinea;PNG;SEA
+Paraguay;PRY;NAA
+Peru;PER;NAA
+Philippines;PHL;SEA
+Pitcairn;PCN;SEA
+Poland;POL;EUR
+Portugal;PRT;EUR
+Puerto Rico;PRI;NAA
+Qatar;QAT;MEC
+Reunion;REU;ROW
+Romania;ROU;EUR
+Russian Federation;RUS;ROW
+Rwanda;RWA;ROW
+Saint Barthelemy;BLM;NAA
+Saint Helena, Ascension and Tristan da Cunha;SHN;NAA
+Saint Kitts and Nevis;KNA;NAA
+Saint Lucia;LCA;NAA
+Saint Martin (French part);MAF;NAA
+Saint Pierre and Miquelon;SPM;ROW
+Saint Vincent and the Grenadines;VCT;NAA
+Samoa;WSM;NAA
+San Marino;SMR;EUR
+Sao Tome and Principe;STP;ROW
+Saudi Arabia;SAU;MEC
+Senegal;SEN;ROW
+Serbia;SRB;EUR
+Seychelles;SYC;ROW
+Sierra Leone;SLE;ROW
+Singapore;SGP;SEA
+Sint Maarten (Dutch part);SXM;NAA
+Slovakia;SVK;EUR
+Slovenia;SVN;EUR
+Solomon Islands;SLB;NAA
+Somalia;SOM;ROW
+South Africa;ZAF;ROW
+South Georgia and the South Sandwich Islands;SGS;NAA
+South Sudan;SSD;ROW
+Spain;ESP;EUR
+Sri Lanka;LKA;SEA
+Sudan;SDN;ROW
+Suriname;SUR;NAA
+Svalbard and Jan Mayen;SJM;EUR
+Swaziland;SWZ;ROW
+Sweden;SWE;EUR
+Switzerland;CHE;EUR
+Syrian Arab Republic;SYR;MEC
+Taiwan, Province of China;TWN;ROW
+Tajikistan;TJK;ROW
+Tanzania, United Republic of;TZA;ROW
+Thailand;THA;SEA
+Timor-Leste;TLS;SEA
+Togo;TGO;ROW
+Tokelau;TKL;SEA
+Tonga;TON;NAA
+Trinidad and Tobago;TTO;NAA
+Tunisia;TUN;ROW
+Turkey;TUR;EUR
+Turkmenistan;TKM;ROW
+Turks and Caicos Islands;TCA;NAA
+Tuvalu;TUV;NAA
+Uganda;UGA;ROW
+Ukraine;UKR;ROW
+United Arab Emirates;ARE;MEC
+United Kingdom;GBR;EUR
+United States;USA;NAA
+United States Minor Outlying Islands;UMI;SEA
+Uruguay;URY;NAA
+Uzbekistan;UZB;ROW
+Vanuatu;VUT;NAA
+Venezuela, Bolivarian Republic of;VEN;NAA
+Viet Nam;VNM;SEA
+Virgin Islands, British;VGB;NAA
+Virgin Islands, U.S.;VIR;NAA
+Wallis and Futuna;WLF;SEA
+Western Sahara;ESH;ROW
+Yemen;YEM;MEC
+Zambia;ZMB;ROW
+Zimbabwe;ZWE;ROW

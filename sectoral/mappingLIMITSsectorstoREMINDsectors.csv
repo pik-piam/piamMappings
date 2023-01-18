@@ -1,0 +1,47 @@
+limits_sector;remind_sector
+AACID;Emissions|POLLUTANT|Energy Demand|Industry
+CEMENT;Emissions|POLLUTANT|Energy Demand|Industry
+CHEM;Emissions|POLLUTANT|Solvents
+CHEMBULK;Emissions|POLLUTANT|Energy Demand|Industry
+CUSM;Emissions|POLLUTANT|Energy Demand|Industry
+End_Use_Industry_Bio_Trad;Emissions|POLLUTANT|Energy Demand|Industry
+End_Use_Industry_Coal;Emissions|POLLUTANT|Energy Demand|Industry
+End_Use_Industry_HLF;Emissions|POLLUTANT|Energy Demand|Industry
+End_Use_Industry_LLF;Emissions|POLLUTANT|Energy Demand|Industry
+End_Use_Industry_NatGas;Emissions|POLLUTANT|Energy Demand|Industry
+End_Use_Others_Bio_Mod;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Others_Bio_Trad;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Others_Coal;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Others_HLF;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Others_LLF;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Others_NatGas;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Residential_Bio_Mod;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Residential_Bio_Trad;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Residential_Coal;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Residential_HLF;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Residential_LLF;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Residential_NatGas;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Services_Bio_Mod;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Services_Bio_Trad;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Services_Coal;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Services_HLF;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Services_LLF;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Services_NatGas;Emissions|POLLUTANT|Energy Demand|Residential and Commercial
+End_Use_Transport_Air_Domestic;Emissions|POLLUTANT|Energy Demand|Transportation|Aviation
+End_Use_Transport_Air_LTO;Emissions|POLLUTANT|Energy Demand|Transportation|Aviation
+End_Use_Transport_Coal;Emissions|POLLUTANT|Energy Demand|Transportation
+End_Use_Transport_HLF;Emissions|POLLUTANT|Energy Demand|Transportation
+End_Use_Transport_LLF;Emissions|POLLUTANT|Energy Demand|Transportation
+End_Use_Transport_NatGas;Emissions|POLLUTANT|Energy Demand|Transportation
+Losses_Vent_Flare;Emissions|POLLUTANT|Energy Supply
+NACID;Emissions|POLLUTANT|Energy Demand|Industry
+PAPER;Emissions|POLLUTANT|Energy Demand|Industry
+Power_Gen_Bio_Trad;Emissions|POLLUTANT|Energy Supply
+Power_Gen_Coal;Emissions|POLLUTANT|Energy Supply
+Power_Gen_HLF;Emissions|POLLUTANT|Energy Supply
+Power_Gen_LLF;Emissions|POLLUTANT|Energy Supply
+Power_Gen_NatGas;Emissions|POLLUTANT|Energy Supply
+STEEL;Emissions|POLLUTANT|Energy Demand|Industry
+Transformations_HLF;Emissions|POLLUTANT|Energy Supply
+Transformations_HLF_Refinery;Emissions|POLLUTANT|Energy Supply
+Transformations_LLF;Emissions|POLLUTANT|Energy Supply

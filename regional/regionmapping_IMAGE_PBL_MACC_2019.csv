@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Aruba;ABW;Central America
+Afghanistan;AFG;Rest of South Asia
+Angola;AGO;Rest of South Africa
+Anguilla;AIA;Central America
+Aland Islands;ALA;West Europe
+Albania;ALB;Central Europe
+Andorra;AND;West Europe
+United Arab Emirates;ARE;Middle East
+Argentina;ARG;Rest of South-America
+Armenia;ARM;Russia
+American Samoa;ASM;Oceania
+Antarctica;ATA;Rest of South-America
+French Southern Territories;ATF;Oceania
+Antigua and Barbuda;ATG;Central America
+Australia;AUS;Oceania
+Austria;AUT;West Europe
+Azerbaijan;AZE;Russia
+Burundi;BDI;East Africa
+Belgium;BEL;West Europe
+Benin;BEN;West Africa
+Bonaire, Sint Eustatius and Saba;BES;Central America
+Burkina Faso;BFA;West Africa
+Bangladesh;BGD;Rest of South Asia
+Bulgaria;BGR;Central Europe
+Bahrain;BHR;Middle East
+Bahamas;BHS;Central America
+Bosnia and Herzegovina;BIH;Central Europe
+Saint Barthelemy;BLM;Central America
+Belarus;BLR;Central Europe
+Belize;BLZ;Central America
+Bermuda;BMU;Central America
+Bolivia, Plurinational State of;BOL;Rest of South-America
+Brazil;BRA;Brazil
+Barbados;BRB;Central America
+Brunei Darussalam;BRN;South East Asia
+Bhutan;BTN;Rest of South Asia
+Bouvet Island;BVT;Rest of South-America
+Botswana;BWA;Rest of South Africa
+Central African Republic;CAF;West Africa
+Canada;CAN;Canada
+Cocos (Keeling) Islands;CCK;South East Asia
+Switzerland;CHE;West Europe
+Chile;CHL;Rest of South-America
+China;CHN;China+
+Cote d Ivoire;CIV;West Africa
+Cameroon;CMR;West Africa
+Congo, the Democratic Republic of the;COD;West Africa
+Congo;COG;West Africa
+Cook Islands;COK;Oceania
+Colombia;COL;Rest of South-America
+Comoros;COM;East Africa
+Cape Verde;CPV;West Africa
+Costa Rica;CRI;Central America
+Cuba;CUB;Central America
+Curacao;CUW;Central America
+Christmas Island;CXR;South East Asia
+Cayman Islands;CYM;Central America
+Cyprus;CYP;Central Europe
+Czech Republic;CZE;Central Europe
+Germany;DEU;West Europe
+Djibouti;DJI;East Africa
+Dominica;DMA;Central America
+Denmark;DNK;West Europe
+Dominican Republic;DOM;Central America
+Algeria;DZA;North Africa
+Ecuador;ECU;Rest of South-America
+Egypt;EGY;North Africa
+Eritrea;ERI;East Africa
+Western Sahara;ESH;North Africa
+Spain;ESP;West Europe
+Estonia;EST;Central Europe
+Ethiopia;ETH;East Africa
+Finland;FIN;West Europe
+Fiji;FJI;Oceania
+Falkland Islands (Malvinas);FLK;Rest of South-America
+France;FRA;West Europe
+Faroe Islands;FRO;West Europe
+Micronesia, Federated States of;FSM;South East Asia
+Gabon;GAB;West Africa
+United Kingdom;GBR;West Europe
+Georgia;GEO;Russia
+Guernsey;GGY;West Europe
+Ghana;GHA;West Africa
+Gibraltar;GIB;West Europe
+Guinea;GIN;West Africa
+Guadeloupe;GLP;Central America
+Gambia;GMB;West Africa
+Guinea-Bissau;GNB;West Africa
+Equatorial Guinea;GNQ;West Africa
+Greece;GRC;West Europe
+Grenada;GRD;Central America
+Greenland;GRL;West Europe
+Guatemala;GTM;Central America
+French Guiana;GUF;Rest of South-America
+Guam;GUM;Oceania
+Guyana;GUY;Rest of South-America
+Hong Kong;HKG;China+
+Heard Island and McDonald Islands;HMD;Oceania
+Honduras;HND;Central America
+Croatia;HRV;Central Europe
+Haiti;HTI;Central America
+Hungary;HUN;Central Europe
+Indonesia;IDN;Indonesia
+Isle of Man;IMN;West Europe
+India;IND;India
+British Indian Ocean Territory;IOT;Rest of South Asia
+Ireland;IRL;West Europe
+Iran, Islamic Republic of;IRN;Middle East
+Iraq;IRQ;Middle East
+Iceland;ISL;West Europe
+Israel;ISR;Middle East
+Italy;ITA;West Europe
+Jamaica;JAM;Central America
+Jersey;JEY;West Europe
+Jordan;JOR;Middle East
+Japan;JPN;Japan
+Kazakhstan;KAZ;Kazachstan
+Kenya;KEN;East Africa
+Kyrgyzstan;KGZ;Kazachstan
+Cambodia;KHM;South East Asia
+Kiribati;KIR;Oceania
+Saint Kitts and Nevis;KNA;Central America
+Korea, Republic of;KOR;Korea
+Kuwait;KWT;Middle East
+Lao People's Democratic Republic;LAO;South East Asia
+Lebanon;LBN;Middle East
+Liberia;LBR;West Africa
+Libya;LBY;North Africa
+Saint Lucia;LCA;Central America
+Liechtenstein;LIE;West Europe
+Sri Lanka;LKA;Rest of South Asia
+Lesotho;LSO;Rest of South Africa
+Lithuania;LTU;Central Europe
+Luxembourg;LUX;West Europe
+Latvia;LVA;Central Europe
+Macao;MAC;China+
+Saint Martin (French part);MAF;Central America
+Morocco;MAR;North Africa
+Monaco;MCO;West Europe
+Moldova, Republic of;MDA;Ukraine
+Madagascar;MDG;East Africa
+Maldives;MDV;Rest of South Asia
+Mexico;MEX;Mexico
+Marshall Islands;MHL;Oceania
+Macedonia, the former Yugoslav Republic of;MKD;Central Europe
+Mali;MLI;West Africa
+Malta;MLT;West Europe
+Myanmar;MMR;South East Asia
+Montenegro;MNE;Central Europe
+Mongolia;MNG;China+
+Northern Mariana Islands;MNP;Oceania
+Mozambique;MOZ;Rest of South Africa
+Mauritania;MRT;West Africa
+Montserrat;MSR;Central America
+Martinique;MTQ;Central America
+Mauritius;MUS;East Africa
+Malawi;MWI;Rest of South Africa
+Malaysia;MYS;South East Asia
+Mayotte;MYT;East Africa
+Namibia;NAM;Rest of South Africa
+New Caledonia;NCL;Oceania
+Niger;NER;West Africa
+Norfolk Island;NFK;Oceania
+Nigeria;NGA;West Africa
+Nicaragua;NIC;Central America
+Niue;NIU;Oceania
+Netherlands;NLD;West Europe
+Norway;NOR;West Europe
+Nepal;NPL;Rest of South Asia
+Nauru;NRU;Oceania
+New Zealand;NZL;Oceania
+Oman;OMN;Central Europe
+Pakistan;PAK;Rest of South Asia
+Panama;PAN;Central America
+Pitcairn;PCN;Oceania
+Peru;PER;Rest of South-America
+Philippines;PHL;South East Asia
+Palau;PLW;Oceania
+Papua New Guinea;PNG;Indonesia
+Poland;POL;Central Europe
+Puerto Rico;PRI;Central America
+Korea, Democratic People's Republic of;PRK;Korea
+Portugal;PRT;West Europe
+Paraguay;PRY;Rest of South-America
+Palestine, State of;PSE;Middle East
+French Polynesia;PYF;Oceania
+Qatar;QAT;Middle East
+Reunion;REU;East Africa
+Romania;ROU;Central Europe
+Russian Federation;RUS;Russia
+Rwanda;RWA;East Africa
+Saudi Arabia;SAU;Middle East
+Sudan;SDN;East Africa
+Senegal;SEN;West Africa
+Singapore;SGP;South East Asia
+South Georgia and the South Sandwich Islands;SGS;Rest of South-America
+Saint Helena, Ascension and Tristan da Cunha;SHN;West Africa
+Svalbard and Jan Mayen;SJM;West Europe
+Solomon Islands;SLB;Oceania
+Sierra Leone;SLE;West Africa
+El Salvador;SLV;Central America
+San Marino;SMR;West Europe
+Somalia;SOM;East Africa
+Saint Pierre and Miquelon;SPM;USA
+Serbia;SRB;Central Europe
+South Sudan;SSD;East Africa
+Sao Tome and Principe;STP;West Africa
+Suriname;SUR;Rest of South-America
+Slovakia;SVK;Central Europe
+Slovenia;SVN;Central Europe
+Sweden;SWE;West Europe
+Swaziland;SWZ;Rest of South Africa
+Sint Maarten (Dutch part);SXM;Central America
+Seychelles;SYC;East Africa
+Syrian Arab Republic;SYR;Middle East
+Turks and Caicos Islands;TCA;Central America
+Chad;TCD;West Africa
+Togo;TGO;West Africa
+Thailand;THA;South East Asia
+Tajikistan;TJK;Kazachstan
+Tokelau;TKL;Oceania
+Turkmenistan;TKM;Kazachstan
+Timor-Leste;TLS;Indonesia
+Tonga;TON;Oceania
+Trinidad and Tobago;TTO;Central America
+Tunisia;TUN;North Africa
+Turkey;TUR;Turkey
+Tuvalu;TUV;Oceania
+Taiwan, Province of China;TWN;China+
+Tanzania, United Republic of;TZA;Rest of South Africa
+Uganda;UGA;East Africa
+Ukraine;UKR;Ukraine
+United States Minor Outlying Islands;UMI;USA
+Uruguay;URY;Rest of South-America
+United States;USA;USA
+Uzbekistan;UZB;Kazachstan
+Holy See (Vatican City State);VAT;West Europe
+Saint Vincent and the Grenadines;VCT;Central America
+Venezuela, Bolivarian Republic of;VEN;Rest of South-America
+Virgin Islands, British;VGB;Central America
+Virgin Islands, U.S.;VIR;Central America
+Viet Nam;VNM;South East Asia
+Vanuatu;VUT;Oceania
+Wallis and Futuna;WLF;Oceania
+Samoa;WSM;Oceania
+Yemen;YEM;Middle East
+South Africa;ZAF;South Africa
+Zambia;ZMB;Rest of South Africa
+Zimbabwe;ZWE;Rest of South Africa

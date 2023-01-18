@@ -1,0 +1,51 @@
+Step4,Step3,Step2,Step1
+agriculture,crops,cereals,maiz
+agriculture,crops,cereals,rice_pro
+agriculture,crops,cereals,tece
+agriculture,crops,cereals,trce
+agriculture,crops,oilcrops,groundnut
+agriculture,crops,oilcrops,oilpalm
+agriculture,crops,oilcrops,rapeseed
+agriculture,crops,oilcrops,soybean
+agriculture,crops,oilcrops,sunflower
+agriculture,crops,other crop products,cassav_sp
+agriculture,crops,other crop products,cottn_pro
+agriculture,crops,other crop products,foddr
+agriculture,crops,other crop products,potato
+agriculture,crops,other crop products,puls_pro
+agriculture,crops,,others
+agriculture,crops,sugarcrops,sugr_beet
+agriculture,crops,sugarcrops,sugr_cane
+agriculture,,livestock,livst_chick
+agriculture,,livestock,livst_egg
+agriculture,,livestock,livst_milk
+agriculture,,livestock,livst_pig
+agriculture,,livestock,livst_rum
+,,,alcohol
+,,,buildings
+,,,chemicals
+,,,fertilizers
+,,,fishery
+,,,food processing
+,,,forestry
+,,,fuel
+,,,manufacturing
+,,,milling
+,,,oils
+,,,pesticides
+,,,Primary Inputs_Compensation of employees D_1
+,,,Primary Inputs_Consumption of fixed capital K_1
+,,,Primary Inputs_Net mixed income B_3n
+,,,Primary Inputs_Net operating surplus B_2n
+,,,Primary Inputs_Subsidies on production D_39
+,,,Primary Inputs_Taxes on production D_29
+,,,primary non-agricultural products
+,,,public infrastructure
+,,,public services
+,,,remaining
+,,,research
+,,,services
+,,,sugar
+,,,transport
+,,,water
+,,,wood processing

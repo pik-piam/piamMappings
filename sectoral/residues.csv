@@ -1,0 +1,15 @@
+crops,residues
+tece,res_cereals
+maiz,res_cereals
+trce,res_cereals
+rice_pro,res_cereals
+soybean,res_fibrous
+cottn_pro,res_fibrous
+groundnut,res_fibrous
+puls_pro,res_fibrous
+rapeseed,res_fibrous
+sugr_beet,res_fibrous
+sugr_cane,res_fibrous
+potato,res_nonfibrous
+cassav_sp,res_nonfibrous
+others,res_nonfibrous

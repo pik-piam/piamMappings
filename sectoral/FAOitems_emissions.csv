@@ -1,0 +1,13 @@
+magpie_n2o,magpie_ch4,fao
+,Emissions|CH4|Land|Agriculture|+|Enteric Fermentation (Mt CH4/yr),5058|Enteric Fermentation
+,Emissions|CH4|Land|Agriculture|+|Animal waste management (Mt CH4/yr),5059|Manure Management
+,Emissions|CH4|Land|Agriculture|+|Rice (Mt CH4/yr),5060|Rice Cultivation
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Inorganic Fertilizers (Mt N2O/yr),,5061|Synthetic Fertilizers
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Manure applied to Croplands (Mt N2O/yr),,5062|Manure applied to Soils
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Pasture (Mt N2O/yr),,5063|Manure left on Pasture
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Decay of crop residues (Mt N2O/yr),,5064|Crop Residues
+Emissions|N2O|Land|Agriculture|Agricultural Soils|+|Agricultural residue burning (Mt N2O/yr),,5066|Burning - Crop residues
+,,5067|Burning - Savanna
+Emissions|N2O|Land|Agriculture (Mt N2O/yr),Emissions|CH4|Land|Agriculture (Mt CH4/yr),1711|Agriculture total
+Emissions|N2O|Land|Agriculture|+|Agricultural Soils (Mt N2O/yr),,1709|Agricultural Soils
+,,6759|Cultivation of Organic Soils 

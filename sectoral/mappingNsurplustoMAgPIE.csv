@@ -1,0 +1,13 @@
+CEDS59,MAgPIE
+3F_Agricultural-residue-burning-on-fields,Agriculture|Agricultural Waste Burning
+BORF,Land|Forest Burning
+DEFO,Land|Land-use Change
+TEMF,Land|Forest Burning
+PEAT,Land|Land-use Change
+SAVA,Land|Savannah Burning
+AGRI,Agriculture|+|Agricultural Waste Burning
+3I_Agriculture-other,Agriculture|+|Other
+3B_Manure-management,Agriculture|+|Animal Waste Management
+3E_Enteric-fermentation,Agriculture|+|Enteric Fermentation
+3D_Rice-Cultivation,Agriculture|+|Rice
+3D_Soil-emissions,Agriculture|+|Agricultural Soils

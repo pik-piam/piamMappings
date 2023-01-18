@@ -1,0 +1,10 @@
+GAINS,REMIND
+Power_Gen_Bio_Trad,Secondary Energy|Electricity|Biomass (EJ/yr)
+Power_Gen_Bio_Trad,Secondary Energy|Heat|Biomass (EJ/yr)
+Power_Gen_Coal,Secondary Energy|Electricity|Coal (EJ/yr)
+Power_Gen_Coal,Secondary Energy|Heat|Coal (EJ/yr)
+Power_Gen_HLF,Secondary Energy|Electricity|Oil (EJ/yr)
+Power_Gen_NatGas,Secondary Energy|Electricity|Gas (EJ/yr)
+Power_Gen_NatGas,Secondary Energy|Heat|Gas (EJ/yr)
+Losses_Vent_Flare,Primary Energy|Oil (EJ/yr)
+Losses_Vent_Flare,Primary Energy|Gas (EJ/yr)

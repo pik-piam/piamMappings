@@ -1,0 +1,561 @@
+Food group,ICP item
+Rice,"Long-grain rice, not parboiled, BL"
+Rice,"Long-grain rice, parboiled, in cooking bags, WKB"
+Rice,"Round-grain Rice, WKB"
+Rice,"RisottoRice, WKB"
+Rice,"Long-grain rice, parboiled, WKB"
+Rice,"Long-grain rice, not parboiled, WKB"
+Rice,"Long grain rice, family pack, WKB"
+Rice,"Jasmine rice, WKB"
+Rice,"Basmati rice, WKB"
+Rice,"Broken rice, 25%, BNR"
+Rice,"Medium-grain rice, BNR"
+Rice,"Brown rice, family pack, BL"
+Rice,"Short-grain rice, BNR"
+Rice,"Sticky rice, WKB"
+Rice,"Long-grained rice-25 to 50 KG,BNR"
+Rice,Egyptian rice
+Rice,Sun White Rice - Australia
+Rice,Uncle Ben's rice
+Rice,"Brown rice, loose"
+Rice,"White rice #1, BNR"
+Rice,"White rice #3, BNR"
+Rice,"White rice #5, BNR"
+Rice,"White rice #7, Prepacked, BL"
+Rice,"White rice #8, Prepacked, BL"
+Rice,"White rice #9, Prepacked, BL"
+Rice,"White rice #10, Prepacked, BL"
+Rice,"Premium rice #1, Prepacked, BL"
+Rice,"Premium rice #2, Prepacked, BL"
+Rice,"Premium rice #3, BNR"
+Rice,"Premium rice #4, BNR"
+Rice,"Rice flour, Atta, WKB"
+Pork,"Pork, schnitzel/escalope (A)"
+Pork,"Pork, belly (C)"
+Pork,"Pork, collar (B1)"
+Pork,"Pork, joint piece for roasting (B2)"
+Pork,"Pork, loin chop"
+Pork,"Pork, fillet"
+Pork,"Pork, shoulder"
+Pork,"Pork, ribs"
+Pork,"Pork thigh, with bones"
+Pork,"Pork loin, without bones"
+Pork,"Pork, without bones, non-specific cut"
+Pork,"Pork, with bones, non-specific cut"
+Pork,"Sausage, Frankfurter/Wiener type, artificial skin, WKB"
+Pork,"Sausage, fresh and raw, sold loose"
+Pork,"Cooked pork sausage, country typical variety, sold loose"
+Pork,"Ham, air dried, sold loose"
+Pork,"Ham, from the thigh, cooked and smoked, sold loose"
+Pork,"Ham, turkey, WKB"
+Pork,"Salami, sold loose"
+Pork,"Salami, WKB"
+Pork,"Pork ham, pressed, WKB"
+Pork,"Bacon, smoked, WKB"
+Pork,"Sausages, Whole/Frankfurter"
+Pork,Sausage
+Pork,Luncheon Meat
+Pork,"Pork liver, BNR"
+Pork,"Sliced ham, pork, WKB"
+Poultry,"Chicken, for roasting, free range"
+Poultry,"Turkey breast, fillet"
+Poultry,"Chicken, whole, fresh"
+Poultry,"Chicken, whole, frozen"
+Poultry,"Chicken breast, without skin and bones"
+Poultry,Chicken legs
+Poultry,"Chicken, live"
+Poultry,"Chicken breast, with skin and bones"
+Poultry,"Chicken, Traditionally bred, live"
+Poultry,Chicken wings (WAS)
+Poultry,Chicken burger
+Poultry,"Native house chicken, fresh"
+Poultry,"Whole duck, fresh"
+Poultry,Chicken wings (ASI)
+Poultry,"Chicken, non-specific cuts, fresh"
+Poultry,"Chicken, non-specific cuts, frozen"
+Poultry,Grilled/roasted chicken
+Poultry,"Chicken nuggets/dippers, frozen, WKB"
+Poultry,Canned chicken
+Poultry,Luncheon Chicken
+Poultry,Turkey
+Poultry,"Breakfast sausage, chicken, BNR"
+Sugar,"White sugar, BL"
+Sugar,"Icing sugar, WKB"
+Sugar,"Sugar lumps, WKB"
+Sugar,"White sugar, WKB"
+Sugar,"Brown sugar, WKB"
+Sugar,"White sugar, Sold Loose, BL"
+Sugar,"Brown sugar cubes-prepacked, WKB"
+Sugar,"White sugar, loose, BNR"
+Spirits,"Brandy, WKB"
+Spirits,BACARDI BREEZER
+Spirits,"Vodka, WKB"
+Spirits,"Scotch whisky, JOHNNIE WALKER, Red label"
+Spirits,"Gin, GORDON'S, London dry gin"
+Spirits,"Liqueur, BAILEYS, Original Irish cream"
+Spirits,"White rum, light, WKB"
+Spirits,Brandy Napoleon
+Spirits,"Scotch whisky, JOHNNIE WALKER, Black label"
+Spirits,"Whiskey, local origin, WKB"
+Spirits,"Whiskey, local origin, BL"
+Spirits,"Aperitif, Vermouth, SB"
+Wine,"Red wine, table wine, in a bottle, BL"
+Wine,"Red wine, in a box, WKB"
+Wine,"Red wine, Syrah (Shiraz), in a bottle, WKB"
+Wine,"Red wine, Cabernet Sauvignon, WKB"
+Wine,"Red wine, Merlot, WKB"
+Wine,"Red wine, Spain, SANGRE DE TORO"
+Wine,"White wine, table wine, in a bottle, BL"
+Wine,"White wine, Chardonnay, WKB"
+Wine,"White wine, Sauvignon Blanc, WKB"
+Wine,"Champagne, MOET & CHANDON"
+Wine,"Red wine, table wine, WKB"
+Wine,"Red wine, European, WKB"
+Wine,"White wine, table wine, WKB"
+Wine,"Sparkling wine, WKB"
+Wine,"Red wine, Australian, WKB"
+Wine,"White wine, South African, WKB"
+Wine,"Red wine, Chilean, WKB"
+Wine,"Palm Wine, BL"
+Wine,"White wine, Jacob's Creek"
+Wine,"Sake or Rice wine, WKB"
+Wine,"Sparkling wine, methode Champenoise (fermentation in the bottle"
+Beer,"Beer, single can, BL"
+Beer,"Beer, multipack, HEINEKEN"
+Beer,"Beer, domestic brand, single bottle, lower alcohol, WKB"
+Beer,"Beer, domestic brand, multipack of bottles, lower alcohol, WKB"
+Beer,"Beer, domestic brand, single can, lower alcohol, WKB"
+Beer,"Beer, domestic brand, single can, WKB"
+Beer,"Beer, domestic brand, single bottle, WKB"
+Beer,"Beer, HEINEKEN"
+Beer,"Beer, Guinness"
+Beer,"Beer, CARLSBERG"
+Beer,"Beer, TIGER"
+wheat,"Wheat flour, WKB"
+wheat,"Wheat flour, not self-rising, BL"
+wheat,"Wheat semolina (suji), WKB"
+wheat,Brown Flour
+wheat,"Wheat flour, loose, BNR"
+wheat,"Wholemeal flour, Atta, BL"
+wheat,"Roll, multicorn"
+wheat,"Bread, white,Large Loaf"
+wheat,"Bread, white, industrially packed, WKB"
+wheat,"Bread, white, toast,Large pack, WKB"
+wheat,"Bread, mixed"
+wheat,"Bread, multicorn"
+wheat,"Bread, multicorn, industrially packed, WKB"
+wheat,National bread (johnny-cake) (CIS)
+wheat,"Baguette, BNR"
+wheat,"Bread, white, loaf, BNR"
+wheat,"Bread, whole wheat, loaf, BNR"
+wheat,"Roll, BNR"
+wheat,Bread unpacked
+wheat,"Bread, white, sliced, WKB"
+wheat,"Pita bread, BNR"
+wheat,Round bread
+wheat,Sliced brown bread (WAS)
+wheat,Sliced brown bread (AFR)
+wheat,Sweet Bread
+wheat,Burger Bread
+wheat,Samoon Bread
+wheat,Lebanese Bread
+wheat,"Bread, white, unsliced, WKB"
+wheat,"Roll or bun, Prepacked, BNR"
+wheat,"Spaghetti, BL"
+wheat,"Pasta, with eggs, WKB"
+wheat,"Short pasta, BL"
+wheat,"Spaghetti, WKB"
+wheat,"Dried noodles, WKB"
+wheat,"Instant noodles, any flavor, WKB"
+wheat,"Vermicelli, BL"
+wheat,"Short pasta, WKB"
+wheat,"Couscous, BNR"
+wheat,"Spaghetti, BARILLA"
+wheat,Lasagne (sheets)
+wheat,"Egg noodles, WKB"
+wheat,"Fresh rice noodles, BL"
+othr_grains,Buckwheat (CIS)
+othr_grains,Millet (CIS)
+othr_grains,"Oats, rolled, WKB"
+othr_grains,Hard Loose Bulgur
+othr_grains,"Millet, Sorghum, BL"
+othr_grains,"Oats, Quaker"
+maize,"Corn (maize) flour, white, WKB"
+maize,"Maize Flour, Yellow"
+maize,Maize Flour White (Maizena)
+maize,"Maize grains, White"
+maize,Corn
+maize,STARCH
+maize,"Corn (maize) flour, loose, BL"
+maize,"Maize, BL"
+legumes,"Dhal, Khesari, BL"
+legumes,"Dhal, Musur, BL"
+legumes,"Dhal, Split Peas, BL"
+legumes,"Tofu, WKB"
+legumes,Green Beans
+legumes,Spotted beans
+legumes,Peas (AFR)
+legumes,Green beans (Pulses)
+legumes,Peas (WAS)
+legumes,"Frozen green beans, fine, WKB"
+legumes,"Frozen peas, small/fine, WKB"
+legumes,"Dried peas, WKB (CIS)"
+legumes,"White beans, dried, BL"
+legumes,"White beans in tomato sauce, tinned, HEINZ"
+legumes,"Green peas, tinned, WKB"
+legumes,Canned black beans
+legumes,"Lentils, dried, WKB"
+legumes,"Red Kidney beans, dried"
+legumes,Hommus
+legumes,Dried Broad Beans
+legumes,"Foul Medammas, canned"
+legumes,"Green/mung beans, dried, BL"
+legumes,"Moong dahl, loose, BL"
+beef,"Beef, centerBrisket, withBones (B2)"
+beef,"Beef, Silverside (F2a)"
+beef,"Beef, Sirloin steak (H1)"
+beef,"Veal, schnitzel/escalope (A5)"
+beef,"Veal, loin (B2)"
+beef,"Beef, fillet, tenderloin"
+beef,"Beef, rump steak"
+beef,"Beef, center brisket"
+beef,"Beef, cubes for stew or curry"
+beef,"Beef, with bones"
+beef,"Beef, minced"
+beef,Veal chops
+beef,"Veal breast, with bones"
+beef,Beef without bones
+beef,Burger
+beef,Round steak
+beef,Sirloin steak
+beef,"Buffalo, without bones, non-specific cut"
+beef,"Beef, without bones, non-specific cut"
+beef,"Veal, with bones"
+beef,"Beef, fillet, frozen, tenderloin"
+beef,"Beef liver, BNR"
+beef,"Corned beef, WKB"
+beef,Beef Merguez (spiced)
+beef,Beef ham
+beef,BEEF SAUSAGE
+beef,"Canned beef, chunks, WKB"
+lamb,"Lamb, hindLeg (hindquarters A)"
+lamb,"Lamb, whole leg"
+lamb,"Lamb, chops"
+lamb,"Mutton, mixed cut"
+lamb,"Goat, mixed cut, with bones"
+lamb,Mutton chop
+lamb,Live Sheep
+lamb,Live Goat
+lamb,Goat leg
+lamb,Mutton chops
+lamb,Mutton Tripes
+lamb,Lamb Liver
+lamb,Camel Meat
+lamb,"Mutton/goat liver, BNR"
+fish_freshw,Rainbow-Trout (Salmo gairdneri)
+fish_freshw,"Pangasius catfish (Pangasius hypophthalmus), fillet, frozen, BL"
+fish_freshw,Carp
+fish_freshw,Tilapia
+fish_freshw,Catfish
+fish_freshw,"Salmon in natural juice, WKB (CIS)"
+fish_freshw,"Dried Machoiron,BNR"
+fish_demrs,"Cod (Gadus morhua), frozen, WKB"
+fish_demrs,Cod (gadus morhua)
+fish_demrs,Mullet
+fish_demrs,"Breaded fish fillet (Pollock), 2 - 4 pieces, frozen, WKB"
+fish_demrs,"Breaded fish fillet (Cod), 2 - 5 pieces, frozen, WKB"
+fish_demrs,"Fish fingers, from fillet, WKB"
+fish_demrs,"Fish fingers, BL"
+fish_demrs,Fissikh
+fish_demrs,"Hake (Merluccius merluccius), Alaska Pollock (Theragra chalcogr"
+shellfish,"Calamari rings, frozen, WKB"
+shellfish,"Shrimps, whole, fresh"
+shellfish,"Shrimps, peeled, frozen"
+shellfish,Squid
+shellfish,Sea crab
+shellfish,Giant Shrimp
+shellfish,Lobster
+shellfish,Mud crab
+shellfish,Sea lobster
+shellfish,"Prawn/Shrimp, small"
+shellfish,"Prawn/Shrimp, medium"
+shellfish,"Squid, small"
+shellfish,"Dried shrimps, BNR"
+shellfish,"Smoked shrimps/prawns, BNR"
+fish_pelag,"Mackerel, un-cleaned"
+fish_pelag,Tuna steaks
+fish_pelag,Black pomfret
+fish_pelag,Fresh Small Sardines
+fish_pelag,Tuna fish fresh
+fish_pelag,Spanish Mackerel
+fish_pelag,Tuna steak
+fish_pelag,Small fresh fish
+fish_pelag,Tuna
+fish_pelag,"Smoked mackerel (Scomber scombrus), fillet, WKB"
+fish_pelag,"Tinned tuna flakes, in vegetable oil, BL"
+fish_pelag,Salty herring (CIS)
+fish_pelag,"Canned sprats in oil, WKB (CIS)"
+fish_pelag,"Sardines, tinned, with skin, in vegetable oil, WKB"
+fish_pelag,"Tuna flakes, tinned, WKB"
+fish_pelag,"Mackerel fillet, tinned, in vegetable oil, WKB"
+fish_pelag,"Mackerel fillet, tinned, in tomato sauce, WKB"
+fish_pelag,"Cold-smoked salmon, WKB"
+fish_pelag,"Dried sardines, BNR"
+fish_pelag,"Dried small fish, BNR"
+fish_pelag,"Tuna in vegetable oil, exclude Tuna Steaks, WKB"
+fish_pelag,"Sardines in tomato sauce,WKB"
+fish_pelag,"Mackerel in vegetable oil, WKB"
+fish_pelag,"Salted and semi-dried fish, BL"
+fish_pelag,"Fishball, BNR"
+fish_pelag,"Tinned pink tuna (Skipjack, Thunnus Thynn, Albacares = yellow f"
+fish_other,Sea bass
+fish_other,Red snapper
+fish_other,Grouper (Hamour) fish
+fish_other,Capitaine
+fish_other,Red Snapper (AFR)
+fish_other,Safi
+fish_other,Sole
+fish_other,White pomfret
+fish_other,"Tinned sardines, in olive oil, with skin and bones, WKB"
+milk,"Milk, fresh, unskimmed, BNR (CIS)"
+milk,"Milk, UHT, semi-skimmed, WKB"
+milk,"Milk, UHT, semi-skimmed, BL"
+milk,"Milk, fresh, unskimmed, WKB"
+milk,"Milk, UHT, unskimmed, WKB"
+milk,"Milk, fresh, low-fat, WKB"
+milk,"Buffalo milk, not pasteurized, BL"
+milk,"Milk, powdered, WKB"
+milk,"Powdered milk, WKB"
+cream,Fresh cream (CIS)
+cream,"Sour cream / creme epaisse / smetana, WKB"
+cream,"Cream for whipping, WKB"
+cream,"Sour cream, WKB"
+dairy,"Yoghurt, multipack, DANONE Activia"
+dairy,"Fruit yoghurt, WKB"
+dairy,"Fruit yoghurt, low fat, small pack, WKB"
+dairy,"Yoghurt drink, multipack, DANONE Actimel"
+dairy,"Yoghurt drink, fruit flavoured, WKB"
+dairy,"Dessert creme, chocolate or vanilla, WKB"
+dairy,Kefir classic (CIS)
+dairy,"Sweet milk, condensed, WKB"
+dairy,"Yoghurt, plain, WKB"
+dairy,"Yoghurt, flavoured, Well-Known Brand"
+dairy,"Yoghurt with natural fruits, WKB"
+dairy,Liquid Yogurt
+dairy,"Liquid Yoghurt,WKB"
+dairy,Kashta
+dairy,Yogurt with fruits
+dairy,"Yoghurt, fruit, WKB"
+dairy,"Yoghurt drink, WKB"
+cheese,"Cheese, processed, spreadable, industrially packed, WKB"
+cheese,"Cheese, blue, industrially packed, WKB"
+cheese,"Cheese, Edam or Gouda type, young, industrially packed, BL"
+cheese,"Cheese, Emmental type, industrially packed, WKB"
+cheese,Brynza (White cheese) (CIS)
+cheese,"Cheese, Feta type, industrially packed, WKB"
+cheese,"Cheese, Gouda type, industrially packed, WKB"
+cheese,"Cheese, Mozzarella, industrially packed, WKB"
+cheese,"Cheese, cheddar, WKB"
+cheese,"Cream cheese, WKB"
+cheese,"Cheese, processed, WKB"
+cheese,"Cheese, camembert type, WKB"
+cheese,"Cheese, gouda type, WKB"
+cheese,"Fresh cheese emmental, BL"
+cheese,"Fresh cheese edam, BL"
+cheese,white cheese
+cheese,Labneh
+cheese,"Cheese spread, WKB"
+cheese,"Local cheese, WKB"
+cheese,"Cheese, Parmesan type, dehydrated & grated, industrially packed"
+eggs,"Chicken eggs, free range"
+eggs,"Chicken eggs, caged hen, large size"
+eggs,"Chicken eggs, caged hen, medium size"
+eggs,"Eggs, traditional production"
+eggs,"Chicken egg, caged hen, large size"
+eggs,"Chicken eggs, caged hen, large size, loose"
+eggs,Salted duck egg
+butter,"Butter, unsalted,BL"
+butter,"Butter, unsalted, WKB"
+butter,"Butter, salted, WKB"
+butter,"Ghee / clarified butter, WKB"
+butter,"Butter, sold loose"
+butter,Ghee
+butter,"Ghee, cow/buffalo, WKB"
+margarine,"Margarine, for spreading and cooking, BL"
+margarine,"Margarine, low fat, for spreading, WKB"
+margarine,"Margarine, for cooking, WKB"
+margarine,"Margarine, regular fat, WKB"
+oil_veg,"Olive oil, extra virgin, BL"
+oil_veg,"Sunflower oil, WKB"
+oil_veg,Cottonseed oil (CIS)
+oil_veg,"Sunflower oil, BL"
+oil_veg,"Olive oil, extra virgin, WKB"
+oil_veg,"Soybean oil, WKB"
+oil_veg,"Peanut oil, WKB"
+oil_veg,"Vegetable oil, WKB"
+oil_veg,"Corn oil, WKB"
+oil_veg,Corn Oil
+oil_veg,"Olive oil, standard, WKB"
+oil_veg,"Coconut oil, BL"
+oil_palm,"Palm oil, WKB"
+oil_palm,"Palm oil unrefined, BL"
+fruits_temp,"Fresh apples, Golden Delicious or Granny Smith"
+fruits_temp,Fresh pears (CIS)
+fruits_temp,Fresh kiwis
+fruits_temp,Fresh strawberries (CIS)
+fruits_temp,"Fresh apple, red delicious"
+fruits_temp,"Fresh grapes, white"
+fruits_temp,"Fresh apples, typical local variety"
+fruits_temp,Fresh peaches
+fruits_temp,Fresh Plum (Al-Barkouk)
+fruits_temp,Fresh Pears (WAS)
+fruits_temp,Fresh Cherries
+fruits_temp,Fresh Apricots
+fruits_temp,Fresh Strawberries (WAS)
+fruits_temp,Fresh Dates
+fruits_temp,"Frozen strawberries, WKB"
+fruits_temp,"Frozen raspberries, WKB"
+fruits_temp,"Frozen berries, mixed, BL"
+fruits_temp,"Raisins, WKB"
+fruits_temp,"Raisins, BL"
+fruits_temp,Dried apricots (CIS)
+fruits_temp,"Tinned peaches, in syrup, WKB"
+fruits_temp,"Tinned pears, in syrup, WKB"
+fruits_temp,"Mixed fruits, in syrup, WKB"
+fruits_temp,"Dried dates, WKB"
+fruits_temp,Raisin
+fruits_trop,Fresh mandarines
+fruits_trop,Fresh grapefruit
+fruits_trop,Fresh oranges
+fruits_trop,Fresh papaya
+fruits_trop,Fresh pineapples
+fruits_trop,Fresh lemons
+fruits_trop,Fresh mangoes
+fruits_trop,Fresh watermelon
+fruits_trop,Fresh melon
+fruits_trop,Large Mango (Grafted)
+fruits_trop,Coconut
+fruits_trop,Fresh Clementine (Yussufi Orange)
+fruits_trop,Fresh Pomegranate
+fruits_trop,Fresh Figs
+fruits_trop,Fresh Guava
+fruits_trop,Lime
+fruits_trop,"Grapes, violet, with seed"
+fruits_trop,"Coconut, young green"
+fruits_trop,Tamarind
+fruits_trop,"Fruit cocktail, in syrup, WKB"
+fruits_trop,"Tinned pineapple, whole slices, BL"
+fruits_trop,"Tamarind, preserved, BL"
+fruits_starch,"Fresh bananas, standard"
+fruits_starch,"Plantains, Fresh Ripe"
+fruits_starch,"Plantains, Fresh Green"
+fruits_starch,"Bananas, Fresh Green"
+fruits_starch,"Banana, short finger length"
+treenuts,Tahina
+treenuts,"Dried almonds, peeled, WKB"
+treenuts,"Dried walnuts, WKB"
+treenuts,"Walnuts, inshell (CIS)"
+treenuts,"Dried almonds, BL"
+treenuts,Walnuts
+treenuts,Cashewnuts
+groundnuts,"Peanut butter, WKB"
+groundnuts,"Roasted groundnuts (peanuts), WKB"
+groundnuts,"Natural Groundnuts, BL"
+groundnuts,"Peanuts in shell, BL"
+vegetables,Fresh broccoli
+vegetables,"Fresh cabbage lettuce, round, soft leaves"
+vegetables,Fresh courgettes
+vegetables,"Fresh cultivated mushrooms, white, whole"
+vegetables,Fresh leek
+vegetables,Fresh tomato cluster
+vegetables,Fresh cucumber
+vegetables,Fresh green pepper
+vegetables,Fresh carrots
+vegetables,Fresh onions
+vegetables,Fresh maize (corn) ears
+vegetables,"Fresh tomatoes, round"
+vegetables,"Fresh cabbage, green"
+vegetables,Fresh iceberg lettuce
+vegetables,Fresh avocado
+vegetables,Fresh eggplants (aubergines)
+vegetables,Fresh cauliflower
+vegetables,Fresh spinach
+vegetables,"Fresh chilies, long"
+vegetables,Pumpkin (CAR)
+vegetables,"Ginger, mature"
+vegetables,"Garlic, white"
+vegetables,Okra
+vegetables,Round red raddish
+vegetables,Zucchini
+vegetables,Mloukhia
+vegetables,Lettuce
+vegetables,Mint leaves
+vegetables,Spinach Chinese
+vegetables,Water spinach
+vegetables,Pumpkin (ASI)
+vegetables,"Radish, white"
+vegetables,"Frozen mixed vegetables, natural, WKB"
+vegetables,"Frozen mixed vegetables, natural, BL"
+vegetables,"Frozen spinach, natural, WKB"
+vegetables,"Tomato puree (Passata di Pomodoro), WKB"
+vegetables,"Chopped tomatoes, WKB"
+vegetables,"Chopped tomatoes, BL"
+vegetables,"Mushrooms, slices in salt water, BL"
+vegetables,"Green olives, without stones, WKB"
+vegetables,"Pickled gherkins, WKB"
+vegetables,"Green olives, with stones, WKB"
+vegetables,"Tomato paste, WKB"
+vegetables,"Sweet corn (maize), tinned, BL"
+vegetables,"Button mushrooms, tinned, WKB"
+vegetables,"Tomato paste (Large), WKB"
+vegetables,"Peppers, paste, WKB"
+vegetables,"Chillies, BL"
+vegetables,Mixed Pickles
+vegetables,"Mushrooms, dried, BL"
+roots,"Fresh potatoes, industrially packed"
+roots,"Fresh potatoes, brown"
+roots,Fresh sweet potatoes
+roots,Fresh cassava / manioc / yuca
+roots,"Fresh potatoes, white"
+roots,Fresh taro
+roots,"Potato chips, WKB"
+roots,"French fries, frozen, WKB"
+spices,"Chillies, dried, BL"
+spices,"Cinnamon, WKB"
+spices,Black pepper (CIS)
+spices,"Black pepper, WKB"
+spices,"Curry powder, WKB"
+spices,"Chili powder, WKB"
+spices,Dried Cardamon
+spices,Dried Cinnamon
+spices,Dried Coriander;
+spices,Dried Cumin
+spices,Dried Ginger
+spices,"Black Pepper, powder, WKB"
+spices,"Turmeric powder, WKB"
+honey,"Honey, mixed blossoms, WKB"
+honey,"Honey, mixed blossoms, BL"
+honey,"Honey, mixed blossoms, WKB (ASI)"
+coffee,"Coffee, roasted, blend, small pack, WKB"
+coffee,"Instant coffee, WKB"
+coffee,"Coffee pads, WKB"
+coffee,"Instant coffee, NESCAFE Classic"
+coffee,"Coffee, grounded, Arabica, WKB"
+coffee,"Coffee, grounded, blend, WKB"
+coffee,"Decaffeinated coffee, NESCAFE Classic"
+coffee,"Instant coffee, WKB (ASI)"
+coffee,"Decaffeinated coffee, WKB"
+tea,"Earl grey tea, TWININGS"
+tea,"Black tea, large Box, WKB"
+tea,"Green tea, in bags, WKB"
+tea,"Black tea, in bags, WKB"
+tea,"Green tea, WKB"
+tea,"Black tea, BL"
+tea,"Black tea, in bags, BL"
+tea,"Tea, loose leaves, WKB"
+tea,"Tea, dust, WKB"
+tea,"Black tea, 100 bags, other than Lipton, WKB"
+tea,"Black tea, 100 bags, Lipton"
+cocoa,"Cocoa, powder, WKB"
+cocoa,"Cocoa instant drink, powder, NESQUIK"
+cocoa,"Cocoa instant drink, powder, WKB"

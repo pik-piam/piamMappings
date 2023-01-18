@@ -1,0 +1,8 @@
+adultBMI,BMIgroup
+BMI_18-5,verylow
+BMI_18-5_20,low
+BMI_20_25,medium
+BMI_25_30,mediumhigh
+BMI_30_35,high
+BMI_35_40,veryhigh
+BMI_40,veryhigh

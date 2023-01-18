@@ -1,0 +1,61 @@
+CEDS59,CEDS16,REMIND
+3B_Manure-management,Agriculture,Land Use|Agriculture and Biomass Burning
+3D_Rice-Cultivation,Agriculture,Land Use|Agriculture and Biomass Burning
+3D_Soil-emissions,Agriculture,Land Use|Agriculture and Biomass Burning
+3E_Enteric-fermentation,Agriculture,Land Use|Agriculture and Biomass Burning
+3F_Agricultural-residue-burning-on-fields,Agriculture,Land Use|Agriculture and Biomass Burning
+3I_Agriculture-other,Agriculture,Land Use|Agriculture and Biomass Burning
+AGRI,Agriculture,Land Use|Agriculture and Biomass Burning
+1A3ai_International-aviation,Aircraft,Energy|Demand|Transportation|Aviation
+1A3aii_Domestic-aviation,Aircraft,Energy|Demand|Transportation|Aviation
+1A1a_Electricity-autoproducer,Electricity and Heat Production,Energy|Supply|Electricity
+1A1a_Electricity-public,Electricity and Heat Production,Energy|Supply|Electricity
+1A1a_Heat-production,Electricity and Heat Production,Energy|Supply|Heat
+BORF,Forest Burning,Land Use|Forest Burning
+DEFO,Forest Burning,Land Use|Forest Burning
+TEMF,Forest Burning,Land Use|Forest Burning
+PEAT,Forest Burning,Land Use|Forest Burning
+7A_Fossil-fuel-fires,Fossil Fuel Fires,Energy|Supply|Fuel Production
+1A1bc_Other-transformation,Fuel Production and Transformation,Energy|Supply|Fuel Production
+1B2d_Fugitive-other-energy,Fuel Production and Transformation,Energy|Supply|Fuel Production
+1B1_Fugitive-solid-fuels,Fuel Production and Transformation,Energy|Supply|Fuel Production
+SAVA,Grassland Burning,Land Use|Grassland Burning
+1A2a_Ind-Comb-Iron-steel,Industrial Combustion,Energy|Demand|Industry
+1A2b_Ind-Comb-Non-ferrous-metals,Industrial Combustion,Energy|Demand|Industry
+1A2c_Ind-Comb-Chemicals,Industrial Combustion,Energy|Demand|Industry
+1A2d_Ind-Comb-Pulp-paper,Industrial Combustion,Energy|Demand|Industry
+1A2e_Ind-Comb-Food-tobacco,Industrial Combustion,Energy|Demand|Industry
+1A2f_Ind-Comb-Non-metalic-minerals,Industrial Combustion,Energy|Demand|Industry
+1A2g_Ind-Comb-Construction,Industrial Combustion,Energy|Demand|Industry
+1A2g_Ind-Comb-machinery,Industrial Combustion,Energy|Demand|Industry
+1A2g_Ind-Comb-mining-quarying,Industrial Combustion,Energy|Demand|Industry
+1A2g_Ind-Comb-other,Industrial Combustion,Energy|Demand|Industry
+1A2g_Ind-Comb-textile-leather,Industrial Combustion,Energy|Demand|Industry
+1A2g_Ind-Comb-transpequip,Industrial Combustion,Energy|Demand|Industry
+1A2g_Ind-Comb-wood-products,Industrial Combustion,Energy|Demand|Industry
+1A5_Other-unspecified,Industrial Combustion,Energy|Demand|Industry
+2A1_Cement-production,Industrial Process and Product Use,Industrial Processes
+2A2_Lime-production,Industrial Process and Product Use,Industrial Processes
+2A6_Other-minerals,Industrial Process and Product Use,Industrial Processes
+2B_Chemical-industry,Industrial Process and Product Use,Industrial Processes
+2C_Metal-production,Industrial Process and Product Use,Industrial Processes
+2H_Pulp-and-paper-food-beverage-wood,Industrial Process and Product Use,Industrial Processes
+2L_Other-process-emissions,Industrial Process and Product Use,Industrial Processes
+6A_Other-in-total,Industrial Process and Product Use,Industrial Processes
+1A3di_International-shipping,International Shipping,Energy|Demand|Transportation|International Shipping
+1A3c_Rail,Non-Road Transportation,Energy|Demand|Transportation|Ground Transportation
+1A3dii_Domestic-navigation,Non-Road Transportation,Energy|Demand|Transportation|Ground Transportation
+1A3eii_Other-transp,Non-Road Transportation,Energy|Demand|Transportation|Ground Transportation
+1B2_Fugitive-petr-and-gas,Oil and Gas Fugitive/Flaring,Energy|Supply|Fuel Production
+1A4c_Agriculture-forestry-fishing,Residential Commercial Other - Other,Energy|Demand|Residential and Commercial
+1A4a_Commercial-institutional,Residential Commercial Other - Residential Commercial,Energy|Demand|Residential and Commercial
+1A4b_Residential,Residential Commercial Other - Residential Commercial,Energy|Demand|Residential and Commercial
+1A3b_Road,Road Transportation,Energy|Demand|Transportation|Ground Transportation
+2D_Degreasing-Cleaning,Solvents Production and Application,Solvents
+2D_Paint-application,Solvents Production and Application,Solvents
+2D3_Chemical-products-manufacture-processing,Solvents Production and Application,Solvents
+2D3_Other-product-use,Solvents Production and Application,Solvents
+5A_Solid-waste-disposal,Waste,Waste
+5C_Waste-incineration,Waste,Waste
+5D_Wastewater-handling,Waste,Waste
+5E_Other-waste-handling,Waste,Waste

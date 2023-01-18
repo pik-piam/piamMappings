@@ -1,0 +1,6 @@
+underagedBMI,BMIgroup
+BMI_minus2sd,verylow
+BMI_minus1sd_minus2sd,low
+BMI_minus1sd_1sd,medium
+BMI_1sd_2sd,high
+BMI_2sd,veryhigh

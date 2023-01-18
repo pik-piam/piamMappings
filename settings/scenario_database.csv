@@ -1,0 +1,1141 @@
+"Nr","version","scenario","foodgroup","parent","functional_form_income","functional_form_z","functional_merging_add","z","gdp_scen","pop_scen","z_scen","calibration_type","calibration_start","calibration_end","para_1","para_2","para_3","para_4","para_5","para_6","R2","R2adj","start_1","start_2","start_3","start_4","start_5","start_6"
+"1","new","SSP1","livestock","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","new","SSP1","livestock","totalintake","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","new","SSP1","livestock","totalintake","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","new","SSP1","livestock","totalintake","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","new","SSP1","livestock","totalintake","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","new","SSP1","fish","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","new","SSP1","fish","livestock","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","new","SSP1","fish","livestock","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","new","SSP1","fish","livestock","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","new","SSP1","fish","livestock","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","new","SSP1","landanimals","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","new","SSP1","landanimals","livestock","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","new","SSP1","landanimals","livestock","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","new","SSP1","landanimals","livestock","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","new","SSP1","landanimals","livestock","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","new","SSP1","ruminants","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","new","SSP1","ruminants","landanimals","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","new","SSP1","ruminants","landanimals","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","new","SSP1","ruminants","landanimals","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","new","SSP1","ruminants","landanimals","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","new","SSP1","livst_milk","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","new","SSP1","livst_milk","ruminants","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","new","SSP1","livst_milk","ruminants","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","new","SSP1","livst_milk","ruminants","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","new","SSP1","livst_milk","ruminants","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","new","SSP1","livst_rum","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","new","SSP1","livst_rum","ruminants","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","new","SSP1","livst_rum","ruminants","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","new","SSP1","livst_rum","ruminants","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","new","SSP1","livst_rum","ruminants","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","new","SSP1","monogastrics","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","new","SSP1","monogastrics","landanimals","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","new","SSP1","monogastrics","landanimals","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","new","SSP1","monogastrics","landanimals","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","new","SSP1","monogastrics","landanimals","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","new","SSP1","livst_chick","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","new","SSP1","livst_chick","monogastrics","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","new","SSP1","livst_chick","monogastrics","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","new","SSP1","livst_chick","monogastrics","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","new","SSP1","livst_chick","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","new","SSP1","livst_egg","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","new","SSP1","livst_egg","monogastrics","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","new","SSP1","livst_egg","monogastrics","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","new","SSP1","livst_egg","monogastrics","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","new","SSP1","livst_egg","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","new","SSP1","livst_pig","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","new","SSP1","livst_pig","monogastrics","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","new","SSP1","livst_pig","monogastrics","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","new","SSP1","livst_pig","monogastrics","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","new","SSP1","livst_pig","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","new","SSP1","plants","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","new","SSP1","plants","totalintake","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","new","SSP1","plants","totalintake","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","new","SSP1","plants","totalintake","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","new","SSP1","plants","totalintake","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","new","SSP1","processed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","new","SSP1","processed","plants","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","new","SSP1","processed","plants","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","new","SSP1","processed","plants","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","new","SSP1","processed","plants","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","new","SSP1","oils","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","new","SSP1","oils","processed","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","new","SSP1","oils","processed","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","new","SSP1","oils","processed","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","new","SSP1","oils","processed","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","new","SSP1","alcoholSugar","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","new","SSP1","alcoholSugar","processed","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","new","SSP1","alcoholSugar","processed","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","new","SSP1","alcoholSugar","processed","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","new","SSP1","alcoholSugar","processed","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","new","SSP1","alcohol","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","new","SSP1","alcohol","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","new","SSP1","alcohol","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","new","SSP1","alcohol","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","new","SSP1","alcohol","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","new","SSP1","totalSugar","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","new","SSP1","totalSugar","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","new","SSP1","totalSugar","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","new","SSP1","totalSugar","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","new","SSP1","totalSugar","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","new","SSP1","molasses","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","new","SSP1","molasses","totalSugar","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","new","SSP1","molasses","totalSugar","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","new","SSP1","molasses","totalSugar","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","new","SSP1","molasses","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","new","SSP1","sugar","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","new","SSP1","sugar","totalSugar","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","new","SSP1","sugar","totalSugar","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","new","SSP1","sugar","totalSugar","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","new","SSP1","sugar","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","new","SSP1","sugr_beet","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","new","SSP1","sugr_beet","totalSugar","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","new","SSP1","sugr_beet","totalSugar","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","new","SSP1","sugr_beet","totalSugar","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","new","SSP1","sugr_beet","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","new","SSP1","sugr_cane","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","new","SSP1","sugr_cane","totalSugar","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","new","SSP1","sugr_cane","totalSugar","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","new","SSP1","sugr_cane","totalSugar","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","new","SSP1","sugr_cane","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","new","SSP1","nonprocessed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","new","SSP1","nonprocessed","plants","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","new","SSP1","nonprocessed","plants","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","new","SSP1","nonprocessed","plants","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","new","SSP1","nonprocessed","plants","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","new","SSP1","others","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","new","SSP1","others","nonprocessed","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108","new","SSP1","others","nonprocessed","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","new","SSP1","others","nonprocessed","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","new","SSP1","others","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","new","SSP1","staples","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","new","SSP1","staples","nonprocessed","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","new","SSP1","staples","nonprocessed","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","new","SSP1","staples","nonprocessed","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","new","SSP1","staples","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","new","SSP1","rootsTubers","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","new","SSP1","rootsTubers","staples","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","new","SSP1","rootsTubers","staples","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","new","SSP1","rootsTubers","staples","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","new","SSP1","rootsTubers","staples","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","new","SSP1","cassav_sp","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","new","SSP1","cassav_sp","rootsTubers","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","new","SSP1","cassav_sp","rootsTubers","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","new","SSP1","cassav_sp","rootsTubers","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","new","SSP1","cassav_sp","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","new","SSP1","potato","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","new","SSP1","potato","rootsTubers","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","new","SSP1","potato","rootsTubers","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","new","SSP1","potato","rootsTubers","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","new","SSP1","potato","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","new","SSP1","cerealRest","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","new","SSP1","cerealRest","staples","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","new","SSP1","cerealRest","staples","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","new","SSP1","cerealRest","staples","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","new","SSP1","cerealRest","staples","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","new","SSP1","cereals","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","new","SSP1","cereals","cerealRest","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","new","SSP1","cereals","cerealRest","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","new","SSP1","cereals","cerealRest","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","new","SSP1","cereals","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","new","SSP1","maiz","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","new","SSP1","maiz","cereals","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","new","SSP1","maiz","cereals","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","new","SSP1","maiz","cereals","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","new","SSP1","maiz","cereals","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","new","SSP1","rapeseed","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","new","SSP1","rapeseed","cereals","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","new","SSP1","rapeseed","cereals","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","new","SSP1","rapeseed","cereals","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","new","SSP1","rapeseed","cereals","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","new","SSP1","tece","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","new","SSP1","tece","cereals","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","new","SSP1","tece","cereals","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","new","SSP1","tece","cereals","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","new","SSP1","tece","cereals","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","new","SSP1","trce","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","new","SSP1","trce","cereals","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","new","SSP1","trce","cereals","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","new","SSP1","trce","cereals","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","new","SSP1","trce","cereals","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","new","SSP1","rest","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","new","SSP1","rest","cerealRest","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","new","SSP1","rest","cerealRest","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","new","SSP1","rest","cerealRest","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","new","SSP1","rest","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","new","SSP1","groundnut","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","new","SSP1","groundnut","rest","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","new","SSP1","groundnut","rest","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","new","SSP1","groundnut","rest","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","new","SSP1","groundnut","rest","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","new","SSP1","puls_pro","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","new","SSP1","puls_pro","rest","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","new","SSP1","puls_pro","rest","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","new","SSP1","puls_pro","rest","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","new","SSP1","puls_pro","rest","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","new","SSP1","rapeseed","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","new","SSP1","rapeseed","rest","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","new","SSP1","rapeseed","rest","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","new","SSP1","rapeseed","rest","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180","new","SSP1","rapeseed","rest","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","new","SSP1","soybean","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","new","SSP1","soybean","rest","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","new","SSP1","soybean","rest","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","new","SSP1","soybean","rest","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","new","SSP1","soybean","rest","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","new","SSP1","sunflower","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","new","SSP1","sunflower","rest","y~a/x + b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","new","SSP1","sunflower","rest","y~a * x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","new","SSP1","sunflower","rest","y~a + x^b",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","new","SSP1","sunflower","rest","y~a + b*x^c",NA,"1",NA,"SSP1","SSP1","SSP1","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","new","SSP2","livestock","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191.v2017-06-09","v2017-06-09","SSP2","livestock","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.333298195401666","3506.48576243667",NA,NA,NA,NA,"0.420758061924043","0.420655377659183",NA,NA,NA,NA,NA,NA
+"192","new","SSP2","livestock","totalintake","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192.v2017-06-09","v2017-06-09","SSP2","livestock","totalintake","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-115.392195345433","0.245318685048554",NA,NA,NA,NA,"0.230785487662405","0.230649126288121",NA,NA,NA,NA,NA,NA
+"193","new","SSP2","livestock","totalintake","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193.v2017-06-09","v2017-06-09","SSP2","livestock","totalintake","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0136316764873356","0.303478004543577",NA,NA,NA,NA,"0.429790212371724","0.429689129268084",NA,NA,NA,NA,NA,NA
+"194","new","SSP2","livestock","totalintake","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194.v2017-06-09","v2017-06-09","SSP2","livestock","totalintake","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.23850256500441","0.0419961632176967",NA,NA,NA,NA,"0.426931542802385","0.426829952932291",NA,NA,NA,NA,NA,NA
+"195","new","SSP2","livestock","totalintake","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195.v2017-06-09","v2017-06-09","SSP2","livestock","totalintake","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"196","new","SSP2","fish","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196.v2017-06-09","v2017-06-09","SSP2","fish","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"197","new","SSP2","fish","livestock","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197.v2017-06-09","v2017-06-09","SSP2","fish","livestock","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","26.6345381598928","0.0520931628004765",NA,NA,NA,NA,"0.0521032533730784","0.0519349179536809",NA,NA,NA,NA,NA,NA
+"198","new","SSP2","fish","livestock","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198.v2017-06-09","v2017-06-09","SSP2","fish","livestock","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.179809777336052","-0.124714964460445",NA,NA,NA,NA,"0.070047443370628","0.0698822946303279",NA,NA,NA,NA,NA,NA
+"199","new","SSP2","fish","livestock","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"199.v2017-06-09","v2017-06-09","SSP2","fish","livestock","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.880186642013065","-0.00695773262878901",NA,NA,NA,NA,"0.0678772760321139","0.0677117418953767",NA,NA,NA,NA,NA,NA
+"200","new","SSP2","fish","livestock","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200.v2017-06-09","v2017-06-09","SSP2","fish","livestock","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"201","new","SSP2","landanimals","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201.v2017-06-09","v2017-06-09","SSP2","landanimals","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.94814871958621","29.9078768539789",NA,NA,NA,NA,"0.054023988427809","0.0538559941085811",NA,NA,NA,NA,NA,NA
+"202","new","SSP2","landanimals","livestock","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202.v2017-06-09","v2017-06-09","SSP2","landanimals","livestock","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-26.6345388796047","0.947906837246549",NA,NA,NA,NA,"0.0521032533730785","0.0519349179536811",NA,NA,NA,NA,NA,NA
+"203","new","SSP2","landanimals","livestock","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203.v2017-06-09","v2017-06-09","SSP2","landanimals","livestock","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.884820838107451","0.00682106526425242",NA,NA,NA,NA,"0.0675413848994891","0.0673757911123998",NA,NA,NA,NA,NA,NA
+"204","new","SSP2","landanimals","livestock","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204.v2017-06-09","v2017-06-09","SSP2","landanimals","livestock","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.115431204922307","0.0060831305981947",NA,NA,NA,NA,"0.0675597899220237","0.0673941994034519",NA,NA,NA,NA,NA,NA
+"205","new","SSP2","landanimals","livestock","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205.v2017-06-09","v2017-06-09","SSP2","landanimals","livestock","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"206","new","SSP2","ruminants","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206.v2017-06-09","v2017-06-09","SSP2","ruminants","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.709303336093694","-85.3052814541199",NA,NA,NA,NA,"0.000863283460753197","0.000685848419634483",NA,NA,NA,NA,NA,NA
+"207","new","SSP2","ruminants","landanimals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207.v2017-06-09","v2017-06-09","SSP2","ruminants","landanimals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","91.8022114709278","0.703135420350064",NA,NA,NA,NA,"0.00290357357530441","0.00272650086594106",NA,NA,NA,NA,NA,NA
+"208","new","SSP2","ruminants","landanimals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208.v2017-06-09","v2017-06-09","SSP2","ruminants","landanimals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","1.16972093336663","-0.052666329223777",NA,NA,NA,NA,"0.0210191223674002","0.02084526676846",NA,NA,NA,NA,NA,NA
+"209","new","SSP2","ruminants","landanimals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209.v2017-06-09","v2017-06-09","SSP2","ruminants","landanimals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.211620925649499","-0.0735249244052996",NA,NA,NA,NA,"0.0206458294762967","0.0204719075848878",NA,NA,NA,NA,NA,NA
+"210","new","SSP2","ruminants","landanimals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210.v2017-06-09","v2017-06-09","SSP2","ruminants","landanimals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"211","new","SSP2","livst_milk","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211.v2017-06-09","v2017-06-09","SSP2","livst_milk","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.617558747079307","208.022661669581",NA,NA,NA,NA,"0.156655860794858","0.156506092700522",NA,NA,NA,NA,NA,NA
+"212","new","SSP2","livst_milk","ruminants","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212.v2017-06-09","v2017-06-09","SSP2","livst_milk","ruminants","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-85.8823647253718","0.611502442286325",NA,NA,NA,NA,"0.135111367151372","0.134957773005954",NA,NA,NA,NA,NA,NA
+"213","new","SSP2","livst_milk","ruminants","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213.v2017-06-09","v2017-06-09","SSP2","livst_milk","ruminants","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.325881452080033","0.0652000101117694",NA,NA,NA,NA,"0.182853669696819","0.182708554028145",NA,NA,NA,NA,NA,NA
+"214","new","SSP2","livst_milk","ruminants","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214.v2017-06-09","v2017-06-09","SSP2","livst_milk","ruminants","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.712218766952599","0.0290837756016428",NA,NA,NA,NA,"0.184050408505308","0.183905505363504",NA,NA,NA,NA,NA,NA
+"215","new","SSP2","livst_milk","ruminants","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215.v2017-06-09","v2017-06-09","SSP2","livst_milk","ruminants","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"216","new","SSP2","livst_rum","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216.v2017-06-09","v2017-06-09","SSP2","livst_rum","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.395720013311578","-128.286761166746",NA,NA,NA,NA,"0.0956723443615566","0.0955117463051477",NA,NA,NA,NA,NA,NA
+"217","new","SSP2","livst_rum","ruminants","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217.v2017-06-09","v2017-06-09","SSP2","livst_rum","ruminants","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","85.8823640733871","0.388497557724581",NA,NA,NA,NA,"0.135111367151372","0.134957773005954",NA,NA,NA,NA,NA,NA
+"218","new","SSP2","livst_rum","ruminants","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218.v2017-06-09","v2017-06-09","SSP2","livst_rum","ruminants","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.895382877268911","-0.0867844607345735",NA,NA,NA,NA,"0.186242753340357","0.186098239533456",NA,NA,NA,NA,NA,NA
+"219","new","SSP2","livst_rum","ruminants","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"219.v2017-06-09","v2017-06-09","SSP2","livst_rum","ruminants","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.155213792716873","-0.0632848965924629",NA,NA,NA,NA,"0.186003452312486","0.185858896008511",NA,NA,NA,NA,NA,NA
+"220","new","SSP2","livst_rum","ruminants","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220.v2017-06-09","v2017-06-09","SSP2","livst_rum","ruminants","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"221","new","SSP2","monogastrics","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221.v2017-06-09","v2017-06-09","SSP2","monogastrics","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.320608007499246","993.99422199981",NA,NA,NA,NA,"0.0153480599812123","0.0151731972676591",NA,NA,NA,NA,NA,NA
+"222","new","SSP2","monogastrics","landanimals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222.v2017-06-09","v2017-06-09","SSP2","monogastrics","landanimals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-91.8022121574534","0.296864579684588",NA,NA,NA,NA,"0.0029035735753044","0.00272650086594106",NA,NA,NA,NA,NA,NA
+"223","new","SSP2","monogastrics","landanimals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223.v2017-06-09","v2017-06-09","SSP2","monogastrics","landanimals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.072281400048339","0.145121790568515",NA,NA,NA,NA,"0.0239037803728719","0.0237304370555877",NA,NA,NA,NA,NA,NA
+"224","new","SSP2","monogastrics","landanimals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224.v2017-06-09","v2017-06-09","SSP2","monogastrics","landanimals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.0389105578569","0.0298772362380139",NA,NA,NA,NA,"0.0223766966025901","0.0222030820930186",NA,NA,NA,NA,NA,NA
+"225","new","SSP2","monogastrics","landanimals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225.v2017-06-09","v2017-06-09","SSP2","monogastrics","landanimals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"226","new","SSP2","livst_chick","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226.v2017-06-09","v2017-06-09","SSP2","livst_chick","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.316811266420479","147.000671540952",NA,NA,NA,NA,"0.010984097391741","0.0108081785189895",NA,NA,NA,NA,NA,NA
+"227","new","SSP2","livst_chick","monogastrics","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227.v2017-06-09","v2017-06-09","SSP2","livst_chick","monogastrics","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-40.2957151402768","0.316444006113777",NA,NA,NA,NA,"0.0100557530977596","0.00987966909795479",NA,NA,NA,NA,NA,NA
+"228","new","SSP2","livst_chick","monogastrics","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228.v2017-06-09","v2017-06-09","SSP2","livst_chick","monogastrics","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.342327697920561","-0.0109677571520053",NA,NA,NA,NA,"0.00438785587123076","0.00421076370756501",NA,NA,NA,NA,NA,NA
+"229","new","SSP2","livst_chick","monogastrics","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229.v2017-06-09","v2017-06-09","SSP2","livst_chick","monogastrics","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.656355701932068","-0.0037746025247629",NA,NA,NA,NA,"0.00431555272284913","0.00413844769843119",NA,NA,NA,NA,NA,NA
+"230","new","SSP2","livst_chick","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230.v2017-06-09","v2017-06-09","SSP2","livst_chick","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"231","new","SSP2","livst_egg","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231.v2017-06-09","v2017-06-09","SSP2","livst_egg","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.181641666357272","53.0464688611638",NA,NA,NA,NA,"0.000208041638338248","3.0206000066757e-05",NA,NA,NA,NA,NA,NA
+"232","new","SSP2","livst_egg","monogastrics","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232.v2017-06-09","v2017-06-09","SSP2","livst_egg","monogastrics","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-11.5619206570983","0.182055483016726",NA,NA,NA,NA,"3.61459691814274e-05","-0.000141720244626997",NA,NA,NA,NA,NA,NA
+"233","new","SSP2","livst_egg","monogastrics","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233.v2017-06-09","v2017-06-09","SSP2","livst_egg","monogastrics","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.272079473214182","-0.0444434100923238",NA,NA,NA,NA,"0.0156458396140674","0.0154707499377269",NA,NA,NA,NA,NA,NA
+"234","new","SSP2","livst_egg","monogastrics","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234.v2017-06-09","v2017-06-09","SSP2","livst_egg","monogastrics","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.733252831834675","-0.00974332518800703",NA,NA,NA,NA,"0.0165490391553693","0.0163741101335185",NA,NA,NA,NA,NA,NA
+"235","new","SSP2","livst_egg","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"235.v2017-06-09","v2017-06-09","SSP2","livst_egg","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.203689133117598","-3.55045175157253e-05","0.675234902215766",NA,NA,NA,"0.0246973762847026","0.0245238966291146",NA,NA,NA,NA,NA,NA
+"236","new","SSP2","livst_pig","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"236.v2017-06-09","v2017-06-09","SSP2","livst_pig","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.502852347489817","-82.1888111020285",NA,NA,NA,NA,"0.00619230929186414","0.00601553809109767",NA,NA,NA,NA,NA,NA
+"237","new","SSP2","livst_pig","monogastrics","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237.v2017-06-09","v2017-06-09","SSP2","livst_pig","monogastrics","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","51.8576346290955","0.501500511006918",NA,NA,NA,NA,"0.00562049277550538","0.00544361986422381",NA,NA,NA,NA,NA,NA
+"238","new","SSP2","livst_pig","monogastrics","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238.v2017-06-09","v2017-06-09","SSP2","livst_pig","monogastrics","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.390599526024295","0.0287561828018433",NA,NA,NA,NA,"0.000542145927399267","0.000364369717140822",NA,NA,NA,NA,NA,NA
+"239","new","SSP2","livst_pig","monogastrics","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"239.v2017-06-09","v2017-06-09","SSP2","livst_pig","monogastrics","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.609461877102171","0.0121873418972009",NA,NA,NA,NA,"0.000458660100273447","0.000280869040170217",NA,NA,NA,NA,NA,NA
+"240","new","SSP2","livst_pig","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240.v2017-06-09","v2017-06-09","SSP2","livst_pig","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.468625558606886","8.2154657315109e-05","0.648897705577661",NA,NA,NA,"0.0049265800587805","0.00474958371940992",NA,NA,NA,NA,NA,NA
+"241","new","SSP2","plants","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241.v2017-06-09","v2017-06-09","SSP2","plants","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.768151538051002","-93.9359639647847",NA,NA,NA,NA,"0.184153717943403","0.184009089990548",NA,NA,NA,NA,NA,NA
+"242","new","SSP2","plants","totalintake","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"242.v2017-06-09","v2017-06-09","SSP2","plants","totalintake","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","115.392194839819","0.754681314927013",NA,NA,NA,NA,"0.230785487662405","0.230649126288121",NA,NA,NA,NA,NA,NA
+"243","new","SSP2","plants","totalintake","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243.v2017-06-09","v2017-06-09","SSP2","plants","totalintake","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","1.4972335668954","-0.0731773825841833",NA,NA,NA,NA,"0.416184357634778","0.416080862573199",NA,NA,NA,NA,NA,NA
+"244","new","SSP2","plants","totalintake","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244.v2017-06-09","v2017-06-09","SSP2","plants","totalintake","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"245","new","SSP2","plants","totalintake","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245.v2017-06-09","v2017-06-09","SSP2","plants","totalintake","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"246","new","SSP2","processed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246.v2017-06-09","v2017-06-09","SSP2","processed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.431284931599438","1521.49825931629",NA,NA,NA,NA,"0.405317261173998","0.405211839663836",NA,NA,NA,NA,NA,NA
+"247","new","SSP2","processed","plants","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247.v2017-06-09","v2017-06-09","SSP2","processed","plants","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-136.165972299096","0.36589258135544",NA,NA,NA,NA,"0.240322900079538","0.24018822943605",NA,NA,NA,NA,NA,NA
+"248","new","SSP2","processed","plants","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"248.v2017-06-09","v2017-06-09","SSP2","processed","plants","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0455980242439328","0.220179602254883",NA,NA,NA,NA,"0.418150516746177","0.418047370232571",NA,NA,NA,NA,NA,NA
+"249","new","SSP2","processed","plants","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"249.v2017-06-09","v2017-06-09","SSP2","processed","plants","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.18435269771406","0.0468324124630884",NA,NA,NA,NA,"0.423705058250996","0.423602896410586",NA,NA,NA,NA,NA,NA
+"250","new","SSP2","processed","plants","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"250.v2017-06-09","v2017-06-09","SSP2","processed","plants","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"251","new","SSP2","oils","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"251.v2017-06-09","v2017-06-09","SSP2","oils","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.387357653363809","-122.32697605506",NA,NA,NA,NA,"0.0891073177656049","0.0889458406015854",NA,NA,NA,NA,NA,NA
+"252","new","SSP2","oils","processed","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252.v2017-06-09","v2017-06-09","SSP2","oils","processed","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","100.270081842058","0.373505539472899",NA,NA,NA,NA,"0.101040254513674","0.100880892743512",NA,NA,NA,NA,NA,NA
+"253","new","SSP2","oils","processed","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253.v2017-06-09","v2017-06-09","SSP2","oils","processed","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.73422377770658","-0.0678785155003837",NA,NA,NA,NA,"0.0700951962913898","0.0699303487814257",NA,NA,NA,NA,NA,NA
+"254","new","SSP2","oils","processed","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254.v2017-06-09","v2017-06-09","SSP2","oils","processed","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.316741420020346","-0.0370981899544182",NA,NA,NA,NA,"0.0680761343845792","0.0679109289483772",NA,NA,NA,NA,NA,NA
+"255","new","SSP2","oils","processed","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"255.v2017-06-09","v2017-06-09","SSP2","oils","processed","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"256","new","SSP2","alcoholSugar","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"256.v2017-06-09","v2017-06-09","SSP2","alcoholSugar","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.631239366179241","218.639666803237",NA,NA,NA,NA,"0.101291967238024","0.101132650089865",NA,NA,NA,NA,NA,NA
+"257","new","SSP2","alcoholSugar","processed","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"257.v2017-06-09","v2017-06-09","SSP2","alcoholSugar","processed","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-100.270082527768","0.626494460541168",NA,NA,NA,NA,"0.101040254513674","0.100880892743512",NA,NA,NA,NA,NA,NA
+"258","new","SSP2","alcoholSugar","processed","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"258.v2017-06-09","v2017-06-09","SSP2","alcoholSugar","processed","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.419287562465813","0.0396284222317136",NA,NA,NA,NA,"0.0629859059219717","0.0628197981229861",NA,NA,NA,NA,NA,NA
+"259","new","SSP2","alcoholSugar","processed","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"259.v2017-06-09","v2017-06-09","SSP2","alcoholSugar","processed","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.601892872987376","0.0203695727913496",NA,NA,NA,NA,"0.064267677452349","0.0641017968775313",NA,NA,NA,NA,NA,NA
+"260","new","SSP2","alcoholSugar","processed","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260.v2017-06-09","v2017-06-09","SSP2","alcoholSugar","processed","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"261","new","SSP2","alcohol","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261.v2017-06-09","v2017-06-09","SSP2","alcohol","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.210577358951843","-47.4149831421544",NA,NA,NA,NA,"0.0041207223799207","0.0039441793418743",NA,NA,NA,NA,NA,NA
+"262","new","SSP2","alcohol","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262.v2017-06-09","v2017-06-09","SSP2","alcohol","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","6.38704209044854","0.211637661062362",NA,NA,NA,NA,"0.00432663861591239","0.00415013208136472",NA,NA,NA,NA,NA,NA
+"263","new","SSP2","alcohol","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"263.v2017-06-09","v2017-06-09","SSP2","alcohol","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0748726665694391","0.115817727153007",NA,NA,NA,NA,"0.000109136265369371","-6.81179207207006e-05",NA,NA,NA,NA,NA,NA
+"264","new","SSP2","alcohol","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264.v2017-06-09","v2017-06-09","SSP2","alcohol","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.963201132756439","0.0181245316113503",NA,NA,NA,NA,"4.16994785795332e-06","-0.000173102845982154",NA,NA,NA,NA,NA,NA
+"265","new","SSP2","alcohol","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265.v2017-06-09","v2017-06-09","SSP2","alcohol","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.158814559371658","0.000492517710453966","0.508496924022168",NA,NA,NA,"0.00118183803136481","0.00100477400690679",NA,NA,NA,NA,NA,NA
+"266","new","SSP2","totalSugar","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"266.v2017-06-09","v2017-06-09","SSP2","totalSugar","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.788185443724679","7.27921843137885",NA,NA,NA,NA,"0.00434881258060963","0.00417230997691898",NA,NA,NA,NA,NA,NA
+"267","new","SSP2","totalSugar","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267.v2017-06-09","v2017-06-09","SSP2","totalSugar","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-6.38704264773399","0.788362338934476",NA,NA,NA,NA,"0.00432663861591236","0.00415013208136461",NA,NA,NA,NA,NA,NA
+"268","new","SSP2","totalSugar","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268.v2017-06-09","v2017-06-09","SSP2","totalSugar","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.983680222296781","-0.0249918767352537",NA,NA,NA,NA,"3.36883711445176e-06","-0.000173904098741184",NA,NA,NA,NA,NA,NA
+"269","new","SSP2","totalSugar","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269.v2017-06-09","v2017-06-09","SSP2","totalSugar","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.0178411883884473","-0.0243249070859983",NA,NA,NA,NA,"3.15023610716886e-06","-0.000174122738500815",NA,NA,NA,NA,NA,NA
+"270","new","SSP2","totalSugar","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270.v2017-06-09","v2017-06-09","SSP2","totalSugar","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.84118532134599","-0.000492510950075664","0.50849813054273",NA,NA,NA,"0.00118184094853131","0.00100477692459044",NA,NA,NA,NA,NA,NA
+"271","new","SSP2","molasses","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271.v2017-06-09","v2017-06-09","SSP2","molasses","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","9.55173511564501e-05","-233.061592785864",NA,NA,NA,NA,"2.44723940491784e-06","-0.000174825859825756",NA,NA,NA,NA,NA,NA
+"272","new","SSP2","molasses","totalSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272.v2017-06-09","v2017-06-09","SSP2","molasses","totalSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.195833950042246","5.38505382527976e-05",NA,NA,NA,NA,"0.000291013430565106","0.000113791486482717",NA,NA,NA,NA,NA,NA
+"273","new","SSP2","molasses","totalSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273.v2017-06-09","v2017-06-09","SSP2","molasses","totalSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0108724201065118","-0.523718929273487",NA,NA,NA,NA,"0.000962644003361022","0.000785541121603117",NA,NA,NA,NA,NA,NA
+"274","new","SSP2","molasses","totalSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274.v2017-06-09","v2017-06-09","SSP2","molasses","totalSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.998928547246908","-0.000108444937233623",NA,NA,NA,NA,"0.00171457560989868","0.00153760602571329",NA,NA,NA,NA,NA,NA
+"275","new","SSP2","molasses","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275.v2017-06-09","v2017-06-09","SSP2","molasses","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"276","new","SSP2","sugar","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276.v2017-06-09","v2017-06-09","SSP2","sugar","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.998366864697608","20.6862698383817",NA,NA,NA,NA,"0.0519734401053062","0.0518053800875975",NA,NA,NA,NA,NA,NA
+"277","new","SSP2","sugar","totalSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277.v2017-06-09","v2017-06-09","SSP2","sugar","totalSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-19.5315868371966","0.998163062739682",NA,NA,NA,NA,"0.0509413830625493","0.0507731400884425",NA,NA,NA,NA,NA,NA
+"278","new","SSP2","sugar","totalSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278.v2017-06-09","v2017-06-09","SSP2","sugar","totalSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.931610192949033","0.00716307992499632",NA,NA,NA,NA,"0.0645187479579315","0.0643529118912692",NA,NA,NA,NA,NA,NA
+"279","new","SSP2","sugar","totalSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279.v2017-06-09","v2017-06-09","SSP2","sugar","totalSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.0685265807499561","0.00670216357418765",NA,NA,NA,NA,"0.064526917477851","0.0643610828594284",NA,NA,NA,NA,NA,NA
+"280","new","SSP2","sugar","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"280.v2017-06-09","v2017-06-09","SSP2","sugar","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"281","new","SSP2","sugr_beet","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"281.v2017-06-09","v2017-06-09","SSP2","sugr_beet","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","5.60764946358287e-05","3182.3287668368",NA,NA,NA,NA,"0.00599100984427897","0.00581479835869936",NA,NA,NA,NA,NA,NA
+"282","new","SSP2","sugr_beet","totalSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"282.v2017-06-09","v2017-06-09","SSP2","sugr_beet","totalSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.0418639645423502","4.64653989519226e-05",NA,NA,NA,NA,"0.00372312652244428","0.00354651300117559",NA,NA,NA,NA,NA,NA
+"283","new","SSP2","sugr_beet","totalSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283.v2017-06-09","v2017-06-09","SSP2","sugr_beet","totalSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","6.19564105027637e-06","0.195477729690323",NA,NA,NA,NA,"0.00385342580135823","0.00367683537870311",NA,NA,NA,NA,NA,NA
+"284","new","SSP2","sugr_beet","totalSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"284.v2017-06-09","v2017-06-09","SSP2","sugr_beet","totalSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.00006922224917","1.17554477239046e-05",NA,NA,NA,NA,"0.00461832975452044","0.00444187492909154",NA,NA,NA,NA,NA,NA
+"285","new","SSP2","sugr_beet","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"285.v2017-06-09","v2017-06-09","SSP2","sugr_beet","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"286","new","SSP2","sugr_cane","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286.v2017-06-09","v2017-06-09","SSP2","sugr_cane","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.00587221762938301","-180.068855652796",NA,NA,NA,NA,"0.00392384598303298","0.00374726804401215",NA,NA,NA,NA,NA,NA
+"287","new","SSP2","sugr_cane","totalSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287.v2017-06-09","v2017-06-09","SSP2","sugr_cane","totalSugar","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","19.3776154257646","0.00173662134804942",NA,NA,NA,NA,"0.0506607087517793","0.0504924160215457",NA,NA,NA,NA,NA,NA
+"288","new","SSP2","sugr_cane","totalSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"288.v2017-06-09","v2017-06-09","SSP2","sugr_cane","totalSugar","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","2.58898359952965","-0.688448807110348",NA,NA,NA,NA,"0.0594414659379565","0.0592747298035723",NA,NA,NA,NA,NA,NA
+"289","new","SSP2","sugr_cane","totalSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"289.v2017-06-09","v2017-06-09","SSP2","sugr_cane","totalSugar","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.928299654997391","-0.00753264358735941",NA,NA,NA,NA,"0.0633155249333696","0.0631494755671108",NA,NA,NA,NA,NA,NA
+"290","new","SSP2","sugr_cane","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"290.v2017-06-09","v2017-06-09","SSP2","sugr_cane","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"291","new","SSP2","nonprocessed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"291.v2017-06-09","v2017-06-09","SSP2","nonprocessed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.658645150216422","-105.269049291569",NA,NA,NA,NA,"0.166126082261338","0.165978258485813",NA,NA,NA,NA,NA,NA
+"292","new","SSP2","nonprocessed","plants","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"292.v2017-06-09","v2017-06-09","SSP2","nonprocessed","plants","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","136.165971824683","0.634107418601724",NA,NA,NA,NA,"0.240322900079538","0.24018822943605",NA,NA,NA,NA,NA,NA
+"293","new","SSP2","nonprocessed","plants","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"293.v2017-06-09","v2017-06-09","SSP2","nonprocessed","plants","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","1.60744494818003","-0.0999687533114283",NA,NA,NA,NA,"0.417647428623704","0.417544192925889",NA,NA,NA,NA,NA,NA
+"294","new","SSP2","nonprocessed","plants","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"294.v2017-06-09","v2017-06-09","SSP2","nonprocessed","plants","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"295","new","SSP2","nonprocessed","plants","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"295.v2017-06-09","v2017-06-09","SSP2","nonprocessed","plants","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"296","new","SSP2","others","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296.v2017-06-09","v2017-06-09","SSP2","others","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.207408219351921","1748.19294271309",NA,NA,NA,NA,"0.15940772721716","0.159258447822242",NA,NA,NA,NA,NA,NA
+"297","new","SSP2","others","nonprocessed","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297.v2017-06-09","v2017-06-09","SSP2","others","nonprocessed","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-58.3380203453053","0.166883040827928",NA,NA,NA,NA,"0.0766680989586288","0.076504125969632",NA,NA,NA,NA,NA,NA
+"298","new","SSP2","others","nonprocessed","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298.v2017-06-09","v2017-06-09","SSP2","others","nonprocessed","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0148563587211177","0.260942630311463",NA,NA,NA,NA,"0.200013229467884","0.19987116113712",NA,NA,NA,NA,NA,NA
+"299","new","SSP2","others","nonprocessed","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299.v2017-06-09","v2017-06-09","SSP2","others","nonprocessed","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.12408791738605","0.0278834951809153",NA,NA,NA,NA,"0.187101523449627","0.186957162150293",NA,NA,NA,NA,NA,NA
+"300","new","SSP2","others","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300.v2017-06-09","v2017-06-09","SSP2","others","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0461067181607034","0.00330877425406419","0.38508619845563",NA,NA,NA,"0.202829188950377","0.202687620701211",NA,NA,NA,NA,NA,NA
+"301","new","SSP2","staples","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301.v2017-06-09","v2017-06-09","SSP2","staples","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.83739406893694","-55.1855485814376",NA,NA,NA,NA,"0.0649401406321278","0.0647740848943605",NA,NA,NA,NA,NA,NA
+"302","new","SSP2","staples","nonprocessed","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302.v2017-06-09","v2017-06-09","SSP2","staples","nonprocessed","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","58.3380199331053","0.833116959102331",NA,NA,NA,NA,"0.0766680989586288","0.076504125969632",NA,NA,NA,NA,NA,NA
+"303","new","SSP2","staples","nonprocessed","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303.v2017-06-09","v2017-06-09","SSP2","staples","nonprocessed","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","1.20230933103859","-0.0401239250088888",NA,NA,NA,NA,"0.18162331093019","0.181477976764132",NA,NA,NA,NA,NA,NA
+"304","new","SSP2","staples","nonprocessed","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304.v2017-06-09","v2017-06-09","SSP2","staples","nonprocessed","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.217275995034959","-0.0530012803967841",NA,NA,NA,NA,"0.180510237113941","0.180364705278941",NA,NA,NA,NA,NA,NA
+"305","new","SSP2","staples","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"305.v2017-06-09","v2017-06-09","SSP2","staples","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.953894105712054","-0.00330890509143999","0.38508280212743",NA,NA,NA,"0.202829150987619","0.202687582731712",NA,NA,NA,NA,NA,NA
+"306","new","SSP2","rootsTubers","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"306.v2017-06-09","v2017-06-09","SSP2","rootsTubers","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.1430535288467","-148.436294973714",NA,NA,NA,NA,"0.044485100105982","0.0443154117913143",NA,NA,NA,NA,NA,NA
+"307","new","SSP2","rootsTubers","staples","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"307.v2017-06-09","v2017-06-09","SSP2","rootsTubers","staples","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","83.2236986348092","0.11292705641658",NA,NA,NA,NA,"0.0750095311710436","0.0748452636397297",NA,NA,NA,NA,NA,NA
+"308","new","SSP2","rootsTubers","staples","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"308.v2017-06-09","v2017-06-09","SSP2","rootsTubers","staples","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","1.20270924924487","-0.254300168683741",NA,NA,NA,NA,"0.083217328779872","0.0830545188577942",NA,NA,NA,NA,NA,NA
+"309","new","SSP2","rootsTubers","staples","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"309.v2017-06-09","v2017-06-09","SSP2","rootsTubers","staples","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.458684505660853","-0.059406569421707",NA,NA,NA,NA,"0.0781906160113254","0.0780269134036201",NA,NA,NA,NA,NA,NA
+"310","new","SSP2","rootsTubers","staples","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"310.v2017-06-09","v2017-06-09","SSP2","rootsTubers","staples","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"311","new","SSP2","cassav_sp","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"311.v2017-06-09","v2017-06-09","SSP2","cassav_sp","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"312","new","SSP2","cassav_sp","rootsTubers","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"312.v2017-06-09","v2017-06-09","SSP2","cassav_sp","rootsTubers","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","349.52682536357","0.433574582073449",NA,NA,NA,NA,"0.242001333193695","0.241866481980956",NA,NA,NA,NA,NA,NA
+"313","new","SSP2","cassav_sp","rootsTubers","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313.v2017-06-09","v2017-06-09","SSP2","cassav_sp","rootsTubers","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","9.05549376750161","-0.337592315752487",NA,NA,NA,NA,"0.350090494847204","0.349974873159755",NA,NA,NA,NA,NA,NA
+"314","new","SSP2","cassav_sp","rootsTubers","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"314.v2017-06-09","v2017-06-09","SSP2","cassav_sp","rootsTubers","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"315","new","SSP2","cassav_sp","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"315.v2017-06-09","v2017-06-09","SSP2","cassav_sp","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","1.66014614562638","-0.149517029277759","0.233095359517109",NA,NA,NA,"0.352915963184476","0.352800844159958",NA,NA,NA,NA,NA,NA
+"316","new","SSP2","potato","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316.v2017-06-09","v2017-06-09","SSP2","potato","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","1.37508790546406","11564.7027933574",NA,NA,NA,NA,"0.358491123658722","0.358376996479156",NA,NA,NA,NA,NA,NA
+"317","new","SSP2","potato","rootsTubers","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317.v2017-06-09","v2017-06-09","SSP2","potato","rootsTubers","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-349.526826057934","0.566425417760665",NA,NA,NA,NA,"0.242001333193697","0.241866481980957",NA,NA,NA,NA,NA,NA
+"318","new","SSP2","potato","rootsTubers","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318.v2017-06-09","v2017-06-09","SSP2","potato","rootsTubers","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.00323007124561904","0.558501991637108",NA,NA,NA,NA,"0.305212601665712","0.305088996008652",NA,NA,NA,NA,NA,NA
+"319","new","SSP2","potato","rootsTubers","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"319.v2017-06-09","v2017-06-09","SSP2","potato","rootsTubers","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.96686813126427","0.103910381736509",NA,NA,NA,NA,"0.362959630614856","0.362846298401836",NA,NA,NA,NA,NA,NA
+"320","new","SSP2","potato","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"320.v2017-06-09","v2017-06-09","SSP2","potato","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.660145953996654","0.149516947458212","0.23309540215693",NA,NA,NA,"0.352915958891544","0.352800839866262",NA,NA,NA,NA,NA,NA
+"321","new","SSP2","cerealRest","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321.v2017-06-09","v2017-06-09","SSP2","cerealRest","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.892032612431998","117.868665356901",NA,NA,NA,NA,"0.0809762234892604","0.0808130155729915",NA,NA,NA,NA,NA,NA
+"322","new","SSP2","cerealRest","staples","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322.v2017-06-09","v2017-06-09","SSP2","cerealRest","staples","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-83.2236989786273","0.887072943481726",NA,NA,NA,NA,"0.0750095311710434","0.0748452636397295",NA,NA,NA,NA,NA,NA
+"323","new","SSP2","cerealRest","staples","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"323.v2017-06-09","v2017-06-09","SSP2","cerealRest","staples","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.607183000360642","0.0398517404036368",NA,NA,NA,NA,"0.0746343552545182","0.0744700210963323",NA,NA,NA,NA,NA,NA
+"324","new","SSP2","cerealRest","staples","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"324.v2017-06-09","v2017-06-09","SSP2","cerealRest","staples","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.407479887434591","0.0271740175014658",NA,NA,NA,NA,"0.0751195475750213","0.074955299581339",NA,NA,NA,NA,NA,NA
+"325","new","SSP2","cerealRest","staples","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"325.v2017-06-09","v2017-06-09","SSP2","cerealRest","staples","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"326","new","SSP2","cereals","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"326.v2017-06-09","v2017-06-09","SSP2","cereals","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.921919267520545","67.8251869932446",NA,NA,NA,NA,"0.175210595189772","0.175064122200106",NA,NA,NA,NA,NA,NA
+"327","new","SSP2","cereals","cerealRest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"327.v2017-06-09","v2017-06-09","SSP2","cereals","cerealRest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-53.9534002516392","0.919888360257362",NA,NA,NA,NA,"0.171866871564264","0.171719804768235",NA,NA,NA,NA,NA,NA
+"328","new","SSP2","cereals","cerealRest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328.v2017-06-09","v2017-06-09","SSP2","cereals","cerealRest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.729950247093828","0.0243241658824136",NA,NA,NA,NA,"0.161026731050263","0.160877739171565",NA,NA,NA,NA,NA,NA
+"329","new","SSP2","cereals","cerealRest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329.v2017-06-09","v2017-06-09","SSP2","cereals","cerealRest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.274543491295143","0.0186969739223137",NA,NA,NA,NA,"0.161453287893217","0.161304371766045",NA,NA,NA,NA,NA,NA
+"330","new","SSP2","cereals","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330.v2017-06-09","v2017-06-09","SSP2","cereals","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"331","new","SSP2","maiz","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331.v2017-06-09","v2017-06-09","SSP2","maiz","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0661659477181141","-183.906595682349",NA,NA,NA,NA,"0.000152799277694577","-2.47619371378516e-05",NA,NA,NA,NA,NA,NA
+"332","new","SSP2","maiz","cereals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332.v2017-06-09","v2017-06-09","SSP2","maiz","cereals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","183.458602908382","0.149730195072599",NA,NA,NA,NA,"0.109440344857409","0.109282191837494",NA,NA,NA,NA,NA,NA
+"333","new","SSP2","maiz","cereals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333.v2017-06-09","v2017-06-09","SSP2","maiz","cereals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","4.48425657405754","-0.36345299811924",NA,NA,NA,NA,"0.172519219482813","0.172372268536176",NA,NA,NA,NA,NA,NA
+"334","new","SSP2","maiz","cereals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334.v2017-06-09","v2017-06-09","SSP2","maiz","cereals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"335","new","SSP2","maiz","cereals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"335.v2017-06-09","v2017-06-09","SSP2","maiz","cereals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"336","new","SSP2","rapeseed","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"336.v2017-06-09","v2017-06-09","SSP2","rapeseed","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0188668055686295","-124.965578287606",NA,NA,NA,NA,"0.029094206599802","0.0289217850417484",NA,NA,NA,NA,NA,NA
+"337","new","SSP2","rapeseed","cereals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"337.v2017-06-09","v2017-06-09","SSP2","rapeseed","cereals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","4.75770219654683","0.0179416317095801",NA,NA,NA,NA,"0.0300914137223183","0.0299191692566323",NA,NA,NA,NA,NA,NA
+"338","new","SSP2","rapeseed","cereals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"338.v2017-06-09","v2017-06-09","SSP2","rapeseed","cereals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0610988753631026","-0.134175196700055",NA,NA,NA,NA,"0.0322688035432553","0.0320969457566354",NA,NA,NA,NA,NA,NA
+"339","new","SSP2","rapeseed","cereals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339.v2017-06-09","v2017-06-09","SSP2","rapeseed","cereals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.95683393690322","-0.00278350522460611",NA,NA,NA,NA,"0.0317595571621131","0.0315876089392685",NA,NA,NA,NA,NA,NA
+"340","new","SSP2","rapeseed","cereals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"340.v2017-06-09","v2017-06-09","SSP2","rapeseed","cereals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"341","new","SSP2","tece","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341.v2017-06-09","v2017-06-09","SSP2","tece","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.978768714000454","1719.31911857227",NA,NA,NA,NA,"0.450983419616786","0.450885920668041",NA,NA,NA,NA,NA,NA
+"342","new","SSP2","tece","cereals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"342.v2017-06-09","v2017-06-09","SSP2","tece","cereals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-393.351249693014","0.831034023035809",NA,NA,NA,NA,"0.306516614710497","0.30639346014021",NA,NA,NA,NA,NA,NA
+"343","new","SSP2","tece","cereals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"343.v2017-06-09","v2017-06-09","SSP2","tece","cereals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0864941484326514","0.236878813081731",NA,NA,NA,NA,"0.403747503422511","0.403641615925338",NA,NA,NA,NA,NA,NA
+"344","new","SSP2","tece","cereals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"344.v2017-06-09","v2017-06-09","SSP2","tece","cereals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.38278445618019","0.0841702173376801",NA,NA,NA,NA,"0.425030381838898","0.424928273932991",NA,NA,NA,NA,NA,NA
+"345","new","SSP2","tece","cereals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"345.v2017-06-09","v2017-06-09","SSP2","tece","cereals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"346","new","SSP2","trce","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"346.v2017-06-09","v2017-06-09","SSP2","trce","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0371946519230737","-305.935311712733",NA,NA,NA,NA,"0.00185764343903327","0.00168038498466272",NA,NA,NA,NA,NA,NA
+"347","new","SSP2","trce","cereals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347.v2017-06-09","v2017-06-09","SSP2","trce","cereals","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","205.134944092171","0.00129414996813459",NA,NA,NA,NA,"0.208765519379857","0.208625005353819",NA,NA,NA,NA,NA,NA
+"348","new","SSP2","trce","cereals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348.v2017-06-09","v2017-06-09","SSP2","trce","cereals","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","56.7019300925734","-0.805489554080366",NA,NA,NA,NA,"0.236571129339276","0.236435553265637",NA,NA,NA,NA,NA,NA
+"349","new","SSP2","trce","cereals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"349.v2017-06-09","v2017-06-09","SSP2","trce","cereals","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"350","new","SSP2","trce","cereals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"350.v2017-06-09","v2017-06-09","SSP2","trce","cereals","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"351","new","SSP2","rest","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"351.v2017-06-09","v2017-06-09","SSP2","rest","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0981487846859314","-146.499085406088",NA,NA,NA,NA,"0.112349072393122","0.112191435929331",NA,NA,NA,NA,NA,NA
+"352","new","SSP2","rest","cerealRest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"352.v2017-06-09","v2017-06-09","SSP2","rest","cerealRest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","53.9534000396288","0.0801116396338152",NA,NA,NA,NA,"0.171866871564263","0.171719804768235",NA,NA,NA,NA,NA,NA
+"353","new","SSP2","rest","cerealRest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"353.v2017-06-09","v2017-06-09","SSP2","rest","cerealRest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.706425619929893","-0.233256536456745",NA,NA,NA,NA,"0.176411344551827","0.176265084801259",NA,NA,NA,NA,NA,NA
+"354","new","SSP2","rest","cerealRest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"354.v2017-06-09","v2017-06-09","SSP2","rest","cerealRest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.682676252036692","-0.0286168568806736",NA,NA,NA,NA,"0.164892098450123","0.164743793015645",NA,NA,NA,NA,NA,NA
+"355","new","SSP2","rest","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355.v2017-06-09","v2017-06-09","SSP2","rest","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"356","new","SSP2","groundnut","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"356.v2017-06-09","v2017-06-09","SSP2","groundnut","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.180787222485643","-128.99365278733",NA,NA,NA,NA,"0.00430072436311434","0.00412212359618402",NA,NA,NA,NA,NA,NA
+"357","new","SSP2","groundnut","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"357.v2017-06-09","v2017-06-09","SSP2","groundnut","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","61.226710651313","0.159821496096154",NA,NA,NA,NA,"0.0060098661507971","0.00583157195638473",NA,NA,NA,NA,NA,NA
+"358","new","SSP2","groundnut","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"358.v2017-06-09","v2017-06-09","SSP2","groundnut","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.63651116656053","-0.148472989957368",NA,NA,NA,NA,"0.00115972984401154","0.000980565669992606",NA,NA,NA,NA,NA,NA
+"359","new","SSP2","groundnut","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359.v2017-06-09","v2017-06-09","SSP2","groundnut","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.579815078848249","-0.0315389509653",NA,NA,NA,NA,"0.000474677412241379","0.000295390358862502",NA,NA,NA,NA,NA,NA
+"360","new","SSP2","groundnut","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"360.v2017-06-09","v2017-06-09","SSP2","groundnut","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"361","new","SSP2","puls_pro","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"361.v2017-06-09","v2017-06-09","SSP2","puls_pro","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.57920392230989","-12.4400099286553",NA,NA,NA,NA,"9.33874548564051e-05","-8.59679913398637e-05",NA,NA,NA,NA,NA,NA
+"362","new","SSP2","puls_pro","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"362.v2017-06-09","v2017-06-09","SSP2","puls_pro","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","7.20734930088074","0.579269676415381",NA,NA,NA,NA,"9.9098105947487e-05","-8.02563159167935e-05",NA,NA,NA,NA,NA,NA
+"363","new","SSP2","puls_pro","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"363.v2017-06-09","v2017-06-09","SSP2","puls_pro","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.653560911256179","-0.0140914762242645",NA,NA,NA,NA,"0.0060807440955932","0.00590246261471361",NA,NA,NA,NA,NA,NA
+"364","new","SSP2","puls_pro","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"364.v2017-06-09","v2017-06-09","SSP2","puls_pro","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.346871977909171","-0.00896509443006154",NA,NA,NA,NA,"0.00616602030029757","0.00598775411559815",NA,NA,NA,NA,NA,NA
+"365","new","SSP2","puls_pro","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"365.v2017-06-09","v2017-06-09","SSP2","puls_pro","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"366","new","SSP2","rapeseed","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366.v2017-06-09","v2017-06-09","SSP2","rapeseed","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.202884489902309","357.830056673551",NA,NA,NA,NA,"0.00632547227593151","0.00614723469248335",NA,NA,NA,NA,NA,NA
+"367","new","SSP2","rapeseed","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"367.v2017-06-09","v2017-06-09","SSP2","rapeseed","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-45.9945023815826","0.198846122970732",NA,NA,NA,NA,"0.00601618710846751","0.00583789404785928",NA,NA,NA,NA,NA,NA
+"368","new","SSP2","rapeseed","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368.v2017-06-09","v2017-06-09","SSP2","rapeseed","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0843994126570327","0.0871803253005146",NA,NA,NA,NA,"0.00816225672341363","0.00798434860802777",NA,NA,NA,NA,NA,NA
+"369","new","SSP2","rapeseed","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"369.v2017-06-09","v2017-06-09","SSP2","rapeseed","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-0.954017987809659","0.0146364840941801",NA,NA,NA,NA,"0.00798143159449936","0.00780349104411282",NA,NA,NA,NA,NA,NA
+"370","new","SSP2","rapeseed","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"370.v2017-06-09","v2017-06-09","SSP2","rapeseed","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","no fit","no fit","no fit","no fit","no fit","no fit","no fit","no fit",NA,NA,NA,NA,NA,NA
+"371","new","SSP2","soybean","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371.v2017-06-09","v2017-06-09","SSP2","soybean","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0683727792511696","1531.48313945489",NA,NA,NA,NA,"0.00204965560379764","0.00187065105771766",NA,NA,NA,NA,NA,NA
+"372","new","SSP2","soybean","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372.v2017-06-09","v2017-06-09","SSP2","soybean","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-20.014069771161","0.0550646297813332",NA,NA,NA,NA,"0.000603712371313943","0.000424448463219207",NA,NA,NA,NA,NA,NA
+"373","new","SSP2","soybean","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373.v2017-06-09","v2017-06-09","SSP2","soybean","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0043454261444809","0.276990448150267",NA,NA,NA,NA,"0.00402070313502541","0.00384205214007216",NA,NA,NA,NA,NA,NA
+"374","new","SSP2","soybean","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"374.v2017-06-09","v2017-06-09","SSP2","soybean","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.05239082675097","0.011314196321634",NA,NA,NA,NA,"0.00316008539873475","0.00298128003288711",NA,NA,NA,NA,NA,NA
+"375","new","SSP2","soybean","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"375.v2017-06-09","v2017-06-09","SSP2","soybean","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.004325515024272","0.00307233203209424","0.305243942565793",NA,NA,NA,"0.0041075164220426","0.00392888099897926",NA,NA,NA,NA,NA,NA
+"376","new","SSP2","sunflower","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"376.v2017-06-09","v2017-06-09","SSP2","sunflower","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.0175710102455901","10463.0925713846",NA,NA,NA,NA,"0.00482164704785633","0.00464313971997266",NA,NA,NA,NA,NA,NA
+"377","new","SSP2","sunflower","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"377.v2017-06-09","v2017-06-09","SSP2","sunflower","rest","y~a/x + b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-2.42548789578849","0.00699807450153189",NA,NA,NA,NA,"0.00292992521961507","0.00275107856943035",NA,NA,NA,NA,NA,NA
+"378","new","SSP2","sunflower","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"378.v2017-06-09","v2017-06-09","SSP2","sunflower","rest","y~a * x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.00015194156556433","0.427122844819595",NA,NA,NA,NA,"0.00392069975644728","0.0037420308236682",NA,NA,NA,NA,NA,NA
+"379","new","SSP2","sunflower","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"379.v2017-06-09","v2017-06-09","SSP2","sunflower","rest","y~a + x^b",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","-1.01268306844317","0.00224413478643089",NA,NA,NA,NA,"0.00480854000760451","0.00463003032868226",NA,NA,NA,NA,NA,NA
+"380","new","SSP2","sunflower","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380.v2017-06-09","v2017-06-09","SSP2","sunflower","rest","y~a + b*x^c",NA,"1",NA,"SSP2","SSP2","SSP2","convergent","2010","2050","0.00091804460470656","7.1208508518097e-05","0.493310247697572",NA,NA,NA,"0.00371040638377279","0.00353169973020939",NA,NA,NA,NA,NA,NA
+"381","new","SSP3","livestock","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","new","SSP3","livestock","totalintake","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","new","SSP3","livestock","totalintake","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","new","SSP3","livestock","totalintake","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"385","new","SSP3","livestock","totalintake","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"386","new","SSP3","fish","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"387","new","SSP3","fish","livestock","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","new","SSP3","fish","livestock","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","new","SSP3","fish","livestock","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","new","SSP3","fish","livestock","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","new","SSP3","landanimals","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"392","new","SSP3","landanimals","livestock","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"393","new","SSP3","landanimals","livestock","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"394","new","SSP3","landanimals","livestock","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"395","new","SSP3","landanimals","livestock","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","new","SSP3","ruminants","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","new","SSP3","ruminants","landanimals","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","new","SSP3","ruminants","landanimals","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"399","new","SSP3","ruminants","landanimals","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","new","SSP3","ruminants","landanimals","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","new","SSP3","livst_milk","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"402","new","SSP3","livst_milk","ruminants","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"403","new","SSP3","livst_milk","ruminants","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"404","new","SSP3","livst_milk","ruminants","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"405","new","SSP3","livst_milk","ruminants","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406","new","SSP3","livst_rum","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"407","new","SSP3","livst_rum","ruminants","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"408","new","SSP3","livst_rum","ruminants","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"409","new","SSP3","livst_rum","ruminants","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"410","new","SSP3","livst_rum","ruminants","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","new","SSP3","monogastrics","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"412","new","SSP3","monogastrics","landanimals","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","new","SSP3","monogastrics","landanimals","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","new","SSP3","monogastrics","landanimals","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"415","new","SSP3","monogastrics","landanimals","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"416","new","SSP3","livst_chick","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","new","SSP3","livst_chick","monogastrics","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","new","SSP3","livst_chick","monogastrics","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"419","new","SSP3","livst_chick","monogastrics","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","new","SSP3","livst_chick","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","new","SSP3","livst_egg","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","new","SSP3","livst_egg","monogastrics","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"423","new","SSP3","livst_egg","monogastrics","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"424","new","SSP3","livst_egg","monogastrics","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"425","new","SSP3","livst_egg","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"426","new","SSP3","livst_pig","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"427","new","SSP3","livst_pig","monogastrics","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"428","new","SSP3","livst_pig","monogastrics","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"429","new","SSP3","livst_pig","monogastrics","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"430","new","SSP3","livst_pig","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"431","new","SSP3","plants","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"432","new","SSP3","plants","totalintake","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","new","SSP3","plants","totalintake","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","new","SSP3","plants","totalintake","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","new","SSP3","plants","totalintake","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","new","SSP3","processed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"437","new","SSP3","processed","plants","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"438","new","SSP3","processed","plants","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439","new","SSP3","processed","plants","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"440","new","SSP3","processed","plants","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"441","new","SSP3","oils","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"442","new","SSP3","oils","processed","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"443","new","SSP3","oils","processed","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"444","new","SSP3","oils","processed","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"445","new","SSP3","oils","processed","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","new","SSP3","alcoholSugar","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447","new","SSP3","alcoholSugar","processed","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","new","SSP3","alcoholSugar","processed","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449","new","SSP3","alcoholSugar","processed","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","new","SSP3","alcoholSugar","processed","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","new","SSP3","alcohol","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","new","SSP3","alcohol","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","new","SSP3","alcohol","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","new","SSP3","alcohol","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","new","SSP3","alcohol","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"456","new","SSP3","totalSugar","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"457","new","SSP3","totalSugar","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"458","new","SSP3","totalSugar","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"459","new","SSP3","totalSugar","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","new","SSP3","totalSugar","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","new","SSP3","molasses","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"462","new","SSP3","molasses","totalSugar","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"463","new","SSP3","molasses","totalSugar","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","new","SSP3","molasses","totalSugar","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","new","SSP3","molasses","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"466","new","SSP3","sugar","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","new","SSP3","sugar","totalSugar","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","new","SSP3","sugar","totalSugar","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"469","new","SSP3","sugar","totalSugar","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","new","SSP3","sugar","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","new","SSP3","sugr_beet","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","new","SSP3","sugr_beet","totalSugar","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"473","new","SSP3","sugr_beet","totalSugar","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474","new","SSP3","sugr_beet","totalSugar","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475","new","SSP3","sugr_beet","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"476","new","SSP3","sugr_cane","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"477","new","SSP3","sugr_cane","totalSugar","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","new","SSP3","sugr_cane","totalSugar","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","new","SSP3","sugr_cane","totalSugar","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","new","SSP3","sugr_cane","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","new","SSP3","nonprocessed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","new","SSP3","nonprocessed","plants","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"483","new","SSP3","nonprocessed","plants","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"484","new","SSP3","nonprocessed","plants","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","new","SSP3","nonprocessed","plants","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","new","SSP3","others","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"487","new","SSP3","others","nonprocessed","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","new","SSP3","others","nonprocessed","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","new","SSP3","others","nonprocessed","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","new","SSP3","others","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","new","SSP3","staples","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","new","SSP3","staples","nonprocessed","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","new","SSP3","staples","nonprocessed","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","new","SSP3","staples","nonprocessed","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"495","new","SSP3","staples","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","new","SSP3","rootsTubers","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","new","SSP3","rootsTubers","staples","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","new","SSP3","rootsTubers","staples","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"499","new","SSP3","rootsTubers","staples","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"500","new","SSP3","rootsTubers","staples","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"501","new","SSP3","cassav_sp","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"502","new","SSP3","cassav_sp","rootsTubers","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"503","new","SSP3","cassav_sp","rootsTubers","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"504","new","SSP3","cassav_sp","rootsTubers","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","new","SSP3","cassav_sp","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","new","SSP3","potato","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","new","SSP3","potato","rootsTubers","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","new","SSP3","potato","rootsTubers","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","new","SSP3","potato","rootsTubers","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","new","SSP3","potato","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"511","new","SSP3","cerealRest","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"512","new","SSP3","cerealRest","staples","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"513","new","SSP3","cerealRest","staples","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"514","new","SSP3","cerealRest","staples","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"515","new","SSP3","cerealRest","staples","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","new","SSP3","cereals","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"517","new","SSP3","cereals","cerealRest","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"518","new","SSP3","cereals","cerealRest","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"519","new","SSP3","cereals","cerealRest","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"520","new","SSP3","cereals","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","new","SSP3","maiz","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","new","SSP3","maiz","cereals","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","new","SSP3","maiz","cereals","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","new","SSP3","maiz","cereals","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","new","SSP3","maiz","cereals","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","new","SSP3","rapeseed","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"527","new","SSP3","rapeseed","cereals","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"528","new","SSP3","rapeseed","cereals","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"529","new","SSP3","rapeseed","cereals","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"530","new","SSP3","rapeseed","cereals","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","new","SSP3","tece","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"532","new","SSP3","tece","cereals","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","new","SSP3","tece","cereals","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"534","new","SSP3","tece","cereals","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"535","new","SSP3","tece","cereals","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"536","new","SSP3","trce","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"537","new","SSP3","trce","cereals","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"538","new","SSP3","trce","cereals","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"539","new","SSP3","trce","cereals","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"540","new","SSP3","trce","cereals","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"541","new","SSP3","rest","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"542","new","SSP3","rest","cerealRest","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"543","new","SSP3","rest","cerealRest","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"544","new","SSP3","rest","cerealRest","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"545","new","SSP3","rest","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"546","new","SSP3","groundnut","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"547","new","SSP3","groundnut","rest","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","new","SSP3","groundnut","rest","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"549","new","SSP3","groundnut","rest","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"550","new","SSP3","groundnut","rest","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551","new","SSP3","puls_pro","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","new","SSP3","puls_pro","rest","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","new","SSP3","puls_pro","rest","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"554","new","SSP3","puls_pro","rest","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","new","SSP3","puls_pro","rest","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","new","SSP3","rapeseed","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"557","new","SSP3","rapeseed","rest","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558","new","SSP3","rapeseed","rest","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"559","new","SSP3","rapeseed","rest","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"560","new","SSP3","rapeseed","rest","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"561","new","SSP3","soybean","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"562","new","SSP3","soybean","rest","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"563","new","SSP3","soybean","rest","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"564","new","SSP3","soybean","rest","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"565","new","SSP3","soybean","rest","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","new","SSP3","sunflower","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"567","new","SSP3","sunflower","rest","y~a/x + b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","new","SSP3","sunflower","rest","y~a * x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","new","SSP3","sunflower","rest","y~a + x^b",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"570","new","SSP3","sunflower","rest","y~a + b*x^c",NA,"1",NA,"SSP3","SSP3","SSP3","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","new","SSP4","livestock","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","new","SSP4","livestock","totalintake","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"573","new","SSP4","livestock","totalintake","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","new","SSP4","livestock","totalintake","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","new","SSP4","livestock","totalintake","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"576","new","SSP4","fish","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"577","new","SSP4","fish","livestock","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"578","new","SSP4","fish","livestock","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","new","SSP4","fish","livestock","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"580","new","SSP4","fish","livestock","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"581","new","SSP4","landanimals","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"582","new","SSP4","landanimals","livestock","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583","new","SSP4","landanimals","livestock","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"584","new","SSP4","landanimals","livestock","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"585","new","SSP4","landanimals","livestock","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","new","SSP4","ruminants","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"587","new","SSP4","ruminants","landanimals","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"588","new","SSP4","ruminants","landanimals","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","new","SSP4","ruminants","landanimals","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"590","new","SSP4","ruminants","landanimals","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","new","SSP4","livst_milk","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"592","new","SSP4","livst_milk","ruminants","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"593","new","SSP4","livst_milk","ruminants","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"594","new","SSP4","livst_milk","ruminants","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"595","new","SSP4","livst_milk","ruminants","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"596","new","SSP4","livst_rum","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"597","new","SSP4","livst_rum","ruminants","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"598","new","SSP4","livst_rum","ruminants","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"599","new","SSP4","livst_rum","ruminants","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"600","new","SSP4","livst_rum","ruminants","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"601","new","SSP4","monogastrics","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"602","new","SSP4","monogastrics","landanimals","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","new","SSP4","monogastrics","landanimals","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","new","SSP4","monogastrics","landanimals","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"605","new","SSP4","monogastrics","landanimals","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"606","new","SSP4","livst_chick","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"607","new","SSP4","livst_chick","monogastrics","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"608","new","SSP4","livst_chick","monogastrics","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"609","new","SSP4","livst_chick","monogastrics","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"610","new","SSP4","livst_chick","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"611","new","SSP4","livst_egg","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"612","new","SSP4","livst_egg","monogastrics","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"613","new","SSP4","livst_egg","monogastrics","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"614","new","SSP4","livst_egg","monogastrics","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"615","new","SSP4","livst_egg","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"616","new","SSP4","livst_pig","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"617","new","SSP4","livst_pig","monogastrics","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"618","new","SSP4","livst_pig","monogastrics","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"619","new","SSP4","livst_pig","monogastrics","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"620","new","SSP4","livst_pig","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"621","new","SSP4","plants","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"622","new","SSP4","plants","totalintake","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"623","new","SSP4","plants","totalintake","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"624","new","SSP4","plants","totalintake","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"625","new","SSP4","plants","totalintake","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"626","new","SSP4","processed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"627","new","SSP4","processed","plants","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"628","new","SSP4","processed","plants","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","new","SSP4","processed","plants","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"630","new","SSP4","processed","plants","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","new","SSP4","oils","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"632","new","SSP4","oils","processed","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"633","new","SSP4","oils","processed","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"634","new","SSP4","oils","processed","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"635","new","SSP4","oils","processed","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"636","new","SSP4","alcoholSugar","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"637","new","SSP4","alcoholSugar","processed","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"638","new","SSP4","alcoholSugar","processed","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","new","SSP4","alcoholSugar","processed","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"640","new","SSP4","alcoholSugar","processed","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"641","new","SSP4","alcohol","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"642","new","SSP4","alcohol","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"643","new","SSP4","alcohol","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"644","new","SSP4","alcohol","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"645","new","SSP4","alcohol","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"646","new","SSP4","totalSugar","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"647","new","SSP4","totalSugar","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"648","new","SSP4","totalSugar","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"649","new","SSP4","totalSugar","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"650","new","SSP4","totalSugar","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"651","new","SSP4","molasses","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"652","new","SSP4","molasses","totalSugar","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","new","SSP4","molasses","totalSugar","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"654","new","SSP4","molasses","totalSugar","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"655","new","SSP4","molasses","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"656","new","SSP4","sugar","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"657","new","SSP4","sugar","totalSugar","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"658","new","SSP4","sugar","totalSugar","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"659","new","SSP4","sugar","totalSugar","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"660","new","SSP4","sugar","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","new","SSP4","sugr_beet","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"662","new","SSP4","sugr_beet","totalSugar","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"663","new","SSP4","sugr_beet","totalSugar","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"664","new","SSP4","sugr_beet","totalSugar","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"665","new","SSP4","sugr_beet","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"666","new","SSP4","sugr_cane","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"667","new","SSP4","sugr_cane","totalSugar","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"668","new","SSP4","sugr_cane","totalSugar","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"669","new","SSP4","sugr_cane","totalSugar","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"670","new","SSP4","sugr_cane","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"671","new","SSP4","nonprocessed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"672","new","SSP4","nonprocessed","plants","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"673","new","SSP4","nonprocessed","plants","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"674","new","SSP4","nonprocessed","plants","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"675","new","SSP4","nonprocessed","plants","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"676","new","SSP4","others","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"677","new","SSP4","others","nonprocessed","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"678","new","SSP4","others","nonprocessed","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"679","new","SSP4","others","nonprocessed","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"680","new","SSP4","others","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"681","new","SSP4","staples","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"682","new","SSP4","staples","nonprocessed","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"683","new","SSP4","staples","nonprocessed","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"684","new","SSP4","staples","nonprocessed","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","new","SSP4","staples","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"686","new","SSP4","rootsTubers","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"687","new","SSP4","rootsTubers","staples","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"688","new","SSP4","rootsTubers","staples","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"689","new","SSP4","rootsTubers","staples","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"690","new","SSP4","rootsTubers","staples","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"691","new","SSP4","cassav_sp","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"692","new","SSP4","cassav_sp","rootsTubers","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"693","new","SSP4","cassav_sp","rootsTubers","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"694","new","SSP4","cassav_sp","rootsTubers","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"695","new","SSP4","cassav_sp","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"696","new","SSP4","potato","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"697","new","SSP4","potato","rootsTubers","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"698","new","SSP4","potato","rootsTubers","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"699","new","SSP4","potato","rootsTubers","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"700","new","SSP4","potato","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"701","new","SSP4","cerealRest","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"702","new","SSP4","cerealRest","staples","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"703","new","SSP4","cerealRest","staples","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"704","new","SSP4","cerealRest","staples","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"705","new","SSP4","cerealRest","staples","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"706","new","SSP4","cereals","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"707","new","SSP4","cereals","cerealRest","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"708","new","SSP4","cereals","cerealRest","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"709","new","SSP4","cereals","cerealRest","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"710","new","SSP4","cereals","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"711","new","SSP4","maiz","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"712","new","SSP4","maiz","cereals","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"713","new","SSP4","maiz","cereals","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"714","new","SSP4","maiz","cereals","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"715","new","SSP4","maiz","cereals","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"716","new","SSP4","rapeseed","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"717","new","SSP4","rapeseed","cereals","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"718","new","SSP4","rapeseed","cereals","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"719","new","SSP4","rapeseed","cereals","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"720","new","SSP4","rapeseed","cereals","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"721","new","SSP4","tece","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"722","new","SSP4","tece","cereals","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"723","new","SSP4","tece","cereals","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"724","new","SSP4","tece","cereals","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"725","new","SSP4","tece","cereals","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"726","new","SSP4","trce","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"727","new","SSP4","trce","cereals","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"728","new","SSP4","trce","cereals","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"729","new","SSP4","trce","cereals","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"730","new","SSP4","trce","cereals","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"731","new","SSP4","rest","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"732","new","SSP4","rest","cerealRest","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"733","new","SSP4","rest","cerealRest","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"734","new","SSP4","rest","cerealRest","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"735","new","SSP4","rest","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"736","new","SSP4","groundnut","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"737","new","SSP4","groundnut","rest","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"738","new","SSP4","groundnut","rest","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"739","new","SSP4","groundnut","rest","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"740","new","SSP4","groundnut","rest","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"741","new","SSP4","puls_pro","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"742","new","SSP4","puls_pro","rest","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"743","new","SSP4","puls_pro","rest","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"744","new","SSP4","puls_pro","rest","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"745","new","SSP4","puls_pro","rest","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"746","new","SSP4","rapeseed","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"747","new","SSP4","rapeseed","rest","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"748","new","SSP4","rapeseed","rest","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"749","new","SSP4","rapeseed","rest","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"750","new","SSP4","rapeseed","rest","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"751","new","SSP4","soybean","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"752","new","SSP4","soybean","rest","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"753","new","SSP4","soybean","rest","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"754","new","SSP4","soybean","rest","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"755","new","SSP4","soybean","rest","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"756","new","SSP4","sunflower","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"757","new","SSP4","sunflower","rest","y~a/x + b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"758","new","SSP4","sunflower","rest","y~a * x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"759","new","SSP4","sunflower","rest","y~a + x^b",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"760","new","SSP4","sunflower","rest","y~a + b*x^c",NA,"1",NA,"SSP4","SSP4","SSP4","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"761","new","SSP5","livestock","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"762","new","SSP5","livestock","totalintake","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"763","new","SSP5","livestock","totalintake","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"764","new","SSP5","livestock","totalintake","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"765","new","SSP5","livestock","totalintake","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"766","new","SSP5","fish","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"767","new","SSP5","fish","livestock","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"768","new","SSP5","fish","livestock","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"769","new","SSP5","fish","livestock","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"770","new","SSP5","fish","livestock","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"771","new","SSP5","landanimals","livestock","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"772","new","SSP5","landanimals","livestock","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"773","new","SSP5","landanimals","livestock","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"774","new","SSP5","landanimals","livestock","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"775","new","SSP5","landanimals","livestock","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"776","new","SSP5","ruminants","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"777","new","SSP5","ruminants","landanimals","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"778","new","SSP5","ruminants","landanimals","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"779","new","SSP5","ruminants","landanimals","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"780","new","SSP5","ruminants","landanimals","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"781","new","SSP5","livst_milk","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"782","new","SSP5","livst_milk","ruminants","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"783","new","SSP5","livst_milk","ruminants","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"784","new","SSP5","livst_milk","ruminants","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"785","new","SSP5","livst_milk","ruminants","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"786","new","SSP5","livst_rum","ruminants","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"787","new","SSP5","livst_rum","ruminants","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"788","new","SSP5","livst_rum","ruminants","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"789","new","SSP5","livst_rum","ruminants","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"790","new","SSP5","livst_rum","ruminants","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"791","new","SSP5","monogastrics","landanimals","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"792","new","SSP5","monogastrics","landanimals","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"793","new","SSP5","monogastrics","landanimals","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"794","new","SSP5","monogastrics","landanimals","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"795","new","SSP5","monogastrics","landanimals","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"796","new","SSP5","livst_chick","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"797","new","SSP5","livst_chick","monogastrics","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"798","new","SSP5","livst_chick","monogastrics","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"799","new","SSP5","livst_chick","monogastrics","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"800","new","SSP5","livst_chick","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"801","new","SSP5","livst_egg","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"802","new","SSP5","livst_egg","monogastrics","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"803","new","SSP5","livst_egg","monogastrics","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"804","new","SSP5","livst_egg","monogastrics","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"805","new","SSP5","livst_egg","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"806","new","SSP5","livst_pig","monogastrics","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"807","new","SSP5","livst_pig","monogastrics","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"808","new","SSP5","livst_pig","monogastrics","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"809","new","SSP5","livst_pig","monogastrics","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"810","new","SSP5","livst_pig","monogastrics","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"811","new","SSP5","plants","totalintake","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"812","new","SSP5","plants","totalintake","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"813","new","SSP5","plants","totalintake","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"814","new","SSP5","plants","totalintake","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"815","new","SSP5","plants","totalintake","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"816","new","SSP5","processed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"817","new","SSP5","processed","plants","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"818","new","SSP5","processed","plants","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"819","new","SSP5","processed","plants","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"820","new","SSP5","processed","plants","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"821","new","SSP5","oils","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"822","new","SSP5","oils","processed","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"823","new","SSP5","oils","processed","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"824","new","SSP5","oils","processed","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"825","new","SSP5","oils","processed","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"826","new","SSP5","alcoholSugar","processed","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"827","new","SSP5","alcoholSugar","processed","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"828","new","SSP5","alcoholSugar","processed","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"829","new","SSP5","alcoholSugar","processed","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"830","new","SSP5","alcoholSugar","processed","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"831","new","SSP5","alcohol","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"832","new","SSP5","alcohol","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"833","new","SSP5","alcohol","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"834","new","SSP5","alcohol","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"835","new","SSP5","alcohol","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"836","new","SSP5","totalSugar","alcoholSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"837","new","SSP5","totalSugar","alcoholSugar","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"838","new","SSP5","totalSugar","alcoholSugar","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"839","new","SSP5","totalSugar","alcoholSugar","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"840","new","SSP5","totalSugar","alcoholSugar","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"841","new","SSP5","molasses","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"842","new","SSP5","molasses","totalSugar","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"843","new","SSP5","molasses","totalSugar","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"844","new","SSP5","molasses","totalSugar","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"845","new","SSP5","molasses","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"846","new","SSP5","sugar","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"847","new","SSP5","sugar","totalSugar","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"848","new","SSP5","sugar","totalSugar","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"849","new","SSP5","sugar","totalSugar","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"850","new","SSP5","sugar","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"851","new","SSP5","sugr_beet","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"852","new","SSP5","sugr_beet","totalSugar","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"853","new","SSP5","sugr_beet","totalSugar","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"854","new","SSP5","sugr_beet","totalSugar","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"855","new","SSP5","sugr_beet","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"856","new","SSP5","sugr_cane","totalSugar","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"857","new","SSP5","sugr_cane","totalSugar","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"858","new","SSP5","sugr_cane","totalSugar","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"859","new","SSP5","sugr_cane","totalSugar","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"860","new","SSP5","sugr_cane","totalSugar","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"861","new","SSP5","nonprocessed","plants","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"862","new","SSP5","nonprocessed","plants","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"863","new","SSP5","nonprocessed","plants","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"864","new","SSP5","nonprocessed","plants","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"865","new","SSP5","nonprocessed","plants","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"866","new","SSP5","others","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"867","new","SSP5","others","nonprocessed","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"868","new","SSP5","others","nonprocessed","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"869","new","SSP5","others","nonprocessed","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"870","new","SSP5","others","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"871","new","SSP5","staples","nonprocessed","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"872","new","SSP5","staples","nonprocessed","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"873","new","SSP5","staples","nonprocessed","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"874","new","SSP5","staples","nonprocessed","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"875","new","SSP5","staples","nonprocessed","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"876","new","SSP5","rootsTubers","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"877","new","SSP5","rootsTubers","staples","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"878","new","SSP5","rootsTubers","staples","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"879","new","SSP5","rootsTubers","staples","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"880","new","SSP5","rootsTubers","staples","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"881","new","SSP5","cassav_sp","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"882","new","SSP5","cassav_sp","rootsTubers","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"883","new","SSP5","cassav_sp","rootsTubers","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"884","new","SSP5","cassav_sp","rootsTubers","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"885","new","SSP5","cassav_sp","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"886","new","SSP5","potato","rootsTubers","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"887","new","SSP5","potato","rootsTubers","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"888","new","SSP5","potato","rootsTubers","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"889","new","SSP5","potato","rootsTubers","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"890","new","SSP5","potato","rootsTubers","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"891","new","SSP5","cerealRest","staples","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"892","new","SSP5","cerealRest","staples","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"893","new","SSP5","cerealRest","staples","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"894","new","SSP5","cerealRest","staples","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"895","new","SSP5","cerealRest","staples","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"896","new","SSP5","cereals","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"897","new","SSP5","cereals","cerealRest","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"898","new","SSP5","cereals","cerealRest","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"899","new","SSP5","cereals","cerealRest","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"900","new","SSP5","cereals","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"901","new","SSP5","maiz","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"902","new","SSP5","maiz","cereals","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"903","new","SSP5","maiz","cereals","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"904","new","SSP5","maiz","cereals","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"905","new","SSP5","maiz","cereals","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"906","new","SSP5","rapeseed","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"907","new","SSP5","rapeseed","cereals","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"908","new","SSP5","rapeseed","cereals","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"909","new","SSP5","rapeseed","cereals","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"910","new","SSP5","rapeseed","cereals","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"911","new","SSP5","tece","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"912","new","SSP5","tece","cereals","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"913","new","SSP5","tece","cereals","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"914","new","SSP5","tece","cereals","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"915","new","SSP5","tece","cereals","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"916","new","SSP5","trce","cereals","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"917","new","SSP5","trce","cereals","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"918","new","SSP5","trce","cereals","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"919","new","SSP5","trce","cereals","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"920","new","SSP5","trce","cereals","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"921","new","SSP5","rest","cerealRest","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"922","new","SSP5","rest","cerealRest","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"923","new","SSP5","rest","cerealRest","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"924","new","SSP5","rest","cerealRest","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"925","new","SSP5","rest","cerealRest","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"926","new","SSP5","groundnut","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"927","new","SSP5","groundnut","rest","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"928","new","SSP5","groundnut","rest","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"929","new","SSP5","groundnut","rest","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"930","new","SSP5","groundnut","rest","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"931","new","SSP5","puls_pro","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"932","new","SSP5","puls_pro","rest","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"933","new","SSP5","puls_pro","rest","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"934","new","SSP5","puls_pro","rest","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"935","new","SSP5","puls_pro","rest","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"936","new","SSP5","rapeseed","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"937","new","SSP5","rapeseed","rest","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"938","new","SSP5","rapeseed","rest","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"939","new","SSP5","rapeseed","rest","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"940","new","SSP5","rapeseed","rest","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"941","new","SSP5","soybean","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"942","new","SSP5","soybean","rest","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"943","new","SSP5","soybean","rest","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"944","new","SSP5","soybean","rest","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"945","new","SSP5","soybean","rest","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"946","new","SSP5","sunflower","rest","y~(a * x)/(b + x)",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"947","new","SSP5","sunflower","rest","y~a/x + b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"948","new","SSP5","sunflower","rest","y~a * x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"949","new","SSP5","sunflower","rest","y~a + x^b",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"950","new","SSP5","sunflower","rest","y~a + b*x^c",NA,"1",NA,"SSP5","SSP5","SSP5","convergent","2010","2050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

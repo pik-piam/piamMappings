@@ -1,0 +1,60 @@
+CEDS59,REMIND
+1A1a_Electricity-autoproducer,Energy Supply
+1A1a_Electricity-public,Energy Supply
+1A1a_Heat-production,Energy Supply Heat
+1A1bc_Other-transformation,Energy Supply
+1A2a_Ind-Comb-Iron-steel,Industry
+1A2b_Ind-Comb-Non-ferrous-metals,Industry
+1A2c_Ind-Comb-Chemicals,Industry
+1A2d_Ind-Comb-Pulp-paper,Industry
+1A2e_Ind-Comb-Food-tobacco,Industry
+1A2f_Ind-Comb-Non-metalic-minerals,Industry
+1A2g_Ind-Comb-Construction,Industry
+1A2g_Ind-Comb-machinery,Industry
+1A2g_Ind-Comb-mining-quarying,Industry
+1A2g_Ind-Comb-other,Industry
+1A2g_Ind-Comb-textile-leather,Industry
+1A2g_Ind-Comb-transpequip,Industry
+1A2g_Ind-Comb-wood-products,Industry
+1A3ai_International-aviation,International Aviation
+1A3aii_Domestic-aviation,Domestic Aviation
+1A3b_Road,Ground Transportation
+1A3c_Rail,Ground Transportation
+1A3di_International-shipping,International Shipping
+1A3dii_Domestic-navigation,Ground Transportation
+1A3eii_Other-transp,Ground Transportation
+1A4a_Commercial-institutional,Residential and Commercial
+1A4b_Residential,Residential and Commercial
+1A4c_Agriculture-forestry-fishing,Residential and Commercial
+1A5_Other-unspecified,Industry
+1B1_Fugitive-solid-fuels,Energy Supply Fugitives
+1B2_Fugitive-petr-and-gas,Energy Supply Fugitives
+1B2d_Fugitive-other-energy,Energy Supply Fugitives
+2A1_Cement-production,Industrial Process
+2A2_Lime-production,Industrial Process
+2A6_Other-minerals,Industrial Process
+2B_Chemical-industry,Industrial Process
+2C_Metal-production,Industrial Process
+2D_Degreasing-Cleaning,Solvents
+2D_Paint-application,Solvents
+2D3_Chemical-products-manufacture-processing,Solvents
+2D3_Other-product-use,Solvents
+2H_Pulp-and-paper-food-beverage-wood,Industrial Process
+2L_Other-process-emissions,Industrial Process
+3B_Manure-management,Agriculture
+3D_Rice-Cultivation,Agriculture
+3D_Soil-emissions,Agriculture
+3E_Enteric-fermentation,Agriculture
+3F_Agricultural-residue-burning-on-fields,Agriculture
+3I_Agriculture-other,Agriculture
+5A_Solid-waste-disposal,Waste
+5C_Waste-incineration,Waste
+5D_Wastewater-handling,Waste
+5E_Other-waste-handling,Waste
+7A_Fossil-fuel-fires,Fossil Fuel Fires
+AGRI,Agriculture
+BORF,Forest Burning
+DEFO,Forest Burning
+PEAT,Forest Burning
+SAVA,Savannah Burning
+TEMF,Forest Burning

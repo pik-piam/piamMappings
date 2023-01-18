@@ -1,0 +1,241 @@
+﻿region,country
+West Africa,Benin
+West Africa,Guinea-Bissau
+West Africa,Sierra Leone
+West Africa,Togo
+West Africa,Burkina Faso
+West Africa,Liberia
+West Africa,Cabo Verde
+West Africa,Mali
+West Africa,Cote d Ivoire
+West Africa,Mauritania
+West Africa,Gambia
+West Africa,Niger
+West Africa,Ghana
+West Africa,Nigeria
+West Africa,Guinea
+West Africa,Sao Tome and Principe
+West Africa,Senegal
+Middle East,Bahrain
+Middle East,Islamic Republic of Iran
+Middle East,Iraq
+Middle East,Jordan
+Middle East,Kuwait
+Middle East,Lebanon
+Middle East,Oman
+Middle East,Qatar
+Middle East,Israel
+Middle East,Saudi Arabia
+Middle East,Syrian Arab Republic
+Middle East,United Arab Emirates
+Middle East,Yemen
+Eurasia,Albania
+Eurasia,Bulgaria
+Eurasia,Macedonia
+Eurasia,Russian Federation
+Eurasia,Armenia
+Eurasia,Croatia
+Eurasia,Republic of Moldova
+Eurasia,Serbia
+Eurasia,Azerbaijan
+Eurasia,Georgia
+Eurasia,Montenegro
+Eurasia,Tajikistan
+Eurasia,Belarus
+Eurasia,Kazakhstan
+Eurasia,Romania
+Eurasia,Turkmenistan
+Eurasia,Bosnia and Herzegovina
+Eurasia,Kosovo
+Eurasia,Ukraine
+Eurasia,Kyrgyz Republic
+Eurasia,Latvia
+Eurasia,Lithuania
+Eurasia,Gibraltar
+Eurasia,Malta
+OECD Europe,Austria
+OECD Europe,Germany
+OECD Europe,Poland
+OECD Europe,United Kingdom
+OECD Europe,Belgium
+OECD Europe,Czech Republic
+OECD Europe,Denmark
+OECD Europe,Estonia
+OECD Europe,Finland
+OECD Europe,France
+OECD Europe,Greece
+OECD Europe,Hungary
+OECD Europe,Iceland
+OECD Europe,Ireland
+OECD Europe,Italy
+OECD Europe,Luxembourg
+OECD Europe,Netherlands
+OECD Europe,Norway
+OECD Europe,Portugal
+OECD Europe,Slovak Republic
+OECD Europe,Slovenia
+OECD Europe,Spain
+OECD Europe,Sweden
+OECD Europe,Switzerland
+OECD Europe,Turkey
+OECD Americas,Canada
+OECD Americas,Chile
+OECD Americas,Mexico
+OECD Americas,United States
+Non-OECD Asia,Bangladesh
+Non-OECD Asia,Indonesia
+Non-OECD Asia,Nepal
+Non-OECD Asia,Brunei Darussalam
+Non-OECD Asia,Cambodia
+Non-OECD Asia,China
+Non-OECD Asia,Chinese Taipei
+Non-OECD Asia,India
+Non-OECD Asia,North Korea
+Non-OECD Asia,Malaysia
+Non-OECD Asia,Mongolia
+Non-OECD Asia,Myanmar
+Non-OECD Asia,Pakistan
+Non-OECD Asia,Philippines
+Non-OECD Asia,Singapore
+Non-OECD Asia,Sri Lanka
+Non-OECD Asia,Thailand
+Non-OECD Asia,Vietnam
+Non-OECD Asia,Afghanistan
+Non-OECD Asia,Timor-Leste
+Non-OECD Asia,Bhutan
+Non-OECD Asia,Cook Islands
+Non-OECD Asia,Fiji
+Non-OECD Asia,French Polynesia
+Non-OECD Asia,Kiribati
+Non-OECD Asia,Lao PDR
+Non-OECD Asia,Maldives
+Non-OECD Asia,New Caledonia
+Non-OECD Asia,Palau
+Non-OECD Asia,Papua New Guinea
+Non-OECD Asia,Samoa
+Non-OECD Asia,Solomon Islands
+Non-OECD Asia,Hong Kong
+Non-OECD Asia,Tonga
+Eurasia,Uzbekistan
+Non-OECD Asia,Vanuatu
+OECD Asia Oceania,Australia
+OECD Asia Oceania,Japan
+OECD Asia Oceania,South Korea
+OECD Asia Oceania,New Zealand
+Latin America,Argentina
+Latin America,Ecuador
+Latin America,Puerto Rico
+Latin America,Panama
+Latin America,Bolivia
+Latin America,Brazil
+Latin America,Colombia
+Latin America,Costa Rica
+Latin America,Cuba
+Latin America,Dominican Republic
+Latin America,El Salvador
+Latin America,Guatemala
+Latin America,Haiti
+Latin America,Honduras
+Latin America,Jamaica
+Latin America,Netherlands Antilles
+Latin America,Nicaragua
+Latin America,Paraguay
+Latin America,Peru
+Latin America,Trinidad and Tobago
+Latin America,Uruguay
+Latin America,Venezuela
+Latin America,Antigua and Barbuda
+Latin America,Barbados
+Latin America,Guyana
+Latin America,Saint Pierre and Miquelon
+Latin America,Aruba
+Latin America,Bahamas
+Latin America,Belize
+Latin America,Bermuda
+Latin America,British Virgin Islands
+Latin America,Cayman Islands
+Latin America,Dominica
+Latin America,Falkland Islands (Malvinas)
+Latin America,Grenada
+Latin America,Guadeloupe
+Latin America,Martinique
+Latin America,Montserrat
+Latin America,Saint Kitts and Nevis
+Latin America,Saint Lucia
+Latin America,Saint Vincent and the Grenadines
+Latin America,Suriname
+Latin America,Turks and Caicos Islands
+East Africa,Burundi
+East Africa,Djibouti
+East Africa,Eritrea
+East Africa,Ethiopia
+East Africa,Kenya
+East Africa,Rwanda
+East Africa,Somalia
+East Africa,Sudan
+East Africa,Uganda
+North Africa,Algeria
+North Africa,Egypt
+North Africa,Libya
+North Africa,Morocco
+North Africa,Tunisia
+North Africa,Western Sahara
+Southeast Asia,Brunei Darussalam
+Southeast Asia,Cambodia
+Southeast Asia,Indonesia
+Southeast Asia,Lao PDR
+Southeast Asia,Malaysia
+Southeast Asia,Myanmar
+Southeast Asia,Philippines
+Southeast Asia,Singapore
+Southeast Asia,Thailand
+Southeast Asia,Vietnam
+Southern Africa,Angola
+Southern Africa,Botswana
+Southern Africa,Comoros
+Southern Africa,Lesotho
+Southern Africa,Madagascar
+Southern Africa,Malawi
+Southern Africa,Mauritius
+Southern Africa,Mozambique
+Southern Africa,Namibia
+Southern Africa,Seychelles
+Southern Africa,South Africa
+Southern Africa,Swaziland
+Southern Africa,Tanzania
+Southern Africa,Zambia
+Southern Africa,Zimbabwe
+European Union,Austria
+European Union,Belgium
+European Union,Bulgaria
+European Union,Croatia
+European Union,Cyprus
+European Union,Czech Republic
+European Union,Denmark
+European Union,Estonia
+European Union,Finland
+European Union,France
+European Union,Germany
+European Union,Greece
+European Union,Hungary
+European Union,Ireland
+European Union,Italy
+European Union,Latvia
+European Union,Lithuania
+European Union,Luxembourg
+European Union,Malta
+European Union,Netherlands
+European Union,Poland
+European Union,Portugal
+European Union,Romania
+European Union,Slovak Republic
+European Union,Slovenia
+European Union,Spain
+European Union,Sweden
+European Union,United Kingdom
+Central Africa,Cameroon
+Central Africa,Central African Republic
+Central Africa,Chad
+Central Africa,Democratic Republic of the Congo
+Central Africa,Equatorial Guinea
+Central Africa,Gabon

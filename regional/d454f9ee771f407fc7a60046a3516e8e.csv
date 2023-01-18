@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Aruba;ABW;MNR
+Afghanistan;AFG;MNR
+Angola;AGO;MNR
+Anguilla;AIA;MNR
+Aland Islands;ALA;MNR
+Albania;ALB;MNR
+Andorra;AND;MNR
+United Arab Emirates;ARE;MNR
+Argentina;ARG;MNR
+Armenia;ARM;MNR
+American Samoa;ASM;MNR
+Antarctica;ATA;MNR
+French Southern Territories;ATF;MNR
+Antigua and Barbuda;ATG;MNR
+Australia;AUS;MNR
+Austria;AUT;MNR
+Azerbaijan;AZE;MNR
+Burundi;BDI;MNR
+Belgium;BEL;MNR
+Benin;BEN;MNR
+Bonaire, Sint Eustatius and Saba;BES;MNR
+Burkina Faso;BFA;MNR
+Bangladesh;BGD;MNR
+Bulgaria;BGR;MNR
+Bahrain;BHR;MNR
+Bahamas;BHS;MNR
+Bosnia and Herzegovina;BIH;MNR
+Saint Barthelemy;BLM;MNR
+Belarus;BLR;MNR
+Belize;BLZ;MNR
+Bermuda;BMU;MNR
+Bolivia, Plurinational State of;BOL;MNR
+Brazil;BRA;MNR
+Barbados;BRB;MNR
+Brunei Darussalam;BRN;MNR
+Bhutan;BTN;MNR
+Bouvet Island;BVT;MNR
+Botswana;BWA;MNR
+Central African Republic;CAF;MNR
+Canada;CAN;MNR
+Cocos (Keeling) Islands;CCK;MNR
+China;CHN;MNR
+Switzerland;CHE;MNR
+Chile;CHL;MNR
+Cote d Ivoire;CIV;MNR
+Cameroon;CMR;MNR
+Congo, the Democratic Republic of the;COD;MNR
+Congo;COG;MNR
+Cook Islands;COK;MNR
+Colombia;COL;MNR
+Comoros;COM;MNR
+Cape Verde;CPV;MNR
+Costa Rica;CRI;MNR
+Cuba;CUB;MNR
+Curacao;CUW;MNR
+Christmas Island;CXR;MNR
+Cayman Islands;CYM;MNR
+Cyprus;CYP;MNR
+Czech Republic;CZE;MNR
+Germany;DEU;MNR
+Djibouti;DJI;MNR
+Dominica;DMA;MNR
+Denmark;DNK;MNR
+Dominican Republic;DOM;MNR
+Algeria;DZA;MNR
+Ecuador;ECU;MNR
+Egypt;EGY;MNR
+Eritrea;ERI;MNR
+Western Sahara;ESH;MNR
+Spain;ESP;MNR
+Estonia;EST;MNR
+Ethiopia;ETH;MNR
+Finland;FIN;MNR
+Fiji;FJI;MNR
+Falkland Islands (Malvinas);FLK;MNR
+France;FRA;MNR
+Faroe Islands;FRO;MNR
+Micronesia, Federated States of;FSM;MNR
+Gabon;GAB;MNR
+United Kingdom;GBR;MNR
+Georgia;GEO;MNR
+Guernsey;GGY;MNR
+Ghana;GHA;MNR
+Gibraltar;GIB;MNR
+Guinea;GIN;MNR
+Guadeloupe;GLP;MNR
+Gambia;GMB;MNR
+Guinea-Bissau;GNB;MNR
+Equatorial Guinea;GNQ;MNR
+Greece;GRC;MNR
+Grenada;GRD;MNR
+Greenland;GRL;MNR
+Guatemala;GTM;MNR
+French Guiana;GUF;MNR
+Guam;GUM;MNR
+Guyana;GUY;MNR
+Hong Kong;HKG;MNR
+Heard Island and McDonald Islands;HMD;MNR
+Honduras;HND;MNR
+Croatia;HRV;MNR
+Haiti;HTI;MNR
+Hungary;HUN;MNR
+Indonesia;IDN;MNR
+Isle of Man;IMN;MNR
+India;IND;MNR
+British Indian Ocean Territory;IOT;MNR
+Ireland;IRL;MNR
+Iran, Islamic Republic of;IRN;MNR
+Iraq;IRQ;MNR
+Iceland;ISL;MNR
+Israel;ISR;MNR
+Italy;ITA;MNR
+Jamaica;JAM;MNR
+Jersey;JEY;MNR
+Jordan;JOR;MNR
+Japan;JPN;MNR
+Kazakhstan;KAZ;MNR
+Kenya;KEN;MNR
+Kyrgyzstan;KGZ;MNR
+Cambodia;KHM;MNR
+Kiribati;KIR;MNR
+Saint Kitts and Nevis;KNA;MNR
+Korea, Republic of;KOR;MNR
+Kuwait;KWT;MNR
+Lao People's Democratic Republic;LAO;MNR
+Lebanon;LBN;MNR
+Liberia;LBR;MNR
+Libya;LBY;MNR
+Saint Lucia;LCA;MNR
+Liechtenstein;LIE;MNR
+Sri Lanka;LKA;MNR
+Lesotho;LSO;MNR
+Lithuania;LTU;MNR
+Luxembourg;LUX;MNR
+Latvia;LVA;MNR
+Macao;MAC;MNR
+Saint Martin (French part);MAF;MNR
+Morocco;MAR;MNR
+Monaco;MCO;MNR
+Moldova, Republic of;MDA;MNR
+Madagascar;MDG;MNR
+Maldives;MDV;MNR
+Mexico;MEX;MNR
+Marshall Islands;MHL;MNR
+Macedonia, the former Yugoslav Republic of;MKD;MNR
+Mali;MLI;MNR
+Malta;MLT;MNR
+Myanmar;MMR;MNR
+Montenegro;MNE;MNR
+Mongolia;MNG;MNR
+Northern Mariana Islands;MNP;MNR
+Mozambique;MOZ;MNR
+Mauritania;MRT;MNR
+Montserrat;MSR;MNR
+Martinique;MTQ;MNR
+Mauritius;MUS;MNR
+Malawi;MWI;MNR
+Malaysia;MYS;MNR
+Mayotte;MYT;MNR
+Namibia;NAM;MNR
+New Caledonia;NCL;MNR
+Niger;NER;MNR
+Norfolk Island;NFK;MNR
+Nigeria;NGA;MNR
+Nicaragua;NIC;MNR
+Niue;NIU;MNR
+Netherlands;NLD;MNR
+Norway;NOR;MNR
+Nepal;NPL;MNR
+Nauru;NRU;MNR
+New Zealand;NZL;MNR
+Oman;OMN;MNR
+Pakistan;PAK;MNR
+Panama;PAN;MNR
+Pitcairn;PCN;MNR
+Peru;PER;MNR
+Philippines;PHL;MNR
+Palau;PLW;MNR
+Papua New Guinea;PNG;MNR
+Poland;POL;MNR
+Puerto Rico;PRI;MNR
+Korea, Democratic People's Republic of;PRK;MNR
+Portugal;PRT;MNR
+Paraguay;PRY;MNR
+Palestine, State of;PSE;MNR
+French Polynesia;PYF;MNR
+Qatar;QAT;MNR
+Reunion;REU;MNR
+Romania;ROU;MNR
+Russian Federation;RUS;MNR
+Rwanda;RWA;MNR
+Saudi Arabia;SAU;MNR
+Sudan;SDN;MNR
+Senegal;SEN;MNR
+Singapore;SGP;MNR
+South Georgia and the South Sandwich Islands;SGS;MNR
+Saint Helena, Ascension and Tristan da Cunha;SHN;MNR
+Svalbard and Jan Mayen;SJM;MNR
+Solomon Islands;SLB;MNR
+Sierra Leone;SLE;MNR
+El Salvador;SLV;MNR
+San Marino;SMR;MNR
+Somalia;SOM;MNR
+Saint Pierre and Miquelon;SPM;MNR
+Serbia;SRB;MNR
+South Sudan;SSD;MNR
+Sao Tome and Principe;STP;MNR
+Suriname;SUR;MNR
+Slovakia;SVK;MNR
+Slovenia;SVN;MNR
+Sweden;SWE;MNR
+Swaziland;SWZ;MNR
+Sint Maarten (Dutch part);SXM;MNR
+Seychelles;SYC;MNR
+Syrian Arab Republic;SYR;MNR
+Turks and Caicos Islands;TCA;MNR
+Chad;TCD;MNR
+Togo;TGO;MNR
+Thailand;THA;MNR
+Tajikistan;TJK;MNR
+Tokelau;TKL;MNR
+Turkmenistan;TKM;MNR
+Timor-Leste;TLS;MNR
+Tonga;TON;MNR
+Trinidad and Tobago;TTO;MNR
+Tunisia;TUN;MNR
+Turkey;TUR;MNR
+Tuvalu;TUV;MNR
+Taiwan, Province of China;TWN;MNR
+Tanzania, United Republic of;TZA;MNR
+Uganda;UGA;MNR
+Ukraine;UKR;MNR
+United States Minor Outlying Islands;UMI;MNR
+Uruguay;URY;MNR
+United States;USA;USA
+Uzbekistan;UZB;MNR
+Holy See (Vatican City State);VAT;MNR
+Saint Vincent and the Grenadines;VCT;MNR
+Venezuela, Bolivarian Republic of;VEN;MNR
+Virgin Islands, British;VGB;MNR
+Virgin Islands, U.S.;VIR;MNR
+Viet Nam;VNM;MNR
+Vanuatu;VUT;MNR
+Wallis and Futuna;WLF;MNR
+Samoa;WSM;MNR
+Yemen;YEM;MNR
+South Africa;ZAF;MNR
+Zambia;ZMB;MNR
+Zimbabwe;ZWE;MNR

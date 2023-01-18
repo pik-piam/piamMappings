@@ -1,0 +1,38 @@
+EDGAR6;REMIND;Comment
+1_A_1_a Main Activity Electricity and Heat Production;Energy|Supply|Electricity and Heat;
+1_A_1_bc Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries;Energy|Supply|Fuel Production;This variable does not exist in REMIND yet, it is the sum of Supply|Liquids/Gases/Solids
+1_A_2 Manufacturing Industries and Construction;Energy|Demand|Industry;
+1_A_3_a Civil Aviation;Energy|Demand|Transport;
+1_A_3_b_noRES Road Transportation no resuspension;Energy|Demand|Transport;
+1_A_3_b_RES Road Transportation resuspension;Energy|Demand|Transport;
+1_A_3_c Railways;Energy|Demand|Transport;
+1_A_3_d Water-borne Navigation;Energy|Demand|Transport;
+1_A_3_e Other Transportation;Energy|Demand|Transport;
+1_A_4 Other Sectors;Energy|Demand|Buildings;
+1_A_5 Non-Specified;Energy|Demand|Industry;
+1_B_1 Solid Fuels;Energy|Supply|Fuel Production;In the future REMIND emissions accounting should separate fugitive from combustion emissions to be in line with IPCC accounting, once this is done in REMIND reporting -> adapt here
+1_B_2 Oil and Natural Gas;Energy|Supply|Fuel Production;In the future REMIND emissions accounting should separate fugitive from combustion emissions to be in line with IPCC accounting, once this is done in REMIND reporting -> adapt here
+2_A_1 Cement production;Industrial Processes;
+2_A_2 Lime production;Industrial Processes;
+2_A_3 Glass Production;Industrial Processes;
+2_A_4 Other Process Uses of Carbonates;Industrial Processes;
+2_B Chemical Industry;Industrial Processes;
+2_C Metal Industry;Industrial Processes;
+2_D Non-Energy Products from Fuels and Solvent Use;Industrial Processes;
+2_G Other Product Manufacture and Use;Industrial Processes;
+2_H Other;Industrial Processes;
+3_A_1 Enteric Fermentation;Agriculture;
+3_A_2 Manure Management;Agriculture;
+3_C_1 Emissions from biomass burning;Agriculture;
+3_C_2 Liming;Agriculture;
+3_C_3 Urea application;Agriculture;
+3_C_4 Direct N2O Emissions from managed soils;Agriculture;
+3_C_5 Indirect N2O Emissions from managed soils;Agriculture;
+3_C_6 Indirect N2O Emissions from manure management;Agriculture;
+3_C_7 Rice cultivations;Agriculture;
+4_A Solid Waste Disposal;Waste;
+4_B Biological Treatment of Solid Waste;Waste;
+4_C Incineration and Open Burning of Waste;Waste;
+4_D Wastewater Treatment and Discharge;Waste;
+5_A Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3;;
+5_B Other;Industrial Processes;

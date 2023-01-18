@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Aruba;ABW;ROW
+Afghanistan;AFG;ROW
+Angola;AGO;ROW
+Anguilla;AIA;ROW
+Aland Islands;ALA;EU
+Albania;ALB;ROW
+Andorra;AND;ROW
+United Arab Emirates;ARE;ROW
+Argentina;ARG;ARG
+Armenia;ARM;ROW
+American Samoa;ASM;ROW
+Antarctica;ATA;ROW
+French Southern Territories;ATF;ROW
+Antigua and Barbuda;ATG;ROW
+Australia;AUS;AUS
+Austria;AUT;EU
+Azerbaijan;AZE;ROW
+Burundi;BDI;ROW
+Belgium;BEL;EU
+Benin;BEN;ROW
+Bonaire, Sint Eustatius and Saba;BES;ROW
+Burkina Faso;BFA;ROW
+Bangladesh;BGD;ROW
+Bulgaria;BGR;EU
+Bahrain;BHR;ROW
+Bahamas;BHS;ROW
+Bosnia and Herzegovina;BIH;ROW
+Saint Barthelemy;BLM;ROW
+Belarus;BLR;ROW
+Belize;BLZ;ROW
+Bermuda;BMU;ROW
+Bolivia, Plurinational State of;BOL;ROW
+Brazil;BRA;BRA
+Barbados;BRB;ROW
+Brunei DarussaR10LATIN_AM;BRN;ROW
+Bhutan;BTN;ROW
+Bouvet Island;BVT;ROW
+Botswana;BWA;ROW
+Central African Republic;CAF;ROW
+Canada;CAN;CAN
+Cocos (Keeling) Islands;CCK;ROW
+China;CHN;CHN
+Switzerland;CHE;ROW
+Chile;CHL;ROW
+Cote d Ivoire;CIV;ROW
+Cameroon;CMR;ROW
+Congo, the Democratic Republic of the;COD;ROW
+Congo;COG;ROW
+Cook Islands;COK;ROW
+Colombia;COL;ROW
+Comoros;COM;ROW
+Cape Verde;CPV;ROW
+Costa Rica;CRI;ROW
+Cuba;CUB;ROW
+Curacao;CUW;ROW
+Christmas Island;CXR;ROW
+Cayman Islands;CYM;ROW
+Cyprus;CYP;EU
+Czech Republic;CZE;EU
+Germany;DEU;EU
+Djibouti;DJI;ROW
+Dominica;DMA;ROW
+Denmark;DNK;EU
+Dominican Republic;DOM;ROW
+Algeria;DZA;ROW
+Ecuador;ECU;ROW
+Egypt;EGY;ROW
+Eritrea;ERI;ROW
+Western Sahara;ESH;ROW
+Spain;ESP;EU
+Estonia;EST;EU
+Ethiopia;ETH;ROW
+Finland;FIN;EU
+Fiji;FJI;ROW
+Falkland Islands (Malvinas);FLK;ROW
+France;FRA;EU
+Faroe Islands;FRO;EU
+Micronesia, Federated States of;FSM;ROW
+Gabon;GAB;ROW
+United Kingdom;GBR;EU
+Georgia;GEO;ROW
+Guernsey;GGY;EU
+Ghana;GHA;ROW
+Gibraltar;GIB;EU
+Guinea;GIN;ROW
+Guadeloupe;GLP;ROW
+Gambia;GMB;ROW
+Guinea-Bissau;GNB;ROW
+Equatorial Guinea;GNQ;ROW
+Greece;GRC;EU
+Grenada;GRD;ROW
+Greenland;GRL;ROW
+Guatemala;GTM;ROW
+French Guiana;GUF;ROW
+Guam;GUM;ROW
+Guyana;GUY;ROW
+Hong Kong;HKG;ROW
+Heard Island and McDonald Islands;HMD;ROW
+Honduras;HND;ROW
+Croatia;HRV;EU
+Haiti;HTI;ROW
+Hungary;HUN;EU
+Indonesia;IDN;IDN
+Isle of Man;IMN;EU
+India;IND;IND
+British Indian Ocean Territory;IOT;ROW
+Ireland;IRL;EU
+Iran, IsR10LATIN_AMic Republic of;IRN;ROW
+Iraq;IRQ;ROW
+Iceland;ISL;ROW
+Israel;ISR;ROW
+Italy;ITA;EU
+Jamaica;JAM;ROW
+Jersey;JEY;EU
+Jordan;JOR;ROW
+Japan;JPN;JPN
+Kazakhstan;KAZ;ROW
+Kenya;KEN;ROW
+Kyrgyzstan;KGZ;ROW
+Cambodia;KHM;ROW
+Kiribati;KIR;ROW
+Saint Kitts and Nevis;KNA;ROW
+Korea, Republic of;KOR;ROK
+Kuwait;KWT;ROW
+Lao People's Democratic Republic;LAO;ROW
+Lebanon;LBN;ROW
+Liberia;LBR;ROW
+Libya;LBY;ROW
+Saint Lucia;LCA;ROW
+Liechtenstein;LIE;ROW
+Sri Lanka;LKA;ROW
+Lesotho;LSO;ROW
+Lithuania;LTU;EU
+Luxembourg;LUX;EU
+Latvia;LVA;EU
+Macao;MAC;ROW
+Saint Martin (French part);MAF;ROW
+Morocco;MAR;ROW
+Monaco;MCO;ROW
+Moldova, Republic of;MDA;ROW
+Madagascar;MDG;ROW
+Maldives;MDV;ROW
+Mexico;MEX;MEX
+Marshall Islands;MHL;ROW
+Macedonia, the former Yugoslav Republic of;MKD;ROW
+Mali;MLI;ROW
+Malta;MLT;EU
+Myanmar;MMR;ROW
+Montenegro;MNE;ROW
+Mongolia;MNG;ROW
+Northern Mariana Islands;MNP;ROW
+Mozambique;MOZ;ROW
+Mauritania;MRT;ROW
+Montserrat;MSR;ROW
+Martinique;MTQ;ROW
+Mauritius;MUS;ROW
+Malawi;MWI;ROW
+Malaysia;MYS;ROW
+Mayotte;MYT;ROW
+Namibia;NAM;ROW
+New Caledonia;NCL;ROW
+Niger;NER;ROW
+Norfolk Island;NFK;ROW
+Nigeria;NGA;ROW
+Nicaragua;NIC;ROW
+Niue;NIU;ROW
+Netherlands;NLD;EU
+Norway;NOR;ROW
+Nepal;NPL;ROW
+Nauru;NRU;ROW
+New Zealand;NZL;ROW
+Oman;OMN;ROW
+Pakistan;PAK;ROW
+Panama;PAN;ROW
+Pitcairn;PCN;ROW
+Peru;PER;ROW
+Philippines;PHL;ROW
+Palau;PLW;ROW
+Papua New Guinea;PNG;ROW
+Poland;POL;EU
+Puerto Rico;PRI;ROW
+Korea, Democratic People's Republic of;PRK;ROW
+Portugal;PRT;EU
+Paraguay;PRY;ROW
+Palestine, State of;PSE;ROW
+French Polynesia;PYF;ROW
+Qatar;QAT;ROW
+Reunion;REU;ROW
+Romania;ROU;EU
+Russian Federation;RUS;RUS
+Rwanda;RWA;ROW
+Saudi Arabia;SAU;SAU
+Sudan;SDN;ROW
+Senegal;SEN;ROW
+Singapore;SGP;ROW
+South Georgia and the South Sandwich Islands;SGS;ROW
+Saint Helena, Ascension and Tristan da Cunha;SHN;ROW
+Svalbard and Jan Mayen;SJM;ROW
+Solomon Islands;SLB;ROW
+Sierra Leone;SLE;ROW
+El Salvador;SLV;ROW
+San Marino;SMR;ROW
+Somalia;SOM;ROW
+Saint Pierre and Miquelon;SPM;ROW
+Serbia;SRB;ROW
+South Sudan;SSD;ROW
+Sao Tome and Principe;STP;ROW
+Suriname;SUR;ROW
+Slovakia;SVK;EU
+Slovenia;SVN;EU
+Sweden;SWE;EU
+Swaziland;SWZ;ROW
+Sint Maarten (Dutch part);SXM;ROW
+Seychelles;SYC;ROW
+Syrian Arab Republic;SYR;ROW
+Turks and Caicos Islands;TCA;ROW
+Chad;TCD;ROW
+Togo;TGO;ROW
+Thailand;THA;THA
+Tajikistan;TJK;ROW
+Tokelau;TKL;ROW
+Turkmenistan;TKM;ROW
+Timor-Leste;TLS;ROW
+Tonga;TON;ROW
+Trinidad and Tobago;TTO;ROW
+Tunisia;TUN;ROW
+Turkey;TUR;TUR
+Tuvalu;TUV;ROW
+Taiwan, Province of China;TWN;ROW
+Tanzania, United Republic of;TZA;ROW
+Uganda;UGA;ROW
+Ukraine;UKR;ROW
+United States Minor Outlying Islands;UMI;ROW
+Uruguay;URY;ROW
+United States;USA;USA
+Uzbekistan;UZB;ROW
+Holy See (Vatican City State);VAT;ROW
+Saint Vincent and the Grenadines;VCT;ROW
+Venezuela, Bolivarian Republic of;VEN;ROW
+Virgin Islands, British;VGB;ROW
+Virgin Islands, U.S.;VIR;ROW
+Viet Nam;VNM;VNM
+Vanuatu;VUT;ROW
+Wallis and Futuna;WLF;ROW
+Samoa;WSM;ROW
+Yemen;YEM;ROW
+South Africa;ZAF;SAF
+Zambia;ZMB;ROW
+Zimbabwe;ZWE;ROW

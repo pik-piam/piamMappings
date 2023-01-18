@@ -1,0 +1,19 @@
+ipcc,magpie,fao
+broilers,livst_chick,"1053|Chickens, broilers"
+ducks,livst_chick,1068|Ducks
+turkey,livst_chick,1079|Turkeys
+poultry layers,livst_egg,"1052|Chickens, layers"
+dairy buffalo,livst_milk,946|Buffaloes
+dairy camels,livst_milk,1760|Camels and Llamas
+dairy cows,livst_milk,"960|Cattle, dairy"
+dairy goats,livst_milk,1016|Goats
+dairy sheep,livst_milk,976|Sheep
+mules and asses,livst_rum,1759|Mules and Asses
+breeding swine,livst_pig,"1051|Swine, breeding"
+horses,livst_rum,1096|Horses
+market swine,livst_pig,"1049|Swine, market"
+other camels,livst_rum,1760|Camels and Llamas
+other buffalo,livst_rum,946|Buffaloes
+other cattle,livst_rum,"961|Cattle, non-dairy"
+other goats,livst_rum,1016|Goats
+other sheep,livst_rum,976|Sheep

@@ -1,0 +1,37 @@
+GAINS,REMIND,noef,elasticity
+CEMENT,GDP|MER (billion US$2005/yr),0,0.4
+CHEM,GDP|MER (billion US$2005/yr),1,0.4
+CHEMBULK,GDP|MER (billion US$2005/yr),1,0.4
+CUSM,GDP|MER (billion US$2005/yr),1,0.4
+NACID,GDP|MER (billion US$2005/yr),0,0.4
+PAPER,GDP|MER (billion US$2005/yr),0,0.4
+STEEL,GDP|MER (billion US$2005/yr),0,0.4
+End_Use_Industry_Bio_Trad,Final Energy|Solids|Biomass|Traditional (EJ/yr),0,1
+End_Use_Industry_Coal,Final Energy|Solids|Coal (EJ/yr),0,1
+End_Use_Industry_HLF,Final Energy|Other Sector|Liquids (EJ/yr),0,1
+End_Use_Industry_LLF,Final Energy|Other Sector|Liquids (EJ/yr),0,1
+End_Use_Industry_NatGas,Final Energy|Other Sector|Gases (EJ/yr),0,1
+End_Use_Residential_Bio_Mod,Final Energy|Solids|Biomass|Modern (EJ/yr),0,1
+End_Use_Residential_Bio_Trad,Final Energy|Solids|Biomass|Traditional (EJ/yr),0,1
+End_Use_Residential_Coal,Final Energy|Solids|Coal (EJ/yr),0,1
+End_Use_Residential_HLF,Final Energy|Other Sector|Liquids (EJ/yr),0,1
+End_Use_Residential_LLF,Final Energy|Other Sector|Liquids (EJ/yr),0,1
+End_Use_Residential_NatGas,Final Energy|Other Sector|Gases (EJ/yr),0,1
+End_Use_Services_Bio_Trad,Final Energy|Solids|Biomass|Traditional (EJ/yr),0,1
+End_Use_Services_Coal,Final Energy|Solids|Coal (EJ/yr),0,1
+End_Use_Transport_HLF,Final Energy|Transportation|Liquids (EJ/yr),0,1
+End_Use_Transport_LLF,Final Energy|Transportation|Liquids (EJ/yr),0,1
+End_Use_Transport_NatGas,Final Energy|Transportation|Liquids (EJ/yr),0,1
+Losses_Coal,Primary Energy|Coal (EJ/yr),1,1
+Losses_Distribution_Use,Primary Energy|Oil (EJ/yr),1,1
+Losses_Vent_Flare,Primary Energy|Gas (EJ/yr),0,1
+Power_Gen_Bio_Trad,Secondary Energy|Electricity|Coal (EJ/yr),0,1
+Power_Gen_Coal,Secondary Energy|Electricity|Coal (EJ/yr),0,1
+Power_Gen_HLF,Secondary Energy|Electricity|Oil (EJ/yr),0,1
+Power_Gen_LLF,Secondary Energy|Electricity|Oil (EJ/yr),0,1
+Power_Gen_NatGas,Secondary Energy|Electricity|Gas (EJ/yr),0,1
+Transformations_Coal,Secondary Energy|Solids|Coal (EJ/yr),1,1
+Transformations_HLF,Primary Energy|Oil (EJ/yr),1,1
+Transformations_HLF_Refinery,Primary Energy|Oil (EJ/yr),0,1
+Transformations_LLF,Primary Energy|Oil (EJ/yr),0,1
+Transformations_NatGas,Primary Energy|Gas (EJ/yr),1,1

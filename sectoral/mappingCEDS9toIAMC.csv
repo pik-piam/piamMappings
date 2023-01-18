@@ -1,0 +1,32 @@
+IAMC,CEDS9
+AFOLU|Aggregate - Agriculture and Biomass Burning,Agriculture
+AFOLU|Land|Forest Burning,Forest Burning
+AFOLU|Land|Grassland Burning,Grassland Burning
+Energy|Demand|Aggregate - Residential and Commercial and AFOFI,Residential Commercial Other
+Energy|Demand|Industry,Industrial Sector
+Energy|Demand|Transportation|Aviation,Aircraft
+Energy|Demand|Transportation|Aggregate - Road Rail and Domestic Shipping,Transportation Sector
+Energy|Demand|Transportation|Shipping|International,International Shipping
+Energy|Supply,Energy Sector
+Product Use|Solvents,Solvents Production and Application
+Waste,Waste
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

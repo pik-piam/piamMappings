@@ -1,0 +1,97 @@
+Food group,FBS item
+wheat,Wheat and products
+rice,Rice (Milled Equivalent)
+rice,Rice (Paddy Equivalent)
+othr_grains,Barley and products
+maize,Maize and products
+othr_grains,Oats
+othr_grains,Millet and products
+othr_grains,Sorghum and products
+othr_grains,Rye and products
+othr_grains,"Cereals, Other"
+roots,Cassava and products
+roots,Potatoes and products
+roots,Sweet potatoes
+roots,Yams
+roots,"Roots, Other"
+sugar_cane,Sugar cane
+sugar_beet,Sugar beet
+sugar,Sugar (Raw Equivalent)
+sugar,Sugar non-centrifugal
+sugar,"Sweeteners, Other"
+sugar,Honey
+legumes,Beans
+legumes,Peas
+legumes,"Pulses, Other and products"
+soybeans,Soyabeans
+nuts,Nuts and products
+nuts,Groundnuts (Shelled Eq)
+seeds,Sunflower seed
+seeds,Rape and Mustardseed
+seeds,Cottonseed
+seeds,Coconuts - Incl Copra
+seeds,Sesame seed
+seeds,Palm kernels
+seeds,"Oilcrops, Other"
+oil_veg,Soyabean Oil
+oil_veg,Sunflowerseed Oil
+oil_veg,Rape and Mustard Oil
+oil_veg,Cottonseed Oil
+oil_veg,Groundnut Oil
+oil_veg,Sesameseed Oil
+oil_veg,Olive Oil
+oil_veg,Maize Germ Oil
+oil_veg,Ricebran Oil
+oil_veg,"Oilcrops Oil, Other"
+oil_palm,Palmkernel Oil
+oil_palm,Palm Oil
+oil_palm,Coconut Oil
+Vegetables,Tomatoes and products
+Vegetables,Onions
+Vegetables,"Vegetables, Other"
+fruits_trop,"Oranges, Mandarines"
+fruits_trop,"Lemons, Limes and products"
+fruits_trop,Grapefruit and products
+fruits_trop,"Citrus, Other"
+fruits_trop,Pineapples and products
+fruits_trop,Dates
+fruits_starch,Bananas
+fruits_starch,Plantains
+fruits_temp,Apples and products
+fruits_temp,Grapes and products (excl wine)
+fruits_temp,Olives (including preserved)
+fruits_temp,"Fruits, Other"
+beef,Bovine Meat
+lamb,Mutton & Goat Meat
+pork,Pigmeat
+poultry,Poultry Meat
+othr_meat,"Meat, Other"
+offals,"Offals, Edible"
+eggs,Eggs
+milk,Milk - Excluding Butter
+butter,"Butter, Ghee"
+cream,Cream
+lard,"Fats, Animals, Raw"
+oil_fish,"Fish, Liver Oil"
+oil_fish,"Fish, Body Oil"
+fish_freshw,Freshwater Fish
+fish_demrs,Demersal Fish
+fish_pelag,Pelagic Fish
+fish_other,"Marine Fish, Other"
+shellfish,Crustaceans
+shellfish,Cephalopods
+shellfish,"Molluscs, Other"
+fish_other,Aquatic Plants
+fish_other,"Aquatic Animals, Others"
+Stimulants,Coffee and products
+Stimulants,Cocoa Beans and products
+Stimulants,Tea (including mate)
+Spices,Pepper
+Spices,Pimento
+Spices,Cloves
+Spices,"Spices, Other"
+alcohol,Wine
+alcohol,Beer
+alcohol,"Beverages, Fermented"
+alcohol,"Beverages, Alcoholic"
+othrcrp,Infant food

@@ -1,0 +1,34 @@
+mif;agmip;Item;unit;weight
+Nutrition|+|Calorie Supply (kcal/capita/day);CALO;AGR;kcal/capita/day;NULL
+Nutrition|Calorie Supply|+|Crops (kcal/capita/day);CALO;CRP;kcal/capita/day;NULL
+Nutrition|Calorie Supply|+|Fish (kcal/capita/day);CALO;FSH;kcal/capita/day;NULL
+Nutrition|Calorie Supply|+|Livestock products (kcal/capita/day);CALO;LSP;kcal/capita/day;NULL
+Nutrition|Calorie Supply|+|Secondary products (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Crops|+|Cereals (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Crops|+|Oil crops (kcal/capita/day);CALO;OSD;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|+|Other crops (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Crops|+|Sugar crops (kcal/capita/day);CALO;SGC;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Cereals|+|Maize (kcal/capita/day);CALO;CGR;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Cereals|+|Rice (kcal/capita/day);CALO;RIC;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Cereals|+|Temperate cereals (kcal/capita/day);CALO;WHT;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Cereals|+|Tropical cereals (kcal/capita/day);CALO;CGR;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Oil crops|+|Groundnuts (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Crops|Oil crops|+|Other oil crops (incl rapeseed) (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Crops|Oil crops|+|Soybean (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Crops|Oil crops|+|Sunflower (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Crops|Other crops|+|Fruits Vegetables Nuts (kcal/capita/day);CALO;VFN;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Other crops|+|Potatoes (kcal/capita/day);CALO;OCR;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Other crops|+|Pulses (kcal/capita/day);CALO;OCR;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Other crops|+|Tropical roots (kcal/capita/day);CALO;OCR;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Crops|Sugar crops|+|Sugar beet (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Crops|Sugar crops|+|Sugar cane (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Livestock products|+|Eggs (kcal/capita/day);CALO;OAP;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Livestock products|+|Pig meat (kcal/capita/day);CALO;NRM;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Livestock products|+|Poultry meat (kcal/capita/day);CALO;NRM;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Livestock products|+|Ruminant meat (kcal/capita/day);CALO;RUM;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Livestock products|+|Ruminant milk (kcal/capita/day);CALO;DRY;kcal/capita/day;NULL
+Nutrition|Calorie Supply|Secondary products|+|Alcoholic beverages (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Secondary products|+|Molasses (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Secondary products|+|Oils (kcal/capita/day);;;kcal/capita/day;
+Nutrition|Calorie Supply|Secondary products|+|Sugar (kcal/capita/day);;;kcal/capita/day;
+Population (million people);POPT;TOT;million;NULL

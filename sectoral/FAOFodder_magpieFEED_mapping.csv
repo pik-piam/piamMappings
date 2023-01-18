@@ -1,0 +1,17 @@
+ProductionItem,MAgPIE_FEED_items,LUH_croptype
+"636|Forage and silage, maize",foddr_maiz,c4ann
+"637|Forage and silage, sorghum",foddr_gras,c4ann
+"638|Forage and silage, rye grass",foddr_gras,c3ann
+"639|Forage and silage, grasses nes",foddr_gras,c3ann
+"640|Forage and silage, clover",foddr_gras,c3nfx
+"641|Forage and silage, alfalfa",foddr_gras,c3nfx
+"642|Forage and silage, green oilseeds",foddr_gras,c3ann
+"643|Forage and silage, legumes",foddr_gras,c3nfx
+644|Cabbage for fodder,foddr_veg,c3ann
+645|Pumpkins for Fodder,foddr_veg,c3ann
+646|Turnips for fodder,foddr_veg,c3ann
+647|Beets for fodder,foddr_veg,c3ann
+648|Carrots for fodder,foddr_veg,c3ann
+649|Swedes for fodder,foddr_veg,c3ann
+651|Forage products,foddr_veg,c3ann
+655|Vegetables and roots fodder,foddr_veg,c3ann

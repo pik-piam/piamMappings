@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Aruba;ABW;Free
+Afghanistan;AFG;Free
+Angola;AGO;PPCA
+Anguilla;AIA;Free
+Aland Islands;ALA;Free
+Albania;ALB;PPCA
+Andorra;AND;Free
+United Arab Emirates;ARE;Free
+Argentina;ARG;Free
+Armenia;ARM;Free
+American Samoa;ASM;Free
+Antarctica;ATA;Free
+French Southern Territories;ATF;Free
+Antigua and Barbuda;ATG;Free
+Australia;AUS;Free
+Austria;AUT;PPCA
+Azerbaijan;AZE;Free
+Burundi;BDI;Free
+Belgium;BEL;PPCA
+Benin;BEN;Free
+Bonaire, Sint Eustatius and Saba;BES;Free
+Burkina Faso;BFA;Free
+Bangladesh;BGD;Free
+Bulgaria;BGR;Free
+Bahrain;BHR;Free
+Bahamas;BHS;Free
+Bosnia and Herzegovina;BIH;Free
+Saint Barthelemy;BLM;Free
+Belarus;BLR;Free
+Belize;BLZ;Free
+Bermuda;BMU;Free
+Bolivia, Plurinational State of;BOL;Free
+Brazil;BRA;Free
+Barbados;BRB;Free
+Brunei Darussalam;BRN;Free
+Bhutan;BTN;Free
+Bouvet Island;BVT;Free
+Botswana;BWA;Free
+Central African Republic;CAF;Free
+Canada;CAN;PPCA
+Cocos (Keeling) Islands;CCK;Free
+Switzerland;CHE;PPCA
+Chile;CHL;Free
+China;CHN;Free
+Cote d Ivoire;CIV;Free
+Cameroon;CMR;Free
+Congo, the Democratic Republic of the;COD;Free
+Congo;COG;Free
+Cook Islands;COK;Free
+Colombia;COL;Free
+Comoros;COM;Free
+Cape Verde;CPV;Free
+Costa Rica;CRI;PPCA
+Cuba;CUB;Free
+Curacao;CUW;Free
+Christmas Island;CXR;Free
+Cayman Islands;CYM;Free
+Cyprus;CYP;Free
+Czech Republic;CZE;Free
+Germany;DEU;PPCA
+Djibouti;DJI;Free
+Dominica;DMA;Free
+Denmark;DNK;PPCA
+Dominican Republic;DOM;Free
+Algeria;DZA;Free
+Ecuador;ECU;Free
+Egypt;EGY;Free
+Eritrea;ERI;Free
+Western Sahara;ESH;Free
+Spain;ESP;PPCA
+Estonia;EST;Free
+Ethiopia;ETH;PPCA
+Finland;FIN;PPCA
+Fiji;FJI;PPCA
+Falkland Islands (Malvinas);FLK;Free
+France;FRA;PPCA
+Faroe Islands;FRO;Free
+Micronesia, Federated States of;FSM;Free
+Gabon;GAB;Free
+United Kingdom;GBR;PPCA
+Georgia;GEO;Free
+Guernsey;GGY;Free
+Ghana;GHA;Free
+Gibraltar;GIB;Free
+Guinea;GIN;Free
+Guadeloupe;GLP;Free
+Gambia;GMB;Free
+Guinea-Bissau;GNB;Free
+Equatorial Guinea;GNQ;Free
+Greece;GRC;PPCA
+Grenada;GRD;Free
+Greenland;GRL;Free
+Guatemala;GTM;Free
+French Guiana;GUF;Free
+Guam;GUM;Free
+Guyana;GUY;Free
+Hong Kong;HKG;Free
+Heard Island and McDonald Islands;HMD;Free
+Honduras;HND;Free
+Croatia;HRV;PPCA
+Haiti;HTI;Free
+Hungary;HUN;PPCA
+Indonesia;IDN;Free
+Isle of Man;IMN;Free
+India;IND;Free
+British Indian Ocean Territory;IOT;Free
+Ireland;IRL;PPCA
+Iran, Islamic Republic of;IRN;Free
+Iraq;IRQ;Free
+Iceland;ISL;Free
+Israel;ISR;PPCA
+Italy;ITA;PPCA
+Jamaica;JAM;Free
+Jersey;JEY;Free
+Jordan;JOR;Free
+Japan;JPN;Free
+Kazakhstan;KAZ;Free
+Kenya;KEN;Free
+Kyrgyzstan;KGZ;Free
+Cambodia;KHM;Free
+Kiribati;KIR;Free
+Saint Kitts and Nevis;KNA;Free
+Korea, Republic of;KOR;Free
+Kuwait;KWT;Free
+Lao People's Democratic Republic;LAO;Free
+Lebanon;LBN;Free
+Liberia;LBR;Free
+Libya;LBY;Free
+Saint Lucia;LCA;Free
+Liechtenstein;LIE;PPCA
+Sri Lanka;LKA;Free
+Lesotho;LSO;Free
+Lithuania;LTU;PPCA
+Luxembourg;LUX;PPCA
+Latvia;LVA;PPCA
+Macao;MAC;Free
+Saint Martin (French part);MAF;Free
+Morocco;MAR;Free
+Monaco;MCO;Free
+Moldova, Republic of;MDA;Free
+Madagascar;MDG;Free
+Maldives;MDV;Free
+Mexico;MEX;PPCA
+Marshall Islands;MHL;PPCA
+Macedonia, the former Yugoslav Republic of;MKD;PPCA
+Mali;MLI;Free
+Malta;MLT;Free
+Myanmar;MMR;Free
+Montenegro;MNE;PPCA
+Mongolia;MNG;Free
+Northern Mariana Islands;MNP;Free
+Mozambique;MOZ;Free
+Mauritania;MRT;Free
+Montserrat;MSR;Free
+Martinique;MTQ;Free
+Mauritius;MUS;Free
+Malawi;MWI;Free
+Malaysia;MYS;Free
+Mayotte;MYT;Free
+Namibia;NAM;Free
+New Caledonia;NCL;Free
+Niger;NER;Free
+Norfolk Island;NFK;Free
+Nigeria;NGA;Free
+Nicaragua;NIC;Free
+Niue;NIU;PPCA
+Netherlands;NLD;PPCA
+Norway;NOR;Free
+Nepal;NPL;Free
+Nauru;NRU;Free
+New Zealand;NZL;PPCA
+Oman;OMN;Free
+Pakistan;PAK;Free
+Panama;PAN;Free
+Pitcairn;PCN;Free
+Peru;PER;PPCA
+Philippines;PHL;Free
+Palau;PLW;Free
+Papua New Guinea;PNG;Free
+Poland;POL;Free
+Puerto Rico;PRI;Free
+Korea, Democratic People's Republic of;PRK;Free
+Portugal;PRT;PPCA
+Paraguay;PRY;Free
+Palestine, State of;PSE;Free
+French Polynesia;PYF;Free
+Qatar;QAT;Free
+Reunion;REU;Free
+Romania;ROU;Free
+Russian Federation;RUS;Free
+Rwanda;RWA;Free
+Saudi Arabia;SAU;Free
+Sudan;SDN;Free
+Senegal;SEN;PPCA
+Singapore;SGP;Free
+South Georgia and the South Sandwich Islands;SGS;Free
+Saint Helena, Ascension and Tristan da Cunha;SHN;Free
+Svalbard and Jan Mayen;SJM;Free
+Solomon Islands;SLB;Free
+Sierra Leone;SLE;Free
+El Salvador;SLV;PPCA
+San Marino;SMR;Free
+Somalia;SOM;Free
+Saint Pierre and Miquelon;SPM;Free
+Serbia;SRB;Free
+South Sudan;SSD;Free
+Sao Tome and Principe;STP;Free
+Suriname;SUR;Free
+Slovakia;SVK;PPCA
+Slovenia;SVN;Free
+Sweden;SWE;PPCA
+Swaziland;SWZ;Free
+Sint Maarten (Dutch part);SXM;Free
+Seychelles;SYC;Free
+Syrian Arab Republic;SYR;Free
+Turks and Caicos Islands;TCA;Free
+Chad;TCD;Free
+Togo;TGO;Free
+Thailand;THA;Free
+Tajikistan;TJK;Free
+Tokelau;TKL;Free
+Turkmenistan;TKM;Free
+Timor-Leste;TLS;Free
+Tonga;TON;Free
+Trinidad and Tobago;TTO;Free
+Tunisia;TUN;Free
+Turkey;TUR;Free
+Tuvalu;TUV;PPCA
+Taiwan, Province of China;TWN;Free
+Tanzania, United Republic of;TZA;Free
+Uganda;UGA;Free
+Ukraine;UKR;Free
+United States Minor Outlying Islands;UMI;Free
+Uruguay;URY;PPCA
+United States;USA;Free
+Uzbekistan;UZB;Free
+Holy See (Vatican City State);VAT;Free
+Saint Vincent and the Grenadines;VCT;Free
+Venezuela, Bolivarian Republic of;VEN;Free
+Virgin Islands, British;VGB;Free
+Virgin Islands, U.S.;VIR;Free
+Viet Nam;VNM;Free
+Vanuatu;VUT;PPCA
+Wallis and Futuna;WLF;Free
+Samoa;WSM;Free
+Yemen;YEM;Free
+South Africa;ZAF;Free
+Zambia;ZMB;Free
+Zimbabwe;ZWE;Free

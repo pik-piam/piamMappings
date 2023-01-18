@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Angola;AGO;Africa
+French Southern Territories;ATF;Africa
+Burundi;BDI;Africa
+Benin;BEN;Africa
+Burkina Faso;BFA;Africa
+Bouvet Island;BVT;Africa
+Botswana;BWA;Africa
+Central African Republic;CAF;Africa
+Cote d Ivoire;CIV;Africa
+Cameroon;CMR;Africa
+Congo, the Democratic Republic of the;COD;Africa
+Congo;COG;Africa
+Comoros;COM;Africa
+Cape Verde;CPV;Africa
+Djibouti;DJI;Africa
+Eritrea;ERI;Africa
+Western Sahara;ESH;Africa
+Ethiopia;ETH;Africa
+Gabon;GAB;Africa
+Ghana;GHA;Africa
+Guinea;GIN;Africa
+Gambia;GMB;Africa
+Guinea-Bissau;GNB;Africa
+Equatorial Guinea;GNQ;Africa
+Kenya;KEN;Africa
+Liberia;LBR;Africa
+Lesotho;LSO;Africa
+Madagascar;MDG;Africa
+Mali;MLI;Africa
+Mozambique;MOZ;Africa
+Mauritania;MRT;Africa
+Mauritius;MUS;Africa
+Malawi;MWI;Africa
+Mayotte;MYT;Africa
+Namibia;NAM;Africa
+Niger;NER;Africa
+Nigeria;NGA;Africa
+Rwanda;RWA;Africa
+Sudan;SDN;Africa
+Senegal;SEN;Africa
+Saint Helena, Ascension and Tristan da Cunha;SHN;Africa
+Sierra Leone;SLE;Africa
+Somalia;SOM;Africa
+South Sudan;SSD;Africa
+Sao Tome and Principe;STP;Africa
+Swaziland;SWZ;Africa
+Seychelles;SYC;Africa
+Chad;TCD;Africa
+Togo;TGO;Africa
+Tanzania, United Republic of;TZA;Africa
+Uganda;UGA;Africa
+South Africa;ZAF;Africa
+Zambia;ZMB;Africa
+Zimbabwe;ZWE;Africa
+China;CHN;Eastern_Asia
+Hong Kong;HKG;Eastern_Asia
+Cambodia;KHM;Eastern_Asia
+Lao People's Democratic Republic;LAO;Eastern_Asia
+Macao;MAC;Eastern_Asia
+Mongolia;MNG;Eastern_Asia
+Taiwan, Province of China;TWN;Eastern_Asia
+Viet Nam;VNM;Eastern_Asia
+Aland Islands;ALA;Europe
+Albania;ALB;Europe
+Andorra;AND;Europe
+Austria;AUT;Europe
+Belgium;BEL;Europe
+Bulgaria;BGR;Europe
+Bosnia and Herzegovina;BIH;Europe
+Switzerland;CHE;Europe
+Cyprus;CYP;Europe
+Czech Republic;CZE;Europe
+Germany;DEU;Europe
+Denmark;DNK;Europe
+Spain;ESP;Europe
+Estonia;EST;Europe
+Finland;FIN;Europe
+France;FRA;Europe
+Faroe Islands;FRO;Europe
+United Kingdom;GBR;Europe
+Guernsey;GGY;Europe
+Gibraltar;GIB;Europe
+Greece;GRC;Europe
+Greenland;GRL;Europe
+Croatia;HRV;Europe
+Hungary;HUN;Europe
+Isle of Man;IMN;Europe
+Ireland;IRL;Europe
+Iceland;ISL;Europe
+Italy;ITA;Europe
+Jersey;JEY;Europe
+Liechtenstein;LIE;Europe
+Lithuania;LTU;Europe
+Luxembourg;LUX;Europe
+Latvia;LVA;Europe
+Monaco;MCO;Europe
+Macedonia, the former Yugoslav Republic of;MKD;Europe
+Malta;MLT;Europe
+Montenegro;MNE;Europe
+Netherlands;NLD;Europe
+Norway;NOR;Europe
+Poland;POL;Europe
+Portugal;PRT;Europe
+Romania;ROU;Europe
+Svalbard and Jan Mayen;SJM;Europe
+San Marino;SMR;Europe
+Serbia;SRB;Europe
+Slovakia;SVK;Europe
+Slovenia;SVN;Europe
+Sweden;SWE;Europe
+Turkey;TUR;Europe
+Holy See (Vatican City State);VAT;Europe
+Armenia;ARM;North_Asia
+Azerbaijan;AZE;North_Asia
+Belarus;BLR;North_Asia
+Georgia;GEO;North_Asia
+Kazakhstan;KAZ;North_Asia
+Kyrgyzstan;KGZ;North_Asia
+Moldova, Republic of;MDA;North_Asia
+Russian Federation;RUS;North_Asia
+Tajikistan;TJK;North_Asia
+Turkmenistan;TKM;North_Asia
+Ukraine;UKR;North_Asia
+Uzbekistan;UZB;North_Asia
+Aruba;ABW;Central_and_South_America
+Anguilla;AIA;Central_and_South_America
+Argentina;ARG;Central_and_South_America
+Antarctica;ATA;Central_and_South_America
+Antigua and Barbuda;ATG;Central_and_South_America
+Bonaire, Sint Eustatius and Saba;BES;Central_and_South_America
+Bahamas;BHS;Central_and_South_America
+Saint Barthelemy;BLM;Central_and_South_America
+Belize;BLZ;Central_and_South_America
+Bolivia, Plurinational State of;BOL;Central_and_South_America
+Brazil;BRA;Central_and_South_America
+Barbados;BRB;Central_and_South_America
+Chile;CHL;Central_and_South_America
+Colombia;COL;Central_and_South_America
+Costa Rica;CRI;Central_and_South_America
+Cuba;CUB;Central_and_South_America
+Curacao;CUW;Central_and_South_America
+Cayman Islands;CYM;Central_and_South_America
+Dominica;DMA;Central_and_South_America
+Dominican Republic;DOM;Central_and_South_America
+Ecuador;ECU;Central_and_South_America
+Falkland Islands (Malvinas);FLK;Central_and_South_America
+Guadeloupe;GLP;Central_and_South_America
+Grenada;GRD;Central_and_South_America
+Guatemala;GTM;Central_and_South_America
+French Guiana;GUF;Central_and_South_America
+Guyana;GUY;Central_and_South_America
+Honduras;HND;Central_and_South_America
+Haiti;HTI;Central_and_South_America
+Jamaica;JAM;Central_and_South_America
+Saint Kitts and Nevis;KNA;Central_and_South_America
+Saint Lucia;LCA;Central_and_South_America
+Saint Martin (French part);MAF;Central_and_South_America
+Mexico;MEX;Central_and_South_America
+Montserrat;MSR;Central_and_South_America
+Martinique;MTQ;Central_and_South_America
+Nicaragua;NIC;Central_and_South_America
+Panama;PAN;Central_and_South_America
+Peru;PER;Central_and_South_America
+Paraguay;PRY;Central_and_South_America
+South Georgia and the South Sandwich Islands;SGS;Central_and_South_America
+El Salvador;SLV;Central_and_South_America
+Suriname;SUR;Central_and_South_America
+Sint Maarten (Dutch part);SXM;Central_and_South_America
+Turks and Caicos Islands;TCA;Central_and_South_America
+Trinidad and Tobago;TTO;Central_and_South_America
+Uruguay;URY;Central_and_South_America
+Saint Vincent and the Grenadines;VCT;Central_and_South_America
+Venezuela, Bolivarian Republic of;VEN;Central_and_South_America
+Virgin Islands, British;VGB;Central_and_South_America
+Virgin Islands, U.S.;VIR;Central_and_South_America
+United Arab Emirates;ARE;Central_and_South_America
+Bahrain;BHR;Central_and_South_America
+Algeria;DZA;Central_and_South_America
+Egypt;EGY;Central_and_South_America
+Iran, Islamic Republic of;IRN;Central_and_South_America
+Iraq;IRQ;Central_and_South_America
+Israel;ISR;Central_and_South_America
+Jordan;JOR;Central_and_South_America
+Kuwait;KWT;Central_and_South_America
+Lebanon;LBN;Central_and_South_America
+Libya;LBY;Central_and_South_America
+Morocco;MAR;Central_and_South_America
+Oman;OMN;Central_and_South_America
+Palestine, State of;PSE;Central_and_South_America
+Qatar;QAT;Central_and_South_America
+Saudi Arabia;SAU;Central_and_South_America
+Syrian Arab Republic;SYR;Central_and_South_America
+Tunisia;TUN;Central_and_South_America
+Yemen;YEM;Central_and_South_America
+Bermuda;BMU;North_America
+Canada;CAN;North_America
+Puerto Rico;PRI;North_America
+Saint Pierre and Miquelon;SPM;North_America
+United States Minor Outlying Islands;UMI;North_America
+United States;USA;North_America
+American Samoa;ASM;Oceania
+Australia;AUS;Oceania
+Cocos (Keeling) Islands;CCK;Oceania
+Cook Islands;COK;Oceania
+Christmas Island;CXR;Oceania
+Heard Island and McDonald Islands;HMD;Oceania
+Japan;JPN;Oceania
+Norfolk Island;NFK;Oceania
+Niue;NIU;Oceania
+New Zealand;NZL;Oceania
+French Polynesia;PYF;Oceania
+Tokelau;TKL;Oceania
+Brunei Darussalam;BRN;Southern_Asia
+Fiji;FJI;Southern_Asia
+Micronesia, Federated States of;FSM;Southern_Asia
+Guam;GUM;Southern_Asia
+Indonesia;IDN;Southern_Asia
+Kiribati;KIR;Southern_Asia
+Korea, Republic of;KOR;Southern_Asia
+Marshall Islands;MHL;Southern_Asia
+Northern Mariana Islands;MNP;Southern_Asia
+Malaysia;MYS;Southern_Asia
+New Caledonia;NCL;Southern_Asia
+Nauru;NRU;Southern_Asia
+Pitcairn;PCN;Southern_Asia
+Philippines;PHL;Southern_Asia
+Palau;PLW;Southern_Asia
+Papua New Guinea;PNG;Southern_Asia
+Korea, Democratic People's Republic of;PRK;Southern_Asia
+Singapore;SGP;Southern_Asia
+Solomon Islands;SLB;Southern_Asia
+Thailand;THA;Southern_Asia
+Timor-Leste;TLS;Southern_Asia
+Tonga;TON;Southern_Asia
+Tuvalu;TUV;Southern_Asia
+Vanuatu;VUT;Southern_Asia
+Wallis and Futuna;WLF;Southern_Asia
+Samoa;WSM;Southern_Asia
+Afghanistan;AFG;South_Asia
+Bangladesh;BGD;South_Asia
+Bhutan;BTN;South_Asia
+India;IND;South_Asia
+British Indian Ocean Territory;IOT;South_Asia
+Sri Lanka;LKA;South_Asia
+Maldives;MDV;South_Asia
+Myanmar;MMR;South_Asia
+Nepal;NPL;South_Asia
+Pakistan;PAK;South_Asia
+Reunion;REU;South_Asia

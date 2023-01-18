@@ -1,0 +1,240 @@
+X;CountryCode;RegionCode;Extended region code;Native Region Name
+AFGANISTAN                              ;AFG;Rest South Asia;RSAS;Rest S. Asia
+ALBANIA                                 ;ALB;Central Europe;CEU;C. Europe
+ALGERIA                                 ;DZA;Northern Africa;NAF;N. Africa
+AMERICAN SAMOA                          ;ASM;Oceania;OCE;Oceania
+ANDORRA                                 ;AND;Western Europe;WEU;W. Europe
+ANGOLA                                  ;AGO;South Africa;RSAF;Rest S. Africa
+ANGUILLA                                ;AIA;Rest Central America;RCAM;Rest C. America
+ANTARCTICA                              ;ATA;;N/A;N/A
+ANTIGUA AND BARBUDA                       ;ATG;;N/A;N/A
+ARGENTINA                               ;ARG;Rest South America;RSAM;Rest S. America
+ARMENIA                                 ;ARM;Russia+;RUS;Russia
+ARUBA                                   ;ABW;Rest Central America;RCAM;Rest C. America
+AUSTRALIA                               ;AUS;Oceania;OCE;Oceania
+AUSTRIA                                 ;AUT;Western Europe;WEU;W. Europe
+AZERBAIJAN                              ;AZE;Russia+;RUS;Russia
+BAHAMAS                                 ;BHS;Rest Central America;RCAM;Rest C. America
+BAHRAIN                                 ;BHR;Middle East;ME;Middle East
+BANGLADESH                              ;BGD;Rest South Asia;RSAS;Rest S. Asia
+BARBADOS                                ;BRB;Rest Central America;RCAM;Rest C. America
+BELARUS                                 ;BLR;Ukraine+;UKR;Ukraine region
+BELGIUM                                 ;BEL;Western Europe;WEU;W. Europe
+BELIZE                                  ;BLZ;Rest Central America;RCAM;Rest C. America
+BENIN                                   ;BEN;Western Africa;WAF;W. Africa
+BERMUDA                                 ;BMU;Rest Central America;RCAM;Rest C. America
+BHUTAN                                  ;BTN;Rest South Asia;RSAS;Rest S. Asia
+BOLIVIA                                 ;BOL;Rest South America;RSAM;Rest S. America
+BOSNIA AND HERZEGOVINA                    ;BIH;Central Europe;CEU;C. Europe
+BOTSWANA                                ;BWA;South Africa;RSAF;Rest S. Africa
+BOUVET ISLAND;BVT;;N/A;N/A
+BRAZIL                                  ;BRA;Brazil;BRA;Brazil
+BRITISH INDIAN OCEAN TERRITORY;IOT;;N/A;N/A
+BRUNEI DARUSSALAM                       ;BRN;Southeastern Asia;SEAS;SE. Asia
+BULGARIA                                ;BGR;Central Europe;CEU;C. Europe
+BURKINA FASO                            ;BFA;Western Africa;WAF;W. Africa
+BURUNDI                                 ;BDI;;EAF;E. Africa
+CAMBODIA                                ;KHM;Southeastern Asia;SEAS;SE. Asia
+CAMEROON                                ;CMR;Western Africa;WAF;W. Africa
+CANADA                                  ;CAN;Canada;CAN;Canada
+CAPE VERDE                              ;CPV;Western Africa;WAF;W. Africa
+CAYMAN ISLANDS                          ;CYM;Rest Central America;RCAM;Rest C. America
+CENTRAL AFRICAN REPUBLIC                ;CAF;Western Africa;WAF;W. Africa
+CHAD                                    ;TCD;Western Africa;WAF;W. Africa
+CHILE                                   ;CHL;Rest South America;RSAM;Rest S. America
+CHINA                                   ;CHN;China+;CHN;China
+CHRISTMAS ISLAND                        ;CXR;;N/A;N/A
+COCOS (KEELING) ISLANDS                 ;CCK;;N/A;N/A
+COLOMBIA                                ;COL;Rest South America;RSAM;Rest S. America
+COMOROS                                 ;COM;;EAF;E. Africa
+CONGO                                   ;COG;Western Africa;WAF;W. Africa
+CONGO, THE DEMOCRATIC REPUBLIC OF THE;COD;Western Africa;WAF;W. Africa
+COOK ISLANDS                            ;COK;Oceania;OCE;Oceania
+COSTA RICA                              ;CRI;Rest Central America;RCAM;Rest C. America
+CÔTE D'IVOIRE;CIV;Western Africa;WAF;W. Africa
+CROATIA;HRV;Central Europe;CEU;C. Europe
+CUBA                                    ;CUB;Rest Central America;RCAM;Rest C. America
+CYPRUS                                  ;CYP;Central Europe;CEU;C. Europe
+CZECH REPUBLIC                          ;CZE;Central Europe;CEU;C. Europe
+DENMARK                                 ;DNK;Western Europe;WEU;W. Europe
+DJIBOUTI                                ;DJI;;EAF;E. Africa
+DOMINICA                                ;DMA;Rest Central America;RCAM;Rest C. America
+DOMINICAN REPUBLIC                      ;DOM;Rest Central America;RCAM;Rest C. America
+EAST TIMOR;TLS;Southeastern Asia;SEAS;SE. Asia
+ECUADOR                                 ;ECU;Rest South America;RSAM;Rest S. America
+EGYPT                                   ;EGY;Northern Africa;NAF;N. Africa
+EL SALVADOR                             ;SLV;Rest Central America;RCAM;Rest C. America
+EQUATORIAL GUINEA                       ;GNQ;Western Africa;WAF;W. Africa
+ERITREA                                 ;ERI;;EAF;E. Africa
+ESTONIA                                 ;EST;Central Europe;CEU;C. Europe
+ETHIOPIA                                ;ETH;;EAF;E. Africa
+FALKLANDS ISLANDS (MALVINAS)            ;FLK;Rest South America;RSAM;Rest S. America
+FAROE ISLANDS;FRO;Western Europe;WEU;W. Europe
+FIJI                                    ;FJI;Oceania;OCE;Oceania
+FINLAND                                 ;FIN;Western Europe;WEU;W. Europe
+FRANCE                                  ;FRA;Western Europe;WEU;W. Europe
+FRENCH GUIANA                           ;GUF;Rest South America;RSAM;Rest S. America
+FRENCH POLYNESIA;PYF;Oceania;OCE;Oceania
+FRENCH SOUTHERN TERRITORIES             ;ATF;;N/A;N/A
+GABON                                   ;GAB;Western Africa;WAF;W. Africa
+GAMBIA                                  ;GMB;Western Africa;WAF;W. Africa
+GEORGIA                                 ;GEO;Russia+;RUS;Russia
+GERMANY                                 ;DEU;Western Europe;WEU;W. Europe
+GHANA                                   ;GHA;Western Africa;WAF;W. Africa
+GIBRALTAR                               ;GIB;Western Europe;WEU;W. Europe
+GREECE                                  ;GRC;Western Europe;WEU;W. Europe
+GREENLAND                               ;GRL;South Africa;RSAF;Rest S. Africa
+GRENADA                                 ;GRD;Rest Central America;RCAM;Rest C. America
+GUADELOUPE                              ;GLP;Rest Central America;RCAM;Rest C. America
+GUAM                                    ;GUM;;N/A;N/A
+GUATEMALA                               ;GTM;Rest Central America;RCAM;Rest C. America
+GUINEA                                  ;GIN;Western Africa;WAF;W. Africa
+GUINEA-BISSAU                           ;GNB;Western Africa;WAF;W. Africa
+GUYANA                                  ;GUY;Rest South America;RSAM;Rest S. America
+HAITI                                   ;HTI;Rest Central America;RCAM;Rest C. America
+HEARD ISLAND AND MCDONALD ISLANDS         ;HMD;;N/A;N/A
+HOLY SEE (VATICAN CITY STATE);VAT;;N/A;N/A
+HONDURAS                                ;HND;Rest Central America;RCAM;Rest C. America
+HONG KONG                               ;HKG;China+;CHN;China
+HUNGARY                                 ;HUN;Central Europe;CEU;C. Europe
+ICELAND                                 ;ISL;Western Europe;WEU;W. Europe
+INDIA                                   ;IND;India;INDIA;India
+INDONESIA                               ;IDN;Indonesia+;INDO;Indonesia
+IRAN, ISLAMIC REPUBLIC OF;IRN;Middle East;ME;Middle East
+IRAQ                                    ;IRQ;Middle East;ME;Middle East
+IRELAND                                 ;IRL;Western Europe;WEU;W. Europe
+ISRAEL                                  ;ISR;Middle East;ME;Middle East
+ITALY                                   ;ITA;Western Europe;WEU;W. Europe
+JAMAICA                                 ;JAM;Rest Central America;RCAM;Rest C. America
+JAPAN                                   ;JPN;Japan;JAP;Japan
+JORDAN                                  ;JOR;Middle East;ME;Middle East
+KAZAKSTAN;KAZ;Asia-Stan;STAN;Kazakhstan region
+KENYA                                   ;KEN;;EAF;E. Africa
+KIRIBATI                                ;KIR;Oceania;OCE;Oceania
+KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF;PRK;Korea;KOR;Korea
+KOREA, REPUBLIC OF;KOR;Korea;KOR;Korea
+KUWAIT                                  ;KWT;Middle East;ME;Middle East
+KYRGYZSTAN                              ;KGZ;Asia-Stan;STAN;Kazakhstan region
+LAO PEOPLE'S DEMOCRATIC REPUBLIC;LAO;Southeastern Asia;SEAS;SE. Asia
+LATVIA                                  ;LVA;Central Europe;CEU;C. Europe
+LEBANON                                 ;LBN;Middle East;ME;Middle East
+LESOTHO                                 ;LSO;South Africa;RSAF;Rest S. Africa
+LIBERIA                                 ;LBR;Western Africa;WAF;W. Africa
+LIBYAN ARAB JAMAHIRIYA;LBY;Northern Africa;NAF;N. Africa
+LIECHTENSTEIN                           ;LIE;Western Europe;WEU;W. Europe
+LITHUANIA                               ;LTU;Central Europe;CEU;C. Europe
+LUXEMBOURG                              ;LUX;Western Europe;WEU;W. Europe
+MACAU                                   ;MAC;China+;CHN;China
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF;MKD;Central Europe;CEU;C. Europe
+MADAGASCAR                              ;MDG;;EAF;E. Africa
+MALAWI                                  ;MWI;South Africa;RSAF;Rest S. Africa
+MALAYSIA                                ;MYS;Southeastern Asia;SEAS;SE. Asia
+MALDIVES                                ;MDV;Rest South Asia;RSAS;Rest S. Asia
+MALI                                    ;MLI;Western Africa;WAF;W. Africa
+MALTA                                   ;MLT;Western Europe;WEU;W. Europe
+MARSHALL ISLANDS                        ;MHL;Oceania;OCE;Oceania
+MARTINIQUE                              ;MTQ;Rest Central America;RCAM;Rest C. America
+MAURITANIA                              ;MRT;Western Africa;WAF;W. Africa
+MAURITIUS                               ;MUS;;EAF;E. Africa
+MAYOTTE                                 ;MYT;;N/A;N/A
+MEXICO                                  ;MEX;Mexico;MEX;Mexico
+MICRONESIA, FEDERATED STATES OF;FSM;Oceania;OCE;Oceania
+MOLDOVA, REPUBLIC OF;MDA;Ukraine+;UKR;Ukraine region
+MONACO                                  ;MCO;Western Europe;WEU;W. Europe
+MONGOLIA                                ;MNG;China+;CHN;China
+MONTENEGRO;MNE;;N/A;N/A
+MONTSERRAT                              ;MSR;Rest Central America;RCAM;Rest C. America
+MOROCCO                                 ;MAR;Northern Africa;NAF;N. Africa
+MOZAMBIQUE                              ;MOZ;South Africa;RSAF;Rest S. Africa
+MYANMAR                                 ;MMR;Southeastern Asia;SEAS;SE. Asia
+NAMIBIA                                 ;NAM;South Africa;RSAF;Rest S. Africa
+NAURU                                   ;NRU;Oceania;OCE;Oceania
+NEPAL                                   ;NPL;Rest South Asia;RSAS;Rest S. Asia
+NETHERLANDS                             ;NLD;Western Europe;WEU;W. Europe
+NETHERLANDS ANTILLES                    ;ANT;Rest Central America;RCAM;Rest C. America
+NEW CALEDONIA                           ;NCL;Oceania;OCE;Oceania
+NEW ZEALAND                             ;NZL;Oceania;OCE;Oceania
+NICARAGUA                               ;NIC;Rest Central America;RCAM;Rest C. America
+NIGER                                   ;NER;Western Africa;WAF;W. Africa
+NIGERIA                                 ;NGA;Western Africa;WAF;W. Africa
+NIUE                                    ;NIU;Oceania;OCE;Oceania
+NORFOLK ISLAND                          ;NFK;Oceania;OCE;Oceania
+NORTHERN MARIANA ISLANDS                ;MNP;;N/A;N/A
+NORWAY                                  ;NOR;Western Europe;WEU;W. Europe
+OMAN                                    ;OMN;Middle East;ME;Middle East
+PAKISTAN                                ;PAK;Rest South Asia;RSAS;Rest S. Asia
+PALAU                                   ;PLW;Oceania;OCE;Oceania
+PANAMA                                  ;PAN;Rest Central America;RCAM;Rest C. America
+PAPUA NEW GUINEA                        ;PNG;Indonesia+;INDO;Indonesia
+PARAGUAY                                ;PRY;Rest South America;RSAM;Rest S. America
+PERU                                    ;PER;Rest South America;RSAM;Rest S. America
+PHILIPPINES                             ;PHL;Southeastern Asia;SEAS;SE. Asia
+PITCAIRN                                ;PCN;Oceania;OCE;Oceania
+POLAND                                  ;POL;Central Europe;CEU;C. Europe
+PORTUGAL                                ;PRT;Western Europe;WEU;W. Europe
+PUERTO RICO                             ;PRI;Rest Central America;RCAM;Rest C. America
+QATAR                                   ;QAT;Middle East;ME;Middle East
+RÉUNION                                 ;REU;;EAF;E. Africa
+ROMANIA                                 ;ROU;Central Europe;CEU;C. Europe
+RUSSIAN FEDERATION                      ;RUS;Russia+;RUS;Russia
+RWANDA                                  ;RWA;;EAF;E. Africa
+SAINT HELENA                            ;SHN;Western Africa;WAF;W. Africa
+SAINT KITTS AND NEVIS ;KNA;Rest Central America;RCAM;Rest C. America
+SAINT LUCIA                             ;LCA;Rest Central America;RCAM;Rest C. America
+SAINT PIERRE AND MIQUELON    ;SPM;USA;USA;USA
+SAINT VINCENT AND THE GRENADINES;VCT;Rest Central America;RCAM;Rest C. America
+SAMOA                                   ;WSM;Oceania;OCE;Oceania
+SAN MARINO                              ;SMR;Western Europe;WEU;W. Europe
+SAO TOME AND PRINCIPE;STP;Western Africa;WAF;W. Africa
+SAUDI ARABIA                            ;SAU;Middle East;ME;Middle East
+SENEGAL                                 ;SEN;Western Africa;WAF;W. Africa
+SERBIA;SRB;Central Europe;CEU;C. Europe
+SEYCHELLES                              ;SYC;;EAF;E. Africa
+SIERRA LEONE                            ;SLE;Western Africa;WAF;W. Africa
+SINGAPORE                               ;SGP;Southeastern Asia;SEAS;SE. Asia
+SLOVAKIA                                ;SVK;Central Europe;CEU;C. Europe
+SLOVENIA                                ;SVN;Central Europe;CEU;C. Europe
+SOLOMON ISLANDS                         ;SLB;Oceania;OCE;Oceania
+SOMALIA                                 ;SOM;;EAF;E. Africa
+SOUTH AFRICA                            ;ZAF;South Africa;SAF;South Africa
+SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS;SGS;;N/A;N/A
+SPAIN                                   ;ESP;Western Europe;WEU;W. Europe
+SRI LANKA;LKA;Rest South Asia;RSAS;Rest S. Asia
+SUDAN                                   ;SDN;;EAF;E. Africa
+SURINAME                                ;SUR;Rest South America;RSAM;Rest S. America
+SVALBARD AND JAN MAYEN                                      ;SJM;;N/A;N/A
+SWAZILAND                               ;SWZ;South Africa;RSAF;Rest S. Africa
+SWEDEN                                  ;SWE;Western Europe;WEU;W. Europe
+SWITZERLAND                             ;CHE;Western Europe;WEU;W. Europe
+SYRIAN ARAB REPUBLIC;SYR;Middle East;ME;Middle East
+TAIWAN, PROVINCE OF CHINA                                   ;TWN;China+;CHN;China
+TAJIKISTAN                              ;TJK;Asia-Stan;STAN;Kazakhstan region
+TANZANIA, UNITED REPUBLIC OF;TZA;South Africa;RSAF;Rest S. Africa
+THAILAND                                ;THA;Southeastern Asia;SEAS;SE. Asia
+TOGO                                    ;TGO;Western Africa;WAF;W. Africa
+TOKELAU                                 ;TKL;Oceania;OCE;Oceania
+TONGA                                   ;TON;Oceania;OCE;Oceania
+TRINIDAD AND TOBAGO;TTO;Rest Central America;RCAM;Rest C. America
+TUNISIA                                 ;TUN;Northern Africa;NAF;N. Africa
+TURKEY                                  ;TUR;Turkey;TUR;Turkey
+TURKMENISTAN                            ;TKM;Asia-Stan;STAN;Kazakhstan region
+TURKS AND CAICOS ISLANDS                                    ;TCA;Rest Central America;RCAM;Rest C. America
+TUVALU                                  ;TUV;Oceania;OCE;Oceania
+UGANDA                                  ;UGA;;EAF;E. Africa
+UKRAINE                                 ;UKR;Ukraine+;UKR;Ukraine region
+UNITED ARAB EMIRATES                    ;ARE;Middle East;ME;Middle East
+UNITED KINGDOM                          ;GBR;Western Europe;WEU;W. Europe
+UNITED STATES                           ;USA;USA;USA;USA
+UNITED STATES MINOR OUTLYING ISLANDS    ;UMI;;N/A;N/A
+URUGUAY                                 ;URY;Rest South America;RSAM;Rest S. America
+UZBEKISTAN                              ;UZB;Asia-Stan;STAN;Kazakhstan region
+VANUATU                                 ;VUT;Oceania;OCE;Oceania
+VENEZUELA                               ;VEN;Rest South America;RSAM;Rest S. America
+VIET NAM                                ;VNM;Southeastern Asia;SEAS;SE. Asia
+VIRGIN ISLANDS, BRITISH;VGB;Rest Central America;RCAM;Rest C. America
+VIRGIN ISLANDS, U.S.;VIR;Rest Central America;RCAM;Rest C. America
+WALLIS AND FUTUNA;WLF;Oceania;OCE;Oceania
+WESTERN SAHARA                          ;ESH;Northern Africa;NAF;N. Africa
+YEMEN                                   ;YEM;Middle East;ME;Middle East
+ZAMBIA                                  ;ZMB;South Africa;RSAF;Rest S. Africa
+ZIMBABWE                                ;ZWE;South Africa;RSAF;Rest S. Africa

@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Angola;AGO;AFR
+French Southern Territories;ATF;AFR
+Burundi;BDI;AFR
+Benin;BEN;AFR
+Burkina Faso;BFA;AFR
+Bouvet Island;BVT;AFR
+Botswana;BWA;AFR
+Central African Republic;CAF;AFR
+Cote d Ivoire;CIV;AFR
+Cameroon;CMR;AFR
+Congo, the Democratic Republic of the;COD;AFR
+Congo;COG;AFR
+Comoros;COM;AFR
+Cape Verde;CPV;AFR
+Djibouti;DJI;AFR
+Eritrea;ERI;AFR
+Western Sahara;ESH;AFR
+Ethiopia;ETH;AFR
+Gabon;GAB;AFR
+Ghana;GHA;AFR
+Guinea;GIN;AFR
+Gambia;GMB;AFR
+Guinea-Bissau;GNB;AFR
+Equatorial Guinea;GNQ;AFR
+Kenya;KEN;AFR
+Liberia;LBR;AFR
+Lesotho;LSO;AFR
+Madagascar;MDG;AFR
+Mali;MLI;AFR
+Mozambique;MOZ;AFR
+Mauritania;MRT;AFR
+Mauritius;MUS;AFR
+Malawi;MWI;AFR
+Mayotte;MYT;AFR
+Namibia;NAM;AFR
+Niger;NER;AFR
+Nigeria;NGA;AFR
+Rwanda;RWA;AFR
+Sudan;SDN;AFR
+Senegal;SEN;AFR
+Saint Helena, Ascension and Tristan da Cunha;SHN;AFR
+Sierra Leone;SLE;AFR
+Somalia;SOM;AFR
+South Sudan;SSD;AFR
+Sao Tome and Principe;STP;AFR
+Swaziland;SWZ;AFR
+Seychelles;SYC;AFR
+Chad;TCD;AFR
+Togo;TGO;AFR
+Tanzania, United Republic of;TZA;AFR
+Uganda;UGA;AFR
+South Africa;ZAF;AFR
+Zambia;ZMB;AFR
+Zimbabwe;ZWE;AFR
+China;CHN;CHN
+Hong Kong;HKG;CHN
+Cambodia;KHM;OAS
+Lao People's Democratic Republic;LAO;OAS
+Macao;MAC;CHN
+Mongolia;MNG;OAS
+Taiwan, Province of China;TWN;CHN
+Viet Nam;VNM;OAS
+Aland Islands;ALA;EUR
+Albania;ALB;EUR
+Andorra;AND;EUR
+Austria;AUT;EUR
+Belgium;BEL;EUR
+Bulgaria;BGR;EUR
+Bosnia and Herzegovina;BIH;EUR
+Switzerland;CHE;EUR
+Cyprus;CYP;EUR
+Czech Republic;CZE;EUR
+Germany;DEU;EUR
+Denmark;DNK;EUR
+Spain;ESP;EUR
+Estonia;EST;EUR
+Finland;FIN;EUR
+France;FRA;EUR
+Faroe Islands;FRO;EUR
+United Kingdom;GBR;EUR
+Guernsey;GGY;EUR
+Gibraltar;GIB;EUR
+Greece;GRC;EUR
+Greenland;GRL;EUR
+Croatia;HRV;EUR
+Hungary;HUN;EUR
+Isle of Man;IMN;EUR
+Ireland;IRL;EUR
+Iceland;ISL;EUR
+Italy;ITA;EUR
+Jersey;JEY;EUR
+Liechtenstein;LIE;EUR
+Lithuania;LTU;EUR
+Luxembourg;LUX;EUR
+Latvia;LVA;EUR
+Monaco;MCO;EUR
+Macedonia, the former Yugoslav Republic of;MKD;EUR
+Malta;MLT;EUR
+Montenegro;MNE;EUR
+Netherlands;NLD;EUR
+Norway;NOR;EUR
+Poland;POL;EUR
+Portugal;PRT;EUR
+Romania;ROU;EUR
+Svalbard and Jan Mayen;SJM;EUR
+San Marino;SMR;EUR
+Serbia;SRB;EUR
+Slovakia;SVK;EUR
+Slovenia;SVN;EUR
+Sweden;SWE;EUR
+Turkey;TUR;EUR
+Holy See (Vatican City State);VAT;EUR
+Armenia;ARM;FSU
+Azerbaijan;AZE;FSU
+Belarus;BLR;FSU
+Georgia;GEO;FSU
+Kazakhstan;KAZ;FSU
+Kyrgyzstan;KGZ;FSU
+Moldova, Republic of;MDA;FSU
+Russian Federation;RUS;FSU
+Tajikistan;TJK;FSU
+Turkmenistan;TKM;FSU
+Ukraine;UKR;FSU
+Uzbekistan;UZB;FSU
+Aruba;ABW;LAM
+Anguilla;AIA;LAM
+Argentina;ARG;LAM
+Antarctica;ATA;OCN
+Antigua and Barbuda;ATG;LAM
+Bonaire, Sint Eustatius and Saba;BES;LAM
+Bahamas;BHS;LAM
+Saint Barthelemy;BLM;LAM
+Belize;BLZ;LAM
+Bolivia, Plurinational State of;BOL;LAM
+Brazil;BRA;LAM
+Barbados;BRB;LAM
+Chile;CHL;LAM
+Colombia;COL;LAM
+Costa Rica;CRI;LAM
+Cuba;CUB;LAM
+Curacao;CUW;LAM
+Cayman Islands;CYM;LAM
+Dominica;DMA;LAM
+Dominican Republic;DOM;LAM
+Ecuador;ECU;LAM
+Falkland Islands (Malvinas);FLK;LAM
+Guadeloupe;GLP;LAM
+Grenada;GRD;LAM
+Guatemala;GTM;LAM
+French Guiana;GUF;LAM
+Guyana;GUY;LAM
+Honduras;HND;LAM
+Haiti;HTI;LAM
+Jamaica;JAM;LAM
+Saint Kitts and Nevis;KNA;LAM
+Saint Lucia;LCA;LAM
+Saint Martin (French part);MAF;LAM
+Mexico;MEX;LAM
+Montserrat;MSR;LAM
+Martinique;MTQ;LAM
+Nicaragua;NIC;LAM
+Panama;PAN;LAM
+Peru;PER;LAM
+Paraguay;PRY;LAM
+South Georgia and the South Sandwich Islands;SGS;LAM
+El Salvador;SLV;LAM
+Suriname;SUR;LAM
+Sint Maarten (Dutch part);SXM;LAM
+Turks and Caicos Islands;TCA;LAM
+Trinidad and Tobago;TTO;LAM
+Uruguay;URY;LAM
+Saint Vincent and the Grenadines;VCT;LAM
+Venezuela, Bolivarian Republic of;VEN;LAM
+Virgin Islands, British;VGB;LAM
+Virgin Islands, U.S.;VIR;LAM
+United Arab Emirates;ARE;OAS
+Bahrain;BHR;OAS
+Algeria;DZA;OAS
+Egypt;EGY;OAS
+Iran, Islamic Republic of;IRN;OAS
+Iraq;IRQ;OAS
+Israel;ISR;OAS
+Jordan;JOR;OAS
+Kuwait;KWT;OAS
+Lebanon;LBN;OAS
+Libya;LBY;OAS
+Morocco;MAR;OAS
+Oman;OMN;OAS
+Palestine, State of;PSE;OAS
+Qatar;QAT;OAS
+Saudi Arabia;SAU;OAS
+Syrian Arab Republic;SYR;OAS
+Tunisia;TUN;OAS
+Yemen;YEM;OAS
+Bermuda;BMU;NAM
+Canada;CAN;NAM
+Puerto Rico;PRI;NAM
+Saint Pierre and Miquelon;SPM;NAM
+United States Minor Outlying Islands;UMI;NAM
+United States;USA;NAM
+American Samoa;ASM;OAS
+Australia;AUS;OAS
+Cocos (Keeling) Islands;CCK;OAS
+Cook Islands;COK;OAS
+Christmas Island;CXR;OAS
+Heard Island and McDonald Islands;HMD;OAS
+Japan;JPN;OAS
+Norfolk Island;NFK;OAS
+Niue;NIU;OAS
+New Zealand;NZL;OAS
+French Polynesia;PYF;OAS
+Tokelau;TKL;OAS
+Brunei Darussalam;BRN;OAS
+Fiji;FJI;OAS
+Micronesia, Federated States of;FSM;OAS
+Guam;GUM;OAS
+Indonesia;IDN;OAS
+Kiribati;KIR;OAS
+Korea, Republic of;KOR;OAS
+Marshall Islands;MHL;OAS
+Northern Mariana Islands;MNP;OAS
+Malaysia;MYS;OAS
+New Caledonia;NCL;OAS
+Nauru;NRU;OAS
+Pitcairn;PCN;OAS
+Philippines;PHL;OAS
+Palau;PLW;OAS
+Papua New Guinea;PNG;OAS
+Korea, Democratic People's Republic of;PRK;OAS
+Singapore;SGP;OAS
+Solomon Islands;SLB;OAS
+Thailand;THA;OAS
+Timor-Leste;TLS;OAS
+Tonga;TON;OAS
+Tuvalu;TUV;OAS
+Vanuatu;VUT;OAS
+Wallis and Futuna;WLF;OAS
+Samoa;WSM;OAS
+Afghanistan;AFG;OAS
+Bangladesh;BGD;OAS
+Bhutan;BTN;OAS
+India;IND;IND
+British Indian Ocean Territory;IOT;OAS
+Sri Lanka;LKA;OAS
+Maldives;MDV;OAS
+Myanmar;MMR;OAS
+Nepal;NPL;OAS
+Pakistan;PAK;OAS
+Reunion;REU;OAS

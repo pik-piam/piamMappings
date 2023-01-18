@@ -1,0 +1,53 @@
+CEDS16,GAINS
+Electricity and Heat Production,Power_Gen_Bio_Trad_New
+Electricity and Heat Production,Power_Gen_Bio_Trad_Old
+Electricity and Heat Production,Power_Gen_Coal_New
+Electricity and Heat Production,Power_Gen_Coal_Old
+Electricity and Heat Production,Power_Gen_HLF
+Electricity and Heat Production,Power_Gen_HLF_CCS
+Electricity and Heat Production,Power_Gen_LLF
+Electricity and Heat Production,Power_Gen_NatGas
+Fuel Production and Transformation,Transformations_Coal
+Fuel Production and Transformation,Transformations_HLF
+Fuel Production and Transformation,Transformations_HLF_Refinery
+Fuel Production and Transformation,Transformations_LLF
+Fuel Production and Transformation,Transformations_NatGas
+Industrial Combustion,End_Use_Industry_Bio_Trad
+Industrial Combustion,End_Use_Industry_Coal
+Industrial Combustion,End_Use_Industry_HLF
+Industrial Combustion,End_Use_Industry_LLF
+Industrial Combustion,End_Use_Industry_NatGas
+Industrial Process and Product Use,CEMENT
+Industrial Process and Product Use,CHEMBULK
+Industrial Process and Product Use,CUSM
+Industrial Process and Product Use,NACID
+Industrial Process and Product Use,PAPER
+Industrial Process and Product Use,STEEL
+Non-Road Transportation,End_Use_Transport_OFF_HLF
+Non-Road Transportation,End_Use_Transport_OFF_LLF
+Oil and Gas Fugitive/Flaring,Losses_Distribution_Use
+Oil and Gas Fugitive/Flaring,Losses_Prod_Conventional_Gas
+Oil and Gas Fugitive/Flaring,Losses_Prod_Oil
+Fuel Production and Transformation,Losses_Coal
+Residential Commercial Other - Other,End_Use_Transport_AGR_HLF
+Residential Commercial Other - Residential Commercial,End_Use_Residential_Bio_Mod
+Residential Commercial Other - Residential Commercial,End_Use_Residential_Bio_Trad_Cook
+Residential Commercial Other - Residential Commercial,End_Use_Residential_Bio_Trad_Heat
+Residential Commercial Other - Residential Commercial,End_Use_Residential_Coal_Cook
+Residential Commercial Other - Residential Commercial,End_Use_Residential_Coal_Heat
+Residential Commercial Other - Residential Commercial,End_Use_Residential_HLF
+Residential Commercial Other - Residential Commercial,End_Use_Residential_LLF
+Residential Commercial Other - Residential Commercial,End_Use_Residential_NatGas
+Residential Commercial Other - Residential Commercial,End_Use_Services_Bio_Trad_Heat
+Residential Commercial Other - Residential Commercial,End_Use_Services_Coal_Heat
+Road Transportation,End_Use_Transport_HDT_HLF
+Road Transportation,End_Use_Transport_HDT_LLF
+Road Transportation,End_Use_Transport_LDT_HLF
+Road Transportation,End_Use_Transport_LDT_LLF
+Road Transportation,End_Use_Transport_MC_LLF
+Road Transportation,End_Use_Transport_NatGas
+Solvents Production and Application,CHEM
+Waste,Waste_Solid_Industrial
+Waste,Waste_Solid_Municipal
+Waste,Waste_Water_Industrial
+Waste,Waste_Water_Municipal

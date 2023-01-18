@@ -1,0 +1,10 @@
+REMIND_variable;UBA_variable;Unit_REMIND
+Emi|CO2|w/o Non-energy Use;Emi|CO2|ohne LULUCF;Mt CO2/yr
+Emi|CO2|Energy|Supply;Emi|CO2|Energiewirtschaft;Mt CO2/yr
+Emi|CO2|Energy|Demand|Buildings;Emi|CO2|Gebäude;Mt CO2/yr
+Emi|CO2|Energy|Demand|Transport;Emi|CO2|Verkehr;Mt CO2/yr
+Emi|GHG|w/o Non-energy Use;Emi|GHG|ohne LULUCF;Mt CO2-equiv/yr
+Emi|GHG|w/o Non-energy Use|Energy;Emi|GHG|Energiewirtschaft;Mt CO2-equiv/yr
+Emi|GHG|Industry;Emi|GHG|Industrie;Mt CO2-equiv/yr
+Emi|GHG|ESR|Agriculture;Emi|GHG|Landwirtschaft;Mt CO2-equiv/yr
+Emi|GHG|ESR|Waste;Emi|GHG|Abfallwirtschaft und Sonstiges;Mt CO2-equiv/yr

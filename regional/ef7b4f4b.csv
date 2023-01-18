@@ -1,0 +1,250 @@
+X;CountryCode;EU27_map
+Afghanistan;AFG;rest
+Aland Islands;ALA;EU27
+Albania;ALB;rest
+Algeria;DZA;rest
+American Samoa;ASM;rest
+Andorra;AND;rest
+Angola;AGO;rest
+Anguilla;AIA;rest
+Antarctica;ATA;rest
+Antigua and Barbuda;ATG;rest
+Argentina;ARG;rest
+Armenia;ARM;rest
+Aruba;ABW;rest
+Australia;AUS;rest
+Austria;AUT;EU27
+Azerbaijan;AZE;rest
+Bahamas;BHS;rest
+Bahrain;BHR;rest
+Bangladesh;BGD;rest
+Barbados;BRB;rest
+Belarus;BLR;rest
+Belgium;BEL;EU27
+Belize;BLZ;rest
+Benin;BEN;rest
+Bermuda;BMU;rest
+Bhutan;BTN;rest
+Bolivia, Plurinational State of;BOL;rest
+Bonaire, Sint Eustatius and Saba;BES;rest
+Bosnia and Herzegovina;BIH;rest
+Botswana;BWA;rest
+Bouvet Island;BVT;rest
+Brazil;BRA;rest
+British Indian Ocean Territory;IOT;rest
+Brunei Darussalam;BRN;rest
+Bulgaria;BGR;EU27
+Burkina Faso;BFA;rest
+Burundi;BDI;rest
+Cambodia;KHM;rest
+Cameroon;CMR;rest
+Canada;CAN;rest
+Cape Verde;CPV;rest
+Cayman Islands;CYM;rest
+Central African Republic;CAF;rest
+Chad;TCD;rest
+Chile;CHL;rest
+China;CHN;rest
+Christmas Island;CXR;rest
+Cocos (Keeling) Islands;CCK;rest
+Colombia;COL;rest
+Comoros;COM;rest
+Congo;COG;rest
+Congo, the Democratic Republic of the;COD;rest
+Cook Islands;COK;rest
+Costa Rica;CRI;rest
+Cote d Ivoire;CIV;rest
+Croatia;HRV;EU27
+Cuba;CUB;rest
+Curacao;CUW;rest
+Cyprus;CYP;EU27
+Czech Republic;CZE;EU27
+Denmark;DNK;EU27
+Djibouti;DJI;rest
+Dominica;DMA;rest
+Dominican Republic;DOM;rest
+Ecuador;ECU;rest
+Egypt;EGY;rest
+El Salvador;SLV;rest
+Equatorial Guinea;GNQ;rest
+Eritrea;ERI;rest
+Estonia;EST;EU27
+Ethiopia;ETH;rest
+Falkland Islands (Malvinas);FLK;rest
+Faroe Islands;FRO;EU27
+Fiji;FJI;rest
+Finland;FIN;EU27
+France;FRA;EU27
+French Guiana;GUF;rest
+French Polynesia;PYF;rest
+French Southern Territories;ATF;rest
+Gabon;GAB;rest
+Gambia;GMB;rest
+Georgia;GEO;rest
+Germany;DEU;EU27
+Ghana;GHA;rest
+Gibraltar;GIB;rest
+Greece;GRC;EU27
+Greenland;GRL;rest
+Grenada;GRD;rest
+Guadeloupe;GLP;rest
+Guam;GUM;rest
+Guatemala;GTM;rest
+Guernsey;GGY;rest
+Guinea;GIN;rest
+Guinea-Bissau;GNB;rest
+Guyana;GUY;rest
+Haiti;HTI;rest
+Heard Island and McDonald Islands;HMD;rest
+Holy See (Vatican City State);VAT;rest
+Honduras;HND;rest
+Hong Kong;HKG;rest
+Hungary;HUN;EU27
+Iceland;ISL;rest
+India;IND;rest
+Indonesia;IDN;rest
+Iran, Islamic Republic of;IRN;rest
+Iraq;IRQ;rest
+Ireland;IRL;rest
+Isle of Man;IMN;rest
+Israel;ISR;rest
+Italy;ITA;EU27
+Jamaica;JAM;rest
+Japan;JPN;rest
+Jersey;JEY;rest
+Jordan;JOR;rest
+Kazakhstan;KAZ;rest
+Kenya;KEN;rest
+Kiribati;KIR;rest
+Korea, Democratic People's Republic of;PRK;rest
+Korea, Republic of;KOR;rest
+Kuwait;KWT;rest
+Kyrgyzstan;KGZ;rest
+Lao People's Democratic Republic;LAO;rest
+Latvia;LVA;EU27
+Lebanon;LBN;rest
+Lesotho;LSO;rest
+Liberia;LBR;rest
+Libya;LBY;rest
+Liechtenstein;LIE;rest
+Lithuania;LTU;EU27
+Luxembourg;LUX;EU27
+Macao;MAC;rest
+Macedonia, the former Yugoslav Republic of;MKD;rest
+Madagascar;MDG;rest
+Malawi;MWI;rest
+Malaysia;MYS;rest
+Maldives;MDV;rest
+Mali;MLI;rest
+Malta;MLT;EU27
+Marshall Islands;MHL;rest
+Martinique;MTQ;rest
+Mauritania;MRT;rest
+Mauritius;MUS;rest
+Mayotte;MYT;rest
+Mexico;MEX;rest
+Micronesia, Federated States of;FSM;rest
+Moldova, Republic of;MDA;rest
+Monaco;MCO;rest
+Mongolia;MNG;rest
+Montenegro;MNE;rest
+Montserrat;MSR;rest
+Morocco;MAR;rest
+Mozambique;MOZ;rest
+Myanmar;MMR;rest
+Namibia;NAM;rest
+Nauru;NRU;rest
+Nepal;NPL;rest
+Netherlands;NLD;EU27
+New Caledonia;NCL;rest
+New Zealand;NZL;rest
+Nicaragua;NIC;rest
+Niger;NER;rest
+Nigeria;NGA;rest
+Niue;NIU;rest
+Norfolk Island;NFK;rest
+Northern Mariana Islands;MNP;rest
+Norway;NOR;rest
+Oman;OMN;rest
+Pakistan;PAK;rest
+Palau;PLW;rest
+Palestine, State of;PSE;rest
+Panama;PAN;rest
+Papua New Guinea;PNG;rest
+Paraguay;PRY;rest
+Peru;PER;rest
+Philippines;PHL;rest
+Pitcairn;PCN;rest
+Poland;POL;EU27
+Portugal;PRT;EU27
+Puerto Rico;PRI;rest
+Qatar;QAT;rest
+Reunion;REU;rest
+Romania;ROU;EU27
+Russian Federation;RUS;rest
+Rwanda;RWA;rest
+Saint Barthelemy;BLM;rest
+Saint Helena, Ascension and Tristan da Cunha;SHN;rest
+Saint Kitts and Nevis;KNA;rest
+Saint Lucia;LCA;rest
+Saint Martin (French part);MAF;rest
+Saint Pierre and Miquelon;SPM;rest
+Saint Vincent and the Grenadines;VCT;rest
+Samoa;WSM;rest
+San Marino;SMR;rest
+Sao Tome and Principe;STP;rest
+Saudi Arabia;SAU;rest
+Senegal;SEN;rest
+Serbia;SRB;rest
+Seychelles;SYC;rest
+Sierra Leone;SLE;rest
+Singapore;SGP;rest
+Sint Maarten (Dutch part);SXM;rest
+Slovakia;SVK;EU27
+Slovenia;SVN;EU27
+Solomon Islands;SLB;rest
+Somalia;SOM;rest
+South Africa;ZAF;rest
+South Georgia and the South Sandwich Islands;SGS;rest
+South Sudan;SSD;rest
+Spain;ESP;EU27
+Sri Lanka;LKA;rest
+Sudan;SDN;rest
+Suriname;SUR;rest
+Svalbard and Jan Mayen;SJM;rest
+Swaziland;SWZ;rest
+Sweden;SWE;EU27
+Switzerland;CHE;rest
+Syrian Arab Republic;SYR;rest
+Taiwan, Province of China;TWN;rest
+Tajikistan;TJK;rest
+Tanzania, United Republic of;TZA;rest
+Thailand;THA;rest
+Timor-Leste;TLS;rest
+Togo;TGO;rest
+Tokelau;TKL;rest
+Tonga;TON;rest
+Trinidad and Tobago;TTO;rest
+Tunisia;TUN;rest
+Turkey;TUR;rest
+Turkmenistan;TKM;rest
+Turks and Caicos Islands;TCA;rest
+Tuvalu;TUV;rest
+Uganda;UGA;rest
+Ukraine;UKR;rest
+United Arab Emirates;ARE;rest
+United Kingdom;GBR;rest
+United States;USA;rest
+United States Minor Outlying Islands;UMI;rest
+Uruguay;URY;rest
+Uzbekistan;UZB;rest
+Vanuatu;VUT;rest
+Venezuela, Bolivarian Republic of;VEN;rest
+Viet Nam;VNM;rest
+Virgin Islands, British;VGB;rest
+Virgin Islands, U.S.;VIR;rest
+Wallis and Futuna;WLF;rest
+Western Sahara;ESH;rest
+Yemen;YEM;rest
+Zambia;ZMB;rest
+Zimbabwe;ZWE;rest

@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode;Country Aggregate;Code Capri
+Aruba;ABW;LAM;Rest of South and Middle America;SAM
+Afghanistan;AFG;OAS;Asian and Ociania LDC;AOL
+Angola;AGO;SSA;Africcan LDCs;ALD
+Anguilla;AIA;LAM;Rest of South and Middle America;SAM
+Aland Islands;ALA;EUR;Rest of Europe;REU
+Albania;ALB;NEU;Western Balkan countries;BAL
+Andorra;AND;NEU;Rest of Europe;REU
+United Arab Emirates;ARE;MEA;Middle East;MEE
+Argentina;ARG;LAM;Argentina;ARG
+Armenia;ARM;REF;Former Soviet Union nes;FSU
+American Samoa;ASM;OAS;Rest of Asia and Oceania;RAO
+Antarctica;ATA;LAM;Rest of Asia and Oceania;RAO
+French Southern Territories;ATF;OAS;Rest of Asia and Oceania;RAO
+Antigua and Barbuda;ATG;LAM;Middle and South America ACP;MAM
+Australia;AUS;CAZ;Australia and New Zealand;ANZ
+Austria;AUT;EUR;European Union 15;E18
+Azerbaijan;AZE;REF;Former Soviet Union nes;FSU
+Burundi;BDI;SSA;Africcan LDCs;ALD
+Belgium;BEL;EUR;European Union 15;E18
+Benin;BEN;SSA;Africcan LDCs;ALD
+Bonaire, Sint Eustatius and Saba;BES;LAM;Rest of South and Middle America;MAM
+Burkina Faso;BFA;SSA;Africcan LDCs;ALD
+Bangladesh;BGD;OAS;Bangladesh;AOL
+Bulgaria;BGR;EUR;Bulgaria & Romania;E18
+Bahrain;BHR;MEA;Middle East;MEE
+Bahamas;BHS;LAM;Middle and South America ACP;MAM
+Bosnia and Herzegovina;BIH;NEU;Western Balkan countries;BAL
+Saint Barthelemy;BLM;LAM;Rest of South and Middle America;MAM
+Belarus;BLR;REF;Former Soviet Union nes;FSU
+Belize;BLZ;LAM;Middle and South America ACP;MAM
+Bermuda;BMU;LAM;Rest of South and Middle America;MAM
+Bolivia, Plurinational State of;BOL;LAM;Other South American countries;SAM
+Brazil;BRA;LAM;Brazil;BRA
+Barbados;BRB;LAM;Middle and South America ACP;MAM
+Brunei Darussalam;BRN;OAS;Asian South East;ASE
+Bhutan;BTN;OAS;Asian and Ociania LDC;AOL
+Bouvet Island;BVT;LAM;Africa Rest (practically ACP);ACP
+Botswana;BWA;SSA;Africcan LDCs;ALD
+Central African Republic;CAF;SSA;Africcan LDCs;ALD
+Canada;CAN;CAZ;Canada;CAN
+Cocos (Keeling) Islands;CCK;OAS;Rest of Asia and Oceania;RAO
+China;CHN;CHA;China;CHN
+Switzerland;CHE;NEU;Switzerland;REU
+Chile;CHL;LAM;Other South American countries;SAM
+Cote d Ivoire;CIV;SSA;Africa Rest (practically ACP);ACP
+Cameroon;CMR;SSA;Africa Rest (practically ACP);ACP
+Congo, the Democratic Republic of the;COD;SSA;Africcan LDCs;ALD
+Congo;COG;SSA;Africa Rest (practically ACP);ACP
+Cook Islands;COK;OAS;Rest of Asia and Oceania;RAO
+Colombia;COL;LAM;Rest of South and Middle America;SAM
+Comoros;COM;SSA;Africcan LDCs;ALD
+Cape Verde;CPV;SSA;Africa Rest (practically ACP);ACP
+Costa Rica;CRI;LAM;Rest of South and Middle America;SAM
+Cuba;CUB;LAM;Middle and South America ACP;MAM
+Curacao;CUW;LAM;Middle and South America ACP;MAM
+Christmas Island;CXR;OAS;Rest of Asia and Oceania;RAO
+Cayman Islands;CYM;LAM;Rest of South and Middle America;SAM
+Cyprus;CYP;EUR;European Union 10;E10
+Czech Republic;CZE;EUR;European Union 10;E10
+Germany;DEU;EUR;European Union 15;E18
+Djibouti;DJI;SSA;Africcan LDCs;ALD
+Dominica;DMA;LAM;Middle and South America ACP;MAM
+Denmark;DNK;EUR;European Union 15;E18
+Dominican Republic;DOM;LAM;Middle and South America ACP;MAM
+Algeria;DZA;MEA;Other mediterranean countries;MED
+Ecuador;ECU;LAM;Rest of South and Middle America;SAM
+Egypt;EGY;MEA;Other mediterranean countries;MED
+Eritrea;ERI;SSA;Africa Rest (practically ACP);ACP
+Western Sahara;ESH;MEA;Africa Rest (practically ACP);ACP
+Spain;ESP;EUR;European Union 15;E18
+Estonia;EST;EUR;European Union 10;E10
+Ethiopia;ETH;SSA;Ethiopia;ETH
+Finland;FIN;EUR;European Union 15;E18
+Fiji;FJI;OAS;Rest of Asia and Oceania;RAO
+Falkland Islands (Malvinas);FLK;LAM;Rest of South and Middle America;SAM
+France;FRA;EUR;European Union 15;E18
+Faroe Islands;FRO;EUR;Rest of Europe;REU
+Micronesia, Federated States of;FSM;OAS;Rest of Asia and Oceania;RAO
+Gabon;GAB;SSA;Africcan LDCs;ALD
+United Kingdom;GBR;EUR;European Union 15;E18
+Georgia;GEO;REF;Former Soviet Union nes;FSU
+Guernsey;GGY;EUR;Rest of Europe;REU
+Ghana;GHA;SSA;Africa Rest (practically ACP);ACP
+Gibraltar;GIB;EUR;Rest of Europe;REU
+Guinea;GIN;SSA;Rest of Asia and Oceania;RAO
+Guadeloupe;GLP;LAM;Rest of South and Middle America;SAM
+Gambia;GMB;SSA;Africcan LDCs;ALD
+Guinea-Bissau;GNB;SSA;Africcan LDCs;ALD
+Equatorial Guinea;GNQ;SSA;Africa Rest (practically ACP);ACP
+Greece;GRC;EUR;European Union 15;E18
+Grenada;GRD;LAM;Middle and South America ACP;MAM
+Greenland;GRL;NEU;Rest of Europe;REU
+Guatemala;GTM;LAM;Rest of South and Middle America;SAM
+French Guiana;GUF;LAM;Middle and South America ACP;MAM
+Guam;GUM;OAS;Rest of Asia and Oceania;RAO
+Guyana;GUY;LAM;Middle and South America ACP;MAM
+Hong Kong;HKG;CHA;Asian Tigers nes;TIG
+Heard Island and McDonald Islands;HMD;CAZ;Rest of Asia and Oceania;RAO
+Honduras;HND;LAM;Rest of South and Middle America;SAM
+Croatia;HRV;EUR;Western Balkan countries;E18
+Haiti;HTI;LAM;Middle and South America ACP;MAM
+Hungary;HUN;EUR;European Union 10;E10
+Indonesia;IDN;OAS;Malaysia and Indonesia;MAI
+Isle of Man;IMN;EUR;Rest of Europe;REU
+India;IND;IND;India;IND
+British Indian Ocean Territory;IOT;OAS;Rest of Asia and Oceania;RAO
+Ireland;IRL;EUR;European Union 15;E18
+Iran, Islamic Republic of;IRN;MEA;Middle East;MEE
+Iraq;IRQ;MEA;Middle East;MEE
+Iceland;ISL;NEU;Rest of Europe;REU
+Israel;ISR;MEA;Other mediterranean countries;MED
+Italy;ITA;EUR;European Union 15;E18
+Jamaica;JAM;LAM;Middle and South America ACP;MAM
+Jersey;JEY;EUR;Rest of Europe;REU
+Jordan;JOR;MEA;Middle East;MEE
+Japan;JPN;JPN;Japan;JAP
+Kazakhstan;KAZ;REF;Former Soviet Union nes;FSU
+Kenya;KEN;SSA;Africa Rest (practically ACP);ACP
+Kyrgyzstan;KGZ;REF;Former Soviet Union nes;FSU
+Cambodia;KHM;OAS;Asian and Ociania LDC;AOL
+Kiribati;KIR;OAS;Asian and Ociania LDC;AOL
+Saint Kitts and Nevis;KNA;LAM;Middle and South America ACP;MAM
+Korea, Republic of;KOR;OAS;Asian Tigers nes;TIG
+Kuwait;KWT;MEA;Middle East;MEE
+Lao People's Democratic Republic;LAO;OAS;Asian and Ociania LDC;AOL
+Lebanon;LBN;MEA;Middle East;MEE
+Liberia;LBR;SSA;Africcan LDCs;ALD
+Libya;LBY;MEA;Middle East;MEE
+Saint Lucia;LCA;LAM;Middle and South America ACP;MAM
+Liechtenstein;LIE;NEU;Rest of Europe;REU
+Sri Lanka;LKA;OAS;Rest of Asia and Oceania;RAO
+Lesotho;LSO;SSA;Africa Rest (practically ACP);ACP
+Lithuania;LTU;EUR;European Union 10;E10
+Luxembourg;LUX;EUR;European Union 15;E18
+Latvia;LVA;EUR;European Union 10;E10
+Macao;MAC;CHA;Rest of Asia and Oceania;RAO
+Saint Martin (French part);MAF;LAM;Rest of South and Middle America;SAM
+Morocco;MAR;MEA;Morocco;MED
+Monaco;MCO;NEU;Rest of Europe;REU
+Moldova, Republic of;MDA;REF;Former Soviet Union nes;FSU
+Madagascar;MDG;SSA;Africcan LDCs;ALD
+Maldives;MDV;OAS;Asian and Ociania LDC;AOL
+Mexico;MEX;LAM;Mexico;MEX
+Marshall Islands;MHL;OAS;Rest of Asia and Oceania;RAO
+Macedonia, the former Yugoslav Republic of;MKD;NEU;Western Balkan countries;BAL
+Mali;MLI;SSA;Africcan LDCs;ALD
+Malta;MLT;EUR;European Union 10;E10
+Myanmar;MMR;OAS;Asian and Ociania LDC;AOL
+Montenegro;MNE;NEU;Western Balkan countries;BAL
+Mongolia;MNG;OAS;Former Soviet Union nes;FSU
+Northern Mariana Islands;MNP;OAS;Rest of Asia and Oceania;RAO
+Mozambique;MOZ;SSA;Africcan LDCs;ALD
+Mauritania;MRT;SSA;Africa Rest (practically ACP);ACP
+Montserrat;MSR;LAM;Rest of South and Middle America;SAM
+Martinique;MTQ;LAM;Rest of South and Middle America;SAM
+Mauritius;MUS;SSA;Africa Rest (practically ACP);ACP
+Malawi;MWI;SSA;Africcan LDCs;ALD
+Malaysia;MYS;OAS;Malaysia and Indonesia;MAI
+Mayotte;MYT;SSA;Africa Rest (practically ACP);ACP
+Namibia;NAM;SSA;Africa Rest (practically ACP);ACP
+New Caledonia;NCL;OAS;Rest of Asia and Oceania;RAO
+Niger;NER;SSA;Africcan LDCs;ALD
+Norfolk Island;NFK;OAS;Rest of Asia and Oceania;RAO
+Nigeria;NGA;SSA;Africa Rest (practically ACP);ACP
+Nicaragua;NIC;LAM;Rest of South and Middle America;SAM
+Niue;NIU;OAS;Rest of Asia and Oceania;RAO
+Netherlands;NLD;EUR;European Union 15;E18
+Norway;NOR;NEU;Norway;REU
+Nepal;NPL;OAS;Asian and Ociania LDC;AOL
+Nauru;NRU;OAS;Rest of Asia and Oceania;RAO
+New Zealand;NZL;CAZ;Australia and New Zealand;ANZ
+Oman;OMN;MEA;Middle East;MEE
+Pakistan;PAK;OAS;Pakistan;PAK
+Panama;PAN;LAM;Rest of South and Middle America;SAM
+Pitcairn;PCN;OAS;Rest of Asia and Oceania;RAO
+Peru;PER;LAM;Rest of South and Middle America;SAM
+Philippines;PHL;OAS;Rest of South and Middle America;SAM
+Palau;PLW;OAS;Rest of Asia and Oceania;RAO
+Papua New Guinea;PNG;OAS;Rest of Asia and Oceania;RAO
+Poland;POL;EUR;European Union 10;E10
+Puerto Rico;PRI;LAM;Rest of South and Middle America;SAM
+Korea, Democratic People's Republic of;PRK;OAS;Rest of Asia and Oceania;RAO
+Portugal;PRT;EUR;European Union 15;E18
+Paraguay;PRY;LAM;Uruguay and Paraguay;SAM
+Palestine, State of;PSE;MEA;Middle East;MEE
+French Polynesia;PYF;OAS;Rest of Asia and Oceania;RAO
+Qatar;QAT;MEA;Middle East;MEE
+Reunion;REU;SSA;Africa Rest (practically ACP);ACP
+Romania;ROU;EUR;Bulgaria & Romania;E18
+Russian Federation;RUS;REF;Russia;RUS
+Rwanda;RWA;SSA;Africcan LDCs;ALD
+Saudi Arabia;SAU;MEA;Middle East;MEE
+Sudan;SDN;MEA;Africcan LDCs;ALD
+Senegal;SEN;SSA;Africcan LDCs;ALD
+Singapore;SGP;OAS;Asian Tigers nes;TIG
+South Georgia and the South Sandwich Islands;SGS;LAM;Rest of Asia and Oceania;RAO
+Saint Helena, Ascension and Tristan da Cunha;SHN;SSA;Africa Rest (practically ACP);ACP
+Svalbard and Jan Mayen;SJM;NEU;Rest of Europe;REU
+Solomon Islands;SLB;OAS;Asian and Ociania LDC;AOL
+Sierra Leone;SLE;SSA;Africcan LDCs;ALD
+El Salvador;SLV;LAM;Rest of South and Middle America;SAM
+San Marino;SMR;NEU;Rest of Europe;REU
+Somalia;SOM;SSA;Africcan LDCs;ALD
+Saint Pierre and Miquelon;SPM;CAZ;Canada;CAN
+Serbia;SRB;NEU;Western Balkan countries;BAL
+South Sudan;SSD;SSA;Africcan LDCs;ALD
+Sao Tome and Principe;STP;SSA;Africcan LDCs;ALD
+Suriname;SUR;LAM;Middle and South America ACP;MAM
+Slovakia;SVK;EUR;European Union 10;E10
+Slovenia;SVN;EUR;European Union 10;E10
+Sweden;SWE;EUR;European Union 15;E18
+Swaziland;SWZ;SSA;Africa Rest (practically ACP);ACP
+Sint Maarten (Dutch part);SXM;LAM;Rest of South and Middle America;SAM
+Seychelles;SYC;SSA;Africa Rest (practically ACP);ACP
+Syrian Arab Republic;SYR;MEA;Middle East;MEE
+Turks and Caicos Islands;TCA;LAM;Rest of South and Middle America;SAM
+Chad;TCD;SSA;Africcan LDCs;ALD
+Togo;TGO;SSA;Africcan LDCs;ALD
+Thailand;THA;OAS;Asian South East;ASE
+Tajikistan;TJK;REF;Former Soviet Union nes;FSU
+Tokelau;TKL;OAS;Rest of Asia and Oceania;RAO
+Turkmenistan;TKM;REF;Former Soviet Union nes;FSU
+Timor-Leste;TLS;OAS;Rest of Asia and Oceania;RAO
+Tonga;TON;OAS;Rest of Asia and Oceania;RAO
+Trinidad and Tobago;TTO;LAM;Middle and South America ACP;MAM
+Tunisia;TUN;MEA;Other mediterranean countries;MED
+Turkey;TUR;NEU;Turkey;BAL
+Tuvalu;TUV;OAS;Asian and Ociania LDC;AOL
+Taiwan, Province of China;TWN;CHA;Taiwan;TIG
+Tanzania, United Republic of;TZA;SSA;Africcan LDCs;ALD
+Uganda;UGA;SSA;Africcan LDCs;ALD
+Ukraine;UKR;REF;Ukraine ;UKR
+United States Minor Outlying Islands;UMI;OAS;United States of America;USA
+Uruguay;URY;LAM;Uruguay and Paraguay;SAM
+United States;USA;USA;United States of America;USA
+Uzbekistan;UZB;REF;Former Soviet Union nes;FSU
+Holy See (Vatican City State);VAT;NEU;Rest of Europe;REU
+Saint Vincent and the Grenadines;VCT;LAM;Middle and South America ACP;MAM
+Venezuela, Bolivarian Republic of;VEN;LAM;Other South American countries;SAM
+Virgin Islands, British;VGB;LAM;Rest of South and Middle America;SAM
+Virgin Islands, U.S.;VIR;LAM;Rest of South and Middle America;SAM
+Viet Nam;VNM;OAS;Asian South East;ASE
+Vanuatu;VUT;OAS;Asian and Ociania LDC;AOL
+Wallis and Futuna;WLF;OAS;Rest of Asia and Oceania;RAO
+Samoa;WSM;OAS;Asian and Ociania LDC;AOL
+Yemen;YEM;MEA;Middle East;MEE
+South Africa;ZAF;SSA;South Africa;ZAF
+Zambia;ZMB;SSA;Africa Rest (practically ACP);ACP
+Zimbabwe;ZWE;SSA;Africa Rest (practically ACP);ACP

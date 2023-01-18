@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Aruba;ABW;R10LATIN_AM
+Afghanistan;AFG;R10REST_ASIA
+Angola;AGO;R10AFRICA
+Anguilla;AIA;R10LATIN_AM
+Aland Islands;ALA;R10EUROPE
+Albania;ALB;R10EUROPE
+Andorra;AND;R10EUROPE
+United Arab Emirates;ARE;R10MIDDLE_EAST
+Argentina;ARG;R10LATIN_AM
+Armenia;ARM;R10REF_ECON
+American Samoa;ASM;R10REST_ASIA
+Antarctica;ATA;R10LATIN_AM
+French Southern Territories;ATF;R10REST_ASIA
+Antigua and Barbuda;ATG;R10LATIN_AM
+Australia;AUS;R10PAC_OECD
+Austria;AUT;R10EUROPE
+Azerbaijan;AZE;R10REF_ECON
+Burundi;BDI;R10AFRICA
+Belgium;BEL;R10EUROPE
+Benin;BEN;R10AFRICA
+Bonaire, Sint Eustatius and Saba;BES;R10LATIN_AM
+Burkina Faso;BFA;R10AFRICA
+Bangladesh;BGD;R10REST_ASIA
+Bulgaria;BGR;R10EUROPE
+Bahrain;BHR;R10MIDDLE_EAST
+Bahamas;BHS;R10LATIN_AM
+Bosnia and Herzegovina;BIH;R10EUROPE
+Saint Barthelemy;BLM;R10LATIN_AM
+Belarus;BLR;R10REF_ECON
+Belize;BLZ;R10LATIN_AM
+Bermuda;BMU;R10LATIN_AM
+Bolivia, Plurinational State of;BOL;R10LATIN_AM
+Brazil;BRA;R10LATIN_AM
+Barbados;BRB;R10LATIN_AM
+Brunei Darussalam;BRN;R10REST_ASIA
+Bhutan;BTN;R10REST_ASIA
+Bouvet Island;BVT;R10LATIN_AM
+Botswana;BWA;R10AFRICA
+Central African Republic;CAF;R10AFRICA
+Canada;CAN;R10PAC_OECD
+Cocos (Keeling) Islands;CCK;R10REST_ASIA
+China;CHN;R10CHINA+
+Switzerland;CHE;R10EUROPE
+Chile;CHL;R10LATIN_AM
+Cote d Ivoire;CIV;R10AFRICA
+Cameroon;CMR;R10AFRICA
+Congo, the Democratic Republic of the;COD;R10AFRICA
+Congo;COG;R10AFRICA
+Cook Islands;COK;R10REST_ASIA
+Colombia;COL;R10LATIN_AM
+Comoros;COM;R10AFRICA
+Cape Verde;CPV;R10AFRICA
+Costa Rica;CRI;R10LATIN_AM
+Cuba;CUB;R10LATIN_AM
+Curacao;CUW;R10LATIN_AM
+Christmas Island;CXR;R10REST_ASIA
+Cayman Islands;CYM;R10LATIN_AM
+Cyprus;CYP;R10EUROPE
+Czech Republic;CZE;R10EUROPE
+Germany;DEU;R10EUROPE
+Djibouti;DJI;R10AFRICA
+Dominica;DMA;R10LATIN_AM
+Denmark;DNK;R10EUROPE
+Dominican Republic;DOM;R10LATIN_AM
+Algeria;DZA;R10AFRICA
+Ecuador;ECU;R10LATIN_AM
+Egypt;EGY;R10AFRICA
+Eritrea;ERI;R10AFRICA
+Western Sahara;ESH;R10AFRICA
+Spain;ESP;R10EUROPE
+Estonia;EST;R10EUROPE
+Ethiopia;ETH;R10AFRICA
+Finland;FIN;R10EUROPE
+Fiji;FJI;R10REST_ASIA
+Falkland Islands (Malvinas);FLK;R10LATIN_AM
+France;FRA;R10EUROPE
+Faroe Islands;FRO;R10EUROPE
+Micronesia, Federated States of;FSM;R10REST_ASIA
+Gabon;GAB;R10AFRICA
+United Kingdom;GBR;R10EUROPE
+Georgia;GEO;R10REF_ECON
+Guernsey;GGY;R10EUROPE
+Ghana;GHA;R10AFRICA
+Gibraltar;GIB;R10EUROPE
+Guinea;GIN;R10AFRICA
+Guadeloupe;GLP;R10LATIN_AM
+Gambia;GMB;R10AFRICA
+Guinea-Bissau;GNB;R10AFRICA
+Equatorial Guinea;GNQ;R10AFRICA
+Greece;GRC;R10EUROPE
+Grenada;GRD;R10LATIN_AM
+Greenland;GRL;R10EUROPE
+Guatemala;GTM;R10LATIN_AM
+French Guiana;GUF;R10LATIN_AM
+Guam;GUM;R10REST_ASIA
+Guyana;GUY;R10LATIN_AM
+Hong Kong;HKG;R10CHINA+
+Heard Island and McDonald Islands;HMD;R10PAC_OECD
+Honduras;HND;R10LATIN_AM
+Croatia;HRV;R10EUROPE
+Haiti;HTI;R10LATIN_AM
+Hungary;HUN;R10EUROPE
+Indonesia;IDN;R10REST_ASIA
+Isle of Man;IMN;R10EUROPE
+India;IND;R10INDIA+
+British Indian Ocean Territory;IOT;R10REST_ASIA
+Ireland;IRL;R10EUROPE
+Iran, Islamic Republic of;IRN;R10MIDDLE_EAST
+Iraq;IRQ;R10MIDDLE_EAST
+Iceland;ISL;R10EUROPE
+Israel;ISR;R10MIDDLE_EAST
+Italy;ITA;R10EUROPE
+Jamaica;JAM;R10LATIN_AM
+Jersey;JEY;R10EUROPE
+Jordan;JOR;R10MIDDLE_EAST
+Japan;JPN;R10PAC_OECD
+Kazakhstan;KAZ;R10REF_ECON
+Kenya;KEN;R10AFRICA
+Kyrgyzstan;KGZ;R10REF_ECON
+Cambodia;KHM;R10REST_ASIA
+Kiribati;KIR;R10REST_ASIA
+Saint Kitts and Nevis;KNA;R10LATIN_AM
+Korea, Republic of;KOR;R10REST_ASIA
+Kuwait;KWT;R10MIDDLE_EAST
+Lao People's Democratic Republic;LAO;R10REST_ASIA
+Lebanon;LBN;R10MIDDLE_EAST
+Liberia;LBR;R10AFRICA
+Libya;LBY;R10AFRICA
+Saint Lucia;LCA;R10LATIN_AM
+Liechtenstein;LIE;R10EUROPE
+Sri Lanka;LKA;R10REST_ASIA
+Lesotho;LSO;R10AFRICA
+Lithuania;LTU;R10EUROPE
+Luxembourg;LUX;R10EUROPE
+Latvia;LVA;R10EUROPE
+Macao;MAC;R10CHINA+
+Saint Martin (French part);MAF;R10LATIN_AM
+Morocco;MAR;R10AFRICA
+Monaco;MCO;R10EUROPE
+Moldova, Republic of;MDA;R10REF_ECON
+Madagascar;MDG;R10AFRICA
+Maldives;MDV;R10REST_ASIA
+Mexico;MEX;R10LATIN_AM
+Marshall Islands;MHL;R10REST_ASIA
+Macedonia, the former Yugoslav Republic of;MKD;R10EUROPE
+Mali;MLI;R10AFRICA
+Malta;MLT;R10EUROPE
+Myanmar;MMR;R10REST_ASIA
+Montenegro;MNE;R10EUROPE
+Mongolia;MNG;R10REST_ASIA
+Northern Mariana Islands;MNP;R10REST_ASIA
+Mozambique;MOZ;R10AFRICA
+Mauritania;MRT;R10AFRICA
+Montserrat;MSR;R10LATIN_AM
+Martinique;MTQ;R10LATIN_AM
+Mauritius;MUS;R10AFRICA
+Malawi;MWI;R10AFRICA
+Malaysia;MYS;R10REST_ASIA
+Mayotte;MYT;R10AFRICA
+Namibia;NAM;R10AFRICA
+New Caledonia;NCL;R10REST_ASIA
+Niger;NER;R10AFRICA
+Norfolk Island;NFK;R10REST_ASIA
+Nigeria;NGA;R10AFRICA
+Nicaragua;NIC;R10LATIN_AM
+Niue;NIU;R10REST_ASIA
+Netherlands;NLD;R10EUROPE
+Norway;NOR;R10EUROPE
+Nepal;NPL;R10REST_ASIA
+Nauru;NRU;R10REST_ASIA
+New Zealand;NZL;R10PAC_OECD
+Oman;OMN;R10MIDDLE_EAST
+Pakistan;PAK;R10REST_ASIA
+Panama;PAN;R10LATIN_AM
+Pitcairn;PCN;R10REST_ASIA
+Peru;PER;R10LATIN_AM
+Philippines;PHL;R10REST_ASIA
+Palau;PLW;R10REST_ASIA
+Papua New Guinea;PNG;R10REST_ASIA
+Poland;POL;R10EUROPE
+Puerto Rico;PRI;R10LATIN_AM
+Korea, Democratic People's Republic of;PRK;R10REST_ASIA
+Portugal;PRT;R10EUROPE
+Paraguay;PRY;R10LATIN_AM
+Palestine, State of;PSE;R10MIDDLE_EAST
+French Polynesia;PYF;R10REST_ASIA
+Qatar;QAT;R10MIDDLE_EAST
+Reunion;REU;R10AFRICA
+Romania;ROU;R10EUROPE
+Russian Federation;RUS;R10REF_ECON
+Rwanda;RWA;R10AFRICA
+Saudi Arabia;SAU;R10MIDDLE_EAST
+Sudan;SDN;R10AFRICA
+Senegal;SEN;R10AFRICA
+Singapore;SGP;R10REST_ASIA
+South Georgia and the South Sandwich Islands;SGS;R10LATIN_AM
+Saint Helena, Ascension and Tristan da Cunha;SHN;R10AFRICA
+Svalbard and Jan Mayen;SJM;R10EUROPE
+Solomon Islands;SLB;R10REST_ASIA
+Sierra Leone;SLE;R10AFRICA
+El Salvador;SLV;R10LATIN_AM
+San Marino;SMR;R10EUROPE
+Somalia;SOM;R10AFRICA
+Saint Pierre and Miquelon;SPM;R10PAC_OECD
+Serbia;SRB;R10EUROPE
+South Sudan;SSD;R10AFRICA
+Sao Tome and Principe;STP;R10AFRICA
+Suriname;SUR;R10LATIN_AM
+Slovakia;SVK;R10EUROPE
+Slovenia;SVN;R10EUROPE
+Sweden;SWE;R10EUROPE
+Swaziland;SWZ;R10AFRICA
+Sint Maarten (Dutch part);SXM;R10LATIN_AM
+Seychelles;SYC;R10AFRICA
+Syrian Arab Republic;SYR;R10MIDDLE_EAST
+Turks and Caicos Islands;TCA;R10LATIN_AM
+Chad;TCD;R10AFRICA
+Togo;TGO;R10AFRICA
+Thailand;THA;R10REST_ASIA
+Tajikistan;TJK;R10REF_ECON
+Tokelau;TKL;R10REST_ASIA
+Turkmenistan;TKM;R10REF_ECON
+Timor-Leste;TLS;R10REST_ASIA
+Tonga;TON;R10REST_ASIA
+Trinidad and Tobago;TTO;R10LATIN_AM
+Tunisia;TUN;R10AFRICA
+Turkey;TUR;R10EUROPE
+Tuvalu;TUV;R10REST_ASIA
+Taiwan, Province of China;TWN;R10CHINA+
+Tanzania, United Republic of;TZA;R10AFRICA
+Uganda;UGA;R10AFRICA
+Ukraine;UKR;R10REF_ECON
+United States Minor Outlying Islands;UMI;R10REST_ASIA
+Uruguay;URY;R10LATIN_AM
+United States;USA;R10NORTH_AM
+Uzbekistan;UZB;R10REF_ECON
+Holy See (Vatican City State);VAT;R10EUROPE
+Saint Vincent and the Grenadines;VCT;R10LATIN_AM
+Venezuela, Bolivarian Republic of;VEN;R10LATIN_AM
+Virgin Islands, British;VGB;R10LATIN_AM
+Virgin Islands, U.S.;VIR;R10LATIN_AM
+Viet Nam;VNM;R10REST_ASIA
+Vanuatu;VUT;R10REST_ASIA
+Wallis and Futuna;WLF;R10REST_ASIA
+Samoa;WSM;R10REST_ASIA
+Yemen;YEM;R10MIDDLE_EAST
+South Africa;ZAF;R10AFRICA
+Zambia;ZMB;R10AFRICA
+Zimbabwe;ZWE;R10AFRICA

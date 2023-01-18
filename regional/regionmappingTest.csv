@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Aruba;ABW;XXX
+Afghanistan;AFG;XXX
+Angola;AGO;XXX
+Anguilla;AIA;XXX
+Aland Islands;ALA;YYY
+Albania;ALB;YYY
+Andorra;AND;YYY
+United Arab Emirates;ARE;ZZZ
+Argentina;ARG;XXX
+Armenia;ARM;ZZZ
+American Samoa;ASM;XXX
+Antarctica;ATA;XXX
+French Southern Territories;ATF;XXX
+Antigua and Barbuda;ATG;XXX
+Australia;AUS;YYY
+Austria;AUT;YYY
+Azerbaijan;AZE;ZZZ
+Burundi;BDI;XXX
+Belgium;BEL;YYY
+Benin;BEN;XXX
+Bonaire, Sint Eustatius and Saba;BES;XXX
+Burkina Faso;BFA;XXX
+Bangladesh;BGD;XXX
+Bulgaria;BGR;YYY
+Bahrain;BHR;ZZZ
+Bahamas;BHS;XXX
+Bosnia and Herzegovina;BIH;YYY
+Saint Barthelemy;BLM;XXX
+Belarus;BLR;ZZZ
+Belize;BLZ;XXX
+Bermuda;BMU;XXX
+Bolivia, Plurinational State of;BOL;XXX
+Brazil;BRA;XXX
+Barbados;BRB;XXX
+Brunei Darussalam;BRN;XXX
+Bhutan;BTN;XXX
+Bouvet Island;BVT;XXX
+Botswana;BWA;XXX
+Central African Republic;CAF;XXX
+Canada;CAN;YYY
+Cocos (Keeling) Islands;CCK;XXX
+China;CHN;YYY
+Switzerland;CHE;YYY
+Chile;CHL;XXX
+Cote d Ivoire;CIV;XXX
+Cameroon;CMR;XXX
+Congo, the Democratic Republic of the;COD;XXX
+Congo;COG;XXX
+Cook Islands;COK;XXX
+Colombia;COL;XXX
+Comoros;COM;XXX
+Cape Verde;CPV;XXX
+Costa Rica;CRI;XXX
+Cuba;CUB;XXX
+Curacao;CUW;XXX
+Christmas Island;CXR;XXX
+Cayman Islands;CYM;XXX
+Cyprus;CYP;YYY
+Czech Republic;CZE;YYY
+Germany;DEU;YYY
+Djibouti;DJI;XXX
+Dominica;DMA;XXX
+Denmark;DNK;YYY
+Dominican Republic;DOM;XXX
+Algeria;DZA;ZZZ
+Ecuador;ECU;XXX
+Egypt;EGY;ZZZ
+Eritrea;ERI;XXX
+Western Sahara;ESH;ZZZ
+Spain;ESP;YYY
+Estonia;EST;YYY
+Ethiopia;ETH;XXX
+Finland;FIN;YYY
+Fiji;FJI;XXX
+Falkland Islands (Malvinas);FLK;XXX
+France;FRA;YYY
+Faroe Islands;FRO;YYY
+Micronesia, Federated States of;FSM;XXX
+Gabon;GAB;XXX
+United Kingdom;GBR;YYY
+Georgia;GEO;ZZZ
+Guernsey;GGY;YYY
+Ghana;GHA;XXX
+Gibraltar;GIB;YYY
+Guinea;GIN;XXX
+Guadeloupe;GLP;XXX
+Gambia;GMB;XXX
+Guinea-Bissau;GNB;XXX
+Equatorial Guinea;GNQ;XXX
+Greece;GRC;YYY
+Grenada;GRD;XXX
+Greenland;GRL;YYY
+Guatemala;GTM;XXX
+French Guiana;GUF;XXX
+Guam;GUM;XXX
+Guyana;GUY;XXX
+Hong Kong;HKG;YYY
+Heard Island and McDonald Islands;HMD;YYY
+Honduras;HND;XXX
+Croatia;HRV;YYY
+Haiti;HTI;XXX
+Hungary;HUN;YYY
+Indonesia;IDN;XXX
+Isle of Man;IMN;YYY
+India;IND;ZZZ
+British Indian Ocean Territory;IOT;XXX
+Ireland;IRL;YYY
+Iran, Islamic Republic of;IRN;ZZZ
+Iraq;IRQ;ZZZ
+Iceland;ISL;YYY
+Israel;ISR;ZZZ
+Italy;ITA;YYY
+Jamaica;JAM;XXX
+Jersey;JEY;YYY
+Jordan;JOR;ZZZ
+Japan;JPN;YYY
+Kazakhstan;KAZ;ZZZ
+Kenya;KEN;XXX
+Kyrgyzstan;KGZ;ZZZ
+Cambodia;KHM;XXX
+Kiribati;KIR;XXX
+Saint Kitts and Nevis;KNA;XXX
+Korea, Republic of;KOR;XXX
+Kuwait;KWT;ZZZ
+Lao People's Democratic Republic;LAO;XXX
+Lebanon;LBN;ZZZ
+Liberia;LBR;XXX
+Libya;LBY;ZZZ
+Saint Lucia;LCA;XXX
+Liechtenstein;LIE;YYY
+Sri Lanka;LKA;XXX
+Lesotho;LSO;XXX
+Lithuania;LTU;YYY
+Luxembourg;LUX;YYY
+Latvia;LVA;YYY
+Macao;MAC;YYY
+Saint Martin (French part);MAF;XXX
+Morocco;MAR;ZZZ
+Monaco;MCO;YYY
+Moldova, Republic of;MDA;ZZZ
+Madagascar;MDG;XXX
+Maldives;MDV;XXX
+Mexico;MEX;XXX
+Marshall Islands;MHL;XXX
+Macedonia, the former Yugoslav Republic of;MKD;YYY
+Mali;MLI;XXX
+Malta;MLT;YYY
+Myanmar;MMR;XXX
+Montenegro;MNE;YYY
+Mongolia;MNG;XXX
+Northern Mariana Islands;MNP;XXX
+Mozambique;MOZ;XXX
+Mauritania;MRT;XXX
+Montserrat;MSR;XXX
+Martinique;MTQ;XXX
+Mauritius;MUS;XXX
+Malawi;MWI;XXX
+Malaysia;MYS;XXX
+Mayotte;MYT;XXX
+Namibia;NAM;XXX
+New Caledonia;NCL;XXX
+Niger;NER;XXX
+Norfolk Island;NFK;XXX
+Nigeria;NGA;XXX
+Nicaragua;NIC;XXX
+Niue;NIU;XXX
+Netherlands;NLD;YYY
+Norway;NOR;YYY
+Nepal;NPL;XXX
+Nauru;NRU;XXX
+New Zealand;NZL;YYY
+Oman;OMN;ZZZ
+Pakistan;PAK;XXX
+Panama;PAN;XXX
+Pitcairn;PCN;XXX
+Peru;PER;XXX
+Philippines;PHL;XXX
+Palau;PLW;XXX
+Papua New Guinea;PNG;XXX
+Poland;POL;YYY
+Puerto Rico;PRI;XXX
+Korea, Democratic People's Republic of;PRK;XXX
+Portugal;PRT;YYY
+Paraguay;PRY;XXX
+Palestine, State of;PSE;ZZZ
+French Polynesia;PYF;XXX
+Qatar;QAT;ZZZ
+Reunion;REU;XXX
+Romania;ROU;YYY
+Russian Federation;RUS;ZZZ
+Rwanda;RWA;XXX
+Saudi Arabia;SAU;ZZZ
+Sudan;SDN;ZZZ
+Senegal;SEN;XXX
+Singapore;SGP;XXX
+South Georgia and the South Sandwich Islands;SGS;XXX
+Saint Helena, Ascension and Tristan da Cunha;SHN;XXX
+Svalbard and Jan Mayen;SJM;YYY
+Solomon Islands;SLB;XXX
+Sierra Leone;SLE;XXX
+El Salvador;SLV;XXX
+San Marino;SMR;YYY
+Somalia;SOM;XXX
+Saint Pierre and Miquelon;SPM;YYY
+Serbia;SRB;YYY
+South Sudan;SSD;XXX
+Sao Tome and Principe;STP;XXX
+Suriname;SUR;XXX
+Slovakia;SVK;YYY
+Slovenia;SVN;YYY
+Sweden;SWE;YYY
+Swaziland;SWZ;XXX
+Sint Maarten (Dutch part);SXM;XXX
+Seychelles;SYC;XXX
+Syrian Arab Republic;SYR;ZZZ
+Turks and Caicos Islands;TCA;XXX
+Chad;TCD;XXX
+Togo;TGO;XXX
+Thailand;THA;XXX
+Tajikistan;TJK;ZZZ
+Tokelau;TKL;XXX
+Turkmenistan;TKM;ZZZ
+Timor-Leste;TLS;XXX
+Tonga;TON;XXX
+Trinidad and Tobago;TTO;XXX
+Tunisia;TUN;ZZZ
+Turkey;TUR;YYY
+Tuvalu;TUV;XXX
+Taiwan, Province of China;TWN;YYY
+Tanzania, United Republic of;TZA;XXX
+Uganda;UGA;XXX
+Ukraine;UKR;ZZZ
+United States Minor Outlying Islands;UMI;XXX
+Uruguay;URY;XXX
+United States;USA;YYY
+Uzbekistan;UZB;ZZZ
+Holy See (Vatican City State);VAT;YYY
+Saint Vincent and the Grenadines;VCT;XXX
+Venezuela, Bolivarian Republic of;VEN;XXX
+Virgin Islands, British;VGB;XXX
+Virgin Islands, U.S.;VIR;XXX
+Viet Nam;VNM;XXX
+Vanuatu;VUT;XXX
+Wallis and Futuna;WLF;XXX
+Samoa;WSM;XXX
+Yemen;YEM;ZZZ
+South Africa;ZAF;XXX
+Zambia;ZMB;XXX
+Zimbabwe;ZWE;XXX

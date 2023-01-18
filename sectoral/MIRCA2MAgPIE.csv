@@ -1,0 +1,124 @@
+mirca,MAgPIE,LPJmL,magpie,luh2,,FAO Item,Type,MIRCA2000 Crop,LPJmL CFT,Carbon content gC/g,Feed Item
+125,tece,tece,tece,c3ann,,"Alcohol, Non-Food",Vegetal Food,,,,CrpO
+15,maiz,maize,maiz,c4ann,,Apples and products,Vegetal Food,Others Perennial,Generic perennial,0.063,CrpO
+156,trce,trce,trce,c4ann,,Bananas,Vegetal Food,Others Perennial,Generic perennial,0.109,CrpO
+157,rice_pro,rice,rice_pro,c3ann,,Barley and products,Vegetal Food,Barley,Temperate cereals,0.388,Barl
+"187|Peas, dry",soybean,soybean,soybean,c3nfx,,Beans,Vegetal Food,Pulses,Pulses,0.399,Puls
+236,rapeseed,rapeseed,rapeseed,c3ann,,Beer,Vegetal Food,,,,CrpO
+"242|Groundnuts, with shell",groundnut,groundnut,groundnut,c3nfx,,"Beverages, Alcoholic",Vegetal Food,,,,CrpO
+267,sunflower,sunflower,sunflower,c3ann,,"Beverages, Fermented",Vegetal Food,,,,CrpO
+"27|Rice, paddy",oilpalm,groundnut,oilpalm,c3per,,Brans,Vegetal Food,,,,CerO
+56,puls_pro,pulses,puls_pro,c3nfx,,Cassava and products,Vegetal Food,Cassava,Tropical roots,0.163,CrpO
+79,potato,tero,potato,c3ann,,"Cereals, Other",Vegetal Food,Others Annual,Generic annual,0.389,CerO
+270,cassav_sp,trro,cassav_sp,c3ann,,"Citrus, Other",Vegetal Food,Citrus,Generic perennial,0.068,CrpO
+,sugr_cane,sugarcane,sugr_cane,c4per,,Cloves,Vegetal Food,Others Perennial,Generic perennial,0.42,CrpO
+,sugr_beet,tero,sugr_beet,c3ann,,Cocoa Beans and products,Vegetal Food,Cocoa,Generic perennial,0.595,CrpO
+,others,maize,cottn_pro,c3ann,,Coconut Oil,Vegetal Food,,,,OlsO
+,cottn_pro,groundnut,others,c3ann,,Coconuts - Incl Copra,Vegetal Food,Others Perennial,Generic perennial,0.382,OlsO
+,foddr,maize,foddr,c3ann,,Coffee and products,Vegetal Food,Coffee,Generic perennial,0.46,CrpO
+,pasture,mgrass,begr,c4per,,Cottonseed,Vegetal Food,Cotton,Generic annual,0.466,OlsO
+,begr,begr,betr,c3per,,Cottonseed Oil,Vegetal Food,,,,OlsO
+,betr,betr,,,,Dates,Vegetal Food,Date Palm,Generic perennial,0.341,CrpO
+,,,,,,"Fruits, Other",Vegetal Food,Others Perennial,Generic perennial,0.07,CrpO
+,,,,,,Grapefruit and products,Vegetal Food,Citrus,Generic perennial,0.041,CrpO
+,,,,,,Grapes and products (excl wine),Vegetal Food,Grapes,Generic perennial,0.069,CrpO
+,,,,,,Groundnut Oil,Vegetal Food,,,,OlsO
+,,,,,,Groundnuts (in Shell Eq),Vegetal Food,Groundnuts,Groundnuts,0.507,OlsO
+,,,,,,Honey,Vegetal Food,,,,CrpO
+,,,,,,Infant food,Vegetal Food,,,,CrpO
+,,,,,,"Lemons, Limes and products",Vegetal Food,Citrus,Generic perennial,0.052,CrpO
+,,,,,,Maize and products,Vegetal Food,Maize,Maize,0.392,Corn
+,,,,,,Maize Germ Oil,Vegetal Food,,,,OlsO
+,,,,,,Millet and products,Vegetal Food,Millet,Tropical cereals,0.408,SgMi
+,,,,,,Miscellaneous,Vegetal Food,,,,CrpO
+,,,,,,Molasses,Vegetal Food,,,,CrpO
+,,,,,,Nuts and products,Vegetal Food,Others Perennial,Generic perennial,0.567,CrpO
+,,,,,,Oats,Vegetal Food,Others Annual,Generic annual,0.4,CerO
+,,,,,,"Oilcrops Oil, Other",Vegetal Food,,,,OlsO
+,,,,,,"Oilcrops, Other",Vegetal Food,Others Annual,Generic annual,0.518,OlsO
+,,,,,,Olive Oil,Vegetal Food,,,,OlsO
+,,,,,,Olives (including preserved),Vegetal Food,Others Perennial,Generic perennial,0.115,OlsO
+,,,,,,Onions,Vegetal Food,Others Annual,Generic annual,0.048,CrpO
+,,,,,,"Oranges, Mandarines",Vegetal Food,Citrus,Generic perennial,0.077,CrpO
+,,,,,,Palm kernels,Vegetal Food,Oil Palm,Generic perennial,0.548,OlsO
+,,,,,,Palm Oil,Vegetal Food,Oil Palm,Generic perennial,0.77,OlsO
+,,,,,,Palmkernel Oil,Vegetal Food,,,,OlsO
+,,,,,,Peas,Vegetal Food,Pulses,Pulses,0.389,Puls
+,,,,,,Pepper,Vegetal Food,Others Perennial,Generic perennial,0.362,CrpO
+,,,,,,Pimento,Vegetal Food,Others Annual,Generic annual,0.037,CrpO
+,,,,,,Pineapples and products,Vegetal Food,Others Perennial,Generic perennial,0.062,CrpO
+,,,,,,Plantains,Vegetal Food,Others Perennial,Generic perennial,0.168,CrpO
+,,,,,,Potatoes and products,Vegetal Food,Potatoes,Temperate roots,0.086,CrpO
+,,,,,,"Pulses, Other and products",Vegetal Food,Pulses,Pulses,0.404,Puls
+,,,,,,Rape and Mustard Oil,Vegetal Food,,,,OlsO
+,,,,,,Rape and Mustardseed,Vegetal Food,Rapeseed,Rapeseed,0.546,OlsO
+,,,,,,Rice (Paddy Equivalent),Vegetal Food,Rice,Rice,0.377,Rice
+,,,,,,Ricebran Oil,Vegetal Food,,,,OlsO
+,,,,,,"Roots, Other",Vegetal Food,Others Annual,Generic annual,0.126,CrpO
+,,,,,,Rye and products,Vegetal Food,Rye,Temperate cereals,0.385,CerO
+,,,,,,Sesame seed,Vegetal Food,Others Annual,Generic annual,0.583,OlsO
+,,,,,,Sesameseed Oil,Vegetal Food,,,,OlsO
+,,,,,,Sorghum and products,Vegetal Food,Sorghum,Tropical cereals,0.395,SgMi
+,,,,,,Soyabean Oil,Vegetal Food,,,,Soya
+,,,,,,Soyabeans,Vegetal Food,Soybeans,Soybean,0.462,Soya
+,,,,,,"Spices, Other",Vegetal Food,Others Perennial,Generic perennial,0.094,CrpO
+,,,,,,Sugar (Raw Equivalent),Vegetal Food,,,,CrpO
+,,,,,,Sugar beet,Vegetal Food,Sugar Beet,Temperate roots,0.079,CrpO
+,,,,,,Sugar cane,Vegetal Food,Sugar Cane,Sugarcane,0.128,CrpO
+,,,,,,Sugar non-centrifugal,Vegetal Food,,,,CrpO
+,,,,,,Sunflower seed,Vegetal Food,Sunflower,Sunflower,0.555,OlsO
+,,,,,,Sunflowerseed Oil,Vegetal Food,,,,OlsO
+,,,,,,Sweet potatoes,Vegetal Food,Others Annual,Generic annual,0.13,CrpO
+,,,,,,"Sweeteners, Other",Vegetal Food,Others Annual,Generic annual,0.402,CrpO
+,,,,,,Tea (including mate),Vegetal Food,Others Perennial,Generic perennial,0.393,CrpO
+,,,,,,Tomatoes and products,Vegetal Food,Others Annual,Generic annual,0.023,CrpO
+,,,,,,"Vegetables, Other",Vegetal Food,Others Annual,Generic annual,0.033,CrpO
+,,,,,,Wheat and products,Vegetal Food,Wheat,Temperate cereals,0.391,Whea
+,,,,,,Wine,Vegetal Food,,,,CrpO
+,,,,,,Yams,Vegetal Food,Others Annual,Generic annual,0.132,CrpO
+,,,,,,"Aquatic Animals, Others",Animal Sourced Food,,,,ANIM
+,,,,,,Aquatic Plants,Animal Sourced Food,,,,ANIM
+,,,,,,Bovine Meat,Animal Sourced Food,,,,ANIM
+,,,,,,"Butter, Ghee",Animal Sourced Food,,,,ANIM
+,,,,,,Cephalopods,Animal Sourced Food,,,,ANIM
+,,,,,,Cream,Animal Sourced Food,,,,ANIM
+,,,,,,Crustaceans,Animal Sourced Food,,,,ANIM
+,,,,,,Demersal Fish,Animal Sourced Food,,,,ANIM
+,,,,,,Eggs,Animal Sourced Food,,,,ANIM
+,,,,,,"Fats, Animals, Raw",Animal Sourced Food,,,,ANIM
+,,,,,,"Fish, Body Oil",Animal Sourced Food,,,,ANIM
+,,,,,,"Fish, Liver Oil",Animal Sourced Food,,,,ANIM
+,,,,,,Freshwater Fish,Animal Sourced Food,,,,ANIM
+,,,,,,"Marine Fish, Other",Animal Sourced Food,,,,ANIM
+,,,,,,"Meat, Aquatic Mammals",Animal Sourced Food,,,,ANIM
+,,,,,,"Meat, Other",Animal Sourced Food,,,,ANIM
+,,,,,,Milk - Excluding Butter,Animal Sourced Food,,,,ANIM
+,,,,,,"Molluscs, Other",Animal Sourced Food,,,,ANIM
+,,,,,,Mutton & Goat Meat,Animal Sourced Food,,,,ANIM
+,,,,,,"Offals, Edible",Animal Sourced Food,,,,ANIM
+,,,,,,Pelagic Fish,Animal Sourced Food,,,,ANIM
+,,,,,,Pigmeat,Animal Sourced Food,,,,ANIM
+,,,,,,Poultry Meat,Animal Sourced Food,,,,ANIM
+,,,,,,Copra Cake,Livestock Feed,,,,OlsO
+,,,,,,Cottonseed Cake,Livestock Feed,,,,OlsO
+,,,,,,Groundnut Cake,Livestock Feed,,,,OlsO
+,,,,,,"Oilseed Cakes, Other",Livestock Feed,,,,OlsO
+,,,,,,Palmkernel Cake,Livestock Feed,,,,OlsO
+,,,,,,Rape and Mustard Cake,Livestock Feed,,,,OlsO
+,,,,,,Sesameseed Cake,Livestock Feed,,,,OlsO
+,,,,,,Soyabean Cake,Livestock Feed,,,,Soya
+,,,,,,Sunflowerseed Cake,Livestock Feed,,,,OlsO
+,,,,,,Fish Meal,Livestock Feed,,,,ANIM
+,,,,,,Meat Meal,Livestock Feed,,,,ANIM
+,,,,,,Abaca,Non-food,Others Annual,Generic annual,0.418,CrpO
+,,,,,,Cotton lint,Non-food,Cotton,Generic annual,0.418,CrpO
+,,,,,,"Hard Fibres, Other",Non-food,Others Perennial,Generic perennial,0.418,CrpO
+,,,,,,Hides and skins,Non-food,,,,ANIM
+,,,,,,Jute,Non-food,Others Annual,Generic annual,0.418,CrpO
+,,,,,,Jute-Like Fibres,Non-food,Others Annual,Generic annual,0.418,CrpO
+,,,,,,Rubber,Non-food,Others Perennial,Generic perennial,0.16,CrpO
+,,,,,,Silk,Non-food,,,,ANIM
+,,,,,,Sisal,Non-food,Others Perennial,Generic perennial,0.418,CrpO
+,,,,,,"Soft-Fibres, Other",Non-food,Others Annual,Generic annual,0.418,CrpO
+,,,,,,Tobacco,Non-food,Others Annual,Generic annual,0.083,CrpO
+,,,,,,Wool (Clean Eq.),Non-food,,,,ANIM

@@ -1,0 +1,32 @@
+koeppen_geiger,ipcc,ipcc_reduced,ippc_reduced2019,description
+Af,tropical_wet,tropical_moist,tropical_wet,equatorial fully humid
+Am,tropical_moist,tropical_moist,tropical_moist,equatorial monsoonal
+As,tropical_moist,tropical_moist,tropical_moist,equatorial summer dry
+Aw,tropical_moist,tropical_moist,tropical_moist,equatorial winter dry
+bsh,tropical_dry,tropical_dry,tropical_dry,arid steppe hot arid
+bsk,cool_temperate_dry,temperate_dry,boreal_dry,arid steppe cold arid
+bwh,tropical_dry,tropical_dry,tropical_dry,arid desert hot arid
+bwk,cool_temperate_dry,temperate_dry,boreal_dry,arid desert cold arid
+cfa,warm_temperate_moist,temperate_moist,temperate_moist,warm temperate fully humid hot summer
+cfb,warm_temperate_moist,temperate_moist,temperate_moist,warm temperate fully humid warm summer
+cfc,cool_temperate_moist,temperate_moist,boreal_moist,warm temperate fully humid cool summer
+csa,warm_temperate_moist,temperate_moist,temperate_moist,warm temperate summer dry hot summer
+csb,warm_temperate_moist,temperate_moist,temperate_moist,warm temperate summer dry warm summer
+csc,warm_temperate_moist,temperate_moist,temperate_moist,warm temperate summer dry cool summer
+cwa,warm_temperate_moist,temperate_moist,temperate_moist,warm temperate winter dry hot summer
+cwb,warm_temperate_moist,temperate_moist,temperate_moist,warm temperate winter dry warm summer
+cwc,cool_temperate_moist,temperate_moist,boreal_moist,warm temperate winter dry cool summer
+dfa,cool_temperate_moist,temperate_moist,boreal_moist,snow fully humid hot summer
+dfb,cool_temperate_moist,temperate_moist,boreal_moist,snow fully humid warm summer
+dfc,boreal_moist,temperate_moist,boreal_moist,snow fully humid cool summer
+dfd,boreal_moist,temperate_moist,boreal_moist,snow fully humid extremely continental
+dsa,cool_temperate_moist,temperate_moist,boreal_moist,snow summer dry hot summer
+dsb,cool_temperate_moist,temperate_moist,boreal_moist,snow summer dry warm summer
+dsc,boreal_moist,temperate_moist,boreal_moist,snow summer dry cool summer
+dsd,boreal_dry,temperate_dry,boreal_dry,snow summer dry extremely continental
+dwa,boreal_moist,temperate_moist,boreal_moist,snow winter dry hot summer
+dwb,boreal_moist,temperate_moist,boreal_moist,snow winter dry warm summer
+dwc,boreal_moist,temperate_moist,boreal_moist,snow winter dry cool summer
+dwd,boreal_dry,temperate_dry,boreal_dry,snow winter dry extremely continental
+EF,polar_dry,temperate_dry,boreal_dry,polar polar frost
+ET,polar_moist,temperate_moist,boreal_moist,polar polar tundra

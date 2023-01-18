@@ -1,0 +1,422 @@
+r20m41;engage;weight;factor
+Emi|CO2|Land-Use Change (Mt CO2/yr);Emissions|CO2|AFOLU (Mt CO2/yr);NULL;1
+Emi|N2O|Land Use (kt N2O/yr);Emissions|N2O|AFOLU (kt N2O/yr);NULL;1
+Emi|CH4|Land Use (Mt CH4/yr);Emissions|CH4|AFOLU (Mt CH4/yr);NULL;1
+Emi|BC|Land Use (Mt BC/yr);Emissions|BC|AFOLU (Mt BC/yr);NULL;1
+Emi|NOX|Land Use (Mt NOX/yr);Emissions|NOx|AFOLU (Mt NO2/yr);NULL;1
+Emi|OC|Land Use (Mt OC/yr);Emissions|OC|AFOLU (Mt OC/yr);NULL;1
+Emi|SO2|Land Use (Mt SO2/yr);Emissions|Sulfur|AFOLU (Mt SO2/yr);NULL;1
+Emi|CO|Land Use (Mt CO/yr);Emissions|CO|AFOLU (Mt CO/yr);NULL;1
+Emi|NH3|Land Use (Mt NH3/yr);Emissions|NH3|AFOLU (Mt NH3/yr);NULL;1
+Emi|VOC|Land Use (Mt VOC/yr);Emissions|VOC|AFOLU (Mt VOC/yr);NULL;1
+Resources|Land Cover (million ha);Land Cover (million ha);NULL;1
+Resources|Land Cover|+|Cropland (million ha);Land Cover|Cropland (million ha);NULL;1
+Resources|Land Cover|Cropland|Crops|+|Cereals (million ha);Land Cover|Cropland|Cereals (million ha);NULL;1
+Resources|Land Cover|Cropland|+|Bioenergy crops (million ha);Land Cover|Cropland|Energy Crops (million ha);NULL;1
+Resources|Land Cover|Cropland|Bioenergy crops|irrigated (million ha);Land Cover|Cropland|Energy Crops|Irrigated (million ha);NULL;1
+Resources|Land Cover|Cropland|Crops|irrigated (million ha);Land Cover|Cropland|Irrigated (million ha);NULL;1
+Resources|Land Cover|Cropland|Crops|rainfed (million ha);Land Cover|Cropland|Rainfed (million ha);NULL;1
+Resources|Land Cover|+|Pastures and Rangelands (million ha);Land Cover|Pasture (million ha);NULL;1
+Resources|Land Cover|+|Forest (million ha);Land Cover|Forest (million ha);NULL;1
+Resources|Land Cover|Forest|+|Managed Forest (million ha);Land Cover|Forest|Managed (million ha);NULL;1
+Resources|Land Cover|Forest|+|Natural Forest (million ha);Land Cover|Forest|Natural Forest (million ha);NULL;1
+Resources|Land Cover|+|Other Land (million ha);Land Cover|Other Land (million ha);NULL;1
+Resources|Land Cover|+|Urban Area (million ha);Land Cover|Built-up Area (million ha);NULL;1
+Productivity|Yield|Crops|+|Cereals (t DM/ha);Yield|Cereal (t DM/ha/yr);NULL;1
+Productivity|Yield|Crops|+|Oil crops (t DM/ha);Yield|Oilcrops (t DM/ha/yr);NULL;1
+Productivity|Yield|Crops|+|Sugar crops (t DM/ha);Yield|Sugarcrops (t DM/ha/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Feed|+|Crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Food|+|Crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Material|+|Crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Seed|+|Crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Processing|+|Crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Livestock products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Livestock products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Livestock products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Feed|+|Livestock products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Food|+|Livestock products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Material|+|Livestock products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Seed|+|Livestock products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Processing|+|Livestock products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Bioenergy crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Bioenergy crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Bioenergy crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Feed|+|Bioenergy crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Food|+|Bioenergy crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Material|+|Bioenergy crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Seed|+|Bioenergy crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Processing|+|Bioenergy crops (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Secondary products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Secondary products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Secondary products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Feed|+|Secondary products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Food|+|Secondary products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Material|+|Secondary products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Seed|+|Secondary products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Processing|+|Secondary products (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crop residues (Mt DM/yr);Agricultural Demand (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Feed|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Food|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Material|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Seed|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Processing|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Feed|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Food|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Material|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Seed|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Processing|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crop residues (Mt DM/yr);Agricultural Demand|Energy (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Feed|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Food|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Material|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Seed|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Processing|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Feed|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Food|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Material|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Seed|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Processing|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Feed|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Food|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Material|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Seed|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Processing|+|Secondary products (Mt DM/yr);Agricultural Demand|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Demand|Feed|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Demand|Food|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Demand|Material|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Demand|Seed|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Demand|Processing|+|Bioenergy crops (Mt DM/yr);Agricultural Demand|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crop residues (Mt DM/yr);Agricultural Demand|Energy|Residues (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Feed|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Food|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Material|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Seed|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Processing|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Feed|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Food|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Material|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Seed|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Processing|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops (million t DM/yr);NULL;1
+Demand|Feed|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops (million t DM/yr);NULL;1
+Demand|Food|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops (million t DM/yr);NULL;1
+Demand|Material|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops (million t DM/yr);NULL;1
+Demand|Seed|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops (million t DM/yr);NULL;1
+Demand|Processing|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops (million t DM/yr);NULL;1
+Demand|Feed|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops|Feed (million t DM/yr);NULL;1
+Demand|Food|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops|Food (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops|Other (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops|Other (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops|Other (million t DM/yr);NULL;1
+Demand|Material|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops|Other (million t DM/yr);NULL;1
+Demand|Seed|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops|Other (million t DM/yr);NULL;1
+Demand|Processing|+|Crops (Mt DM/yr);Agricultural Demand|Non-Energy|Crops|Other (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock (million t DM/yr);NULL;1
+Demand|Feed|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock (million t DM/yr);NULL;1
+Demand|Food|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock (million t DM/yr);NULL;1
+Demand|Material|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock (million t DM/yr);NULL;1
+Demand|Seed|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock (million t DM/yr);NULL;1
+Demand|Processing|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock (million t DM/yr);NULL;1
+Demand|Food|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock|Food (million t DM/yr);NULL;1
+Demand|Agricultural Supply Chain Loss|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock|Other (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock|Other (million t DM/yr);NULL;1
+Demand|Domestic Balanceflow|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock|Other (million t DM/yr);NULL;1
+Demand|Feed|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock|Other (million t DM/yr);NULL;1
+Demand|Material|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock|Other (million t DM/yr);NULL;1
+Demand|Seed|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock|Other (million t DM/yr);NULL;1
+Demand|Processing|+|Livestock products (Mt DM/yr);Agricultural Demand|Non-Energy|Livestock|Other (million t DM/yr);NULL;1
+Production|+|Crops (Mt DM/yr);Agricultural Production (million t DM/yr);NULL;1
+Production|+|Livestock products (Mt DM/yr);Agricultural Production (million t DM/yr);NULL;1
+Production|+|Bioenergy crops (Mt DM/yr);Agricultural Production (million t DM/yr);NULL;1
+Production|+|Secondary products (Mt DM/yr);Agricultural Production (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crop residues (Mt DM/yr);Agricultural Production (million t DM/yr);NULL;1
+Production|+|Bioenergy crops (Mt DM/yr);Agricultural Production|Energy (million t DM/yr);NULL;1
+Production|+|Secondary products (Mt DM/yr);Agricultural Production|Energy (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crop residues (Mt DM/yr);Agricultural Production|Energy (million t DM/yr);NULL;1
+Production|+|Bioenergy crops (Mt DM/yr);Agricultural Production|Energy|Crops (million t DM/yr);NULL;1
+Production|+|Secondary products (Mt DM/yr);Agricultural Production|Energy|Crops (million t DM/yr);NULL;1
+Production|+|Bioenergy crops (Mt DM/yr);Agricultural Production|Energy|Crops|2nd generation (million t DM/yr);NULL;1
+Production|+|Secondary products (Mt DM/yr);Agricultural Production|Energy|Crops|1st generation (million t DM/yr);NULL;1
+Demand|Bioenergy|+|Crop residues (Mt DM/yr);Agricultural Production|Energy|Residues (million t DM/yr);NULL;1
+Production|+|Crops (Mt DM/yr);Agricultural Production|Non-Energy (million t DM/yr);NULL;1
+Production|+|Livestock products (Mt DM/yr);Agricultural Production|Non-Energy (million t DM/yr);NULL;1
+Production|+|Crops (Mt DM/yr);Agricultural Production|Non-Energy|Crops (million t DM/yr);NULL;1
+Production|+|Livestock products (Mt DM/yr);Agricultural Production|Non-Energy|Livestock (million t DM/yr);NULL;1
+SDG|SDG06|Fertilizer use (Mt N/yr);Fertilizer Use|Nitrogen (Tg N/yr);NULL;1
+Prices|Food Price Index (Index 2010=100);Price|Agriculture|Non-Energy Crops and Livestock|Index (Index (2005 = 1));NULL;0.01
+Nutrition|Calorie Supply (kcal/capita/day);Food Demand (kcal/cap/day);NULL;1
+Nutrition|Calorie Supply|+|Crops (kcal/capita/day);Food Demand|Crops (kcal/cap/day);NULL;1
+Nutrition|Calorie Supply|+|Livestock products (kcal/capita/day);Food Demand|Livestock (kcal/cap/day);NULL;1
+Resources|Water|Withdrawal|Agriculture (km3/yr);Water Withdrawal|Irrigation (km3/yr);NULL;1
+Emi|CO2|Carbon Capture and Storage (Mt CO2/yr);Carbon Sequestration|CCS (Mt CO2/yr);NULL;1
+Emi|CO2|Carbon Capture and Storage|Biomass (Mt CO2/yr);Carbon Sequestration|CCS|Biomass (Mt CO2/yr);NULL;1
+Emi|CO2|Carbon Capture and Storage|Biomass|Supply|Electricity|w/ couple prod (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Supply|Electricity (Mt CO2/yr);NULL;1
+Emi|CO2|Carbon Capture and Storage|Biomass|Supply|Liquids|w/ couple prod (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Supply|Liquids (Mt CO2/yr);NULL;1
+Emi|CO2|Carbon Capture and Storage|Biomass|Supply|Hydrogen|w/ couple prod (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Supply|Hydrogen (Mt CO2/yr);NULL;1
+Emi|CO2|Carbon Capture and Storage|Biomass|Energy|Demand|Industry (Mt CO2/yr);Carbon Sequestration|CCS|Biomass|Energy|Demand|Industry (Mt CO2/yr);NULL;1
+Emi|CO2|Carbon Capture and Storage|IndustryCCS (Mt CO2/yr);Carbon Sequestration|CCS|Industrial Processes (Mt CO2/yr);NULL;1
+Emi|CO2|CDR (Mt CO2/yr);Carbon Sequestration|Other (Mt CO2/yr);NULL;1
+Concentration|CH4 (ppb);Concentration|CH4 (ppb);NULL;1
+Concentration|N2O (ppb);Concentration|N2O (ppb);NULL;1
+Concentration|CO2 (ppm);Concentration|CO2 (ppm);NULL;1
+Consumption (billion US$2005/yr);Consumption (billion US$2010/yr);NULL;1
+Emi|CH4 (Mt CH4/yr);Emissions|CH4 (Mt CH4/yr);NULL;1
+Emi|CH4|Energy Supply and Demand (Mt CH4/yr);Emissions|CH4|Energy (Mt CH4/yr);NULL;1
+Emi|CH4|Energy Supply (Mt CH4/yr);Emissions|CH4|Energy|Supply (Mt CH4/yr);NULL;1
+Emi|CH4|Other (Mt CH4/yr);Emissions|CH4|Other (Mt CH4/yr);NULL;1
+Emi|CO2 (Mt CO2/yr);Emissions|CO2 (Mt CO2/yr);NULL;1
+Emi|CO2|Fossil Fuels and Industry|Demand|After IndustryCCS (Mt CO2/yr);Emissions|CO2|Energy|Demand (Mt CO2/yr);NULL;1
+Emi|CO2|Fossil Fuels and Industry|Indirect (Mt CO2/yr);Emissions|CO2|Energy|Supply (Mt CO2/yr);NULL;1
+Emi|CO2|Energy|Supply|Electricity (Mt CO2/yr);Emissions|CO2|Energy|Supply|Electricity (Mt CO2/yr);NULL;1
+Emi|CO2|Energy|Supply|Heat|w/ couple prod (Mt CO2/yr);Emissions|CO2|Energy|Supply|Heat (Mt CO2/yr);NULL;1
+Emi|CO2|Energy|Supply|Hydrogen|w/ couple prod (Mt CO2/yr);Emissions|CO2|Energy|Supply|Hydrogen (Mt CO2/yr);NULL;1
+Emi|CO2|Fossil Fuels and Industry|Cement process (Mt CO2/yr);Emissions|CO2|Industrial Processes (Mt CO2/yr);NULL;1
+Emi|CO2|Transport|Demand (Mt CO2/yr);Emissions|CO2|Energy|Demand|Transportation (Mt CO2/yr);NULL;1
+Emi|CO2|Buildings|Direct (Mt CO2/yr);Emissions|CO2|Energy|Demand|Residential and Commercial (Mt CO2/yr);NULL;1
+Emi|CO2|Industry|Direct (Mt CO2/yr);Emissions|CO2|Energy|Demand|Industry (Mt CO2/yr);NULL;1
+Emi|CO2|Fossil Fuels and Industry (Mt CO2/yr);Emissions|CO2|Energy and Industrial Processes (Mt CO2/yr);NULL;1
+Emi|HFC (kt HFC134a-equiv/yr);Emissions|HFC (kt HFC134a-equiv/yr);NULL;1
+Emi|F-Gases (Mt CO2-equiv/yr);Emissions|F-Gases (Mt CO2-equiv/yr);NULL;1
+Emi|Kyoto Gases (Mt CO2-equiv/yr);Emissions|Kyoto Gases (Mt CO2-equiv/yr);NULL;1
+Emi|N2O (kt N2O/yr);Emissions|N2O (kt N2O/yr);NULL;1
+Emi|N2O|Energy Supply and Demand (kt N2O/yr);Emissions|N2O|Energy (kt N2O/yr);NULL;1
+Emi|NOX (Mt NOX/yr);Emissions|NOx (Mt NOx/yr);NULL;1
+Emi|OC (Mt OC/yr);Emissions|OC (Mt OC/yr);NULL;1
+Emi|PFC (kt CF4-equiv/yr);Emissions|PFC (kt CF4-equiv/yr);NULL;1
+Emi|SF6 (kt SF6/yr);Emissions|SF6 (kt SF6/yr);NULL;1
+Emi|SO2 (Mt SO2/yr);Emissions|Sulfur (Mt SO2/yr);NULL;1
+FE (EJ/yr);Final Energy (EJ/yr);NULL;1
+FE|+|Electricity (EJ/yr);Final Energy|Electricity (EJ/yr);NULL;1
+FE|+|Gases (EJ/yr);Final Energy|Gases (EJ/yr);NULL;1
+FE|+|Heat (EJ/yr);Final Energy|Heat (EJ/yr);NULL;1
+FE|+|Hydrogen (EJ/yr);Final Energy|Hydrogen (EJ/yr);NULL;1
+FE|+|Liquids (EJ/yr);Final Energy|Liquids (EJ/yr);NULL;1
+FE|Buildings (EJ/yr);Final Energy|Residential and Commercial (EJ/yr);NULL;1
+FE|Buildings|Electricity (EJ/yr);Final Energy|Residential and Commercial|Electricity (EJ/yr);NULL;1
+FE|Buildings|Gases (EJ/yr);Final Energy|Residential and Commercial|Gases (EJ/yr);NULL;1
+FE|Buildings|Heat (EJ/yr);Final Energy|Residential and Commercial|Heat (EJ/yr);NULL;1
+FE|Buildings|Hydrogen (EJ/yr);Final Energy|Residential and Commercial|Hydrogen (EJ/yr);NULL;1
+FE|Buildings|Liquids (EJ/yr);Final Energy|Residential and Commercial|Liquids (EJ/yr);NULL;1
+FE|Buildings|Solids (EJ/yr);Final Energy|Residential and Commercial|Solids (EJ/yr);NULL;1
+FE|Industry (EJ/yr);Final Energy|Industry (EJ/yr);NULL;1
+FE|Industry|Electricity (EJ/yr);Final Energy|Industry|Electricity (EJ/yr);NULL;1
+FE|Industry|Gases (EJ/yr);Final Energy|Industry|Gases (EJ/yr);NULL;1
+FE|Industry|Heat (EJ/yr);Final Energy|Industry|Heat (EJ/yr);NULL;1
+FE|Industry|Hydrogen (EJ/yr);Final Energy|Industry|Hydrogen (EJ/yr);NULL;1
+FE|Industry|Liquids (EJ/yr);Final Energy|Industry|Liquids (EJ/yr);NULL;1
+FE|Industry|Solids (EJ/yr);Final Energy|Industry|Solids (EJ/yr);NULL;1
+FE|Solids|Biomass (EJ/yr);Final Energy|Solids|Biomass (EJ/yr);NULL;1
+FE|Solids|Biomass|Traditional (EJ/yr);Final Energy|Solids|Biomass|Traditional (EJ/yr);NULL;1
+FE|Solids|Coal (EJ/yr);Final Energy|Solids|Coal (EJ/yr);NULL;1
+FE|Transport (EJ/yr);Final Energy|Transportation (EJ/yr);NULL;1
+FE|Transport|Electricity (EJ/yr);Final Energy|Transportation|Electricity (EJ/yr);NULL;1
+FE|Transport|Hydrogen (EJ/yr);Final Energy|Transportation|Hydrogen (EJ/yr);NULL;1
+FE|Transport|Liquids (EJ/yr);Final Energy|Transportation|Liquids (EJ/yr);NULL;1
+FE|Transport|Liquids|Biomass (EJ/yr);Final Energy|Transportation|Liquids|Biomass (EJ/yr);NULL;1
+FE|Transport|Liquids|Coal (EJ/yr);Final Energy|Transportation|Liquids|Coal (EJ/yr);NULL;1
+FE|Transport|Liquids|Oil (EJ/yr);Final Energy|Transportation|Liquids|Oil (EJ/yr);NULL;1
+ES|Transport|Pass|LDV (bn pkm/yr);Energy Service|Transportation|Passenger (bn pkm/yr);NULL;1
+ES|Transport|Freight (bn tkm/yr);Energy Service|Transportation|Freight (bn tkm/yr);NULL;1
+Price|Final Energy|Electricity|Buildings (US$2005/GJ);Price|Final Energy|Residential|Electricity (US$2010/GJ /GJ);NULL;1.10774
+Price|Final Energy|Gases|Buildings (US$2005/GJ);Price|Final Energy|Residential|Gases|Natural Gas (US$2010/GJ /GJ);NULL;1.10774
+Price|Final Energy|Heating Oil|Buildings (US$2005/GJ);Price|Final Energy|Residential|Liquids|Oil (US$2010/GJ /GJ);NULL;1.10774
+Price|Final Energy|Heating Oil|Buildings (US$2005/GJ);Price|Final Energy|Residential|Liquids|Biomass (US$2010/GJ /GJ);NULL;1.10774
+Price|Final Energy|Solids|Buildings (US$2005/GJ);Price|Final Energy|Residential|Solids|Coal (US$2010/GJ /GJ);NULL;1.10774
+Price|Final Energy|Solids|Buildings (US$2005/GJ);Price|Final Energy|Residential|Solids|Biomass (US$2010/GJ /GJ);NULL;1.10774
+Forcing (W/m2);Forcing (W/m2);NULL;1
+Forcing|Kyoto Gases (W/m2);Forcing|Kyoto Gases (W/m2);NULL;1
+GDP|MER (billion US$2005/yr);GDP|MER (billion US$2010/yr);NULL;1.10774
+GDP|PPP (billion US$2005/yr);GDP|PPP (billion US$2010/yr);NULL;1.10774
+Investments (billion US$2005/yr);Investment (billion US$2010/yr );NULL;1.10774
+Energy Investments|Demand (billion US$2005/yr);Investment|Energy Demand (billion US$2010/yr );NULL;1.10774
+Energy Investments|Supply (billion US$2005/yr);Investment|Energy Supply (billion US$2010/yr );NULL;1.10774
+Policy Cost|Consumption Loss (billion US$2005/yr);Policy Cost|Consumption Loss (billion US$2010/yr);NULL;1.10774
+Policy Cost|GDP Loss (billion US$2005/yr);Policy Cost|GDP Loss (billion US$2010/yr);NULL;1.10774
+Policy Cost|Consumption + Current Account Loss (billion US$2005/yr);Policy Cost|Other (billion US$2010/yr);NULL;1.10774
+Population (million);Population (million);NULL;1
+Price|Carbon (US$2005/t CO2);Price|Carbon (US$2010/t CO2);NULL;1.10774
+Price|Biomass|World Market (US$2005/GJ);Price|Primary Energy|Biomass (US$2010/GJ);NULL;1.10774
+Price|Coal|Primary Level (US$2005/GJ);Price|Primary Energy|Coal (US$2010/GJ);NULL;1.10774
+Price|Natural Gas|Primary Level (US$2005/GJ);Price|Primary Energy|Gas (US$2010/GJ);NULL;1.10774
+Price|Crude Oil|Primary Level (US$2005/GJ);Price|Primary Energy|Oil (US$2010/GJ);NULL;1.10774
+Price|Secondary Energy|Electricity (US$2005/GJ);Price|Secondary Energy|Electricity (US$2010/GJ);NULL;1.10774
+Price|Secondary Energy|Gases (US$2005/GJ);Price|Secondary Energy|Gases|Natural Gas (US$2010/GJ);NULL;1.10774
+Price|Secondary Energy|Hydrogen (US$2005/GJ);Price|Secondary Energy|Hydrogen (US$2010/GJ);NULL;1.10774
+Price|Secondary Energy|Liquids (US$2005/GJ);Price|Secondary Energy|Liquids (US$2010/GJ);NULL;1.10774
+Price|Secondary Energy|Solids (US$2005/GJ);Price|Secondary Energy|Solids|Coal (US$2010/GJ);NULL;1.10774
+PE (EJ/yr);Primary Energy (EJ/yr);NULL;1
+PE|+|Biomass (EJ/yr);Primary Energy|Biomass (EJ/yr);NULL;1
+PE|Biomass|w/ CCS (EJ/yr);Primary Energy|Biomass|w/ CCS (EJ/yr);NULL;1
+PE|Biomass|w/o CCS (EJ/yr);Primary Energy|Biomass|w/o CCS (EJ/yr);NULL;1
+PE|+|Coal (EJ/yr);Primary Energy|Coal (EJ/yr);NULL;1
+PE|Coal|w/ CCS (EJ/yr);Primary Energy|Coal|w/ CCS (EJ/yr);NULL;1
+PE|Coal|w/o CCS (EJ/yr);Primary Energy|Coal|w/o CCS (EJ/yr);NULL;1
+PE|Fossil (EJ/yr);Primary Energy|Fossil (EJ/yr);NULL;1
+PE|Fossil|w/ CCS (EJ/yr);Primary Energy|Fossil|w/ CCS (EJ/yr);NULL;1
+PE|Fossil|w/o CCS (EJ/yr);Primary Energy|Fossil|w/o CCS (EJ/yr);NULL;1
+PE|+|Gas (EJ/yr);Primary Energy|Gas (EJ/yr);NULL;1
+PE|Gas|w/ CCS (EJ/yr);Primary Energy|Gas|w/ CCS (EJ/yr);NULL;1
+PE|Gas|w/o CCS (EJ/yr);Primary Energy|Gas|w/o CCS (EJ/yr);NULL;1
+PE|+|Geothermal (EJ/yr);Primary Energy|Geothermal (EJ/yr);NULL;1
+PE|+|Hydro (EJ/yr);Primary Energy|Hydro (EJ/yr);NULL;1
+PE|Non-Biomass Renewables (EJ/yr);Primary Energy|Non-Biomass Renewables (EJ/yr);NULL;1
+PE|+|Nuclear (EJ/yr);Primary Energy|Nuclear (EJ/yr);NULL;1
+PE|+|Oil (EJ/yr);Primary Energy|Oil (EJ/yr);NULL;1
+PE|Oil|w/o CCS (EJ/yr);Primary Energy|Oil|w/o CCS (EJ/yr);NULL;1
+PE|+|Solar (EJ/yr);Primary Energy|Solar (EJ/yr);NULL;1
+PE|+|Wind (EJ/yr);Primary Energy|Wind (EJ/yr);NULL;1
+Res|Extraction|Gas (EJ/yr);Resource|Cumulative Extraction|Gas|Conventional (EJ);NULL;1
+Res|Extraction|Oil (EJ/yr);Resource|Cumulative Extraction|Oil|Conventional (EJ);NULL;1
+SE (EJ/yr);Secondary Energy (EJ/yr);NULL;1
+SE|Electricity (EJ/yr);Secondary Energy|Electricity (EJ/yr);NULL;1
+SE|Electricity|Biomass (EJ/yr);Secondary Energy|Electricity|Biomass (EJ/yr);NULL;1
+SE|Electricity|Biomass|w/ CCS (EJ/yr);Secondary Energy|Electricity|Biomass|w/ CCS (EJ/yr);NULL;1
+SE|Electricity|Biomass|w/o CCS (EJ/yr);Secondary Energy|Electricity|Biomass|w/o CCS (EJ/yr);NULL;1
+SE|Electricity|Coal (EJ/yr);Secondary Energy|Electricity|Coal (EJ/yr);NULL;1
+SE|Electricity|Coal|w/ CCS (EJ/yr);Secondary Energy|Electricity|Coal|w/ CCS (EJ/yr);NULL;1
+SE|Electricity|Coal|w/o CCS (EJ/yr);Secondary Energy|Electricity|Coal|w/o CCS (EJ/yr);NULL;1
+SE|Electricity|Gas (EJ/yr);Secondary Energy|Electricity|Gas (EJ/yr);NULL;1
+SE|Electricity|Gas|w/ CCS (EJ/yr);Secondary Energy|Electricity|Gas|w/ CCS (EJ/yr);NULL;1
+SE|Electricity|Gas|w/o CCS (EJ/yr);Secondary Energy|Electricity|Gas|w/o CCS (EJ/yr);NULL;1
+SE|Electricity|Geothermal (EJ/yr);Secondary Energy|Electricity|Geothermal (EJ/yr);NULL;1
+SE|Electricity|Hydro (EJ/yr);Secondary Energy|Electricity|Hydro (EJ/yr);NULL;1
+SE|Electricity|Non-Biomass Renewables (EJ/yr);Secondary Energy|Electricity|Non-Biomass Renewables (EJ/yr);NULL;1
+SE|Electricity|Nuclear (EJ/yr);Secondary Energy|Electricity|Nuclear (EJ/yr);NULL;1
+SE|Electricity|Oil (EJ/yr);Secondary Energy|Electricity|Oil (EJ/yr);NULL;1
+SE|Electricity|Oil|w/o CCS (EJ/yr);Secondary Energy|Electricity|Oil|w/o CCS (EJ/yr);NULL;1
+SE|Electricity|Solar (EJ/yr);Secondary Energy|Electricity|Solar (EJ/yr);NULL;1
+SE|Electricity|Solar|CSP (EJ/yr);Secondary Energy|Electricity|Solar|CSP (EJ/yr);NULL;1
+SE|Electricity|Solar|PV (EJ/yr);Secondary Energy|Electricity|Solar|PV (EJ/yr);NULL;1
+SE|Electricity|Wind (EJ/yr);Secondary Energy|Electricity|Wind (EJ/yr);NULL;1
+SE|Gases (EJ/yr);Secondary Energy|Gases (EJ/yr);NULL;1
+SE|Gases|Biomass (EJ/yr);Secondary Energy|Gases|Biomass (EJ/yr);NULL;1
+SE|Gases|Coal (EJ/yr);Secondary Energy|Gases|Coal (EJ/yr);NULL;1
+SE|Gases|Natural Gas (EJ/yr);Secondary Energy|Gases|Natural Gas (EJ/yr);NULL;1
+SE|Heat (EJ/yr);Secondary Energy|Heat (EJ/yr);NULL;1
+SE|Hydrogen (EJ/yr);Secondary Energy|Hydrogen (EJ/yr);NULL;1
+SE|Liquids (EJ/yr);Secondary Energy|Liquids (EJ/yr);NULL;1
+SE|Liquids|Biomass (EJ/yr);Secondary Energy|Liquids|Biomass (EJ/yr);NULL;1
+SE|Liquids|Biomass|w/ CCS (EJ/yr);Secondary Energy|Liquids|Biomass|w/ CCS (EJ/yr);NULL;1
+SE|Liquids|Biomass|w/o CCS (EJ/yr);Secondary Energy|Liquids|Biomass|w/o CCS (EJ/yr);NULL;1
+SE|Liquids|Coal (EJ/yr);Secondary Energy|Liquids|Coal (EJ/yr);NULL;1
+SE|Liquids|Coal|w/ CCS (EJ/yr);Secondary Energy|Liquids|Coal|w/ CCS (EJ/yr);NULL;1
+SE|Liquids|Coal|w/o CCS (EJ/yr);Secondary Energy|Liquids|Coal|w/o CCS (EJ/yr);NULL;1
+SE|Liquids|Oil (EJ/yr);Secondary Energy|Liquids|Oil (EJ/yr);NULL;1
+SE|Solids (EJ/yr);Secondary Energy|Solids (EJ/yr);NULL;1
+SE|Solids|Biomass (EJ/yr);Secondary Energy|Solids|Biomass (EJ/yr);NULL;1
+SE|Solids|Coal (EJ/yr);Secondary Energy|Solids|Coal (EJ/yr);NULL;1
+Temperature|Global Mean (K);Temperature|Global Mean (K);NULL;1
+Trade|Coal (EJ/yr);Trade|Primary Energy|Coal|Volume (EJ/yr);NULL;1
+Trade|Gas (EJ/yr);Trade|Primary Energy|Gas|Volume (EJ/yr);NULL;1
+Trade|Oil (EJ/yr);Trade|Primary Energy|Oil|Volume (EJ/yr);NULL;1
+Subsidies|Final Energy (billion US$2005/yr);Subsidies|Energy|Fossil (billion US$2010/yr );NULL;1.10774
+PE|Biomass|Electricity (EJ/yr);Primary Energy|Biomass|Electricity (EJ/yr);NULL;1
+PE|Biomass|Electricity|w/o CCS (EJ/yr);Primary Energy|Biomass|Electricity|w/o CCS (EJ/yr);NULL;1
+PE|Biomass|Electricity|w/ CCS (EJ/yr);Primary Energy|Biomass|Electricity|w/ CCS (EJ/yr);NULL;1
+PE|Coal|Electricity (EJ/yr);Primary Energy|Coal|Electricity (EJ/yr);NULL;1
+PE|Coal|Electricity|w/o CCS (EJ/yr);Primary Energy|Coal|Electricity|w/o CCS (EJ/yr);NULL;1
+PE|Coal|Electricity|w/ CCS (EJ/yr);Primary Energy|Coal|Electricity|w/ CCS (EJ/yr);NULL;1
+PE|Gas|Electricity (EJ/yr);Primary Energy|Gas|Electricity (EJ/yr);NULL;1
+PE|Gas|Electricity|w/o CCS (EJ/yr);Primary Energy|Gas|Electricity|w/o CCS (EJ/yr);NULL;1
+PE|Gas|Electricity|w/ CCS (EJ/yr);Primary Energy|Gas|Electricity|w/ CCS (EJ/yr);NULL;1
+SE|Electricity|Oil (EJ/yr);Primary Energy|Oil|Electricity (EJ/yr);NULL;3.33
+SE|Electricity|Oil|w/o CCS (EJ/yr);Primary Energy|Oil|Electricity|w/o CCS (EJ/yr);NULL;3.33
+SE|Electricity|Oil|w/o CCS (EJ/yr);Primary Energy|Oil|Electricity|w/ CCS (EJ/yr);NULL;0
+Cap|Electricity|Biomass|w/ CCS (GW);Capacity|Electricity|Biomass|w/ CCS (GW);NULL;1
+Cap|Electricity|Biomass|w/o CCS (GW);Capacity|Electricity|Biomass|w/o CCS (GW);NULL;1
+Cap|Electricity|Coal|w/ CCS (GW);Capacity|Electricity|Coal|w/ CCS (GW);NULL;1
+Cap|Electricity|Coal|w/o CCS (GW);Capacity|Electricity|Coal|w/o CCS (GW);NULL;1
+Cap|Electricity|Gas|w/ CCS (GW);Capacity|Electricity|Gas|w/ CCS (GW);NULL;1
+Cap|Electricity|Gas|w/o CCS (GW);Capacity|Electricity|Gas|w/o CCS (GW);NULL;1
+Cap|Electricity|Hydro (GW);Capacity|Electricity|Hydro (GW);NULL;1
+Cap|Electricity|Nuclear (GW);Capacity|Electricity|Nuclear (GW);NULL;1
+Cap|Electricity|Oil|w/o CCS (GW);Capacity|Electricity|Oil|w/o CCS (GW);NULL;1
+Cap|Electricity|Solar|CSP (GW);Capacity|Electricity|Solar|CSP (GW);NULL;1
+Cap|Electricity|Solar|PV (GW);Capacity|Electricity|Solar|PV (GW);NULL;1
+Cap|Electricity|Wind (GW);Capacity|Electricity|Wind (GW);NULL;1
+Cap|Electricity (GW);Capacity|Electricity (GW);NULL;1
+New Cap|Electricity|Biomass|w/ CCS (GW);Capacity Additions|Electricity|Biomass|w/ CCS (GW/yr);NULL;1
+New Cap|Electricity|Biomass|w/o CCS (GW);Capacity Additions|Electricity|Biomass|w/o CCS (GW/yr);NULL;1
+New Cap|Electricity|Coal|w/ CCS (GW);Capacity Additions|Electricity|Coal|w/ CCS (GW/yr);NULL;1
+New Cap|Electricity|Coal|w/o CCS (GW);Capacity Additions|Electricity|Coal|w/o CCS (GW/yr);NULL;1
+New Cap|Electricity|Gas|w/ CCS (GW);Capacity Additions|Electricity|Gas|w/ CCS (GW/yr);NULL;1
+New Cap|Electricity|Gas|w/o CCS (GW);Capacity Additions|Electricity|Gas|w/o CCS (GW/yr);NULL;1
+New Cap|Electricity|Hydro (GW);Capacity Additions|Electricity|Hydro (GW/yr);NULL;1
+New Cap|Electricity|Nuclear (GW);Capacity Additions|Electricity|Nuclear (GW/yr);NULL;1
+New Cap|Electricity|Solar|CSP (GW);Capacity Additions|Electricity|Solar|CSP (GW/yr);NULL;1
+New Cap|Electricity|Solar|PV (GW);Capacity Additions|Electricity|Solar|PV (GW/yr);NULL;1
+New Cap|Electricity|Wind (GW);Capacity Additions|Electricity|Wind (GW/yr);NULL;1
+Cumulative Cap|Electricity|Biomass|w/ CCS (GW);Cumulative Capacity|Electricity|Biomass|w/ CCS (GW);NULL;1
+Cumulative Cap|Electricity|Biomass|w/o CCS (GW);Cumulative Capacity|Electricity|Biomass|w/o CCS (GW);NULL;1
+Cumulative Cap|Electricity|Coal|w/ CCS (GW);Cumulative Capacity|Electricity|Coal|w/ CCS (GW);NULL;1
+Cumulative Cap|Electricity|Coal|w/o CCS (GW);Cumulative Capacity|Electricity|Coal|w/o CCS (GW);NULL;1
+Cumulative Cap|Electricity|Gas|w/ CCS (GW);Cumulative Capacity|Electricity|Gas|w/ CCS (GW);NULL;1
+Cumulative Cap|Electricity|Gas|w/o CCS (GW);Cumulative Capacity|Electricity|Gas|w/o CCS (GW);NULL;1
+Cumulative Cap|Electricity|Hydro (GW);Cumulative Capacity|Electricity|Hydro (GW);NULL;1
+Cumulative Cap|Electricity|Nuclear (GW);Cumulative Capacity|Electricity|Nuclear (GW);NULL;1
+Cumulative Cap|Electricity|Solar|CSP (GW);Cumulative Capacity|Electricity|Solar|CSP (GW);NULL;1
+Cumulative Cap|Electricity|Solar|PV (GW);Cumulative Capacity|Electricity|Solar|PV (GW);NULL;1
+Cumulative Cap|Electricity|Wind (GW);Cumulative Capacity|Electricity|Wind (GW);NULL;1
+Cap|Electricity|Storage|Battery (GW);Capacity|Electricity|Storage (GW);NULL;1
+Cumulative Cap|Electricity|Storage|Battery (GW);Cumulative Capacity|Electricity|Storage (GW);NULL;1
+New Cap|Electricity|Storage|Battery (GW);Capacity Additions|Electricity|Storage (GW);NULL;1
+Energy Investments|Elec|Biomass|w/ CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Biomass|w/ CCS (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Biomass|w/o CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Biomass|w/o CCS (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Coal|w/ CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Coal|w/ CCS (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Coal|w/o CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Coal|w/o CCS (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Gas|w/ CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Gas|w/ CCS (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Gas|w/o CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Gas|w/o CCS (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Hydro (billion US$2005/yr);Investment|Energy Supply|Electricity|Hydro (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Nuclear (billion US$2005/yr);Investment|Energy Supply|Electricity|Nuclear (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Oil|w/o CCS (billion US$2005/yr);Investment|Energy Supply|Electricity|Oil|w/o CCS (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Solar (billion US$2005/yr);Investment|Energy Supply|Electricity|Solar (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Wind (billion US$2005/yr);Investment|Energy Supply|Electricity|Wind (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Grid (billion US$2005/yr);Investment|Energy Supply|Electricity|Transmission and Distribution (billion US$2010/yr);NULL;1.10774
+Energy Investments|Elec|Storage (billion US$2005/yr);Investment|Energy Supply|Electricity|Electricity Storage (billion US$2010/yr);NULL;1.10774
+Energy Investments|Hydrogen (billion US$2005/yr);Investment|Energy Supply|Hydrogen (billion US$2010/yr);NULL;1.10774
+Energy Investments|Hydrogen|Fossil (billion US$2005/yr);Investment|Energy Supply|Hydrogen|Fossil (billion US$2010/yr);NULL;1.10774
+Energy Investments|Hydrogen|RE (billion US$2005/yr);Investment|Energy Supply|Hydrogen|Renewable (billion US$2010/yr);NULL;1.10774
+Energy Investments|Liquids (billion US$2005/yr);Investment|Energy Supply|Liquids (billion US$2010/yr);NULL;1.10774
+Energy Investments|Liquids|Oil Ref (billion US$2005/yr);Investment|Energy Supply|Liquids|Oil (billion US$2010/yr);NULL;1.10774
+Energy Investments|Liquids|Fossil (billion US$2005/yr);Investment|Energy Supply|Liquids|Coal and Gas (billion US$2010/yr);NULL;1.10774
+Energy Investments|Liquids|Bio (billion US$2005/yr);Investment|Energy Supply|Liquids|Biomass (billion US$2010/yr);NULL;1.10774
+Energy Investments|CO2 Trans&Stor (billion US$2005/yr);Investment|Energy Supply|CO2 Transport and Storage (billion US$2010/yr);NULL;1.10774
+SE|Heat|Geothermal (EJ/yr);Final Energy|Geothermal (EJ/yr);NULL;1
+SE|Heat|Geothermal (EJ/yr);Final Energy|Transportation|Gases (EJ/yr);NULL;0
+FE|Industry|Solids|Coal (EJ/yr);Final Energy|Industry|Solids|Coal (EJ/yr);NULL;1
+FE|Buildings|Solids|Biomass (EJ/yr);Final Energy|Residential and Commercial|Solids|Biomass (EJ/yr);NULL;1
+FE|Buildings|Solids|Coal (EJ/yr);Final Energy|Residential and Commercial|Solids|Coal (EJ/yr);NULL;1
+FE|Buildings|Solids|Coal (EJ/yr);Final Energy|Solar (EJ/yr);NULL;0
+FE|Industry|Solids|Biomass (EJ/yr);Final Energy|Industry|Solids|Biomass (EJ/yr);NULL;1
+Emi|CO2|Energy (Mt CO2/yr);Emissions|CO2|Energy (Mt CO2/yr);NULL;1

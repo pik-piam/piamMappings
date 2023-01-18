@@ -1,0 +1,8 @@
+functions
+y~(a * x)/(b + x)
+y~(a * x)/(b + x)+c
+y~(a * x)/(b + x)+0.03
+y~a/x + b
+y~a * x^b
+y~a + x^b
+y~a + b*x^c

@@ -1,0 +1,9 @@
+HRE;REMIND;Unit_REMIND;Conversion;Comment
+Fuel individual boilers|Indiviual Boilers|Coal;FE|Buildings|Heating|Solids;EJ/yr;0.0036;
+Fuel individual boilers|Indiviual Boilers|Oil;FE|Buildings|Heating|Liquids;EJ/yr;0.0036;
+Fuel individual boilers|Indiviual Boilers|Ngas;FE|Buildings|Heating|Gases;EJ/yr;0.0036;
+Fuel individual boilers|Indiviual Boilers|Biomass;FE|Buildings|Heating|Solids;EJ/yr;0.0036;
+Fuel individual boilers|Indiviual Boilers|Coal;FE|Buildings|Solids;EJ/yr;0.0036;
+Fuel individual boilers|Indiviual Boilers|Oil;FE|Buildings|Liquids;EJ/yr;0.0036;
+Fuel individual boilers|Indiviual Boilers|Ngas;FE|Buildings|Gases;EJ/yr;0.0036;
+Fuel individual boilers|Indiviual Boilers|Biomass;FE|Buildings|Solids;EJ/yr;0.0036;

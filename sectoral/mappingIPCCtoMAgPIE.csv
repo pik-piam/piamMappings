@@ -1,0 +1,11 @@
+IPCC,MAgPIE
+luc,Land Use Change
+inorg_fert,Agriculture|Agricultural Soils|+|Inorganic Fertilizers
+man_crop,Agriculture|Agricultural Soils|+|Manure applied to Croplands
+resid,Agriculture|Agricultural Soils|+|Decay of Crop Residues
+som,Agriculture|Agricultural Soils|+|Soil Organic Matter Loss
+rice,Agriculture|Agricultural Soils|+|Inorganic Fertilizers
+pasture_soils,Agriculture|Agricultural Soils|+|Pasture
+awms,Agriculture|+|Animal Waste Management
+soils,Agriculture|+|Agricultural Soils
+agri,Agriculture

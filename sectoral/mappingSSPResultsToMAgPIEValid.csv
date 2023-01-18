@@ -1,0 +1,20 @@
+SSPResults,MAgPIEValid,NoRealEquivalent
+Population (million),Population (million),
+Land Cover (million ha),Land Cover (million ha),
+Land Cover|Built-up Area (million ha),Land Cover|+|Urban Area (million ha),
+Land Cover|Cropland (million ha),Land Cover|+|Cropland (million ha),
+Land Cover|Cropland|Energy Crops (million ha),Land Cover|Cropland|Bioenergy crops (million ha),
+Land Cover|Forest (million ha),Land Cover|+|Forest (million ha),
+Land Cover|Forest|Forestry (million ha),Land Cover|Forest|+|Managed Forest (million ha),
+Land Cover|Forest|Forestry|Harvested Area (million ha),Land Cover|Forest|Forestry|Harvested Area (million ha),1
+Land Cover|Forest|Natural Forest (million ha),Land Cover|Forest|+|Natural Forest (million ha),1
+Land Cover|Other Arable Land (million ha),Land Cover|Other Arable Land (million ha),1
+Land Cover|Other Land (million ha),Land Cover|+|Other Land (million ha),1
+Land Cover|Other Natural Land (million ha),Land Cover|Other Natural Land (million ha),1
+Land Cover|Pasture (million ha),Land Cover|+|Pastures and Rangelands (million ha),
+Primary Energy|Biomass|1st Generation (EJ/yr),Primary Energy|Biomass|1st Generation (EJ/yr),1
+Primary Energy|Biomass|Energy Crops (EJ/yr),Primary Energy|Biomass|Energy Crops (EJ/yr),1
+Agricultural Demand|Bioenergy|1st generation (million t DM/yr),Agricultural Demand|Bioenergy|1st generation (million t DM/yr),
+Agricultural Demand|Bioenergy|2nd generation (million t DM/yr),Agricultural Demand|Bioenergy|2nd generation (million t DM/yr),
+Price|Carbon (US$2005/t CO2),Price|Carbon (US$2005/t CO2),1
+Price|Primary Energy|Biomass (US$2005/GJ),Price|Primary Energy|Biomass (US$2005/GJ),1
