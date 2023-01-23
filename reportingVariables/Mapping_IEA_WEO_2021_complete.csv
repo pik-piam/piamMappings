@@ -50,7 +50,7 @@ CO2 combustion-Total-Total aviation (domestic and bunkers);Mt CO2;;;
 CO2 combustion-Total-Total navigation (domestic and bunkers);Mt CO2;;;
 CO2 combustion-Total-Total primary energy demand;Mt CO2;Emi|CO2|Energy;1;Mt CO2/yr
 CO2 combustion-Total-Transport;Mt CO2;Emi|CO2|Energy|Demand|Transport;1;Mt CO2/yr
-CO2 combustion, processes, removal-Total-Total all sectors;Mt CO2;;;
+CO2 combustion; processes; removal-Total-Total all sectors;Mt CO2;
 CO2 emissions intensity-Electricity-Electricity generation;gCO2 per kWh;;;
 CO2 industrial processes captured and stored-Total-Biofuels production;Mt CO2;;;
 CO2 industrial processes captured and used-Total-Total all sectors;Mt CO2;Carbon Management|Storage;1;Mt CO2/yr
@@ -91,13 +91,13 @@ Energy-Coking coal-Production;Million tonnes of coal equivalent;;;
 Energy-Concentrating solar power-Electricity generation;TWh;SE|Electricity|Solar|CSP;0.0036;EJ/yr
 Energy-Conventional gas-Production;Billion cubic metres;;;
 Energy-Crude oil-Production;Million barrels per day;;;
-Energy-CTL, GTL and additives-Demand;Million barrels per day;;;
+Energy-CTL; GTL and additives-Demand;Million barrels per day;;
 Energy-Direct use of crude oil-Demand;Million barrels per day;;;
 Energy-District heat-Buildings;EJ;FE|Buildings|Heat;1;EJ/yr
-Energy-District heat-Industry;EJ;;;
+Energy-District heat-Industry;EJ;FE|Industry|Heat;1;EJ/yr
 Energy-District heat-Total final consumption;EJ;FE|Heat;1;EJ/yr
 Energy-Electricity-Buildings;EJ;FE|Buildings|Electricity;1;EJ/yr
-Energy-Electricity-Industry;EJ;;;
+Energy-Electricity-Industry;EJ;FE|Industry|Electricity;1;EJ/yr
 Energy-Electricity-Total final consumption;EJ;FE|Electricity;1;EJ/yr
 Energy-Electricity-Transport;EJ;FE|Transport|Electricity;1;EJ/yr
 Energy-Extra-heavy oil and bitumen-Production;Million barrels per day;;;
@@ -113,7 +113,7 @@ Energy-Hydro-Power sector inputs;EJ;;;
 Energy-Hydro-Total primary energy demand;EJ;PE|Hydro;1;EJ/yr
 Energy-Hydrogen (low-emissions)-Supply;EJ;SE|Hydrogen|Electricity;1;EJ/yr
 Energy-Hydrogen (total)-Buildings;EJ;FE|Buildings|Hydrogen;1;EJ/yr
-Energy-Hydrogen (total)-Industry;EJ;;;
+Energy-Hydrogen (total)-Industry;EJ;FE|Industry|Hydrogen;1;EJ/yr
 Energy-Hydrogen (total)-Power sector inputs;EJ;SE|Input|Hydrogen|Electricity;1;EJ/yr
 Energy-Hydrogen (total)-Total final consumption;EJ;FE|Hydrogen;1;EJ/yr
 Energy-Hydrogen (total)-Transport;EJ;FE|Transport|Hydrogen;1;EJ/yr
@@ -193,21 +193,21 @@ Energy-Tide and wave-Electricity generation;TWh;;;
 Energy-Tight gas-Production;Billion cubic metres;;;
 Energy-Tight oil-Production;Million barrels per day;;;
 Energy-Total gases-Buildings;EJ;FE|Buildings|Gases;1;EJ/yr
-Energy-Total gases-Industry;EJ;;;
+Energy-Total gases-Industry;EJ;FE|Industry|Gases;1;EJ/yr
 Energy-Total gases-Total final consumption;EJ;FE|Gases;1;EJ/yr
 Energy-Total gases-Transport;EJ;FE|Transport|Gases;1;EJ/yr
 Energy-Total liquids-Buildings;EJ;FE|Buildings|Liquids;1;EJ/yr
-Energy-Total liquids-Industry;EJ;;;
+Energy-Total liquids-Industry;EJ;FE|Industry|Liquids;1;EJ/yr
 Energy-Total liquids-Total final consumption;EJ;FE|Liquids;1;EJ/yr
 Energy-Total liquids-Transport;EJ;FE|Transport|Liquids;1;EJ/yr
 Energy-Total solid fuels-Buildings;EJ;FE|Buildings|Solids;1;EJ/yr
-Energy-Total solid fuels-Industry;EJ;;;
+Energy-Total solid fuels-Industry;EJ;FE|Industry|Solids;1;EJ/yr
 Energy-Total solid fuels-Total final consumption;EJ;FE|Solids;1;EJ/yr
 Energy-Total-Buildings;EJ;FE|Buildings;1;EJ/yr
 Energy-Total-Cement;EJ;;;
 Energy-Total-Chemical and petrochemical;EJ;;;
 Energy-Total-Electricity generation;TWh;SE|Electricity;0.0036;EJ/yr
-Energy-Total-Industry;EJ;;;
+Energy-Total-Industry;EJ;FE|Industry;1;EJ/yr
 Energy-Total-Iron and steel;EJ;FE|Industry|Steel;1;EJ/yr
 Energy-Total-Other energy sector;EJ;;;
 Energy-Total-Power sector inputs;EJ;;;
