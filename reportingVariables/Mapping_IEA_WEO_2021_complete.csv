@@ -50,7 +50,7 @@ CO2 combustion-Total-Total aviation (domestic and bunkers);Mt CO2;;;
 CO2 combustion-Total-Total navigation (domestic and bunkers);Mt CO2;;;
 CO2 combustion-Total-Total primary energy demand;Mt CO2;Emi|CO2|Energy;1;Mt CO2/yr
 CO2 combustion-Total-Transport;Mt CO2;Emi|CO2|Energy|Demand|Transport;1;Mt CO2/yr
-CO2 combustion; processes; removal-Total-Total all sectors;Mt CO2;
+CO2 combustion, processes, removal-Total-Total all sectors;Mt CO2;;;
 CO2 emissions intensity-Electricity-Electricity generation;gCO2 per kWh;;;
 CO2 industrial processes captured and stored-Total-Biofuels production;Mt CO2;;;
 CO2 industrial processes captured and used-Total-Total all sectors;Mt CO2;Carbon Management|Storage;1;Mt CO2/yr
@@ -91,7 +91,7 @@ Energy-Coking coal-Production;Million tonnes of coal equivalent;;;
 Energy-Concentrating solar power-Electricity generation;TWh;SE|Electricity|Solar|CSP;0.0036;EJ/yr
 Energy-Conventional gas-Production;Billion cubic metres;;;
 Energy-Crude oil-Production;Million barrels per day;;;
-Energy-CTL; GTL and additives-Demand;Million barrels per day;;
+Energy-CTL, GTL and additives-Demand;Million barrels per day;;;
 Energy-Direct use of crude oil-Demand;Million barrels per day;;;
 Energy-District heat-Buildings;EJ;FE|Buildings|Heat;1;EJ/yr
 Energy-District heat-Industry;EJ;FE|Industry|Heat;1;EJ/yr
