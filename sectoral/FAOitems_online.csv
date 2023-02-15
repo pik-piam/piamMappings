@@ -369,7 +369,7 @@ FAOoriginalItem_fromWebsite,FAOaggregatedItem_fromWebsite,ProductionItem,FoodBal
 "161|Sugar crops, nes",,"161|Sugar crops, nes",remaining,remaining,
 "161|Sugar crops, nes",,161|Sugar crops nes,remaining,remaining,
 ,"2543|Sweeteners, Other",,"2543|Sweeteners, Other",sugar,
-"1182|Honey, natural",2745|Honey,"1182|Honey, natural",2745|Honey,sugar,
+"1182|Honey, natural",2745|Honey,"1182|Honey, natural",2745|Honey,remaining,
 ,"2818|Sugar, Refined Equiv",,"2818|Sugar, Refined Equiv",sugar,
 157|Sugar beet,2537|Sugar beet,157|Sugar beet,2537|Sugar beet,sugr_beet,
 156|Sugar cane,2536|Sugar cane,156|Sugar cane,2536|Sugar cane,sugr_cane,
