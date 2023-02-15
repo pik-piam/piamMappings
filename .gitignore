@@ -2,4 +2,4 @@
 .~lock*
 .venv/
 *~
-regions/*.rds
+regional/*.rds
