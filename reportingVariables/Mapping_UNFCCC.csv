@@ -569,21 +569,21 @@
 "Table1s2|CO2 captured|CO2";"kt CO2";1;0.001;"Mt CO2/yr";"Carbon Management|Carbon Sinks|Storage";"Not sure, I think following IPCC V2 section 2.3.4 guidelines, ""captured CO2"" only refers to CO2 which goes to storage. However, not as relevant yet as values 0/NA. "
 "Table1s2|CO2 captured|For domestic storage|CO2";;;;;;
 "Table1s2|CO2 emissions from biomass|CO2";;;;;;"Not sure whether ""fuel combustion"" also refers to sectors outside of IPCC sectors 1.A. For that reason, I only include the variables below starting with ""Total Energy|Fuel Combustion Activities|...""  as they obviously derive from the IPCC sector 1.A. "
-"Table1s2|International bunkers|Aviation|CH4";;;;;;
+"Table1s2|International bunkers|Aviation|CH4";"kt CH4";1;0.001;"Mt CH4/yr";"Emi|CH4|Transport|Pass|Aviation|International|Demand";
 "Table1s2|International bunkers|Aviation|CO";;;;;;
 "Table1s2|International bunkers|Aviation|CO2";"kt CO2";1;0.001;"Mt CO2/yr";"Emi|CO2|Transport|Pass|Aviation|International|Demand";
-"Table1s2|International bunkers|Aviation|N2O";;;;;;
+"Table1s2|International bunkers|Aviation|N2O";"kt N2O";1;1;"kt N2O/yr";"Emi|N2O|Transport|Pass|Aviation|International|Demand";
 "Table1s2|International bunkers|Aviation|NMVOC";;;;;;
 "Table1s2|International bunkers|Aviation|NOX";;;;;;
 "Table1s2|International bunkers|Aviation|SO2";;;;;;
-"Table1s2|International bunkers|CH4";;;;;;
+"Table1s2|International bunkers|CH4";"kt CH4";1;0.001;"Mt CH4/yr";"Emi|CH4|Energy|Demand|Transport|International Bunkers";
 "Table1s2|International bunkers|CO";;;;;;
 "Table1s2|International bunkers|CO2";"kt CO2";1;0.001;"Mt CO2/yr";"Emi|CO2|Energy|Demand|Transport|International Bunkers";
-"Table1s2|International bunkers|N2O";;;;;;
-"Table1s2|International bunkers|Navigation|CH4";;;;;;
+"Table1s2|International bunkers|N2O";"kt N2O";1;1;"kt N2O/yr";"Emi|N2O|Energy|Demand|Transport|International Bunkers";
+"Table1s2|International bunkers|Navigation|CH4";"kt CH4";1;0.001;"Mt CH4/yr";"Emi|CH4|Transport|Freight|International Shipping|Demand";
 "Table1s2|International bunkers|Navigation|CO";;;;;;
 "Table1s2|International bunkers|Navigation|CO2";"kt CO2";1;0.001;"Mt CO2/yr";"Emi|CO2|Transport|Freight|International Shipping|Demand";
-"Table1s2|International bunkers|Navigation|N2O";;;;;;
+"Table1s2|International bunkers|Navigation|N2O";"kt N2O";1;1;"kt N2O/yr";"Emi|N2O|Transport|Freight|International Shipping|Demand";
 "Table1s2|International bunkers|Navigation|NMVOC";;;;;;
 "Table1s2|International bunkers|Navigation|NOX";;;;;;
 "Table1s2|International bunkers|Navigation|SO2";;;;;;
