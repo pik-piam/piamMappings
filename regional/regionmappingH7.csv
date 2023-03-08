@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode;
+1;Aruba;ABW;LAM
+2;Afghanistan;AFG;OthAsia
+3;Angola;AGO;MAF
+4;Anguilla;AIA;LAM
+5;Aland Islands;ALA;Europe
+6;Albania;ALB;Europe
+7;Andorra;AND;Europe
+8;United Arab Emirates;ARE;MAF
+9;Argentina;ARG;LAM
+10;Armenia;ARM;RefEcon.
+11;American Samoa;ASM;OthAsia
+12;Antarctica;ATA;LAM
+13;French Southern Territories;ATF;OthAsia
+14;Antigua and Barbuda;ATG;LAM
+15;Australia;AUS;OthOECD
+16;Austria;AUT;Europe
+17;Azerbaijan;AZE;RefEcon.
+18;Burundi;BDI;MAF
+19;Belgium;BEL;Europe
+20;Benin;BEN;MAF
+21;Bonaire, Sint Eustatius and Saba;BES;LAM
+22;Burkina Faso;BFA;MAF
+23;Bangladesh;BGD;OthAsia
+24;Bulgaria;BGR;Europe
+25;Bahrain;BHR;MAF
+26;Bahamas;BHS;LAM
+27;Bosnia and Herzegovina;BIH;Europe
+28;Saint Barthelemy;BLM;LAM
+29;Belarus;BLR;RefEcon.
+30;Belize;BLZ;LAM
+31;Bermuda;BMU;LAM
+32;Bolivia, Plurinational State of;BOL;LAM
+33;Brazil;BRA;LAM
+34;Barbados;BRB;LAM
+35;Brunei Darussalam;BRN;OthAsia
+36;Bhutan;BTN;OthAsia
+37;Bouvet Island;BVT;LAM
+38;Botswana;BWA;MAF
+39;Central African Republic;CAF;MAF
+40;Canada;CAN;OthOECD
+41;Cocos (Keeling) Islands;CCK;OthAsia
+42;China;CHN;China
+43;Switzerland;CHE;Europe
+44;Chile;CHL;LAM
+45;Cote d Ivoire;CIV;MAF
+46;Cameroon;CMR;MAF
+47;Congo, the Democratic Republic of the;COD;MAF
+48;Congo;COG;MAF
+49;Cook Islands;COK;OthAsia
+50;Colombia;COL;LAM
+51;Comoros;COM;MAF
+52;Cape Verde;CPV;MAF
+53;Costa Rica;CRI;LAM
+54;Cuba;CUB;LAM
+55;Curacao;CUW;LAM
+56;Christmas Island;CXR;OthAsia
+57;Cayman Islands;CYM;LAM
+58;Cyprus;CYP;Europe
+59;Czech Republic;CZE;Europe
+60;Germany;DEU;Europe
+61;Djibouti;DJI;MAF
+62;Dominica;DMA;LAM
+63;Denmark;DNK;Europe
+64;Dominican Republic;DOM;LAM
+65;Algeria;DZA;MAF
+66;Ecuador;ECU;LAM
+67;Egypt;EGY;MAF
+68;Eritrea;ERI;MAF
+69;Western Sahara;ESH;MAF
+70;Spain;ESP;Europe
+71;Estonia;EST;Europe
+72;Ethiopia;ETH;MAF
+73;Finland;FIN;Europe
+74;Fiji;FJI;OthAsia
+75;Falkland Islands (Malvinas);FLK;LAM
+76;France;FRA;Europe
+77;Faroe Islands;FRO;Europe
+78;Micronesia, Federated States of;FSM;OthAsia
+79;Gabon;GAB;MAF
+80;United Kingdom;GBR;Europe
+81;Georgia;GEO;RefEcon.
+82;Guernsey;GGY;Europe
+83;Ghana;GHA;MAF
+84;Gibraltar;GIB;Europe
+85;Guinea;GIN;MAF
+86;Guadeloupe;GLP;LAM
+87;Gambia;GMB;MAF
+88;Guinea-Bissau;GNB;MAF
+89;Equatorial Guinea;GNQ;MAF
+90;Greece;GRC;Europe
+91;Grenada;GRD;LAM
+92;Greenland;GRL;Europe
+93;Guatemala;GTM;LAM
+94;French Guiana;GUF;LAM
+95;Guam;GUM;OthAsia
+96;Guyana;GUY;LAM
+97;Hong Kong;HKG;China
+98;Heard Island and McDonald Islands;HMD;OthOECD
+99;Honduras;HND;LAM
+100;Croatia;HRV;Europe
+101;Haiti;HTI;LAM
+102;Hungary;HUN;Europe
+103;Indonesia;IDN;OthAsia
+104;Isle of Man;IMN;Europe
+105;India;IND;OthAsia
+106;British Indian Ocean Territory;IOT;OthAsia
+107;Ireland;IRL;Europe
+108;Iran, Islamic Republic of;IRN;MAF
+109;Iraq;IRQ;MAF
+110;Iceland;ISL;Europe
+111;Israel;ISR;MAF
+112;Italy;ITA;Europe
+113;Jamaica;JAM;LAM
+114;Jersey;JEY;Europe
+115;Jordan;JOR;MAF
+116;Japan;JPN;OthOECD
+117;Kazakhstan;KAZ;RefEcon.
+118;Kenya;KEN;MAF
+119;Kyrgyzstan;KGZ;RefEcon.
+120;Cambodia;KHM;OthAsia
+121;Kiribati;KIR;OthAsia
+122;Saint Kitts and Nevis;KNA;LAM
+123;Korea, Republic of;KOR;OthAsia
+124;Kuwait;KWT;MAF
+125;Lao People's Democratic Republic;LAO;OthAsia
+126;Lebanon;LBN;MAF
+127;Liberia;LBR;MAF
+128;Libya;LBY;MAF
+129;Saint Lucia;LCA;LAM
+130;Liechtenstein;LIE;Europe
+131;Sri Lanka;LKA;OthAsia
+132;Lesotho;LSO;MAF
+133;Lithuania;LTU;Europe
+134;Luxembourg;LUX;Europe
+135;Latvia;LVA;Europe
+136;Macao;MAC;China
+137;Saint Martin (French part);MAF;LAM
+138;Morocco;MAR;MAF
+139;Monaco;MCO;Europe
+140;Moldova, Republic of;MDA;RefEcon.
+141;Madagascar;MDG;MAF
+142;Maldives;MDV;OthAsia
+143;Mexico;MEX;LAM
+144;Marshall Islands;MHL;OthAsia
+145;Macedonia, the former Yugoslav Republic of;MKD;Europe
+146;Mali;MLI;MAF
+147;Malta;MLT;Europe
+148;Myanmar;MMR;OthAsia
+149;Montenegro;MNE;Europe
+150;Mongolia;MNG;OthAsia
+151;Northern Mariana Islands;MNP;OthAsia
+152;Mozambique;MOZ;MAF
+153;Mauritania;MRT;MAF
+154;Montserrat;MSR;LAM
+155;Martinique;MTQ;LAM
+156;Mauritius;MUS;MAF
+157;Malawi;MWI;MAF
+158;Malaysia;MYS;OthAsia
+159;Mayotte;MYT;MAF
+160;Namibia;NAM;MAF
+161;New Caledonia;NCL;OthAsia
+162;Niger;NER;MAF
+163;Norfolk Island;NFK;OthAsia
+164;Nigeria;NGA;MAF
+165;Nicaragua;NIC;LAM
+166;Niue;NIU;OthAsia
+167;Netherlands;NLD;Europe
+168;Norway;NOR;Europe
+169;Nepal;NPL;OthAsia
+170;Nauru;NRU;OthAsia
+171;New Zealand;NZL;OthOECD
+172;Oman;OMN;MAF
+173;Pakistan;PAK;OthAsia
+174;Panama;PAN;LAM
+175;Pitcairn;PCN;OthAsia
+176;Peru;PER;LAM
+177;Philippines;PHL;OthAsia
+178;Palau;PLW;OthAsia
+179;Papua New Guinea;PNG;OthAsia
+180;Poland;POL;Europe
+181;Puerto Rico;PRI;LAM
+182;Korea, Democratic People's Republic of;PRK;OthAsia
+183;Portugal;PRT;Europe
+184;Paraguay;PRY;LAM
+185;Palestine, State of;PSE;MAF
+186;French Polynesia;PYF;OthAsia
+187;Qatar;QAT;MAF
+188;Reunion;REU;MAF
+189;Romania;ROU;Europe
+190;Russian Federation;RUS;RefEcon.
+191;Rwanda;RWA;MAF
+192;Saudi Arabia;SAU;MAF
+193;Sudan;SDN;MAF
+194;Senegal;SEN;MAF
+195;Singapore;SGP;OthAsia
+196;South Georgia and the South Sandwich Islands;SGS;LAM
+197;Saint Helena, Ascension and Tristan da Cunha;SHN;MAF
+198;Svalbard and Jan Mayen;SJM;Europe
+199;Solomon Islands;SLB;OthAsia
+200;Sierra Leone;SLE;MAF
+201;El Salvador;SLV;LAM
+202;San Marino;SMR;Europe
+203;Somalia;SOM;MAF
+204;Saint Pierre and Miquelon;SPM;OthOECD
+205;Serbia;SRB;Europe
+206;South Sudan;SSD;MAF
+207;Sao Tome and Principe;STP;MAF
+208;Suriname;SUR;LAM
+209;Slovakia;SVK;Europe
+210;Slovenia;SVN;Europe
+211;Sweden;SWE;Europe
+212;Swaziland;SWZ;MAF
+213;Sint Maarten (Dutch part);SXM;LAM
+214;Seychelles;SYC;MAF
+215;Syrian Arab Republic;SYR;MAF
+216;Turks and Caicos Islands;TCA;LAM
+217;Chad;TCD;MAF
+218;Togo;TGO;MAF
+219;Thailand;THA;OthAsia
+220;Tajikistan;TJK;RefEcon.
+221;Tokelau;TKL;OthAsia
+222;Turkmenistan;TKM;RefEcon.
+223;Timor-Leste;TLS;OthAsia
+224;Tonga;TON;OthAsia
+225;Trinidad and Tobago;TTO;LAM
+226;Tunisia;TUN;MAF
+227;Turkey;TUR;Europe
+228;Tuvalu;TUV;OthAsia
+229;Taiwan, Province of China;TWN;China
+230;Tanzania, United Republic of;TZA;MAF
+231;Uganda;UGA;MAF
+232;Ukraine;UKR;RefEcon.
+233;United States Minor Outlying Islands;UMI;OthAsia
+234;Uruguay;URY;LAM
+235;United States;USA;OthOECD
+236;Uzbekistan;UZB;RefEcon.
+237;Holy See (Vatican City State);VAT;Europe
+238;Saint Vincent and the Grenadines;VCT;LAM
+239;Venezuela, Bolivarian Republic of;VEN;LAM
+240;Virgin Islands, British;VGB;LAM
+241;Virgin Islands, U.S.;VIR;LAM
+242;Viet Nam;VNM;OthAsia
+243;Vanuatu;VUT;OthAsia
+244;Wallis and Futuna;WLF;OthAsia
+245;Samoa;WSM;OthAsia
+246;Yemen;YEM;MAF
+247;South Africa;ZAF;MAF
+248;Zambia;ZMB;MAF
+249;Zimbabwe;ZWE;MAF
