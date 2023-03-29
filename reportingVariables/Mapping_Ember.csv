@@ -10,7 +10,7 @@ Capacity|Fuel|Coal;GW;Cap|Electricity|Coal;GW;;1
 Capacity|Fuel|Gas;GW;Cap|Electricity|Gas;GW;;1
 Capacity|Fuel|Hydro;GW;Cap|Electricity|Hydro;GW;;1
 Capacity|Fuel|Nuclear;GW;Cap|Electricity|Nuclear;GW;;1
-Capacity|Fuel|Other Fossil;GW;;;mostly/only Oil? Hydrogen?;
+Capacity|Fuel|Other Fossil;GW;Cap|Electricity|Oil;GW;Assume to be all oil;1
 Capacity|Fuel|Other Renewables;GW;;;could add sum of other renewables, Geothermal + Hydrogen?;
 Capacity|Fuel|Solar;GW;Cap|Electricity|Solar;GW;;1
 Capacity|Fuel|Wind;GW;Cap|Electricity|Wind;GW;;1
