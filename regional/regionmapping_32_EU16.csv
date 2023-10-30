@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode;missingH12
+Afghanistan;AFG;ASE;rest
+Aland Islands;ALA;ENC;EUR
+Albania;ALB;NES;NEU
+Algeria;DZA;MEA;rest
+American Samoa;ASM;ASE;rest
+Andorra;AND;NES;NEU
+Angola;AGO;SSA;rest
+Anguilla;AIA;OLA;rest
+Antarctica;ATA;OLA;rest
+Antigua and Barbuda;ATG;OLA;rest
+Argentina;ARG;OLA;rest
+Armenia;ARM;REF;rest
+Aruba;ABW;OLA;rest
+Australia;AUS;AUS;rest
+Austria;AUT;AUT;EUR
+Azerbaijan;AZE;REF;rest
+Bahamas;BHS;OLA;rest
+Bahrain;BHR;MEA;rest
+Bangladesh;BGD;ASE;rest
+Barbados;BRB;OLA;rest
+Belarus;BLR;REF;rest
+Belgium;BEL;BEL;EUR
+Belize;BLZ;OLA;rest
+Benin;BEN;SSA;rest
+Bermuda;BMU;OLA;rest
+Bhutan;BTN;ASE;rest
+Bolivia, Plurinational State of;BOL;OLA;rest
+Bonaire, Sint Eustatius and Saba;BES;OLA;rest
+Bosnia and Herzegovina;BIH;NES;NEU
+Botswana;BWA;SSA;rest
+Bouvet Island;BVT;OLA;rest
+Brazil;BRA;BRA;rest
+British Indian Ocean Territory;IOT;ASE;rest
+Brunei Darussalam;BRN;ASE;rest
+Bulgaria;BGR;ECS;EUR
+Burkina Faso;BFA;SSA;rest
+Burundi;BDI;SSA;rest
+Cambodia;KHM;ASE;rest
+Cameroon;CMR;SSA;rest
+Canada;CAN;CAN;rest
+Cape Verde;CPV;SSA;rest
+Cayman Islands;CYM;OLA;rest
+Central African Republic;CAF;SSA;rest
+Chad;TCD;SSA;rest
+Chile;CHL;OLA;rest
+China;CHN;CHA;rest
+Christmas Island;CXR;ASE;rest
+Cocos (Keeling) Islands;CCK;ASE;rest
+Colombia;COL;OLA;rest
+Comoros;COM;SSA;rest
+Congo;COG;SSA;rest
+Congo, the Democratic Republic of the;COD;SSA;rest
+Cook Islands;COK;ASE;rest
+Costa Rica;CRI;OLA;rest
+Cote d Ivoire;CIV;SSA;rest
+Croatia;HRV;ECS;EUR
+Cuba;CUB;OLA;rest
+Curacao;CUW;OLA;rest
+Cyprus;CYP;GRC;EUR
+Czech Republic;CZE;EEU;EUR
+Denmark;DNK;ENC;EUR
+Djibouti;DJI;SSA;rest
+Dominica;DMA;OLA;rest
+Dominican Republic;DOM;OLA;rest
+Ecuador;ECU;OLA;rest
+Egypt;EGY;MEA;rest
+El Salvador;SLV;OLA;rest
+Equatorial Guinea;GNQ;SSA;rest
+Eritrea;ERI;SSA;rest
+Estonia;EST;EEU;EUR
+Ethiopia;ETH;SSA;rest
+Falkland Islands (Malvinas);FLK;OLA;rest
+Faroe Islands;FRO;ENC;EUR
+Fiji;FJI;ASE;rest
+Finland;FIN;ENC;EUR
+France;FRA;FRA;EUR
+French Guiana;GUF;OLA;rest
+French Polynesia;PYF;ASE;rest
+French Southern Territories;ATF;ASE;rest
+Gabon;GAB;SSA;rest
+Gambia;GMB;SSA;rest
+Georgia;GEO;REF;rest
+Germany;DEU;DEU;EUR
+Ghana;GHA;SSA;rest
+Gibraltar;GIB;GBR;EUR
+Greece;GRC;GRC;EUR
+Greenland;GRL;ENC;NEU
+Grenada;GRD;OLA;rest
+Guadeloupe;GLP;OLA;rest
+Guam;GUM;ASE;rest
+Guatemala;GTM;OLA;rest
+Guernsey;GGY;GBR;EUR
+Guinea;GIN;SSA;rest
+Guinea-Bissau;GNB;SSA;rest
+Guyana;GUY;OLA;rest
+Haiti;HTI;OLA;rest
+Heard Island and McDonald Islands;HMD;AUS;rest
+Holy See (Vatican City State);VAT;NES;NEU
+Honduras;HND;OLA;rest
+Hong Kong;HKG;CHA;rest
+Hungary;HUN;ECS;EUR
+Iceland;ISL;NEN;NEU
+India;IND;IND;rest
+Indonesia;IDN;IDN;rest
+Iran, Islamic Republic of;IRN;MEA;rest
+Iraq;IRQ;MEA;rest
+Ireland;IRL;IRL;EUR
+Isle of Man;IMN;GBR;EUR
+Israel;ISR;MEA;rest
+Italy;ITA;ITA;EUR
+Jamaica;JAM;OLA;rest
+Japan;JPN;JPN;rest
+Jersey;JEY;GBR;EUR
+Jordan;JOR;MEA;rest
+Kazakhstan;KAZ;REF;rest
+Kenya;KEN;SSA;rest
+Kiribati;KIR;ASE;rest
+Korea, Democratic People's Republic of;PRK;ASE;rest
+Korea, Republic of;KOR;KOR;rest
+Kuwait;KWT;MEA;rest
+Kyrgyzstan;KGZ;REF;rest
+Lao People's Democratic Republic;LAO;ASE;rest
+Latvia;LVA;EEU;EUR
+Lebanon;LBN;MEA;rest
+Lesotho;LSO;SSA;rest
+Liberia;LBR;SSA;rest
+Libya;LBY;MEA;rest
+Liechtenstein;LIE;NEN;NEU
+Lithuania;LTU;EEU;EUR
+Luxembourg;LUX;BEL;EUR
+Macao;MAC;CHA;rest
+Macedonia, the former Yugoslav Republic of;MKD;NES;NEU
+Madagascar;MDG;SSA;rest
+Malawi;MWI;SSA;rest
+Malaysia;MYS;ASE;rest
+Maldives;MDV;ASE;rest
+Mali;MLI;SSA;rest
+Malta;MLT;ITA;EUR
+Marshall Islands;MHL;ASE;rest
+Martinique;MTQ;OLA;rest
+Mauritania;MRT;SSA;rest
+Mauritius;MUS;SSA;rest
+Mayotte;MYT;SSA;rest
+Mexico;MEX;MEX;rest
+Micronesia, Federated States of;FSM;ASE;rest
+Moldova, Republic of;MDA;REF;rest
+Monaco;MCO;NES;NEU
+Mongolia;MNG;ASE;rest
+Montenegro;MNE;NES;NEU
+Montserrat;MSR;OLA;rest
+Morocco;MAR;MEA;rest
+Mozambique;MOZ;SSA;rest
+Myanmar;MMR;ASE;rest
+Namibia;NAM;SSA;rest
+Nauru;NRU;ASE;rest
+Nepal;NPL;ASE;rest
+Netherlands;NLD;NLD;EUR
+New Caledonia;NCL;ASE;rest
+New Zealand;NZL;NZL;rest
+Nicaragua;NIC;OLA;rest
+Niger;NER;SSA;rest
+Nigeria;NGA;SSA;rest
+Niue;NIU;ASE;rest
+Norfolk Island;NFK;ASE;rest
+Northern Mariana Islands;MNP;ASE;rest
+Norway;NOR;NEN;NEU
+Oman;OMN;MEA;rest
+Pakistan;PAK;ASE;rest
+Palau;PLW;ASE;rest
+Palestine, State of;PSE;MEA;rest
+Panama;PAN;OLA;rest
+Papua New Guinea;PNG;ASE;rest
+Paraguay;PRY;OLA;rest
+Peru;PER;OLA;rest
+Philippines;PHL;ASE;rest
+Pitcairn;PCN;ASE;rest
+Poland;POL;POL;EUR
+Portugal;PRT;ESW;EUR
+Puerto Rico;PRI;OLA;rest
+Qatar;QAT;MEA;rest
+Reunion;REU;SSA;rest
+Romania;ROU;ECS;EUR
+Russian Federation;RUS;REF;rest
+Rwanda;RWA;SSA;rest
+Saint Barthelemy;BLM;OLA;rest
+Saint Helena, Ascension and Tristan da Cunha;SHN;SSA;rest
+Saint Kitts and Nevis;KNA;OLA;rest
+Saint Lucia;LCA;OLA;rest
+Saint Martin (French part);MAF;OLA;rest
+Saint Pierre and Miquelon;SPM;CAN;rest
+Saint Vincent and the Grenadines;VCT;OLA;rest
+Samoa;WSM;ASE;rest
+San Marino;SMR;NES;NEU
+Sao Tome and Principe;STP;SSA;rest
+Saudi Arabia;SAU;MEA;rest
+Senegal;SEN;SSA;rest
+Serbia;SRB;NES;NEU
+Seychelles;SYC;SSA;rest
+Sierra Leone;SLE;SSA;rest
+Singapore;SGP;ASE;rest
+Sint Maarten (Dutch part);SXM;OLA;rest
+Slovakia;SVK;EEU;EUR
+Slovenia;SVN;ECS;EUR
+Solomon Islands;SLB;ASE;rest
+Somalia;SOM;SSA;rest
+South Africa;ZAF;SSA;rest
+South Georgia and the South Sandwich Islands;SGS;OLA;rest
+South Sudan;SSD;SSA;rest
+Spain;ESP;ESW;EUR
+Sri Lanka;LKA;ASE;rest
+Sudan;SDN;MEA;rest
+Suriname;SUR;OLA;rest
+Svalbard and Jan Mayen;SJM;NEN;NEU
+Swaziland;SWZ;SSA;rest
+Sweden;SWE;ENC;EUR
+Switzerland;CHE;NEN;NEU
+Syrian Arab Republic;SYR;MEA;rest
+Taiwan, Province of China;TWN;CHA;rest
+Tajikistan;TJK;REF;rest
+Tanzania, United Republic of;TZA;SSA;rest
+Thailand;THA;ASE;rest
+Timor-Leste;TLS;ASE;rest
+Togo;TGO;SSA;rest
+Tokelau;TKL;ASE;rest
+Tonga;TON;ASE;rest
+Trinidad and Tobago;TTO;OLA;rest
+Tunisia;TUN;MEA;rest
+Turkey;TUR;NES;NEU
+Turkmenistan;TKM;REF;rest
+Turks and Caicos Islands;TCA;OLA;rest
+Tuvalu;TUV;ASE;rest
+Uganda;UGA;SSA;rest
+Ukraine;UKR;REF;rest
+United Arab Emirates;ARE;MEA;rest
+United Kingdom;GBR;GBR;EUR
+United States;USA;USA;rest
+United States Minor Outlying Islands;UMI;ASE;rest
+Uruguay;URY;OLA;rest
+Uzbekistan;UZB;REF;rest
+Vanuatu;VUT;ASE;rest
+Venezuela, Bolivarian Republic of;VEN;OLA;rest
+Viet Nam;VNM;ASE;rest
+Virgin Islands, British;VGB;OLA;rest
+Virgin Islands, U.S.;VIR;OLA;rest
+Wallis and Futuna;WLF;ASE;rest
+Western Sahara;ESH;MEA;rest
+Yemen;YEM;MEA;rest
+Zambia;ZMB;SSA;rest
+Zimbabwe;ZWE;SSA;rest
