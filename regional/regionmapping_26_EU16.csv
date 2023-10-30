@@ -20,7 +20,7 @@ Bahrain;BHR;MEA;rest
 Bangladesh;BGD;OAS;rest
 Barbados;BRB;LAM;rest
 Belarus;BLR;REF;rest
-Belgium;BEL;BEL;EUR
+Belgium;BEL;BLX;EUR
 Belize;BLZ;LAM;rest
 Benin;BEN;SSA;rest
 Bermuda;BMU;LAM;rest
@@ -128,7 +128,7 @@ Liberia;LBR;SSA;rest
 Libya;LBY;MEA;rest
 Liechtenstein;LIE;NEN;NEU
 Lithuania;LTU;EEU;EUR
-Luxembourg;LUX;BEL;EUR
+Luxembourg;LUX;BLX;EUR
 Macao;MAC;CHA;rest
 Macedonia, the former Yugoslav Republic of;MKD;NES;NEU
 Madagascar;MDG;SSA;rest
