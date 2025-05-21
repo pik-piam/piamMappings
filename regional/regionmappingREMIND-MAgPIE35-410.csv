@@ -1,0 +1,250 @@
+CountryCode;RegionCode
+AUS;Canada Australia New Zealand
+CAN;Canada Australia New Zealand
+HMD;Canada Australia New Zealand
+NZL;Canada Australia New Zealand
+SPM;Canada Australia New Zealand
+CHN;China and Taiwan
+HKG;China and Taiwan
+MAC;China and Taiwan
+TWN;China and Taiwan
+AUT;EU 28
+BEL;EU 28
+BGR;EU 28
+HRV;EU 28
+CYP;EU 28
+CZE;EU 28
+DNK;EU 28
+EST;EU 28
+FRO;EU 28
+FIN;EU 28
+FRA;EU 28
+DEU;EU 28
+GIB;EU 28
+GRC;EU 28
+GGY;EU 28
+HUN;EU 28
+IRL;EU 28
+IMN;EU 28
+ITA;EU 28
+JEY;EU 28
+LVA;EU 28
+LTU;EU 28
+LUX;EU 28
+MLT;EU 28
+NLD;EU 28
+POL;EU 28
+PRT;EU 28
+ROU;EU 28
+SVK;EU 28
+SVN;EU 28
+ESP;EU 28
+SWE;EU 28
+GBR;EU 28
+ALA;EU 28
+IND;India
+JPN;Japan
+AIA;Latin America and the Caribbean
+ATA;Latin America and the Caribbean
+ATG;Latin America and the Caribbean
+ARG;Latin America and the Caribbean
+ABW;Latin America and the Caribbean
+BHS;Latin America and the Caribbean
+BRB;Latin America and the Caribbean
+BLZ;Latin America and the Caribbean
+BMU;Latin America and the Caribbean
+BOL;Latin America and the Caribbean
+BES;Latin America and the Caribbean
+BVT;Latin America and the Caribbean
+BRA;Latin America and the Caribbean
+VGB;Latin America and the Caribbean
+CYM;Latin America and the Caribbean
+CHL;Latin America and the Caribbean
+COL;Latin America and the Caribbean
+CRI;Latin America and the Caribbean
+CUB;Latin America and the Caribbean
+CUW;Latin America and the Caribbean
+DMA;Latin America and the Caribbean
+DOM;Latin America and the Caribbean
+ECU;Latin America and the Caribbean
+SLV;Latin America and the Caribbean
+FLK;Latin America and the Caribbean
+GUF;Latin America and the Caribbean
+GRD;Latin America and the Caribbean
+GLP;Latin America and the Caribbean
+GTM;Latin America and the Caribbean
+GUY;Latin America and the Caribbean
+HTI;Latin America and the Caribbean
+HND;Latin America and the Caribbean
+JAM;Latin America and the Caribbean
+MTQ;Latin America and the Caribbean
+MEX;Latin America and the Caribbean
+MSR;Latin America and the Caribbean
+NIC;Latin America and the Caribbean
+PAN;Latin America and the Caribbean
+PRY;Latin America and the Caribbean
+PER;Latin America and the Caribbean
+PRI;Latin America and the Caribbean
+BLM;Latin America and the Caribbean
+KNA;Latin America and the Caribbean
+LCA;Latin America and the Caribbean
+MAF;Latin America and the Caribbean
+VCT;Latin America and the Caribbean
+SXM;Latin America and the Caribbean
+SGS;Latin America and the Caribbean
+SUR;Latin America and the Caribbean
+TTO;Latin America and the Caribbean
+TCA;Latin America and the Caribbean
+VIR;Latin America and the Caribbean
+URY;Latin America and the Caribbean
+VEN;Latin America and the Caribbean
+DZA;Middle East and North Africa
+BHR;Middle East and North Africa
+EGY;Middle East and North Africa
+IRN;Middle East and North Africa
+IRQ;Middle East and North Africa
+ISR;Middle East and North Africa
+JOR;Middle East and North Africa
+KWT;Middle East and North Africa
+LBN;Middle East and North Africa
+LBY;Middle East and North Africa
+MAR;Middle East and North Africa
+OMN;Middle East and North Africa
+PSE;Middle East and North Africa
+QAT;Middle East and North Africa
+SAU;Middle East and North Africa
+SDN;Middle East and North Africa
+SYR;Middle East and North Africa
+TUN;Middle East and North Africa
+ARE;Middle East and North Africa
+ESH;Middle East and North Africa
+YEM;Middle East and North Africa
+ALB;Non-EU28 Europe
+AND;Non-EU28 Europe
+BIH;Non-EU28 Europe
+GRL;Non-EU28 Europe
+ISL;Non-EU28 Europe
+LIE;Non-EU28 Europe
+MCO;Non-EU28 Europe
+MNE;Non-EU28 Europe
+MKD;Non-EU28 Europe
+NOR;Non-EU28 Europe
+SMR;Non-EU28 Europe
+SRB;Non-EU28 Europe
+SJM;Non-EU28 Europe
+CHE;Non-EU28 Europe
+TUR;Non-EU28 Europe
+VAT;Non-EU28 Europe
+AFG;Other Asia
+ASM;Other Asia
+BGD;Other Asia
+BTN;Other Asia
+IOT;Other Asia
+BRN;Other Asia
+KHM;Other Asia
+CXR;Other Asia
+CCK;Other Asia
+COK;Other Asia
+FJI;Other Asia
+PYF;Other Asia
+ATF;Other Asia
+GUM;Other Asia
+IDN;Other Asia
+KIR;Other Asia
+LAO;Other Asia
+MYS;Other Asia
+MDV;Other Asia
+MHL;Other Asia
+FSM;Other Asia
+MNG;Other Asia
+MMR;Other Asia
+NRU;Other Asia
+NPL;Other Asia
+NCL;Other Asia
+NIU;Other Asia
+NFK;Other Asia
+PRK;Other Asia
+MNP;Other Asia
+PAK;Other Asia
+PLW;Other Asia
+PNG;Other Asia
+PHL;Other Asia
+PCN;Other Asia
+WSM;Other Asia
+SGP;Other Asia
+SLB;Other Asia
+KOR;Other Asia
+LKA;Other Asia
+THA;Other Asia
+TLS;Other Asia
+TKL;Other Asia
+TON;Other Asia
+TUV;Other Asia
+UMI;Other Asia
+VUT;Other Asia
+VNM;Other Asia
+WLF;Other Asia
+ARM;Russia and Reforming Economies
+AZE;Russia and Reforming Economies
+BLR;Russia and Reforming Economies
+GEO;Russia and Reforming Economies
+KAZ;Russia and Reforming Economies
+KGZ;Russia and Reforming Economies
+MDA;Russia and Reforming Economies
+RUS;Russia and Reforming Economies
+TJK;Russia and Reforming Economies
+TKM;Russia and Reforming Economies
+UKR;Russia and Reforming Economies
+UZB;Russia and Reforming Economies
+AGO;Sub-Saharan Africa
+BEN;Sub-Saharan Africa
+BWA;Sub-Saharan Africa
+BFA;Sub-Saharan Africa
+BDI;Sub-Saharan Africa
+CPV;Sub-Saharan Africa
+CMR;Sub-Saharan Africa
+CAF;Sub-Saharan Africa
+TCD;Sub-Saharan Africa
+COM;Sub-Saharan Africa
+COG;Sub-Saharan Africa
+CIV;Sub-Saharan Africa
+COD;Sub-Saharan Africa
+DJI;Sub-Saharan Africa
+GNQ;Sub-Saharan Africa
+ERI;Sub-Saharan Africa
+SWZ;Sub-Saharan Africa
+ETH;Sub-Saharan Africa
+GAB;Sub-Saharan Africa
+GMB;Sub-Saharan Africa
+GHA;Sub-Saharan Africa
+GIN;Sub-Saharan Africa
+GNB;Sub-Saharan Africa
+KEN;Sub-Saharan Africa
+LSO;Sub-Saharan Africa
+LBR;Sub-Saharan Africa
+MDG;Sub-Saharan Africa
+MWI;Sub-Saharan Africa
+MLI;Sub-Saharan Africa
+MRT;Sub-Saharan Africa
+MUS;Sub-Saharan Africa
+MYT;Sub-Saharan Africa
+MOZ;Sub-Saharan Africa
+NAM;Sub-Saharan Africa
+NER;Sub-Saharan Africa
+NGA;Sub-Saharan Africa
+RWA;Sub-Saharan Africa
+REU;Sub-Saharan Africa
+SHN;Sub-Saharan Africa
+STP;Sub-Saharan Africa
+SEN;Sub-Saharan Africa
+SYC;Sub-Saharan Africa
+SLE;Sub-Saharan Africa
+SOM;Sub-Saharan Africa
+ZAF;Sub-Saharan Africa
+SSD;Sub-Saharan Africa
+TZA;Sub-Saharan Africa
+TGO;Sub-Saharan Africa
+UGA;Sub-Saharan Africa
+ZMB;Sub-Saharan Africa
+ZWE;Sub-Saharan Africa
+USA;United States of America

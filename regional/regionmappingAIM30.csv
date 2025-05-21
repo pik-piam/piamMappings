@@ -1,0 +1,250 @@
+CountryCode;RegionCode
+BRA;Brazil
+CAN;Canada
+CHN;China
+HKG;China
+MAC;China
+AUT;EU & UK
+BEL;EU & UK
+CYP;EU & UK
+CZE;EU & UK
+DNK;EU & UK
+EST;EU & UK
+FIN;EU & UK
+FRA;EU & UK
+DEU;EU & UK
+GRC;EU & UK
+HUN;EU & UK
+IRL;EU & UK
+ITA;EU & UK
+LVA;EU & UK
+LTU;EU & UK
+LUX;EU & UK
+MLT;EU & UK
+NLD;EU & UK
+POL;EU & UK
+PRT;EU & UK
+SVK;EU & UK
+SVN;EU & UK
+ESP;EU & UK
+SWE;EU & UK
+GBR;EU & UK
+ARM;Former USSR
+AZE;Former USSR
+BLR;Former USSR
+GEO;Former USSR
+KAZ;Former USSR
+KGZ;Former USSR
+MDA;Former USSR
+RUS;Former USSR
+TJK;Former USSR
+TKM;Former USSR
+UKR;Former USSR
+UZB;Former USSR
+IND;India
+JPN;Japan
+BHR;Middle East
+IRN;Middle East
+IRQ;Middle East
+ISR;Middle East
+JOR;Middle East
+KWT;Middle East
+LBN;Middle East
+OMN;Middle East
+PSE;Middle East
+QAT;Middle East
+SAU;Middle East
+SYR;Middle East
+ARE;Middle East
+YEM;Middle East
+AUS;New Zealand and Australia
+NZL;New Zealand and Australia
+DZA;North Africa
+EGY;North Africa
+LBY;North Africa
+MAR;North Africa
+TUN;North Africa
+AGO;Other Africa
+BEN;Other Africa
+BWA;Other Africa
+BFA;Other Africa
+BDI;Other Africa
+CPV;Other Africa
+CMR;Other Africa
+CAF;Other Africa
+TCD;Other Africa
+COM;Other Africa
+COG;Other Africa
+CIV;Other Africa
+COD;Other Africa
+DJI;Other Africa
+GNQ;Other Africa
+ERI;Other Africa
+SWZ;Other Africa
+ETH;Other Africa
+GAB;Other Africa
+GMB;Other Africa
+GHA;Other Africa
+GIN;Other Africa
+GNB;Other Africa
+KEN;Other Africa
+LSO;Other Africa
+LBR;Other Africa
+MDG;Other Africa
+MWI;Other Africa
+MLI;Other Africa
+MRT;Other Africa
+MUS;Other Africa
+MYT;Other Africa
+MOZ;Other Africa
+NAM;Other Africa
+NER;Other Africa
+NGA;Other Africa
+RWA;Other Africa
+REU;Other Africa
+STP;Other Africa
+SEN;Other Africa
+SYC;Other Africa
+SLE;Other Africa
+SOM;Other Africa
+ZAF;Other Africa
+SSD;Other Africa
+SDN;Other Africa
+TZA;Other Africa
+TGO;Other Africa
+UGA;Other Africa
+ESH;Other Africa
+ZMB;Other Africa
+ZWE;Other Africa
+AFG;Rest of Asia
+ASM;Rest of Asia
+BGD;Rest of Asia
+BTN;Rest of Asia
+IOT;Rest of Asia
+BRN;Rest of Asia
+CXR;Rest of Asia
+CCK;Rest of Asia
+COK;Rest of Asia
+FJI;Rest of Asia
+PYF;Rest of Asia
+ATF;Rest of Asia
+GUM;Rest of Asia
+HMD;Rest of Asia
+KIR;Rest of Asia
+MDV;Rest of Asia
+MHL;Rest of Asia
+FSM;Rest of Asia
+NRU;Rest of Asia
+NPL;Rest of Asia
+NCL;Rest of Asia
+NIU;Rest of Asia
+NFK;Rest of Asia
+MNP;Rest of Asia
+PAK;Rest of Asia
+PLW;Rest of Asia
+PNG;Rest of Asia
+PCN;Rest of Asia
+WSM;Rest of Asia
+SLB;Rest of Asia
+LKA;Rest of Asia
+TKL;Rest of Asia
+TON;Rest of Asia
+TUV;Rest of Asia
+UMI;Rest of Asia
+VUT;Rest of Asia
+WLF;Rest of Asia
+KHM;Rest of East and South East Asia
+IDN;Rest of East and South East Asia
+LAO;Rest of East and South East Asia
+MYS;Rest of East and South East Asia
+MNG;Rest of East and South East Asia
+MMR;Rest of East and South East Asia
+PRK;Rest of East and South East Asia
+PHL;Rest of East and South East Asia
+SGP;Rest of East and South East Asia
+KOR;Rest of East and South East Asia
+TWN;Rest of East and South East Asia
+THA;Rest of East and South East Asia
+TLS;Rest of East and South East Asia
+VNM;Rest of East and South East Asia
+ALB;Rest of Europe
+AND;Rest of Europe
+BIH;Rest of Europe
+BGR;Rest of Europe
+HRV;Rest of Europe
+FRO;Rest of Europe
+GIB;Rest of Europe
+ISL;Rest of Europe
+LIE;Rest of Europe
+MCO;Rest of Europe
+MNE;Rest of Europe
+MKD;Rest of Europe
+NOR;Rest of Europe
+ROU;Rest of Europe
+SMR;Rest of Europe
+SRB;Rest of Europe
+SJM;Rest of Europe
+CHE;Rest of Europe
+VAT;Rest of Europe
+AIA;Rest of Latin America
+ATG;Rest of Latin America
+ARG;Rest of Latin America
+ABW;Rest of Latin America
+BHS;Rest of Latin America
+BRB;Rest of Latin America
+BLZ;Rest of Latin America
+BMU;Rest of Latin America
+BOL;Rest of Latin America
+BES;Rest of Latin America
+BVT;Rest of Latin America
+VGB;Rest of Latin America
+CYM;Rest of Latin America
+CHL;Rest of Latin America
+COL;Rest of Latin America
+CRI;Rest of Latin America
+CUB;Rest of Latin America
+CUW;Rest of Latin America
+DMA;Rest of Latin America
+DOM;Rest of Latin America
+ECU;Rest of Latin America
+SLV;Rest of Latin America
+FLK;Rest of Latin America
+GUF;Rest of Latin America
+GRL;Rest of Latin America
+GRD;Rest of Latin America
+GLP;Rest of Latin America
+GTM;Rest of Latin America
+GUY;Rest of Latin America
+HTI;Rest of Latin America
+HND;Rest of Latin America
+JAM;Rest of Latin America
+MTQ;Rest of Latin America
+MEX;Rest of Latin America
+MSR;Rest of Latin America
+NIC;Rest of Latin America
+PAN;Rest of Latin America
+PRY;Rest of Latin America
+PER;Rest of Latin America
+PRI;Rest of Latin America
+KNA;Rest of Latin America
+LCA;Rest of Latin America
+SPM;Rest of Latin America
+VCT;Rest of Latin America
+SXM;Rest of Latin America
+SGS;Rest of Latin America
+SUR;Rest of Latin America
+TTO;Rest of Latin America
+TCA;Rest of Latin America
+VIR;Rest of Latin America
+URY;Rest of Latin America
+VEN;Rest of Latin America
+TUR;Turkey
+USA;USA
+ALA;EU & UK
+ATA;Rest of Latin America
+BLM;EU & UK
+GGY;EU & UK
+IMN;EU & UK
+JEY;EU & UK
+MAF;EU & UK
+SHN;EU & UK

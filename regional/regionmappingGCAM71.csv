@@ -1,0 +1,250 @@
+CountryCode;RegionCode
+BDI;Africa_Eastern
+COM;Africa_Eastern
+DJI;Africa_Eastern
+ERI;Africa_Eastern
+ETH;Africa_Eastern
+KEN;Africa_Eastern
+MDG;Africa_Eastern
+MUS;Africa_Eastern
+REU;Africa_Eastern
+RWA;Africa_Eastern
+SOM;Africa_Eastern
+SDN;Africa_Eastern
+SSD;Africa_Eastern
+UGA;Africa_Eastern
+DZA;Africa_Northern
+EGY;Africa_Northern
+LBY;Africa_Northern
+MAR;Africa_Northern
+TUN;Africa_Northern
+ESH;Africa_Northern
+AGO;Africa_Southern
+MOZ;Africa_Southern
+MWI;Africa_Southern
+LSO;Africa_Southern
+BWA;Africa_Southern
+TZA;Africa_Southern
+NAM;Africa_Southern
+SWZ;Africa_Southern
+ZMB;Africa_Southern
+ZWE;Africa_Southern
+BEN;Africa_Western
+COG;Africa_Western
+COD;Africa_Western
+CMR;Africa_Western
+TCD;Africa_Western
+CAF;Africa_Western
+CPV;Africa_Western
+GNQ;Africa_Western
+GMB;Africa_Western
+GAB;Africa_Western
+GHA;Africa_Western
+GIN;Africa_Western
+CIV;Africa_Western
+LBR;Africa_Western
+MLI;Africa_Western
+MRT;Africa_Western
+NER;Africa_Western
+NGA;Africa_Western
+GNB;Africa_Western
+SEN;Africa_Western
+SLE;Africa_Western
+TGO;Africa_Western
+STP;Africa_Western
+BFA;Africa_Western
+ARG;Argentina
+AUS;Australia_NZ
+NZL;Australia_NZ
+BRA;Brazil
+CAN;Canada
+ATG;Central America and Caribbean
+BRB;Central America and Caribbean
+BMU;Central America and Caribbean
+BHS;Central America and Caribbean
+BLZ;Central America and Caribbean
+CYM;Central America and Caribbean
+CRI;Central America and Caribbean
+CUB;Central America and Caribbean
+DMA;Central America and Caribbean
+DOM;Central America and Caribbean
+SLV;Central America and Caribbean
+GRD;Central America and Caribbean
+GTM;Central America and Caribbean
+HTI;Central America and Caribbean
+HND;Central America and Caribbean
+JAM;Central America and Caribbean
+MTQ;Central America and Caribbean
+MSR;Central America and Caribbean
+ABW;Central America and Caribbean
+AIA;Central America and Caribbean
+NIC;Central America and Caribbean
+PAN;Central America and Caribbean
+KNA;Central America and Caribbean
+LCA;Central America and Caribbean
+TTO;Central America and Caribbean
+VCT;Central America and Caribbean
+GLP;Central America and Caribbean
+AZE;Central Asia
+ARM;Central Asia
+GEO;Central Asia
+KGZ;Central Asia
+KAZ;Central Asia
+MNG;Central Asia
+TJK;Central Asia
+TKM;Central Asia
+UZB;Central Asia
+CHN;China
+HKG;China
+MAC;China
+COL;Colombia
+BGR;EU-12
+CYP;EU-12
+EST;EU-12
+CZE;EU-12
+HUN;EU-12
+LVA;EU-12
+LTU;EU-12
+SVK;EU-12
+MLT;EU-12
+POL;EU-12
+ROU;EU-12
+SVN;EU-12
+DNK;EU-15
+IRL;EU-15
+AUT;EU-15
+FIN;EU-15
+FLK;EU-15
+FRA;EU-15
+GRL;EU-15
+DEU;EU-15
+GRC;EU-15
+ITA;EU-15
+BEL;EU-15
+FRO;EU-15
+AND;EU-15
+GIB;EU-15
+IMN;EU-15
+LUX;EU-15
+MCO;EU-15
+NLD;EU-15
+PRT;EU-15
+ESP;EU-15
+SWE;EU-15
+GBR;EU-15
+VGB;EU-15
+SPM;EU-15
+SMR;EU-15
+TCA;EU-15
+BLR;Europe_Eastern
+MDA;Europe_Eastern
+UKR;Europe_Eastern
+ALB;Europe_Non_EU
+BIH;Europe_Non_EU
+HRV;Europe_Non_EU
+MKD;Europe_Non_EU
+MNE;Europe_Non_EU
+TUR;Europe_Non_EU
+SRB;Europe_Non_EU
+ISL;European Free Trade Association
+LIE;European Free Trade Association
+NOR;European Free Trade Association
+CHE;European Free Trade Association
+IND;India
+IDN;Indonesia
+JPN;Japan
+MEX;Mexico
+BHR;Middle East
+IRN;Middle East
+ISR;Middle East
+IRQ;Middle East
+JOR;Middle East
+KWT;Middle East
+LBN;Middle East
+OMN;Middle East
+PSE;Middle East
+QAT;Middle East
+SAU;Middle East
+SYR;Middle East
+YEM;Middle East
+ARE;Middle East
+PAK;Pakistan
+RUS;Russia
+ZAF;South Africa
+GUF;South America_Northern
+GUY;South America_Northern
+SUR;South America_Northern
+VEN;South America_Northern
+BOL;South America_Southern
+CHL;South America_Southern
+ECU;South America_Southern
+PRY;South America_Southern
+PER;South America_Southern
+URY;South America_Southern
+BGD;South Asia
+LKA;South Asia
+AFG;South Asia
+BTN;South Asia
+MDV;South Asia
+NPL;South Asia
+KOR;South Korea
+ASM;Southeast Asia
+MMR;Southeast Asia
+SLB;Southeast Asia
+BRN;Southeast Asia
+KHM;Southeast Asia
+COK;Southeast Asia
+FJI;Southeast Asia
+FSM;Southeast Asia
+PYF;Southeast Asia
+GUM;Southeast Asia
+PRK;Southeast Asia
+KIR;Southeast Asia
+LAO;Southeast Asia
+MYS;Southeast Asia
+NCL;Southeast Asia
+NIU;Southeast Asia
+MNP;Southeast Asia
+MYT;Southeast Asia
+NFK;Southeast Asia
+CCK;Southeast Asia
+CXR;Southeast Asia
+VUT;Southeast Asia
+NRU;Southeast Asia
+PNG;Southeast Asia
+PHL;Southeast Asia
+SYC;Southeast Asia
+SGP;Southeast Asia
+THA;Southeast Asia
+TKL;Southeast Asia
+TON;Southeast Asia
+TUV;Southeast Asia
+VNM;Southeast Asia
+WSM;Southeast Asia
+TLS;Southeast Asia
+PLW;Southeast Asia
+MHL;Southeast Asia
+TWN;Taiwan
+PRI;USA
+USA;USA
+VIR;USA
+ALA;EU-15
+ATA;South America_Southern
+ATF;EU-15
+BES;EU-15
+BLM;EU-15
+BVT;European Free Trade Association
+CUW;EU-15
+GGY;EU-15
+HMD;Australia_NZ
+IOT;EU-15
+JEY;EU-15
+MAF;EU-15
+PCN;EU-15
+SGS;EU-15
+SHN;EU-15
+SJM;European Free Trade Association
+SXM;EU-15
+UMI;USA
+VAT;EU-15
+WLF;EU-15

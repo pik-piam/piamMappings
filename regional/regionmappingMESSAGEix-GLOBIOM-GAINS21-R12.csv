@@ -1,0 +1,250 @@
+CountryCode;RegionCode
+CHN;China
+HKG;China
+ALB;Eastern Europe
+BIH;Eastern Europe
+BGR;Eastern Europe
+EST;Eastern Europe
+CZE;Eastern Europe
+HRV;Eastern Europe
+HUN;Eastern Europe
+LVA;Eastern Europe
+LTU;Eastern Europe
+SVK;Eastern Europe
+MKD;Eastern Europe
+MNE;Eastern Europe
+POL;Eastern Europe
+ROU;Eastern Europe
+SVN;Eastern Europe
+SRB;Eastern Europe
+AZE;Former Soviet Union
+ARM;Former Soviet Union
+GEO;Former Soviet Union
+KGZ;Former Soviet Union
+KAZ;Former Soviet Union
+BLR;Former Soviet Union
+MDA;Former Soviet Union
+RUS;Former Soviet Union
+TJK;Former Soviet Union
+TKM;Former Soviet Union
+UKR;Former Soviet Union
+UZB;Former Soviet Union
+ATG;Latin America and the Caribbean
+ARG;Latin America and the Caribbean
+BRB;Latin America and the Caribbean
+BMU;Latin America and the Caribbean
+BHS;Latin America and the Caribbean
+BLZ;Latin America and the Caribbean
+BOL;Latin America and the Caribbean
+BRA;Latin America and the Caribbean
+CHL;Latin America and the Caribbean
+CYM;Latin America and the Caribbean
+COL;Latin America and the Caribbean
+CRI;Latin America and the Caribbean
+CUB;Latin America and the Caribbean
+DMA;Latin America and the Caribbean
+DOM;Latin America and the Caribbean
+ECU;Latin America and the Caribbean
+SLV;Latin America and the Caribbean
+GUF;Latin America and the Caribbean
+FLK;Latin America and the Caribbean
+GRD;Latin America and the Caribbean
+GTM;Latin America and the Caribbean
+GUY;Latin America and the Caribbean
+HTI;Latin America and the Caribbean
+HND;Latin America and the Caribbean
+JAM;Latin America and the Caribbean
+MTQ;Latin America and the Caribbean
+MSR;Latin America and the Caribbean
+MEX;Latin America and the Caribbean
+ABW;Latin America and the Caribbean
+AIA;Latin America and the Caribbean
+SUR;Latin America and the Caribbean
+NIC;Latin America and the Caribbean
+PRY;Latin America and the Caribbean
+PER;Latin America and the Caribbean
+PAN;Latin America and the Caribbean
+KNA;Latin America and the Caribbean
+LCA;Latin America and the Caribbean
+TTO;Latin America and the Caribbean
+URY;Latin America and the Caribbean
+VCT;Latin America and the Caribbean
+VEN;Latin America and the Caribbean
+GLP;Latin America and the Caribbean
+TCA;Latin America and the Caribbean
+DZA;Middle East and North Africa
+BHR;Middle East and North Africa
+EGY;Middle East and North Africa
+IRN;Middle East and North Africa
+ISR;Middle East and North Africa
+IRQ;Middle East and North Africa
+JOR;Middle East and North Africa
+KWT;Middle East and North Africa
+LBN;Middle East and North Africa
+LBY;Middle East and North Africa
+MAR;Middle East and North Africa
+OMN;Middle East and North Africa
+PSE;Middle East and North Africa
+QAT;Middle East and North Africa
+SAU;Middle East and North Africa
+SDN;Middle East and North Africa
+SSD;Middle East and North Africa
+SYR;Middle East and North Africa
+TUN;Middle East and North Africa
+YEM;Middle East and North Africa
+ARE;Middle East and North Africa
+CAN;North America
+GUM;North America
+UMI;North America
+PRI;North America
+USA;North America
+VIR;North America
+ASM;Other Pacific Asia
+MMR;Other Pacific Asia
+SLB;Other Pacific Asia
+BRN;Other Pacific Asia
+COK;Other Pacific Asia
+FJI;Other Pacific Asia
+FSM;Other Pacific Asia
+PYF;Other Pacific Asia
+KIR;Other Pacific Asia
+KOR;Other Pacific Asia
+MYS;Other Pacific Asia
+NCL;Other Pacific Asia
+NIU;Other Pacific Asia
+MNP;Other Pacific Asia
+CCK;Other Pacific Asia
+VUT;Other Pacific Asia
+NRU;Other Pacific Asia
+PNG;Other Pacific Asia
+PHL;Other Pacific Asia
+SGP;Other Pacific Asia
+THA;Other Pacific Asia
+TON;Other Pacific Asia
+TUV;Other Pacific Asia
+WSM;Other Pacific Asia
+IDN;Other Pacific Asia
+TLS;Other Pacific Asia
+PLW;Other Pacific Asia
+MHL;Other Pacific Asia
+TWN;Other Pacific Asia
+AUS;Pacific OECD
+JPN;Pacific OECD
+NZL;Pacific OECD
+CXR;Pacific OECD
+HMD;Pacific OECD
+TKL;Pacific OECD
+KHM;Rest of Centrally Planned Asia
+PRK;Rest of Centrally Planned Asia
+LAO;Rest of Centrally Planned Asia
+MNG;Rest of Centrally Planned Asia
+MAC;Rest of Centrally Planned Asia
+VNM;Rest of Centrally Planned Asia
+BGD;South Asia
+LKA;South Asia
+AFG;South Asia
+BTN;South Asia
+IND;South Asia
+MDV;South Asia
+NPL;South Asia
+PAK;South Asia
+AGO;Sub-Saharan Africa
+BEN;Sub-Saharan Africa
+COG;Sub-Saharan Africa
+COD;Sub-Saharan Africa
+BDI;Sub-Saharan Africa
+CMR;Sub-Saharan Africa
+TCD;Sub-Saharan Africa
+COM;Sub-Saharan Africa
+CAF;Sub-Saharan Africa
+CPV;Sub-Saharan Africa
+DJI;Sub-Saharan Africa
+GNQ;Sub-Saharan Africa
+SWZ;Sub-Saharan Africa
+ERI;Sub-Saharan Africa
+ETH;Sub-Saharan Africa
+GMB;Sub-Saharan Africa
+GAB;Sub-Saharan Africa
+GHA;Sub-Saharan Africa
+GIN;Sub-Saharan Africa
+CIV;Sub-Saharan Africa
+KEN;Sub-Saharan Africa
+LBR;Sub-Saharan Africa
+MDG;Sub-Saharan Africa
+MLI;Sub-Saharan Africa
+MUS;Sub-Saharan Africa
+MRT;Sub-Saharan Africa
+MOZ;Sub-Saharan Africa
+MWI;Sub-Saharan Africa
+NER;Sub-Saharan Africa
+NGA;Sub-Saharan Africa
+GNB;Sub-Saharan Africa
+RWA;Sub-Saharan Africa
+SYC;Sub-Saharan Africa
+ZAF;Sub-Saharan Africa
+LSO;Sub-Saharan Africa
+BWA;Sub-Saharan Africa
+SEN;Sub-Saharan Africa
+SLE;Sub-Saharan Africa
+SOM;Sub-Saharan Africa
+TGO;Sub-Saharan Africa
+STP;Sub-Saharan Africa
+TZA;Sub-Saharan Africa
+UGA;Sub-Saharan Africa
+BFA;Sub-Saharan Africa
+NAM;Sub-Saharan Africa
+ZMB;Sub-Saharan Africa
+ZWE;Sub-Saharan Africa
+ESH;Sub-Saharan Africa
+CYP;Western Europe
+DNK;Western Europe
+IRL;Western Europe
+AUT;Western Europe
+FIN;Western Europe
+FRA;Western Europe
+GRL;Western Europe
+DEU;Western Europe
+GRC;Western Europe
+ISL;Western Europe
+ITA;Western Europe
+LIE;Western Europe
+MLT;Western Europe
+BEL;Western Europe
+FRO;Western Europe
+AND;Western Europe
+GIB;Western Europe
+IMN;Western Europe
+LUX;Western Europe
+MCO;Western Europe
+MYT;Western Europe
+ALA;Western Europe
+NFK;Western Europe
+IOT;Western Europe
+NLD;Western Europe
+NOR;Western Europe
+PRT;Western Europe
+REU;Western Europe
+ESP;Western Europe
+SWE;Western Europe
+CHE;Western Europe
+TUR;Western Europe
+GBR;Western Europe
+VGB;Western Europe
+WLF;Western Europe
+PCN;Western Europe
+SPM;Western Europe
+SMR;Western Europe
+VAT;Western Europe
+SJM;Western Europe
+MAF;Western Europe
+BLM;Western Europe
+GGY;Western Europe
+JEY;Western Europe
+SGS;Western Europe
+ATA;Other Pacific Asia
+ATF;Western Europe
+BES;Western Europe
+BVT;Western Europe
+CUW;Western Europe
+SHN;Western Europe
+SXM;Western Europe
